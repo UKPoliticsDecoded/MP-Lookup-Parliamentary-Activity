@@ -130,7 +130,6 @@ The full, current list is in `meta.json → limitations`.
 
 Contains Parliamentary information licensed under the
 [Open Parliament Licence v3.0](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/).
-Boundary data contains public sector information licensed under the
-[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-(Source: Office for National Statistics). Postcode data courtesy of Postcodes.io.
+Boundary data contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) (Source: Office for National Statistics).
+Postcode data courtesy of Postcodes.io.
 Please credit "UK Politics Decoded" and the underlying sources when you reuse the data.
