@@ -1,0 +1,561 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 1
+      },
+      "2020": {
+        "debate_contributions": 50,
+        "debates_participated": 32,
+        "oral_questions": 10,
+        "written_questions": 162
+      },
+      "2021": {
+        "debate_contributions": 34,
+        "debates_participated": 18,
+        "oral_questions": 5,
+        "written_questions": 80
+      },
+      "2022": {
+        "debate_contributions": 24,
+        "debates_participated": 12,
+        "oral_questions": 3,
+        "written_questions": 142
+      },
+      "2023": {
+        "debate_contributions": 47,
+        "debates_participated": 30,
+        "oral_questions": 7,
+        "petitions_presented": 4,
+        "written_questions": 114
+      },
+      "2024": {
+        "debate_contributions": 60,
+        "debates_participated": 23,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "petitions_presented": 17,
+        "written_questions": 98
+      },
+      "2025": {
+        "debate_contributions": 41,
+        "debates_participated": 29,
+        "oral_questions": 1,
+        "petitions_presented": 1,
+        "written_questions": 91
+      },
+      "2026": {
+        "debate_contributions": 135,
+        "debates_participated": 43,
+        "oral_questions": 4,
+        "written_questions": 69
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 391,
+    "debates_participated": 187,
+    "early_day_motions": 1,
+    "oral_questions": 31,
+    "petitions_presented": 22,
+    "written_questions": 757
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 391,
+    "voting_participation_pct": 68.63,
+    "written_questions": 757
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Committee",
+      "committee_id": 107,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Parliamentary Works Estimates Commission",
+      "committee_id": 495,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Client Board",
+      "committee_id": 616,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill (2021)",
+      "committee_id": 509,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-28"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-03-07"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-07"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Members Estimate Committee",
+        "committee_id": 107,
+        "file": "committees/members-estimate.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          },
+          {
+            "end": "2024-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-04"
+          }
+        ],
+        "slug": "members-estimate"
+      },
+      {
+        "committee": "Parliamentary Works Estimates Commission",
+        "committee_id": 495,
+        "file": "committees/parliamentary-works-estimates-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-27"
+          }
+        ],
+        "slug": "parliamentary-works-estimates-commission"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          },
+          {
+            "end": "2024-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-22"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill (2021)",
+        "committee_id": 509,
+        "file": "committees/select-committee-on-the-armed-forces-bill-2021.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2021-04-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-25"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill-2021"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/washington-and-gateshead-south.json",
+    "id": 4382,
+    "name": "Washington and Gateshead South",
+    "ons_code": "E14001567",
+    "slug": "washington-and-gateshead-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sharon.hodgson.mp@parliament.uk",
+      "phone": "020 7219 5160",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "sharon.hodgson.mp@parliament.uk",
+      "phone": "0191 417 2000",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.sharonhodgson.org/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/sharonhodgsonmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Sharon.Hodgson.MP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/sharonhodgsonmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1521
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 1521,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mrs Hodgson",
+    "display": "Mrs Sharon Hodgson",
+    "full_title": "Mrs Sharon Hodgson MP",
+    "list_as": "Hodgson, Mrs Sharon"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+        "start_date": "2026-03-03"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2009-06-10"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2021-05-14",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Public Health)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Public Health)",
+        "start_date": "2016-10-09"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2010-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Washington and Gateshead South",
+        "constituency_id": 4382,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Washington and Sunderland West",
+        "constituency_id": 3832,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Gateshead East and Washington West",
+        "constituency_id": 1188,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Mrs Sharon Hodgson is the Labour MP for <a href='/constituency/4382/overview'>Washington and Gateshead South</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1521/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 211,
+        "voting_participation_pct": 87.19
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 143,
+        "voting_participation_pct": 56.97
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 184,
+        "voting_participation_pct": 71.88
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 122,
+        "voting_participation_pct": 61.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 202,
+        "voting_participation_pct": 62.73
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 749,
+        "voting_participation_pct": 70.13
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 417,
+        "voting_participation_pct": 66.09
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1166,
+    "voting_participation_pct": 68.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

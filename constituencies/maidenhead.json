@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 18205.7,
+    "bng": {
+      "easting": 487442,
+      "northing": 178744
+    },
+    "centroid": {
+      "latitude": 51.50088,
+      "longitude": -0.74162
+    },
+    "geojson": "constituencies/boundaries/maidenhead.geojson",
+    "ons_code": "E14001348",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5343.json",
+    "member_id": 5343,
+    "name": "Mr Joshua Reynolds",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75687,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2963,
+      "result": "LD Gain",
+      "turnout": 50329,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4163,
+  "is_current": true,
+  "name": "Maidenhead",
+  "name_cy": null,
+  "ons_code": "E14001348",
+  "outcodes": [
+    "GU19",
+    "GU20",
+    "RG10",
+    "RG12",
+    "RG40",
+    "RG42",
+    "RG9",
+    "SL4",
+    "SL5",
+    "SL6",
+    "SL60",
+    "SL7",
+    "SL8"
+  ],
+  "schema_version": 1,
+  "slug": "maidenhead",
+  "start_date": "2024-05-31"
+}

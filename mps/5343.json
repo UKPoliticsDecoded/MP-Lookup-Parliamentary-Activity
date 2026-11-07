@@ -1,0 +1,245 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 22,
+        "early_day_motions": 3,
+        "oral_questions": 1,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 84,
+        "debates_participated": 68,
+        "early_day_motions": 6,
+        "oral_questions": 12,
+        "written_questions": 195
+      },
+      "2026": {
+        "debate_contributions": 99,
+        "debates_participated": 51,
+        "early_day_motions": 6,
+        "oral_questions": 4,
+        "written_questions": 343
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 209,
+    "debates_participated": 141,
+    "early_day_motions": 15,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 552
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 209,
+    "voting_participation_pct": 63.55,
+    "written_questions": 552
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": true,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/maidenhead.json",
+    "id": 4163,
+    "name": "Maidenhead",
+    "ons_code": "E14001348",
+    "slug": "maidenhead"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "joshua.reynolds.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Ground Floor Right-Hand Suite, Burlington House, York Road, Maidenhead",
+      "phone": "01628 963836",
+      "postcode": "SL6 1SQ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/joshua.reynolds.mp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JoshReynoldsSL6"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5343
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5343,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Joshua Reynolds",
+    "full_title": "Mr Joshua Reynolds MP",
+    "list_as": "Reynolds, Mr Joshua"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Investment and Trade)",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Maidenhead",
+        "constituency_id": 4163,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Joshua Reynolds is the Liberal Democrat MP for <a href='/constituency/4163/overview'>Maidenhead</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Investment and Trade).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5343/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 32,
+        "voting_participation_pct": 43.84
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 210,
+        "voting_participation_pct": 65.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 401,
+        "voting_participation_pct": 63.55
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 401,
+    "voting_participation_pct": 63.55
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

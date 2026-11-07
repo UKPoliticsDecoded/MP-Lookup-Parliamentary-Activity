@@ -1,0 +1,212 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 5,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 5
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Sub-Committee on the Overseas Territories, House of Commons, London, SW1A 0AA",
+    "email": "fac@parliament.uk"
+  },
+  "end_date": "2024-05-30",
+  "house": "Commons",
+  "id": 686,
+  "is_current": false,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 4,
+        "meetings_available": 4
+      },
+      "file": "mps/415.json",
+      "member_id": 415,
+      "name": "Fabian Hamilton",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-12-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/449.json",
+      "member_id": 449,
+      "name": "Graham Stringer",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/1447.json",
+      "member_id": 1447,
+      "name": "Andrew Rosindell",
+      "party": "Reform UK",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/3960.json",
+      "member_id": 3960,
+      "name": "Henry Smith",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/4371.json",
+      "member_id": 4371,
+      "name": "Brendan O'Hara",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/4478.json",
+      "member_id": 4478,
+      "name": "Royston Smith",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-26"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 3,
+        "meetings_available": 3
+      },
+      "file": "mps/4498.json",
+      "member_id": 4498,
+      "name": "Mr Ranil Jayawardena",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-09"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 3,
+        "meetings_available": 3
+      },
+      "file": "mps/4651.json",
+      "member_id": 4651,
+      "name": "Dan Carden",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-09"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/4805.json",
+      "member_id": 4805,
+      "name": "Alicia Kearns",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-14"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2023-11-21"
+        }
+      ]
+    }
+  ],
+  "name": "Foreign Affairs Sub-Committee on the Overseas Territories",
+  "parent_committee_id": 78,
+  "purpose": "<p>The Overseas Territories Sub-Committee will consider the FCDO’s management of relations with the Overseas Territories.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [
+    "Foreign, Commonwealth and Development Office"
+  ],
+  "slug": "foreign-affairs-sub-committee-on-the-overseas-territories",
+  "start_date": "2023-11-14",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Public Standing Orders - Departmental"
+  ]
+}

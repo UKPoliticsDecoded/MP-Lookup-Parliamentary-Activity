@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 129111.9,
+    "bng": {
+      "easting": 87251,
+      "northing": 579631
+    },
+    "centroid": {
+      "latitude": 55.01207,
+      "longitude": -6.8926
+    },
+    "geojson": "constituencies/boundaries/east-londonderry.geojson",
+    "ons_code": "N05000006",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1409.json",
+    "member_id": 1409,
+    "name": "Mr Gregory Campbell",
+    "party": "Democratic Unionist Party",
+    "party_abbreviation": "DUP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75707,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 179,
+      "result": "DUP Hold",
+      "turnout": 41277,
+      "winning_party": "Democratic Unionist Party",
+      "winning_party_id": 7
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3463,
+      "end_date": "2024-05-30",
+      "member_id": 1409,
+      "name": "Mr Gregory Campbell",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 988,
+      "end_date": "2010-05-06",
+      "member_id": 1409,
+      "name": "Mr Gregory Campbell",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4426,
+  "is_current": true,
+  "name": "East Londonderry",
+  "name_cy": null,
+  "ons_code": "N05000006",
+  "outcodes": [
+    "BT46",
+    "BT47",
+    "BT49",
+    "BT51",
+    "BT52",
+    "BT53",
+    "BT55",
+    "BT56",
+    "BT57"
+  ],
+  "schema_version": 1,
+  "slug": "east-londonderry",
+  "start_date": "2024-05-31"
+}

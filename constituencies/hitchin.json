@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 22641.7,
+    "bng": {
+      "easting": 518242,
+      "northing": 229017
+    },
+    "centroid": {
+      "latitude": 51.94709,
+      "longitude": -0.28102
+    },
+    "geojson": "constituencies/boundaries/hitchin.geojson",
+    "ons_code": "E14001289",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5000.json",
+    "member_id": 5000,
+    "name": "Alistair Strathern",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75877,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8109,
+      "result": "Lab Gain",
+      "turnout": 52510,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4104,
+  "is_current": true,
+  "name": "Hitchin",
+  "name_cy": null,
+  "ons_code": "E14001289",
+  "outcodes": [
+    "AL4",
+    "LU2",
+    "SG1",
+    "SG15",
+    "SG16",
+    "SG17",
+    "SG18",
+    "SG4",
+    "SG5",
+    "SG6"
+  ],
+  "schema_version": 1,
+  "slug": "hitchin",
+  "start_date": "2024-05-31"
+}

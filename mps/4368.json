@@ -1,0 +1,399 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 2
+      },
+      "2020": {
+        "debate_contributions": 50,
+        "debates_participated": 28,
+        "oral_questions": 7,
+        "written_questions": 345
+      },
+      "2021": {
+        "debate_contributions": 172,
+        "debates_participated": 32,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 216
+      },
+      "2022": {
+        "debate_contributions": 24,
+        "debates_participated": 15,
+        "oral_questions": 4,
+        "written_questions": 141
+      },
+      "2023": {
+        "debate_contributions": 101,
+        "debates_participated": 32,
+        "oral_questions": 4,
+        "petitions_presented": 61,
+        "written_questions": 110
+      },
+      "2024": {
+        "debate_contributions": 49,
+        "debates_participated": 28,
+        "oral_questions": 3,
+        "written_questions": 133
+      },
+      "2025": {
+        "debate_contributions": 106,
+        "debates_participated": 33,
+        "oral_questions": 3,
+        "written_questions": 126
+      },
+      "2026": {
+        "debate_contributions": 11,
+        "debates_participated": 8,
+        "oral_questions": 1,
+        "written_questions": 139
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 513,
+    "debates_participated": 176,
+    "early_day_motions": 1,
+    "oral_questions": 26,
+    "petitions_presented": 61,
+    "written_questions": 1212
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 513,
+    "voting_participation_pct": 67.16,
+    "written_questions": 1212
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 120,
+      "meetings_available": 120
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 162,
+      "meetings_available": 162
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-02-01"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-12-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bermondsey-and-old-southwark.json",
+    "id": 3900,
+    "name": "Bermondsey and Old Southwark",
+    "ons_code": "E14001085",
+    "slug": "bermondsey-and-old-southwark"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "neil.coyle.mp@parliament.uk",
+      "phone": "020 7219 7650",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "020 7232 4640",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://neilcoyle.laboursites.org/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/coyleneil"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4368
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4368,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Neil Coyle",
+    "display": "Neil Coyle",
+    "full_title": "Neil Coyle MP",
+    "list_as": "Coyle, Neil"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2023-05-24"
+      },
+      {
+        "end_date": "2023-05-24",
+        "party": "Independent",
+        "start_date": "2022-02-11"
+      },
+      {
+        "end_date": "2022-02-11",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bermondsey and Old Southwark",
+        "constituency_id": 3900,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Bermondsey and Old Southwark",
+        "constituency_id": 3318,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Neil Coyle is the Labour MP for <a href='/constituency/3900/overview'>Bermondsey and Old Southwark</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4368/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 134,
+        "voting_participation_pct": 70.53
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 98,
+        "voting_participation_pct": 39.04
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 153,
+        "voting_participation_pct": 59.77
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 116,
+        "voting_participation_pct": 58.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 261,
+        "voting_participation_pct": 81.06
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 181,
+        "voting_participation_pct": 76.69
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 639,
+        "voting_participation_pct": 59.83
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 502,
+        "voting_participation_pct": 79.56
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1141,
+    "voting_participation_pct": 67.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

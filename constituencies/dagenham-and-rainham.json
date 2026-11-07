@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 3931.5,
+    "bng": {
+      "easting": 551586,
+      "northing": 183258
+    },
+    "centroid": {
+      "latitude": 51.52789,
+      "longitude": 0.18386
+    },
+    "geojson": "constituencies/boundaries/dagenham-and-rainham.geojson",
+    "ons_code": "E14001189",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5272.json",
+    "member_id": 5272,
+    "name": "Margaret Mullane",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76475,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7173,
+      "result": "Lab Hold",
+      "turnout": 38867,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3436,
+      "end_date": "2024-05-30",
+      "member_id": 1406,
+      "name": "Jon Cruddas",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4004,
+  "is_current": true,
+  "name": "Dagenham and Rainham",
+  "name_cy": null,
+  "ons_code": "E14001189",
+  "outcodes": [
+    "RM10",
+    "RM12",
+    "RM13",
+    "RM15",
+    "RM6",
+    "RM7",
+    "RM8",
+    "RM9"
+  ],
+  "schema_version": 1,
+  "slug": "dagenham-and-rainham",
+  "start_date": "2024-05-31"
+}

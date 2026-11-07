@@ -1,0 +1,372 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 12,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 180
+      },
+      "2025": {
+        "debate_contributions": 103,
+        "debates_participated": 62,
+        "oral_questions": 17,
+        "written_questions": 470
+      },
+      "2026": {
+        "debate_contributions": 114,
+        "debates_participated": 76,
+        "oral_questions": 17,
+        "written_questions": 688
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 236,
+    "debates_participated": 150,
+    "early_day_motions": 1,
+    "oral_questions": 38,
+    "petitions_presented": 0,
+    "written_questions": 1338
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 236,
+    "voting_participation_pct": 67.04,
+    "written_questions": 1338
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      },
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bridlington-and-the-wolds.json",
+    "id": 3942,
+    "name": "Bridlington and The Wolds",
+    "ons_code": "E14001127",
+    "slug": "bridlington-and-the-wolds"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "charlie.dewhirst.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.charliedewhirst.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/charliedewhirstuk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/charliedewhirst"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5169
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5169,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Charlie Dewhirst",
+    "full_title": "Charlie Dewhirst MP",
+    "list_as": "Dewhirst, Charlie"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Cabinet Office)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Northern Ireland)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3512,
+        "name": "Hammersmith",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3512,
+        "name": "Hammersmith",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bridlington and The Wolds",
+        "constituency_id": 3942,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Charlie Dewhirst is the Conservative MP for <a href='/constituency/3942/overview'>Bridlington and The Wolds</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow Parliamentary Under Secretary (Cabinet Office), Opposition Assistant Whip (Commons), and Shadow Parliamentary Under Secretary (Northern Ireland).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5169/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 57,
+        "voting_participation_pct": 78.08
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 197,
+        "voting_participation_pct": 61.18
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 423,
+        "voting_participation_pct": 67.04
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 423,
+    "voting_participation_pct": 67.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

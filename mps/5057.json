@@ -1,0 +1,203 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 23,
+        "oral_questions": 5,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 97,
+        "debates_participated": 80,
+        "early_day_motions": 8,
+        "oral_questions": 15,
+        "written_questions": 8
+      },
+      "2026": {
+        "debate_contributions": 104,
+        "debates_participated": 74,
+        "early_day_motions": 18,
+        "oral_questions": 22,
+        "written_questions": 26
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 231,
+    "debates_participated": 177,
+    "early_day_motions": 26,
+    "oral_questions": 42,
+    "petitions_presented": 0,
+    "written_questions": 36
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 231,
+    "voting_participation_pct": 88.75,
+    "written_questions": 36
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/west-dunbartonshire.json",
+    "id": 4495,
+    "name": "West Dunbartonshire",
+    "ons_code": "S14000106",
+    "slug": "west-dunbartonshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "douglas.mcallister.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "45 Kilbowie Road, Clydebank, West Dunbartonshire",
+      "phone": "0141 286 0290",
+      "postcode": "G81 1BL",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5057
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5057,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Douglas McAllister",
+    "full_title": "Douglas McAllister MP",
+    "list_as": "McAllister, Douglas"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Dunbartonshire",
+        "constituency_id": 4495,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Douglas McAllister is the Labour MP for <a href='/constituency/4495/overview'>West Dunbartonshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5057/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 56,
+        "voting_participation_pct": 76.71
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 288,
+        "voting_participation_pct": 89.44
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 216,
+        "voting_participation_pct": 91.53
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 560,
+        "voting_participation_pct": 88.75
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 560,
+    "voting_participation_pct": 88.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

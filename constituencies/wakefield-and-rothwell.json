@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 6082.8,
+    "bng": {
+      "easting": 433973,
+      "northing": 422632
+    },
+    "centroid": {
+      "latitude": 53.69904,
+      "longitude": -1.48691
+    },
+    "geojson": "constituencies/boundaries/wakefield-and-rothwell.geojson",
+    "ons_code": "E14001560",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4943.json",
+    "member_id": 4943,
+    "name": "Simon Lightwood",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75067,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9346,
+      "result": "Lab Gain",
+      "turnout": 40656,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4375,
+  "is_current": true,
+  "name": "Wakefield and Rothwell",
+  "name_cy": null,
+  "ons_code": "E14001560",
+  "outcodes": [
+    "LS26",
+    "WF1",
+    "WF2",
+    "WF3",
+    "WF4",
+    "WF5",
+    "WF6",
+    "WF90"
+  ],
+  "schema_version": 1,
+  "slug": "wakefield-and-rothwell",
+  "start_date": "2024-05-31"
+}

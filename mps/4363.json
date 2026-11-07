@@ -1,0 +1,415 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 26,
+        "debates_participated": 18,
+        "oral_questions": 7,
+        "written_questions": 15
+      },
+      "2021": {
+        "debate_contributions": 29,
+        "debates_participated": 14,
+        "oral_questions": 6,
+        "written_questions": 45
+      },
+      "2022": {
+        "debate_contributions": 23,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 24
+      },
+      "2023": {
+        "debate_contributions": 36,
+        "debates_participated": 22,
+        "oral_questions": 11,
+        "written_questions": 11
+      },
+      "2024": {
+        "debate_contributions": 8,
+        "debates_participated": 6,
+        "oral_questions": 2,
+        "written_questions": 13
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 122,
+    "debates_participated": 77,
+    "early_day_motions": 1,
+    "oral_questions": 31,
+    "petitions_presented": 0,
+    "written_questions": 108
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 122,
+    "voting_participation_pct": 74.91,
+    "written_questions": 108
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Elections Bill",
+      "committee_id": 541,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+      "committee_id": 619,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Powers of Attorney Bill",
+      "committee_id": 655,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Elections Bill",
+        "committee_id": 541,
+        "file": "committees/elections-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "elections-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-13"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+        "committee_id": 619,
+        "file": "committees/pension-dashboards-prohibition-of-indemnification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "pension-dashboards-prohibition-of-indemnification-bill"
+      },
+      {
+        "committee": "Powers of Attorney Bill",
+        "committee_id": 655,
+        "file": "committees/powers-of-attorney-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "powers-of-attorney-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-06-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3335,
+    "name": "Blackburn"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4363
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4363,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Kate Hollern",
+    "display": "Kate Hollern",
+    "full_title": "Kate Hollern",
+    "list_as": "Hollern, Kate"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-05-13",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Communities and Local Government)",
+        "start_date": "2016-10-09"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2016-10-09",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2016-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3917,
+        "name": "Blackburn",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Blackburn",
+        "constituency_id": 3335,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Kate Hollern is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3335/overview'>Blackburn</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4363/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 139,
+        "voting_participation_pct": 73.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 188,
+        "voting_participation_pct": 74.9
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 196,
+        "voting_participation_pct": 76.56
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 64,
+        "voting_participation_pct": 50.39
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 800,
+        "voting_participation_pct": 74.91
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 800,
+    "voting_participation_pct": 74.91
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

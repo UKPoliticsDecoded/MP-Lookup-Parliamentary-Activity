@@ -1,0 +1,236 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 42,
+        "debates_participated": 30,
+        "oral_questions": 8,
+        "written_questions": 26
+      },
+      "2021": {
+        "debate_contributions": 22,
+        "debates_participated": 14,
+        "oral_questions": 2,
+        "written_questions": 25
+      },
+      "2022": {
+        "debate_contributions": 15,
+        "debates_participated": 9,
+        "written_questions": 52
+      },
+      "2023": {
+        "debate_contributions": 14,
+        "debates_participated": 8,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 8
+      },
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 7,
+        "written_questions": 16
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 106,
+    "debates_participated": 68,
+    "early_day_motions": 1,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 127
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 106,
+    "voting_participation_pct": 88.3,
+    "written_questions": 127
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 726,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Strategic Litigation Against Public Participation Bill",
+      "committee_id": 724,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 726,
+        "file": "committees/space-industry-indemnities-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill"
+      },
+      {
+        "committee": "Strategic Litigation Against Public Participation Bill",
+        "committee_id": 724,
+        "file": "committees/strategic-litigation-against-public-participation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "strategic-litigation-against-public-participation-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3855,
+    "name": "Windsor"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1586
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1586,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Adam Afriyie",
+    "display": "Adam Afriyie",
+    "full_title": "Adam Afriyie",
+    "list_as": "Afriyie, Adam"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Science and Innovation)",
+        "start_date": "2007-07-03"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Chair of the Parliamentary Office of Science and Technology Board",
+        "start_date": "2010-11-16"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Windsor",
+        "constituency_id": 3855,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Windsor",
+        "constituency_id": 3195,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Adam Afriyie is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3855/overview'>Windsor</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1586/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 162,
+        "voting_participation_pct": 85.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 227,
+        "voting_participation_pct": 90.44
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 236,
+        "voting_participation_pct": 92.19
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 107,
+        "voting_participation_pct": 84.25
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 943,
+        "voting_participation_pct": 88.3
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 943,
+    "voting_participation_pct": 88.3
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

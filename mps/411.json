@@ -1,0 +1,257 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 99,
+        "debates_participated": 80,
+        "early_day_motions": 16,
+        "oral_questions": 11,
+        "written_questions": 401
+      },
+      "2021": {
+        "debate_contributions": 92,
+        "debates_participated": 72,
+        "early_day_motions": 14,
+        "oral_questions": 12,
+        "written_questions": 314
+      },
+      "2022": {
+        "bills_sponsored": 4,
+        "debate_contributions": 201,
+        "debates_participated": 165,
+        "early_day_motions": 17,
+        "oral_questions": 15,
+        "written_questions": 479
+      },
+      "2023": {
+        "bills_sponsored": 3,
+        "debate_contributions": 161,
+        "debates_participated": 109,
+        "early_day_motions": 11,
+        "oral_questions": 13,
+        "written_questions": 173
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 116,
+        "debates_participated": 71,
+        "oral_questions": 16,
+        "written_questions": 40
+      }
+    },
+    "bills_sponsored": 8,
+    "debate_contributions": 670,
+    "debates_participated": 498,
+    "early_day_motions": 58,
+    "oral_questions": 67,
+    "petitions_presented": 0,
+    "written_questions": 1407
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 670,
+    "voting_participation_pct": 54.4,
+    "written_questions": 1407
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 27,
+      "meetings_available": 27
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3542,
+    "name": "Huddersfield"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 411
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 411,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "1979-05-03",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Barry Sheerman",
+    "display": "Mr Barry Sheerman",
+    "full_title": "Mr Barry Sheerman",
+    "list_as": "Sheerman, Mr Barry"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "1994-06-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Disabled Peoples' Rights)",
+        "start_date": "1992-06-01"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "1992-06-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Home Affairs)",
+        "start_date": "1988-06-01"
+      },
+      {
+        "department": "Department for Education and Employment",
+        "department_url": null,
+        "end_date": "1988-06-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Education and Employment)",
+        "start_date": "1983-06-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2899,
+        "name": "Taunton",
+        "startDate": "1974-10-10T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "1979-05-03"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Huddersfield",
+        "constituency_id": 3542,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Huddersfield",
+        "constituency_id": 1524,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Huddersfield",
+        "constituency_id": 1523,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1983-06-09"
+      },
+      {
+        "constituency": "Huddersfield East",
+        "constituency_id": 1526,
+        "end_date": "1983-06-09",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "1979-05-03"
+      }
+    ]
+  },
+  "synopsis": "Mr Barry Sheerman is no longer a Member, but was most recently the Labour (Co-op) MP for <a href='/constituency/3542/overview'>Huddersfield</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/411/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 182,
+        "voting_participation_pct": 75.21
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 92,
+        "voting_participation_pct": 36.65
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 101,
+        "voting_participation_pct": 39.45
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 71,
+        "voting_participation_pct": 55.91
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 581,
+        "voting_participation_pct": 54.4
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 581,
+    "voting_participation_pct": 54.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

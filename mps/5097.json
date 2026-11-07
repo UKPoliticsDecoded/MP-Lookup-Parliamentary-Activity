@@ -1,0 +1,187 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 61,
+        "debates_participated": 42,
+        "oral_questions": 9,
+        "written_questions": 7
+      },
+      "2026": {
+        "debate_contributions": 30,
+        "debates_participated": 23,
+        "oral_questions": 3,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 104,
+    "debates_participated": 77,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 10
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 104,
+    "voting_participation_pct": 65.13,
+    "written_questions": 10
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 73,
+      "meetings_available": 73
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/southend-east-and-rochford.json",
+    "id": 4316,
+    "name": "Southend East and Rochford",
+    "ons_code": "E14001501",
+    "slug": "southend-east-and-rochford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "bayo@bayoalaba.com",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://bayoalaba.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/BayoAlabaMP/"
+    },
+    {
+      "type": "Substack",
+      "url": "https://bayoalaba.substack.com/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5097
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5097,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Bayo Alaba",
+    "display": "Mr Bayo Alaba",
+    "full_title": "Mr Bayo Alaba MP",
+    "list_as": "Alaba, Mr Bayo"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2026-08-17"
+      },
+      {
+        "end_date": "2026-08-17",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Southend East and Rochford",
+        "constituency_id": 4316,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Bayo Alaba is the Independent MP for <a href='/constituency/4316/overview'>Southend East and Rochford</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5097/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 223,
+        "voting_participation_pct": 69.25
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 123,
+        "voting_participation_pct": 52.12
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 411,
+        "voting_participation_pct": 65.13
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 411,
+    "voting_participation_pct": 65.13
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

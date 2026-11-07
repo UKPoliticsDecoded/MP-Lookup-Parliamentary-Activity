@@ -1,0 +1,194 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 5,
+        "debates_participated": 5,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 78,
+        "debates_participated": 59,
+        "oral_questions": 10,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 38,
+        "debates_participated": 29,
+        "oral_questions": 7,
+        "written_questions": 24
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 121,
+    "debates_participated": 93,
+    "early_day_motions": 0,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 30
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 121,
+    "voting_participation_pct": 93.03,
+    "written_questions": 30
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hertford-and-stortford.json",
+    "id": 4098,
+    "name": "Hertford and Stortford",
+    "ons_code": "E14001283",
+    "slug": "hertford-and-stortford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "josh.dean.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5187
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5187,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Josh Dean",
+    "full_title": "Josh Dean MP",
+    "list_as": "Dean, Josh"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hertford and Stortford",
+        "constituency_id": 4098,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Josh Dean is the Labour MP for <a href='/constituency/4098/overview'>Hertford and Stortford</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5187/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 305,
+        "voting_participation_pct": 94.72
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 212,
+        "voting_participation_pct": 89.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 587,
+        "voting_participation_pct": 93.03
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 587,
+    "voting_participation_pct": 93.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

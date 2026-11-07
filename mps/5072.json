@@ -1,0 +1,220 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 24,
+        "debates_participated": 18,
+        "oral_questions": 1,
+        "written_questions": 36
+      },
+      "2025": {
+        "debate_contributions": 86,
+        "debates_participated": 63,
+        "early_day_motions": 1,
+        "oral_questions": 13,
+        "written_questions": 1670
+      },
+      "2026": {
+        "debate_contributions": 111,
+        "debates_participated": 72,
+        "oral_questions": 8,
+        "written_questions": 1322
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 221,
+    "debates_participated": 153,
+    "early_day_motions": 1,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 3028
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 221,
+    "voting_participation_pct": 72.58,
+    "written_questions": 3028
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill",
+      "committee_id": 742,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill",
+        "committee_id": 742,
+        "file": "committees/terrorism-protection-of-premises-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/fylde.json",
+    "id": 4057,
+    "name": "Fylde",
+    "ons_code": "E14001242",
+    "slug": "fylde"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andrew.snowden.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AndrewForFylde"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/A_J_Snowden"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5072
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5072,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Andrew Snowden",
+    "full_title": "Mr Andrew Snowden MP",
+    "list_as": "Snowden, Mr Andrew"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Fylde",
+        "constituency_id": 4057,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Andrew Snowden is the Conservative MP for <a href='/constituency/4057/overview'>Fylde</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Shadow Minister (Work and Pensions).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5072/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 53,
+        "voting_participation_pct": 72.6
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 216,
+        "voting_participation_pct": 67.08
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 189,
+        "voting_participation_pct": 80.08
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 458,
+        "voting_participation_pct": 72.58
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 458,
+    "voting_participation_pct": 72.58
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

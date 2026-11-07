@@ -1,0 +1,569 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 142,
+        "debates_participated": 107,
+        "oral_questions": 19,
+        "written_questions": 227
+      },
+      "2021": {
+        "debate_contributions": 163,
+        "debates_participated": 96,
+        "oral_questions": 15,
+        "written_questions": 117
+      },
+      "2022": {
+        "debate_contributions": 203,
+        "debates_participated": 101,
+        "oral_questions": 16,
+        "written_questions": 85
+      },
+      "2023": {
+        "debate_contributions": 318,
+        "debates_participated": 48
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 123,
+        "debates_participated": 68,
+        "early_day_motions": 1,
+        "oral_questions": 12,
+        "written_questions": 322
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 153,
+        "debates_participated": 97,
+        "oral_questions": 9,
+        "written_questions": 1652
+      },
+      "2026": {
+        "bills_sponsored": 3,
+        "debate_contributions": 92,
+        "debates_participated": 30,
+        "written_questions": 1634
+      }
+    },
+    "bills_sponsored": 7,
+    "debate_contributions": 1194,
+    "debates_participated": 547,
+    "early_day_motions": 1,
+    "oral_questions": 71,
+    "petitions_presented": 0,
+    "written_questions": 4037
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1194,
+    "voting_participation_pct": 79.58,
+    "written_questions": 4037
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+      "committee_id": 570,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety Bill",
+      "committee_id": 592,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 140,
+      "meetings_available": 140
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Seafarers' Wages Bill [HL]",
+      "committee_id": 638,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill (2021)",
+      "committee_id": 509,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+        "committee_id": 570,
+        "file": "committees/marriage-and-civil-partnership-minimum-age-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "marriage-and-civil-partnership-minimum-age-bill"
+      },
+      {
+        "committee": "Online Safety Bill",
+        "committee_id": 592,
+        "file": "committees/online-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-18"
+          }
+        ],
+        "slug": "online-safety-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Seafarers' Wages Bill [HL]",
+        "committee_id": 638,
+        "file": "committees/seafarers-wages-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-11"
+          }
+        ],
+        "slug": "seafarers-wages-bill-hl"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill (2021)",
+        "committee_id": 509,
+        "file": "committees/select-committee-on-the-armed-forces-bill-2021.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2021-04-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-25"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill-2021"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-04"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/basildon-and-billericay.json",
+    "id": 3892,
+    "name": "Basildon and Billericay",
+    "ons_code": "E14001077",
+    "slug": "basildon-and-billericay"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "richard.holden.mp@parliament.uk",
+      "phone": "0207 219 3059",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.richardholden.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Richard4BasildonAndBillericay"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/RicHolden"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4813
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4813,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Richard Holden",
+    "display": "Mr Richard Holden",
+    "full_title": "Rt Hon Richard Holden MP",
+    "list_as": "Holden, Mr Richard"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister without Portfolio (Cabinet Office)",
+        "start_date": "2023-11-13"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2022-10-28"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-11-08"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Paymaster General",
+        "start_date": "2024-11-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3687,
+        "name": "Preston",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Basildon and Billericay",
+        "constituency_id": 3892,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "North West Durham",
+        "constituency_id": 3655,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mr Richard Holden is the Conservative MP for <a href='/constituency/3892/overview'>Basildon and Billericay</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Secretary of State for Transport.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4813/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 176,
+        "voting_participation_pct": 92.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 223,
+        "voting_participation_pct": 92.15
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 225,
+        "voting_participation_pct": 87.89
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 142,
+        "voting_participation_pct": 71.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 221,
+        "voting_participation_pct": 68.63
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 162,
+        "voting_participation_pct": 68.64
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 914,
+        "voting_participation_pct": 85.58
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 438,
+        "voting_participation_pct": 69.41
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1352,
+    "voting_participation_pct": 79.58
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

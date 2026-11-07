@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 1862.0,
+    "bng": {
+      "easting": 340288,
+      "northing": 392580
+    },
+    "centroid": {
+      "latitude": 53.42663,
+      "longitude": -2.90009
+    },
+    "geojson": "constituencies/boundaries/liverpool-west-derby.geojson",
+    "ons_code": "E14001341",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4831.json",
+    "member_id": 4831,
+    "name": "Ian Byrne",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69934,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 20423,
+      "result": "Lab Hold",
+      "turnout": 38006,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3584,
+      "end_date": "2024-05-30",
+      "member_id": 4831,
+      "name": "Ian Byrne",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4156,
+  "is_current": true,
+  "name": "Liverpool West Derby",
+  "name_cy": null,
+  "ons_code": "E14001341",
+  "outcodes": [
+    "L11",
+    "L12",
+    "L13",
+    "L14",
+    "L28",
+    "L36",
+    "L4",
+    "L6"
+  ],
+  "schema_version": 1,
+  "slug": "liverpool-west-derby",
+  "start_date": "2024-05-31"
+}

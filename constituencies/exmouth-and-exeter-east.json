@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 24591.5,
+    "bng": {
+      "easting": 299579,
+      "northing": 92503
+    },
+    "centroid": {
+      "latitude": 50.72343,
+      "longitude": -3.42404
+    },
+    "geojson": "constituencies/boundaries/exmouth-and-exeter-east.geojson",
+    "ons_code": "E14001232",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5347.json",
+    "member_id": 5347,
+    "name": "David Reed",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79983,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 121,
+      "result": "Con Hold",
+      "turnout": 51316,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4047,
+  "is_current": true,
+  "name": "Exmouth and Exeter East",
+  "name_cy": null,
+  "ons_code": "E14001232",
+  "outcodes": [
+    "EX1",
+    "EX10",
+    "EX11",
+    "EX15",
+    "EX2",
+    "EX3",
+    "EX4",
+    "EX5",
+    "EX8",
+    "EX9"
+  ],
+  "schema_version": 1,
+  "slug": "exmouth-and-exeter-east",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,334 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 115,
+        "debates_participated": 48,
+        "early_day_motions": 1,
+        "oral_questions": 9,
+        "written_questions": 135
+      },
+      "2021": {
+        "debate_contributions": 145,
+        "debates_participated": 80,
+        "oral_questions": 14,
+        "written_questions": 167
+      },
+      "2022": {
+        "debate_contributions": 102,
+        "debates_participated": 59,
+        "early_day_motions": 1,
+        "oral_questions": 11,
+        "written_questions": 50
+      },
+      "2023": {
+        "debate_contributions": 49,
+        "debates_participated": 24,
+        "oral_questions": 1,
+        "written_questions": 32
+      },
+      "2024": {
+        "debate_contributions": 50,
+        "debates_participated": 19,
+        "oral_questions": 8,
+        "written_questions": 21
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 461,
+    "debates_participated": 230,
+    "early_day_motions": 2,
+    "oral_questions": 43,
+    "petitions_presented": 0,
+    "written_questions": 405
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 461,
+    "voting_participation_pct": 71.54,
+    "written_questions": 405
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Bishop's Stortford Cemetery Bill",
+      "committee_id": 682,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Carer’s Leave Bill",
+      "committee_id": 623,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 41,
+      "meetings_available": 41
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Neonatal Care (Leave and Pay) Bill",
+      "committee_id": 610,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Bishop's Stortford Cemetery Bill",
+        "committee_id": 682,
+        "file": "committees/bishop-s-stortford-cemetery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "bishop-s-stortford-cemetery-bill"
+      },
+      {
+        "committee": "Carer’s Leave Bill",
+        "committee_id": 623,
+        "file": "committees/carers-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "carers-leave-bill"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-13"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Neonatal Care (Leave and Pay) Bill",
+        "committee_id": 610,
+        "file": "committees/neonatal-care-leave-and-pay-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-20"
+          }
+        ],
+        "slug": "neonatal-care-leave-and-pay-bill"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3722,
+    "name": "Sheffield Central"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4058
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4058,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Paul Blomfield",
+    "display": "Paul Blomfield",
+    "full_title": "Paul Blomfield",
+    "list_as": "Blomfield, Paul"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-12-30",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office) (Brexit and EU Negotiations)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for International Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-international-trade",
+        "end_date": "2020-12-30",
+        "is_current": false,
+        "name": "Shadow Minister (International Trade) (Brexit and EU Negotiations)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Exiting the European Union ",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Exiting the European Union)",
+        "start_date": "2016-10-09"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sheffield Central",
+        "constituency_id": 3722,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Paul Blomfield is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3722/overview'>Sheffield Central</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4058/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 118,
+        "voting_participation_pct": 62.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 177,
+        "voting_participation_pct": 70.52
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 175,
+        "voting_participation_pct": 68.36
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 84,
+        "voting_participation_pct": 66.14
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 764,
+        "voting_participation_pct": 71.54
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 764,
+    "voting_participation_pct": 71.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

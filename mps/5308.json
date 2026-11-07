@@ -1,0 +1,235 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 35,
+        "debates_participated": 23,
+        "oral_questions": 2,
+        "written_questions": 12
+      },
+      "2025": {
+        "debate_contributions": 90,
+        "debates_participated": 58,
+        "oral_questions": 7,
+        "written_questions": 13
+      },
+      "2026": {
+        "debate_contributions": 55,
+        "debates_participated": 27,
+        "oral_questions": 3,
+        "written_questions": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 180,
+    "debates_participated": 108,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 45
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 180,
+    "voting_participation_pct": 89.54,
+    "written_questions": 45
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 53,
+      "meetings_available": 53
+    },
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters’ Rights Bill",
+      "committee_id": 739,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-06"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Renters’ Rights Bill",
+        "committee_id": 739,
+        "file": "committees/renters-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "renters-rights-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-west-cambridgeshire.json",
+    "id": 4216,
+    "name": "North West Cambridgeshire",
+    "ons_code": "E14001401",
+    "slug": "north-west-cambridgeshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sam.carling.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.samcarling.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/sam4nwc"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/sam_carling_mp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/sam_carling_"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5308
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5308,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sam Carling",
+    "full_title": "Sam Carling MP",
+    "list_as": "Carling, Sam"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North West Cambridgeshire",
+        "constituency_id": 4216,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sam Carling is the Labour MP for <a href='/constituency/4216/overview'>North West Cambridgeshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5308/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 289,
+        "voting_participation_pct": 89.75
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 205,
+        "voting_participation_pct": 86.86
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 565,
+        "voting_participation_pct": 89.54
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 565,
+    "voting_participation_pct": 89.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

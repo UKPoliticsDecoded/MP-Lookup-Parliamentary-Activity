@@ -1,0 +1,415 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 3,
+        "debates_participated": 2
+      },
+      "2020": {
+        "debate_contributions": 176,
+        "debates_participated": 88,
+        "early_day_motions": 16,
+        "oral_questions": 2,
+        "written_questions": 283
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 120,
+        "debates_participated": 83,
+        "early_day_motions": 18,
+        "oral_questions": 2,
+        "petitions_presented": 1,
+        "written_questions": 186
+      },
+      "2022": {
+        "bills_sponsored": 3,
+        "debate_contributions": 117,
+        "debates_participated": 76,
+        "early_day_motions": 24,
+        "oral_questions": 6,
+        "written_questions": 178
+      },
+      "2023": {
+        "debate_contributions": 120,
+        "debates_participated": 70,
+        "early_day_motions": 21,
+        "oral_questions": 2,
+        "written_questions": 108
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 80,
+        "debates_participated": 62,
+        "early_day_motions": 16,
+        "oral_questions": 4,
+        "written_questions": 74
+      },
+      "2025": {
+        "debate_contributions": 202,
+        "debates_participated": 120,
+        "early_day_motions": 16,
+        "oral_questions": 5,
+        "written_questions": 99
+      },
+      "2026": {
+        "debate_contributions": 110,
+        "debates_participated": 83,
+        "early_day_motions": 14,
+        "oral_questions": 4,
+        "written_questions": 98
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 928,
+    "debates_participated": 584,
+    "early_day_motions": 125,
+    "oral_questions": 25,
+    "petitions_presented": 1,
+    "written_questions": 1026
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 928,
+    "voting_participation_pct": 66.27,
+    "written_questions": 1026
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dwyfor-meirionnydd.json",
+    "id": 4511,
+    "name": "Dwyfor Meirionnydd",
+    "ons_code": "W07000096",
+    "slug": "dwyfor-meirionnydd"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "liz.savilleroberts.mp@parliament.uk",
+      "phone": "020 7219 6876",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Beechwood House, Bridge Street, Dolgellau",
+      "email": "liz.savilleroberts.mp@parliament.uk",
+      "phone": "01341 422 661",
+      "postcode": "LL40 1AU",
+      "type": "Constituency office"
+    },
+    {
+      "address": "8 Stryd y Castell, Caernarfon, Gwynedd",
+      "email": "liz.savilleroberts.mp@parliament.uk",
+      "phone": "01341 422 661",
+      "postcode": "LL55 1SE",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LizSavilleRoberts"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/lsrplaid"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4521
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4521,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Liz Saville Roberts",
+    "display": "Liz Saville Roberts",
+    "full_title": "Rt Hon Liz Saville Roberts MP",
+    "list_as": "Saville Roberts, Liz"
+  },
+  "party": {
+    "abbreviation": "PC",
+    "id": 22,
+    "name": "Plaid Cymru"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Attorney General)",
+        "start_date": "2020-07-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Transport)",
+        "start_date": "2020-07-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Plaid Cymru Westminster Leader",
+        "start_date": "2017-06-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Business, Energy and Industrial Strategy)",
+        "start_date": "2017-06-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Education)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Energy & Natural Resources)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Health)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Home Affairs)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Justice)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Local Government)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Women and Equalities) ",
+        "start_date": "2015-05-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Plaid Cymru",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dwyfor Meirionnydd",
+        "constituency_id": 4511,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Dwyfor Meirionnydd",
+        "constituency_id": 3454,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Liz Saville Roberts is the Plaid Cymru MP for <a href='/constituency/4511/overview'>Dwyfor Meirionnydd</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4521/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 150,
+        "voting_participation_pct": 78.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 197,
+        "voting_participation_pct": 81.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 152,
+        "voting_participation_pct": 60.56
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 178,
+        "voting_participation_pct": 69.53
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 137,
+        "voting_participation_pct": 68.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 164,
+        "voting_participation_pct": 50.93
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 146,
+        "voting_participation_pct": 61.86
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 773,
+        "voting_participation_pct": 72.38
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 353,
+        "voting_participation_pct": 55.94
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1126,
+    "voting_participation_pct": 66.27
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

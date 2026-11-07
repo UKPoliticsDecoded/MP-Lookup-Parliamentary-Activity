@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 2840.3,
+    "bng": {
+      "easting": 386063,
+      "northing": 403130
+    },
+    "centroid": {
+      "latitude": 53.52466,
+      "longitude": -2.21169
+    },
+    "geojson": "constituencies/boundaries/blackley-and-middleton-south.geojson",
+    "ons_code": "E14001103",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/449.json",
+    "member_id": 449,
+    "name": "Graham Stringer",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72303,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10250,
+      "result": "Lab Hold",
+      "turnout": 31340,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3918,
+  "is_current": true,
+  "name": "Blackley and Middleton South",
+  "name_cy": null,
+  "ons_code": "E14001103",
+  "outcodes": [
+    "M24",
+    "M25",
+    "M40",
+    "M7",
+    "M8",
+    "M9"
+  ],
+  "schema_version": 1,
+  "slug": "blackley-and-middleton-south",
+  "start_date": "2024-05-31"
+}

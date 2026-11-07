@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 28801.1,
+    "bng": {
+      "easting": 321258,
+      "northing": 120929
+    },
+    "centroid": {
+      "latitude": 50.98235,
+      "longitude": -3.1231
+    },
+    "geojson": "constituencies/boundaries/taunton-and-wellington.geojson",
+    "ons_code": "E14001540",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5250.json",
+    "member_id": 5250,
+    "name": "Gideon Amos",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78680,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11939,
+      "result": "LD Gain",
+      "turnout": 50294,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4355,
+  "is_current": true,
+  "name": "Taunton and Wellington",
+  "name_cy": null,
+  "ons_code": "E14001540",
+  "outcodes": [
+    "EX14",
+    "TA1",
+    "TA2",
+    "TA20",
+    "TA21",
+    "TA3",
+    "TA4",
+    "TA5",
+    "TA7"
+  ],
+  "schema_version": 1,
+  "slug": "taunton-and-wellington",
+  "start_date": "2024-05-31"
+}

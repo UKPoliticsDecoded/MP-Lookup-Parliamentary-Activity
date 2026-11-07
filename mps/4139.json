@@ -1,0 +1,321 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 19,
+        "debates_participated": 11,
+        "early_day_motions": 4,
+        "oral_questions": 10,
+        "written_questions": 153
+      },
+      "2021": {
+        "debate_contributions": 49,
+        "debates_participated": 36,
+        "early_day_motions": 5,
+        "oral_questions": 14,
+        "written_questions": 40
+      },
+      "2022": {
+        "debate_contributions": 67,
+        "debates_participated": 36,
+        "early_day_motions": 3,
+        "oral_questions": 5,
+        "written_questions": 83
+      },
+      "2023": {
+        "debate_contributions": 86,
+        "debates_participated": 47,
+        "early_day_motions": 3,
+        "oral_questions": 7,
+        "petitions_presented": 1,
+        "written_questions": 53
+      },
+      "2024": {
+        "debate_contributions": 93,
+        "debates_participated": 57,
+        "early_day_motions": 4,
+        "oral_questions": 12,
+        "written_questions": 76
+      },
+      "2025": {
+        "debate_contributions": 113,
+        "debates_participated": 60,
+        "early_day_motions": 1,
+        "oral_questions": 13,
+        "written_questions": 44
+      },
+      "2026": {
+        "debate_contributions": 62,
+        "debates_participated": 48,
+        "early_day_motions": 4,
+        "oral_questions": 9,
+        "written_questions": 87
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 489,
+    "debates_participated": 295,
+    "early_day_motions": 24,
+    "oral_questions": 70,
+    "petitions_presented": 1,
+    "written_questions": 536
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 489,
+    "voting_participation_pct": 77.16,
+    "written_questions": 536
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 46,
+      "meetings_available": 46
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/blyth-and-ashington.json",
+    "id": 3922,
+    "name": "Blyth and Ashington",
+    "ons_code": "E14001107",
+    "slug": "blyth-and-ashington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ian.lavery.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "7 Esther Court, Wansbeck Business park, Ashington, Northumberland",
+      "phone": "01670 852494",
+      "postcode": "NE63 8AP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.ianlavery.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/IanLaveryMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4139
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4139,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ian Lavery",
+    "display": "Ian Lavery",
+    "full_title": "Ian Lavery MP",
+    "list_as": "Lavery, Ian"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-04-05",
+        "is_current": false,
+        "name": "Co-National Campaign Coordinator",
+        "start_date": "2017-06-14"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2017-06-14",
+        "is_current": false,
+        "name": "Campaigns and Elections Chair",
+        "start_date": "2017-02-11"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-04-05",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2016-10-07"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2016-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office) (Trade Unions and Civil Society)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2020-04-05",
+        "is_current": false,
+        "name": "Party Chair, Labour Party",
+        "start_date": "2017-06-14"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Blyth and Ashington",
+        "constituency_id": 3922,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wansbeck",
+        "constituency_id": 3826,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Ian Lavery is the Labour MP for <a href='/constituency/3922/overview'>Blyth and Ashington</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4139/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 173,
+        "voting_participation_pct": 68.92
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 182,
+        "voting_participation_pct": 71.09
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 135,
+        "voting_participation_pct": 67.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 264,
+        "voting_participation_pct": 81.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 209,
+        "voting_participation_pct": 88.56
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 783,
+        "voting_participation_pct": 73.31
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 528,
+        "voting_participation_pct": 83.68
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1311,
+    "voting_participation_pct": 77.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

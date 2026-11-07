@@ -1,0 +1,465 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 87,
+        "debates_participated": 61,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 12
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 129,
+        "debates_participated": 83,
+        "early_day_motions": 6,
+        "oral_questions": 16,
+        "petitions_presented": 2,
+        "written_questions": 41
+      },
+      "2022": {
+        "debate_contributions": 158,
+        "debates_participated": 79,
+        "early_day_motions": 8,
+        "oral_questions": 12,
+        "petitions_presented": 1,
+        "written_questions": 37
+      },
+      "2023": {
+        "debate_contributions": 118,
+        "debates_participated": 64,
+        "oral_questions": 11,
+        "petitions_presented": 23,
+        "written_questions": 81
+      },
+      "2024": {
+        "debate_contributions": 53,
+        "debates_participated": 37,
+        "early_day_motions": 4,
+        "oral_questions": 4,
+        "petitions_presented": 3,
+        "written_questions": 8
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 545,
+    "debates_participated": 324,
+    "early_day_motions": 19,
+    "oral_questions": 53,
+    "petitions_presented": 29,
+    "written_questions": 179
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 545,
+    "voting_participation_pct": 65.92,
+    "written_questions": 179
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Insurance Contributions Bill",
+      "committee_id": 526,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Standing Orders Committee (Commons)",
+      "committee_id": 475,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 47,
+      "meetings_available": 47
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+      "committee_id": 705,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "National Insurance Contributions Bill",
+        "committee_id": 526,
+        "file": "committees/national-insurance-contributions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "national-insurance-contributions-bill"
+      },
+      {
+        "committee": "Standing Orders Committee (Commons)",
+        "committee_id": 475,
+        "file": "committees/standing-orders-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-04-21"
+          }
+        ],
+        "slug": "standing-orders-committee-commons"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+        "committee_id": 705,
+        "file": "committees/trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1284,
+    "name": "Gordon"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4796
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4796,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Richard Thomson",
+    "full_title": "Richard Thomson",
+    "list_as": "Thomson, Richard"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Business)",
+        "start_date": "2023-03-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Trade)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Deputy Spokesperson (Treasury - Financial Secretary)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Northern Ireland)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Wales)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Business and Industry)",
+        "start_date": "2020-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4480,
+        "name": "Gordon and Buchan",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1284,
+        "name": "Gordon",
+        "startDate": "2010-05-06T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2967,
+        "name": "Tweeddale, Ettrick and Lauderdale",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Gordon",
+        "constituency_id": 1284,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Richard Thomson is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1284/overview'>Gordon</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4796/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 158,
+        "voting_participation_pct": 65.29
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 161,
+        "voting_participation_pct": 64.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 165,
+        "voting_participation_pct": 64.45
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 89,
+        "voting_participation_pct": 70.08
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 704,
+        "voting_participation_pct": 65.92
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 704,
+    "voting_participation_pct": 65.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

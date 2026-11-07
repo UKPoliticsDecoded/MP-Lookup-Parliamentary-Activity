@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 1003.8,
+    "bng": {
+      "easting": 542663,
+      "northing": 184253
+    },
+    "centroid": {
+      "latitude": 51.53915,
+      "longitude": 0.055721
+    },
+    "geojson": "constituencies/boundaries/east-ham.geojson",
+    "ons_code": "E14001213",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/163.json",
+    "member_id": 163,
+    "name": "Sir Stephen Timms",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79219,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12863,
+      "result": "Lab Hold",
+      "turnout": 37892,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3461,
+      "end_date": "2024-05-30",
+      "member_id": 163,
+      "name": "Sir Stephen Timms",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 973,
+      "end_date": "2010-05-06",
+      "member_id": 163,
+      "name": "Sir Stephen Timms",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4028,
+  "is_current": true,
+  "name": "East Ham",
+  "name_cy": null,
+  "ons_code": "E14001213",
+  "outcodes": [
+    "E12",
+    "E13",
+    "E6",
+    "E7",
+    "IG11"
+  ],
+  "schema_version": 1,
+  "slug": "east-ham",
+  "start_date": "2024-05-31"
+}

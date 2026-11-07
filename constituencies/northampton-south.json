@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 5006.7,
+    "bng": {
+      "easting": 476495,
+      "northing": 258208
+    },
+    "centroid": {
+      "latitude": 52.21679,
+      "longitude": -0.88173
+    },
+    "geojson": "constituencies/boundaries/northampton-south.geojson",
+    "ons_code": "E14001407",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5316.json",
+    "member_id": 5316,
+    "name": "Mike Reader",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70393,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4071,
+      "result": "Lab Gain",
+      "turnout": 43904,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3661,
+      "end_date": "2024-05-30",
+      "member_id": 4659,
+      "name": "Andrew Lewer",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4222,
+  "is_current": true,
+  "name": "Northampton South",
+  "name_cy": null,
+  "ons_code": "E14001407",
+  "outcodes": [
+    "NN1",
+    "NN2",
+    "NN3",
+    "NN4",
+    "NN5",
+    "NN6",
+    "NN7"
+  ],
+  "schema_version": 1,
+  "slug": "northampton-south",
+  "start_date": "2024-05-31"
+}

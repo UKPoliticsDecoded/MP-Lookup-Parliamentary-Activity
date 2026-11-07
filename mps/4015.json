@@ -1,0 +1,412 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 49,
+        "debates_participated": 14
+      },
+      "2021": {
+        "debate_contributions": 95,
+        "debates_participated": 30
+      },
+      "2022": {
+        "debate_contributions": 92,
+        "debates_participated": 30,
+        "oral_questions": 4,
+        "written_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 28,
+        "debates_participated": 23,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 277,
+    "debates_participated": 108,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 16
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 277,
+    "voting_participation_pct": 89.79,
+    "written_questions": 16
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 89,
+      "meetings_available": 89
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-09-04"
+          },
+          {
+            "end": "2020-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-25"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2013-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-12"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-08"
+          },
+          {
+            "end": "2018-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-11-16"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3613,
+    "name": "Milton Keynes South"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4015
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4015,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Iain Stewart",
+    "display": "Iain Stewart",
+    "full_title": "Iain Stewart",
+    "list_as": "Stewart, Iain"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2022-09-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Scotland Office)",
+        "start_date": "2020-06-02"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-06-02",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2019-12-17"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2019-12-17",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2018-07-26"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3956,
+        "name": "Buckingham and Bletchley",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1982,
+        "name": "Milton Keynes South West",
+        "startDate": "2005-05-05T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1982,
+        "name": "Milton Keynes South West",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Milton Keynes South",
+        "constituency_id": 3613,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Iain Stewart is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3613/overview'>Milton Keynes South</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4015/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 186,
+        "voting_participation_pct": 97.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 207,
+        "voting_participation_pct": 82.47
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 243,
+        "voting_participation_pct": 94.92
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 113,
+        "voting_participation_pct": 88.98
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 959,
+        "voting_participation_pct": 89.79
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 959,
+    "voting_participation_pct": 89.79
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 2820.5,
+    "bng": {
+      "easting": 435434,
+      "northing": 390928
+    },
+    "centroid": {
+      "latitude": 53.41399,
+      "longitude": -1.46837
+    },
+    "geojson": "constituencies/boundaries/sheffield-brightside-and-hillsborough.geojson",
+    "ons_code": "E14001466",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4571.json",
+    "member_id": 4571,
+    "name": "Gill Furniss",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70389,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11600,
+      "result": "Lab Hold",
+      "turnout": 31612,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3724,
+      "end_date": "2024-05-30",
+      "member_id": 4571,
+      "name": "Gill Furniss",
+      "start_date": "2016-05-05"
+    }
+  ],
+  "id": 4281,
+  "is_current": true,
+  "name": "Sheffield Brightside and Hillsborough",
+  "name_cy": null,
+  "ons_code": "E14001466",
+  "outcodes": [
+    "S3",
+    "S35",
+    "S4",
+    "S5",
+    "S6",
+    "S61",
+    "S9"
+  ],
+  "schema_version": 1,
+  "slug": "sheffield-brightside-and-hillsborough",
+  "start_date": "2024-05-31"
+}

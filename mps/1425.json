@@ -1,0 +1,290 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 31,
+        "debates_participated": 15,
+        "written_questions": 1
+      },
+      "2021": {
+        "debate_contributions": 14,
+        "debates_participated": 5,
+        "written_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 46,
+        "debates_participated": 23,
+        "written_questions": 10
+      },
+      "2023": {
+        "debate_contributions": 27,
+        "debates_participated": 11,
+        "written_questions": 17
+      },
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 3,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 121,
+    "debates_participated": 57,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 34
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 121,
+    "voting_participation_pct": 87.17,
+    "written_questions": 34
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Firearms Bill",
+      "committee_id": 661,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 96,
+      "meetings_available": 96
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-25"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Firearms Bill",
+        "committee_id": 661,
+        "file": "committees/firearms-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "firearms-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-25"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3543,
+    "name": "Huntingdon"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1425
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1425,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Djanogly",
+    "display": "Mr Jonathan Djanogly",
+    "full_title": "Mr Jonathan Djanogly",
+    "list_as": "Djanogly, Mr Jonathan"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Justice)",
+        "start_date": "2010-05-17"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2005-12-08"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Shadow Minister (Home Affairs)",
+        "start_date": "2004-06-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2273,
+        "name": "Oxford East",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Huntingdon",
+        "constituency_id": 3543,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Huntingdon",
+        "constituency_id": 1530,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Mr Jonathan Djanogly is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3543/overview'>Huntingdon</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1425/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 178,
+        "voting_participation_pct": 93.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 205,
+        "voting_participation_pct": 81.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 241,
+        "voting_participation_pct": 94.14
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 92,
+        "voting_participation_pct": 72.44
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 931,
+        "voting_participation_pct": 87.17
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 931,
+    "voting_participation_pct": 87.17
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

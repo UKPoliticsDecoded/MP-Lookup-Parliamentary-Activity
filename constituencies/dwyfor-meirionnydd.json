@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 257268.8,
+    "bng": {
+      "easting": 281716,
+      "northing": 332046
+    },
+    "centroid": {
+      "latitude": 52.87285,
+      "longitude": -3.75884
+    },
+    "geojson": "constituencies/boundaries/dwyfor-meirionnydd.geojson",
+    "ons_code": "W07000096",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4521.json",
+    "member_id": 4521,
+    "name": "Liz Saville Roberts",
+    "party": "Plaid Cymru",
+    "party_abbreviation": "PC",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73040,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15876,
+      "result": "PC Hold",
+      "turnout": 40395,
+      "winning_party": "Plaid Cymru",
+      "winning_party_id": 22
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3454,
+      "end_date": "2024-05-30",
+      "member_id": 4521,
+      "name": "Liz Saville Roberts",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4511,
+  "is_current": true,
+  "name": "Dwyfor Meirionnydd",
+  "name_cy": "Dwyfor Meirionnydd",
+  "ons_code": "W07000096",
+  "outcodes": [
+    "LL21",
+    "LL23",
+    "LL39",
+    "LL40",
+    "LL41",
+    "LL44",
+    "LL45",
+    "LL46",
+    "LL47",
+    "LL48",
+    "LL54",
+    "LL55",
+    "LL56",
+    "LL57"
+  ],
+  "schema_version": 1,
+  "slug": "dwyfor-meirionnydd",
+  "start_date": "2024-05-31"
+}

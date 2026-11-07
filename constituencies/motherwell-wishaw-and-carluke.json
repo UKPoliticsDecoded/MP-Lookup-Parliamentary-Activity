@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 21358.4,
+    "bng": {
+      "easting": 289811,
+      "northing": 652786
+    },
+    "centroid": {
+      "latitude": 55.75584,
+      "longitude": -3.75731
+    },
+    "geojson": "constituencies/boundaries/motherwell-wishaw-and-carluke.geojson",
+    "ons_code": "S14000099",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3909.json",
+    "member_id": 3909,
+    "name": "Pamela Nash",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71777,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7085,
+      "result": "Lab Gain",
+      "turnout": 39026,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4488,
+  "is_current": true,
+  "name": "Motherwell, Wishaw and Carluke",
+  "name_cy": null,
+  "ons_code": "S14000099",
+  "outcodes": [
+    "EH55",
+    "ML1",
+    "ML11",
+    "ML2",
+    "ML4",
+    "ML8"
+  ],
+  "schema_version": 1,
+  "slug": "motherwell-wishaw-and-carluke",
+  "start_date": "2024-05-31"
+}

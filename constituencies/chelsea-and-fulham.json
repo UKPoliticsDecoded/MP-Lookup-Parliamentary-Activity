@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 908.0,
+    "bng": {
+      "easting": 525036,
+      "northing": 177235
+    },
+    "centroid": {
+      "latitude": 51.48026,
+      "longitude": -0.20079
+    },
+    "geojson": "constituencies/boundaries/chelsea-and-fulham.geojson",
+    "ons_code": "E14001160",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5344.json",
+    "member_id": 5344,
+    "name": "Ben Coleman",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78468,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 152,
+      "result": "Lab Gain",
+      "turnout": 47116,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3405,
+      "end_date": "2024-05-30",
+      "member_id": 1526,
+      "name": "Greg Hands",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3975,
+  "is_current": true,
+  "name": "Chelsea and Fulham",
+  "name_cy": null,
+  "ons_code": "E14001160",
+  "outcodes": [
+    "SW10",
+    "SW1W",
+    "SW1X",
+    "SW3",
+    "SW5",
+    "SW6",
+    "W14",
+    "W6"
+  ],
+  "schema_version": 1,
+  "slug": "chelsea-and-fulham",
+  "start_date": "2024-05-31"
+}

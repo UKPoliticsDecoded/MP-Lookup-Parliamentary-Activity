@@ -1,0 +1,221 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 29,
+        "debates_participated": 10,
+        "written_questions": 19
+      },
+      "2025": {
+        "debate_contributions": 84,
+        "debates_participated": 46,
+        "early_day_motions": 49,
+        "oral_questions": 2,
+        "written_questions": 581
+      },
+      "2026": {
+        "debate_contributions": 43,
+        "debates_participated": 25,
+        "early_day_motions": 7,
+        "oral_questions": 2,
+        "written_questions": 95
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 156,
+    "debates_participated": 81,
+    "early_day_motions": 56,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 695
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 156,
+    "voting_participation_pct": 58.32,
+    "written_questions": 695
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 765,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance Bill",
+        "committee_id": 765,
+        "file": "committees/finance-bill-765.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-22"
+          }
+        ],
+        "slug": "finance-bill-765"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/inverness-skye-and-west-ross-shire.json",
+    "id": 4483,
+    "name": "Inverness, Skye and West Ross-shire",
+    "ons_code": "S14000094",
+    "slug": "inverness-skye-and-west-ross-shire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "angus.macdonald.mp@parliament.uk",
+      "phone": "020 7219 8386",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "123 High Street, Fort William",
+      "phone": "01397 719647",
+      "postcode": "PH33 6DG",
+      "type": "Constituency office"
+    },
+    {
+      "address": "10 Ardross Street, Inverness",
+      "phone": "01463 592543",
+      "postcode": "IV3 5NS",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/angusmacdonaldld.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/angusmacdonaldhighlands"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/angusmacdonaldhighlands/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5362
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5362,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Angus MacDonald",
+    "full_title": "Mr Angus MacDonald MP",
+    "list_as": "MacDonald, Mr Angus"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Inverness, Skye and West Ross-shire",
+        "constituency_id": 4483,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Angus MacDonald is the Liberal Democrat MP for <a href='/constituency/4483/overview'>Inverness, Skye and West Ross-shire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5362/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 29,
+        "voting_participation_pct": 39.73
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 209,
+        "voting_participation_pct": 64.91
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 130,
+        "voting_participation_pct": 55.08
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 368,
+        "voting_participation_pct": 58.32
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 368,
+    "voting_participation_pct": 58.32
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

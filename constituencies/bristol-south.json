@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 2259.4,
+    "bng": {
+      "easting": 358409,
+      "northing": 169600
+    },
+    "centroid": {
+      "latitude": 51.42387,
+      "longitude": -2.59956
+    },
+    "geojson": "constituencies/boundaries/bristol-south.geojson",
+    "ons_code": "E14001135",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4444.json",
+    "member_id": 4444,
+    "name": "Karin Smyth",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75533,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7666,
+      "result": "Lab Hold",
+      "turnout": 43403,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3369,
+      "end_date": "2024-05-30",
+      "member_id": 4444,
+      "name": "Karin Smyth",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3950,
+  "is_current": true,
+  "name": "Bristol South",
+  "name_cy": null,
+  "ons_code": "E14001135",
+  "outcodes": [
+    "BS13",
+    "BS14",
+    "BS3",
+    "BS4",
+    "BS99"
+  ],
+  "schema_version": 1,
+  "slug": "bristol-south",
+  "start_date": "2024-05-31"
+}

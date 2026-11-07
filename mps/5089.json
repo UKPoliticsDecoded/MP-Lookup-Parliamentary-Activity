@@ -1,0 +1,289 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 47,
+        "debates_participated": 38,
+        "oral_questions": 1,
+        "written_questions": 150
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 243,
+        "debates_participated": 156,
+        "early_day_motions": 2,
+        "oral_questions": 14,
+        "written_questions": 3009
+      },
+      "2026": {
+        "debate_contributions": 186,
+        "debates_participated": 123,
+        "oral_questions": 7,
+        "written_questions": 3400
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 476,
+    "debates_participated": 317,
+    "early_day_motions": 2,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 6559
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 476,
+    "voting_participation_pct": 74.96,
+    "written_questions": 6559
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-27"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/huntingdon.json",
+    "id": 4113,
+    "name": "Huntingdon",
+    "ons_code": "E14001298",
+    "slug": "huntingdon"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ben.obesejecty.mp@parliament.uk",
+      "phone": "0207 219 7338",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://benobese-jecty.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/BenObeseJecty/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/benobesejecty"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/BenObeseJecty"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5089
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5089,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ben Obese-Jecty",
+    "full_title": "Ben Obese-Jecty MP",
+    "list_as": "Obese-Jecty, Ben"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Defence)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3506,
+        "name": "Hackney North and Stoke Newington",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Huntingdon",
+        "constituency_id": 4113,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ben Obese-Jecty is the Conservative MP for <a href='/constituency/4113/overview'>Huntingdon</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Shadow Parliamentary Under Secretary (Defence).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5089/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 54,
+        "voting_participation_pct": 73.97
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 234,
+        "voting_participation_pct": 72.67
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 185,
+        "voting_participation_pct": 78.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 473,
+        "voting_participation_pct": 74.96
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 473,
+    "voting_participation_pct": 74.96
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

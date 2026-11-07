@@ -1,0 +1,641 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 51,
+        "debates_participated": 35,
+        "oral_questions": 9,
+        "written_questions": 14
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 47,
+        "debates_participated": 27,
+        "oral_questions": 15,
+        "written_questions": 4
+      },
+      "2022": {
+        "debate_contributions": 63,
+        "debates_participated": 33,
+        "oral_questions": 6,
+        "written_questions": 5
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 58,
+        "debates_participated": 31,
+        "oral_questions": 7,
+        "written_questions": 7
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 86,
+        "debates_participated": 48,
+        "oral_questions": 3,
+        "written_questions": 54
+      },
+      "2025": {
+        "debate_contributions": 604,
+        "debates_participated": 99,
+        "oral_questions": 5,
+        "written_questions": 80
+      },
+      "2026": {
+        "debate_contributions": 285,
+        "debates_participated": 53,
+        "oral_questions": 1,
+        "written_questions": 196
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 1194,
+    "debates_participated": 326,
+    "early_day_motions": 0,
+    "oral_questions": 46,
+    "petitions_presented": 0,
+    "written_questions": 360
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1194,
+    "voting_participation_pct": 84.99,
+    "written_questions": 360
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 59,
+      "meetings_available": 59
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 135,
+      "meetings_available": 135
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-03-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-28"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-04"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2023-12-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-25"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-20"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-05-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hamble-valley.json",
+    "id": 4078,
+    "name": "Hamble Valley",
+    "ons_code": "E14001263",
+    "slug": "hamble-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "paul.holmes.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "The Hill, Upper Northam Close, Hedge End",
+      "phone": "02382 542 205",
+      "postcode": "SO30 4BB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.voteholmes.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PaulHolmesHambleValley/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/pauljholmes"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4803
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4803,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Paul Holmes",
+    "full_title": "Paul Holmes MP",
+    "list_as": "Holmes, Paul"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2024-04-25"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Deputy Chief Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Housing, Communities and Local Government)",
+        "start_date": "2024-11-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign, Commonwealth and Development Office)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Northern Ireland)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3761,
+        "name": "Southampton, Test",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3614,
+        "name": "Mitcham and Morden",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hamble Valley",
+        "constituency_id": 4078,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Eastleigh",
+        "constituency_id": 3468,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Paul Holmes is the Conservative MP for <a href='/constituency/4078/overview'>Hamble Valley</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Opposition Deputy Chief Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4803/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 189,
+        "voting_participation_pct": 99.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 223,
+        "voting_participation_pct": 92.15
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 211,
+        "voting_participation_pct": 84.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 231,
+        "voting_participation_pct": 90.23
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 173,
+        "voting_participation_pct": 86.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 227,
+        "voting_participation_pct": 70.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 971,
+        "voting_participation_pct": 90.92
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 473,
+        "voting_participation_pct": 74.96
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1444,
+    "voting_participation_pct": 84.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

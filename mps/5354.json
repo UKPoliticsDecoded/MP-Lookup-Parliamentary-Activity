@@ -1,0 +1,244 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 8,
+        "early_day_motions": 1,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 138,
+        "debates_participated": 87,
+        "early_day_motions": 13,
+        "oral_questions": 11,
+        "written_questions": 204
+      },
+      "2026": {
+        "debate_contributions": 51,
+        "debates_participated": 29,
+        "early_day_motions": 6,
+        "oral_questions": 3,
+        "written_questions": 319
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 198,
+    "debates_participated": 124,
+    "early_day_motions": 20,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 531
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 198,
+    "voting_participation_pct": 57.69,
+    "written_questions": 531
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 34,
+      "meetings_available": 34
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 41,
+      "meetings_available": 41
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-13"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/tewkesbury.json",
+    "id": 4357,
+    "name": "Tewkesbury",
+    "ons_code": "E14001542",
+    "slug": "tewkesbury"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "cameron.thomas.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "9 Church Street, Tewkesbury",
+      "phone": "01684 498338",
+      "postcode": "GL20 5PA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/libdemcam.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/people/Cameron-Thomas-MP/61554916107753/"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@CamThomasLD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5354
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5354,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Cameron Thomas",
+    "full_title": "Cameron Thomas MP",
+    "list_as": "Thomas, Cameron"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2026-06-18"
+      },
+      {
+        "end_date": "2026-06-18",
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tewkesbury",
+        "constituency_id": 4357,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Cameron Thomas is the Independent MP for <a href='/constituency/4357/overview'>Tewkesbury</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5354/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 38,
+        "voting_participation_pct": 52.05
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 188,
+        "voting_participation_pct": 58.39
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 138,
+        "voting_participation_pct": 58.47
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 364,
+        "voting_participation_pct": 57.69
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 364,
+    "voting_participation_pct": 57.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

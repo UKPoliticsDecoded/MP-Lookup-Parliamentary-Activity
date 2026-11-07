@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 2294.9,
+    "bng": {
+      "easting": 538856,
+      "northing": 193069
+    },
+    "centroid": {
+      "latitude": 51.61932,
+      "longitude": 0.004346
+    },
+    "geojson": "constituencies/boundaries/chingford-and-woodford-green.geojson",
+    "ons_code": "E14001167",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/152.json",
+    "member_id": 152,
+    "name": "Sir Iain Duncan Smith",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74010,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4757,
+      "result": "Con Hold",
+      "turnout": 48512,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3410,
+      "end_date": "2024-05-30",
+      "member_id": 152,
+      "name": "Sir Iain Duncan Smith",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 667,
+      "end_date": "2010-05-06",
+      "member_id": 152,
+      "name": "Sir Iain Duncan Smith",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 3982,
+  "is_current": true,
+  "name": "Chingford and Woodford Green",
+  "name_cy": null,
+  "ons_code": "E14001167",
+  "outcodes": [
+    "E17",
+    "E18",
+    "E4",
+    "IG8",
+    "IG9"
+  ],
+  "schema_version": 1,
+  "slug": "chingford-and-woodford-green",
+  "start_date": "2024-05-31"
+}

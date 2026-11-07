@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 127935.7,
+    "bng": {
+      "easting": 212024,
+      "northing": 78839
+    },
+    "centroid": {
+      "latitude": 50.57895,
+      "longitude": -4.65642
+    },
+    "geojson": "constituencies/boundaries/north-cornwall.geojson",
+    "ons_code": "E14001385",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5350.json",
+    "member_id": 5350,
+    "name": "Ben Maguire",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76741,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9957,
+      "result": "LD Gain",
+      "turnout": 51245,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3635,
+      "end_date": "2024-05-30",
+      "member_id": 4496,
+      "name": "Scott Mann",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4200,
+  "is_current": true,
+  "name": "North Cornwall",
+  "name_cy": null,
+  "ons_code": "E14001385",
+  "outcodes": [
+    "EX22",
+    "EX23",
+    "PL15",
+    "PL17",
+    "PL26",
+    "PL27",
+    "PL28",
+    "PL29",
+    "PL30",
+    "PL31",
+    "PL32",
+    "PL33",
+    "PL34",
+    "PL35",
+    "TR8",
+    "TR9"
+  ],
+  "schema_version": 1,
+  "slug": "north-cornwall",
+  "start_date": "2024-05-31"
+}

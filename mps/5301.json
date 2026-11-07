@@ -1,0 +1,404 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 51,
+        "debates_participated": 30,
+        "oral_questions": 10,
+        "written_questions": 37
+      },
+      "2025": {
+        "debate_contributions": 271,
+        "debates_participated": 114,
+        "oral_questions": 14,
+        "written_questions": 72
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 227,
+        "debates_participated": 92,
+        "oral_questions": 15,
+        "petitions_presented": 1,
+        "written_questions": 220
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 549,
+    "debates_participated": 236,
+    "early_day_motions": 0,
+    "oral_questions": 39,
+    "petitions_presented": 1,
+    "written_questions": 329
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 549,
+    "voting_participation_pct": 70.36,
+    "written_questions": 329
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 133,
+      "meetings_available": 133
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters’ Rights Bill",
+      "committee_id": 739,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-08"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Renters’ Rights Bill",
+        "committee_id": 739,
+        "file": "committees/renters-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "renters-rights-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-west-devon.json",
+    "id": 4310,
+    "name": "South West Devon",
+    "ons_code": "E14001495",
+    "slug": "south-west-devon"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rebecca.smith.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "www.rebecca-smith.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/SWDevonRebecca"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/SWDevonRebecca"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5301
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5301,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Rebecca Smith",
+    "full_title": "Rebecca Smith MP",
+    "list_as": "Smith, Rebecca"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3680,
+        "name": "Plymouth, Sutton and Devonport",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South West Devon",
+        "constituency_id": 4310,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Rebecca Smith is the Conservative MP for <a href='/constituency/4310/overview'>South West Devon</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the roles of Opposition Assistant Whip (Commons), and Shadow Minister (Education).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5301/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 57,
+        "voting_participation_pct": 78.08
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 227,
+        "voting_participation_pct": 70.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 160,
+        "voting_participation_pct": 67.8
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 444,
+        "voting_participation_pct": 70.36
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 444,
+    "voting_participation_pct": 70.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 3200.1,
+    "bng": {
+      "easting": 456222,
+      "northing": 306111
+    },
+    "centroid": {
+      "latitude": 52.64984,
+      "longitude": -1.17039
+    },
+    "geojson": "constituencies/boundaries/leicester-west.geojson",
+    "ons_code": "E14001328",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4026.json",
+    "member_id": 4026,
+    "name": "Liz Kendall",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74102,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8777,
+      "result": "Lab Hold",
+      "turnout": 35397,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3572,
+      "end_date": "2024-05-30",
+      "member_id": 4026,
+      "name": "Liz Kendall",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4143,
+  "is_current": true,
+  "name": "Leicester West",
+  "name_cy": null,
+  "ons_code": "E14001328",
+  "outcodes": [
+    "LE1",
+    "LE2",
+    "LE3",
+    "LE4",
+    "LE7"
+  ],
+  "schema_version": 1,
+  "slug": "leicester-west",
+  "start_date": "2024-05-31"
+}

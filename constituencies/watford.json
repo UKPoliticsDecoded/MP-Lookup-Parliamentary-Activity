@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 2421.1,
+    "bng": {
+      "easting": 510663,
+      "northing": 198280
+    },
+    "centroid": {
+      "latitude": 51.6724,
+      "longitude": -0.40105
+    },
+    "geojson": "constituencies/boundaries/watford.geojson",
+    "ons_code": "E14001568",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5130.json",
+    "member_id": 5130,
+    "name": "Matt Turmaine",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73100,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4723,
+      "result": "Lab Gain",
+      "turnout": 44455,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3833,
+      "end_date": "2024-05-30",
+      "member_id": 4812,
+      "name": "Dean Russell",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4383,
+  "is_current": true,
+  "name": "Watford",
+  "name_cy": null,
+  "ons_code": "E14001568",
+  "outcodes": [
+    "WD17",
+    "WD18",
+    "WD19",
+    "WD23",
+    "WD24",
+    "WD25",
+    "WD3",
+    "WD4",
+    "WD5",
+    "WD99"
+  ],
+  "schema_version": 1,
+  "slug": "watford",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 4161.0,
+    "bng": {
+      "easting": 355048,
+      "northing": 178219
+    },
+    "centroid": {
+      "latitude": 51.5011,
+      "longitude": -2.64899
+    },
+    "geojson": "constituencies/boundaries/bristol-north-west.geojson",
+    "ons_code": "E14001134",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4621.json",
+    "member_id": 4621,
+    "name": "Darren Jones",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74869,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15669,
+      "result": "Lab Hold",
+      "turnout": 48464,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3368,
+      "end_date": "2024-05-30",
+      "member_id": 4621,
+      "name": "Darren Jones",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 3949,
+  "is_current": true,
+  "name": "Bristol North West",
+  "name_cy": null,
+  "ons_code": "E14001134",
+  "outcodes": [
+    "BS10",
+    "BS11",
+    "BS16",
+    "BS6",
+    "BS7",
+    "BS8",
+    "BS9"
+  ],
+  "schema_version": 1,
+  "slug": "bristol-north-west",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,86 @@
+{
+  "boundary": {
+    "area_hectares": 65075.4,
+    "bng": {
+      "easting": 366856,
+      "northing": 444482
+    },
+    "centroid": {
+      "latitude": 53.89545,
+      "longitude": -2.50584
+    },
+    "geojson": "constituencies/boundaries/ribble-valley.geojson",
+    "ons_code": "E14001443",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5228.json",
+    "member_id": 5228,
+    "name": "Maya Ellis",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80484,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 856,
+      "result": "Lab Gain",
+      "turnout": 52023,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3697,
+      "end_date": "2024-05-30",
+      "member_id": 474,
+      "name": "Mr Nigel Evans",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2422,
+      "end_date": "2010-05-06",
+      "member_id": 474,
+      "name": "Mr Nigel Evans",
+      "start_date": "1997-05-01"
+    },
+    {
+      "constituency_version_id": 2421,
+      "end_date": "1997-05-01",
+      "member_id": 474,
+      "name": "Mr Nigel Evans",
+      "start_date": "1992-04-09"
+    }
+  ],
+  "id": 4258,
+  "is_current": true,
+  "name": "Ribble Valley",
+  "name_cy": null,
+  "ons_code": "E14001443",
+  "outcodes": [
+    "BB1",
+    "BB2",
+    "BB6",
+    "BB7",
+    "BB9",
+    "BD23",
+    "PR1",
+    "PR11",
+    "PR2",
+    "PR3",
+    "PR4",
+    "PR5"
+  ],
+  "schema_version": 1,
+  "slug": "ribble-valley",
+  "start_date": "2024-05-31"
+}

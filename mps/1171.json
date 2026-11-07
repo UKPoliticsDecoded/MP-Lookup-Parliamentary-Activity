@@ -1,0 +1,680 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 39,
+        "debates_participated": 11,
+        "early_day_motions": 1,
+        "written_questions": 51
+      },
+      "2021": {
+        "debate_contributions": 33,
+        "debates_participated": 23,
+        "oral_questions": 2,
+        "written_questions": 49
+      },
+      "2022": {
+        "debate_contributions": 208,
+        "debates_participated": 50,
+        "oral_questions": 1,
+        "written_questions": 51
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 97,
+        "debates_participated": 39,
+        "early_day_motions": 1,
+        "written_questions": 69
+      },
+      "2024": {
+        "debate_contributions": 90,
+        "debates_participated": 46,
+        "written_questions": 115
+      },
+      "2025": {
+        "debate_contributions": 96,
+        "debates_participated": 46,
+        "written_questions": 64
+      },
+      "2026": {
+        "debate_contributions": 41,
+        "debates_participated": 27,
+        "early_day_motions": 1,
+        "written_questions": 118
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 604,
+    "debates_participated": 242,
+    "early_day_motions": 3,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 517
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 6,
+    "debate_contributions": 604,
+    "voting_participation_pct": 66.45,
+    "written_questions": 517
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": true,
+      "meetings_attended": 81,
+      "meetings_available": 81
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": true,
+      "meetings_attended": 43,
+      "meetings_available": 43
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 52,
+      "meetings_available": 52
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Strategic Litigation Against Public Participation Bill",
+      "committee_id": 724,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-10-18"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-18"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2025-03-05"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-18"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-18"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-11"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-15"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-02"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-10-18"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-18"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-25"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-19"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Strategic Litigation Against Public Participation Bill",
+        "committee_id": 724,
+        "file": "committees/strategic-litigation-against-public-participation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "strategic-litigation-against-public-participation-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/birmingham-hodge-hill-and-solihull-north.json",
+    "id": 3910,
+    "name": "Birmingham Hodge Hill and Solihull North",
+    "ons_code": "E14001095",
+    "slug": "birmingham-hodge-hill-and-solihull-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "liam.byrne.mp@parliament.uk",
+      "phone": "020 7219 6953",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0121 789 7287",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.liambyrnemp.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/LiamByrneMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1171
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1171,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2004-07-15",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Rt Hon. Liam Byrne",
+    "display": "Liam Byrne",
+    "full_title": "Rt Hon Liam Byrne MP",
+    "list_as": "Byrne, Liam"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2009-06-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2009-06-05",
+        "is_current": false,
+        "name": "Minister for the Cabinet Office and Chancellor of the Duchy of Lancaster",
+        "start_date": "2008-10-03"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2008-10-03",
+        "is_current": false,
+        "name": "Minister of State (HM Treasury) (also in the Home Office)",
+        "start_date": "2008-01-25"
+      },
+      {
+        "department": "Regional Affairs",
+        "department_url": null,
+        "end_date": "2008-10-06",
+        "is_current": false,
+        "name": "Minister of State (Regional Affairs) (West Midlands)",
+        "start_date": "2007-06-29"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2008-10-03",
+        "is_current": false,
+        "name": "Minister of State (Home Office) (Borders and Immigration)",
+        "start_date": "2007-06-28"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Minister of State (Home Office) (Immigration and Asylum)",
+        "start_date": "2007-05-09"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2007-05-08",
+        "is_current": false,
+        "name": "Minister of State (Home Office) (Immigration, Citizenship and Nationality)",
+        "start_date": "2006-05-22"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2006-05-22",
+        "is_current": false,
+        "name": "Minister of State (Home Office)",
+        "start_date": "2006-05-05"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2006-05-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health) (Care Services)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport) (Digital Economy)",
+        "start_date": "2017-07-17"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2015-09-12",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Work and Pensions",
+        "start_date": "2011-01-20"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2011-01-20",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Chief Secretary to the Treasury",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2004-07-15"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham Hodge Hill and Solihull North",
+        "constituency_id": 3910,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Birmingham, Hodge Hill",
+        "constituency_id": 3328,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Birmingham, Hodge Hill",
+        "constituency_id": 276,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2004-07-15"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Liam Byrne is the Labour MP for <a href='/constituency/3910/overview'>Birmingham Hodge Hill and Solihull North</a>, and has been an MP continually since 15 July 2004.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1171/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 100,
+        "voting_participation_pct": 52.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 199,
+        "voting_participation_pct": 82.23
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 161,
+        "voting_participation_pct": 64.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 187,
+        "voting_participation_pct": 73.05
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 125,
+        "voting_participation_pct": 62.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 182,
+        "voting_participation_pct": 56.52
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 173,
+        "voting_participation_pct": 73.31
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 715,
+        "voting_participation_pct": 66.95
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 414,
+        "voting_participation_pct": 65.61
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1129,
+    "voting_participation_pct": 66.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 39,
+        "debates_participated": 31,
+        "early_day_motions": 19,
+        "written_questions": 245
+      },
+      "2021": {
+        "debate_contributions": 32,
+        "debates_participated": 25,
+        "early_day_motions": 9,
+        "oral_questions": 1,
+        "written_questions": 182
+      },
+      "2022": {
+        "debate_contributions": 32,
+        "debates_participated": 22,
+        "early_day_motions": 4,
+        "oral_questions": 1,
+        "written_questions": 75
+      },
+      "2023": {
+        "debate_contributions": 25,
+        "debates_participated": 18,
+        "early_day_motions": 10,
+        "written_questions": 101
+      },
+      "2024": {
+        "debate_contributions": 56,
+        "debates_participated": 43,
+        "early_day_motions": 9,
+        "oral_questions": 1,
+        "written_questions": 99
+      },
+      "2025": {
+        "debate_contributions": 33,
+        "debates_participated": 29,
+        "early_day_motions": 7,
+        "written_questions": 86
+      },
+      "2026": {
+        "debate_contributions": 53,
+        "debates_participated": 41,
+        "early_day_motions": 12,
+        "oral_questions": 1,
+        "written_questions": 100
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 270,
+    "debates_participated": 209,
+    "early_day_motions": 70,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 888
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 270,
+    "voting_participation_pct": 68.39,
+    "written_questions": 888
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 131,
+      "meetings_available": 131
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Strategic Litigation Against Public Participation Bill",
+      "committee_id": 724,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Strategic Litigation Against Public Participation Bill",
+        "committee_id": 724,
+        "file": "committees/strategic-litigation-against-public-participation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "strategic-litigation-against-public-participation-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/poplar-and-limehouse.json",
+    "id": 4245,
+    "name": "Poplar and Limehouse",
+    "ons_code": "E14001430",
+    "slug": "poplar-and-limehouse"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "apsana.begum.mp@parliament.uk",
+      "phone": "0207 219 6826",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4790
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4790,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Apsana Begum",
+    "full_title": "Apsana Begum MP",
+    "list_as": "Begum, Apsana"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2025-09-26"
+      },
+      {
+        "end_date": "2025-09-26",
+        "party": "Independent",
+        "start_date": "2024-07-23"
+      },
+      {
+        "end_date": "2024-07-23",
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Poplar and Limehouse",
+        "constituency_id": 4245,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Poplar and Limehouse",
+        "constituency_id": 3683,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Apsana Begum is the Labour MP for <a href='/constituency/4245/overview'>Poplar and Limehouse</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4790/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 134,
+        "voting_participation_pct": 53.39
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 167,
+        "voting_participation_pct": 65.23
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 138,
+        "voting_participation_pct": 69.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 210,
+        "voting_participation_pct": 65.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 154,
+        "voting_participation_pct": 65.25
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 735,
+        "voting_participation_pct": 68.82
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 427,
+        "voting_participation_pct": 67.67
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1162,
+    "voting_participation_pct": 68.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

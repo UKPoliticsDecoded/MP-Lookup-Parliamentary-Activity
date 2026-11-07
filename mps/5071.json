@@ -1,0 +1,246 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 61,
+        "debates_participated": 44,
+        "oral_questions": 4,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 142,
+        "debates_participated": 115,
+        "oral_questions": 11,
+        "written_questions": 4
+      },
+      "2026": {
+        "debate_contributions": 73,
+        "debates_participated": 59,
+        "oral_questions": 5,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 276,
+    "debates_participated": 218,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 8
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 276,
+    "voting_participation_pct": 87.16,
+    "written_questions": 8
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill",
+      "committee_id": 742,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+      "committee_id": 743,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill",
+        "committee_id": 742,
+        "file": "committees/terrorism-protection-of-premises-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+        "committee_id": 743,
+        "file": "committees/terrorism-protection-of-premises-bill-programming-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill-programming-sub-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rochdale.json",
+    "id": 4261,
+    "name": "Rochdale",
+    "ons_code": "E14001446",
+    "slug": "rochdale"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "paul.waugh.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01706 391482",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://paulwaugh.co.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/paulwaughmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PaulWaughUK/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5071
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5071,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Paul Waugh",
+    "full_title": "Paul Waugh MP",
+    "list_as": "Waugh, Paul"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Department for Education)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rochdale",
+        "constituency_id": 4261,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Paul Waugh is the Labour (Co-op) MP for <a href='/constituency/4261/overview'>Rochdale</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Parliamentary Under-Secretary (Department for Education).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5071/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 283,
+        "voting_participation_pct": 87.89
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 197,
+        "voting_participation_pct": 83.47
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 550,
+        "voting_participation_pct": 87.16
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 550,
+    "voting_participation_pct": 87.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 68,
+        "debates_participated": 52,
+        "oral_questions": 1,
+        "written_questions": 33
+      },
+      "2021": {
+        "debate_contributions": 55,
+        "debates_participated": 40,
+        "oral_questions": 2,
+        "written_questions": 32
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 24,
+        "debates_participated": 20,
+        "oral_questions": 2,
+        "written_questions": 43
+      },
+      "2023": {
+        "debate_contributions": 51,
+        "debates_participated": 32,
+        "written_questions": 8
+      },
+      "2024": {
+        "debate_contributions": 18,
+        "debates_participated": 13,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 217,
+    "debates_participated": 158,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 117
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 217,
+    "voting_participation_pct": 85.86,
+    "written_questions": 117
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Sex-based Harassment in Public Bill",
+      "committee_id": 653,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 75,
+      "meetings_available": 75
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-11"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Protection from Sex-based Harassment in Public Bill",
+        "committee_id": 653,
+        "file": "committees/protection-from-sex-based-harassment-in-public-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-08"
+          }
+        ],
+        "slug": "protection-from-sex-based-harassment-in-public-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-13",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2022-07-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-10-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-11"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-12"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3813,
+    "name": "Tunbridge Wells"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1578
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1578,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Greg Clark",
+    "display": "Greg Clark",
+    "full_title": "Rt Hon Greg Clark",
+    "list_as": "Clark, Greg"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Secretary of State for Levelling Up, Housing and Communities",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Secretary of State for Business, Energy and Industrial Strategy ",
+        "start_date": "2016-07-14"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2016-07-14",
+        "is_current": false,
+        "name": "Secretary of State for Communities and Local Government",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Innovation and Skills) (Universities and Science)",
+        "start_date": "2014-07-15"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Minister of State (Cabinet Office)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Financial Secretary (HM Treasury)",
+        "start_date": "2012-09-06"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Innovation and Skills) (Decentralisation and Cities) (also in the Department for Communities and Local Government)",
+        "start_date": "2011-07-19"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Communities and Local Government) (Decentralisation and Cities) (also in the Department for Business, Innovation and Skills)",
+        "start_date": "2010-05-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Energy and Climate Change",
+        "start_date": "2008-10-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2008-10-06",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2007-07-03"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2007-07-02",
+        "is_current": false,
+        "name": "Shadow Minister for Charities, Voluntary Bodies and Social Enterprise",
+        "start_date": "2006-11-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-10-30"
+      },
+      {
+        "end_date": "2019-10-29",
+        "party": "Independent",
+        "start_date": "2019-09-04"
+      },
+      {
+        "end_date": "2019-09-04",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tunbridge Wells",
+        "constituency_id": 3813,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Tunbridge Wells",
+        "constituency_id": 2965,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Greg Clark is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3813/overview'>Tunbridge Wells</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1578/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 170,
+        "voting_participation_pct": 89.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 211,
+        "voting_participation_pct": 84.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 214,
+        "voting_participation_pct": 83.59
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 110,
+        "voting_participation_pct": 86.61
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 917,
+        "voting_participation_pct": 85.86
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 917,
+    "voting_participation_pct": 85.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

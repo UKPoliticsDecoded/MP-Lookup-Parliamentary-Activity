@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 3015.5,
+    "bng": {
+      "easting": 621220,
+      "northing": 308013
+    },
+    "centroid": {
+      "latitude": 52.6248,
+      "longitude": 1.267055
+    },
+    "geojson": "constituencies/boundaries/norwich-south.geojson",
+    "ons_code": "E14001409",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4500.json",
+    "member_id": 4500,
+    "name": "Clive Lewis",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76296,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13239,
+      "result": "Lab Hold",
+      "turnout": 45095,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3663,
+      "end_date": "2024-05-30",
+      "member_id": 4500,
+      "name": "Clive Lewis",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4224,
+  "is_current": true,
+  "name": "Norwich South",
+  "name_cy": null,
+  "ons_code": "E14001409",
+  "outcodes": [
+    "NR1",
+    "NR2",
+    "NR3",
+    "NR4",
+    "NR5",
+    "NR6",
+    "NR7",
+    "NR99"
+  ],
+  "schema_version": 1,
+  "slug": "norwich-south",
+  "start_date": "2024-05-31"
+}

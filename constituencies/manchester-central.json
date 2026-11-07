@@ -1,0 +1,92 @@
+{
+  "boundary": {
+    "area_hectares": 2729.6,
+    "bng": {
+      "easting": 388412,
+      "northing": 399810
+    },
+    "centroid": {
+      "latitude": 53.49488,
+      "longitude": -2.17613
+    },
+    "geojson": "constituencies/boundaries/manchester-central.geojson",
+    "ons_code": "E14001352",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4263.json",
+    "member_id": 4263,
+    "name": "Lucy Powell",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 85204,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13797,
+      "result": "Lab Hold",
+      "turnout": 39725,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3596,
+      "end_date": "2024-05-30",
+      "member_id": 4263,
+      "name": "Lucy Powell",
+      "start_date": "2012-11-15"
+    },
+    {
+      "constituency_version_id": 3596,
+      "end_date": "2012-10-22",
+      "member_id": 450,
+      "name": "Tony Lloyd",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1881,
+      "end_date": "2010-05-06",
+      "member_id": 450,
+      "name": "Tony Lloyd",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4167,
+  "is_current": true,
+  "name": "Manchester Central",
+  "name_cy": null,
+  "ons_code": "E14001352",
+  "outcodes": [
+    "M1",
+    "M11",
+    "M12",
+    "M15",
+    "M2",
+    "M3",
+    "M35",
+    "M4",
+    "M40",
+    "M43",
+    "M60",
+    "M61",
+    "M7",
+    "M8",
+    "M99",
+    "OL3",
+    "OL8",
+    "OL9"
+  ],
+  "schema_version": 1,
+  "slug": "manchester-central",
+  "start_date": "2024-05-31"
+}

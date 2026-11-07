@@ -1,0 +1,176 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 20,
+        "debates_participated": 16,
+        "oral_questions": 2,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 32,
+        "debates_participated": 24,
+        "oral_questions": 4,
+        "written_questions": 51
+      },
+      "2026": {
+        "debate_contributions": 36,
+        "debates_participated": 24,
+        "oral_questions": 5,
+        "written_questions": 6
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 88,
+    "debates_participated": 64,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 65
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 88,
+    "voting_participation_pct": 68.46,
+    "written_questions": 65
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "defence"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/plymouth-moor-view.json",
+    "id": 4241,
+    "name": "Plymouth Moor View",
+    "ons_code": "E14001426",
+    "slug": "plymouth-moor-view"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "fred.thomas.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "fred.thomas.mp@parliament.uk",
+      "phone": "01752 373404",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5174
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5174,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Fred Thomas",
+    "full_title": "Fred Thomas MP",
+    "list_as": "Thomas, Fred"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Plymouth Moor View",
+        "constituency_id": 4241,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Fred Thomas is the Labour MP for <a href='/constituency/4241/overview'>Plymouth Moor View</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5174/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 210,
+        "voting_participation_pct": 65.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 156,
+        "voting_participation_pct": 66.1
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 432,
+        "voting_participation_pct": 68.46
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 432,
+    "voting_participation_pct": 68.46
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

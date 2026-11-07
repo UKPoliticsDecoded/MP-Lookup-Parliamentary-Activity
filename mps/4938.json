@@ -1,0 +1,329 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "debate_contributions": 27,
+        "debates_participated": 19,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2023": {
+        "debate_contributions": 42,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 15
+      },
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 27,
+        "oral_questions": 10,
+        "written_questions": 25
+      },
+      "2025": {
+        "debate_contributions": 71,
+        "debates_participated": 37,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 35
+      },
+      "2026": {
+        "debate_contributions": 44,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 221,
+    "debates_participated": 139,
+    "early_day_motions": 3,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 110
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 221,
+    "voting_participation_pct": 73.91,
+    "written_questions": 110
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 42,
+      "meetings_available": 42
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Supported Housing (Regulatory Oversight) Bill",
+      "committee_id": 637,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-04"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "modernisation"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Supported Housing (Regulatory Oversight) Bill",
+        "committee_id": 637,
+        "file": "committees/supported-housing-regulatory-oversight-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-14"
+          }
+        ],
+        "slug": "supported-housing-regulatory-oversight-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/birmingham-erdington.json",
+    "id": 3908,
+    "name": "Birmingham Erdington",
+    "ons_code": "E14001093",
+    "slug": "birmingham-erdington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "paulette.hamilton.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "paulette.hamilton.mp@parliament.uk ",
+      "phone": "0121 306 4275",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://paulettehamilton.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PauletteHamiltonMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/PauletteHamilto"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4938
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4938,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2022-03-03",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Paulette Hamilton",
+    "full_title": "Paulette Hamilton MP",
+    "list_as": "Hamilton, Paulette"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2022-03-03"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham Erdington",
+        "constituency_id": 3908,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Birmingham, Erdington",
+        "constituency_id": 3326,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2022-03-03"
+      }
+    ]
+  },
+  "synopsis": "Paulette Hamilton is the Labour MP for <a href='/constituency/3908/overview'>Birmingham Erdington</a>, and has been an MP continually since 3 March 2022.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4938/Thumbnail",
+  "voting": {
+    "annual": {
+      "2022": {
+        "divisions_eligible": 197,
+        "divisions_voted": 126,
+        "voting_participation_pct": 63.96
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 175,
+        "voting_participation_pct": 68.36
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 151,
+        "voting_participation_pct": 75.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 185,
+        "voting_participation_pct": 78.39
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 580,
+        "divisions_voted": 388,
+        "voting_participation_pct": 66.9
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 507,
+        "voting_participation_pct": 80.35
+      }
+    },
+    "divisions_eligible": 1211,
+    "divisions_voted": 895,
+    "voting_participation_pct": 73.91
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 34,
+        "debates_participated": 17,
+        "oral_questions": 3,
+        "written_questions": 74
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 237,
+        "debates_participated": 67,
+        "early_day_motions": 2,
+        "oral_questions": 11,
+        "written_questions": 217
+      },
+      "2026": {
+        "debate_contributions": 65,
+        "debates_participated": 29,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 56
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 336,
+    "debates_participated": 113,
+    "early_day_motions": 5,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 347
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 336,
+    "voting_participation_pct": 80.67,
+    "written_questions": 347
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stroud.json",
+    "id": 4344,
+    "name": "Stroud",
+    "ons_code": "E14001529",
+    "slug": "stroud"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "simon.opher.mp@parliament.uk",
+      "phone": "02072 197116",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "phone": "01453 621304",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://simonopher.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/simonforstroud"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/simonforstroud/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5030
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5030,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Simon Opher",
+    "full_title": "Dr Simon Opher MP",
+    "list_as": "Opher, Dr Simon"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stroud",
+        "constituency_id": 4344,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Simon Opher is the Labour MP for <a href='/constituency/4344/overview'>Stroud</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5030/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 262,
+        "voting_participation_pct": 81.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 509,
+        "voting_participation_pct": 80.67
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 509,
+    "voting_participation_pct": 80.67
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

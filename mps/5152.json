@@ -1,0 +1,288 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 16,
+        "oral_questions": 3,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 97,
+        "debates_participated": 70,
+        "oral_questions": 8,
+        "written_questions": 20
+      },
+      "2026": {
+        "debate_contributions": 59,
+        "debates_participated": 47,
+        "oral_questions": 5,
+        "written_questions": 18
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 177,
+    "debates_participated": 133,
+    "early_day_motions": 0,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 46
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 177,
+    "voting_participation_pct": 85.1,
+    "written_questions": 46
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": true,
+      "meetings_attended": 85,
+      "meetings_available": 85
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+      "committee_id": 749,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+        "committee_id": 749,
+        "file": "committees/non-domestic-rating-multipliers-and-private-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "non-domestic-rating-multipliers-and-private-schools-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wolverhampton-north-east.json",
+    "id": 4409,
+    "name": "Wolverhampton North East",
+    "ons_code": "E14001594",
+    "slug": "wolverhampton-north-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sureena.brackenridge.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01902 288465",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.sureenabrackenridge.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Sureena4WNE/?locale=en_GB"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/sureenabrackenridge/?hl=en"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Sureena4WNE"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5152
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5152,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sureena Brackenridge",
+    "display": "Sureena Brackenridge",
+    "full_title": "Sureena Brackenridge MP",
+    "list_as": "Brackenridge, Sureena"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wolverhampton North East",
+        "constituency_id": 4409,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sureena Brackenridge is the Labour MP for <a href='/constituency/4409/overview'>Wolverhampton North East</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5152/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 266,
+        "voting_participation_pct": 82.61
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 200,
+        "voting_participation_pct": 84.75
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 537,
+        "voting_participation_pct": 85.1
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 537,
+    "voting_participation_pct": 85.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

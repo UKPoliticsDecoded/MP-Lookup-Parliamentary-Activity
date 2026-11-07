@@ -1,0 +1,323 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 92,
+        "debates_participated": 58,
+        "oral_questions": 6,
+        "written_questions": 48
+      },
+      "2021": {
+        "debate_contributions": 86,
+        "debates_participated": 51,
+        "oral_questions": 1,
+        "written_questions": 34
+      },
+      "2022": {
+        "debate_contributions": 14,
+        "debates_participated": 11,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 26,
+        "debates_participated": 18,
+        "written_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 6,
+        "debates_participated": 4,
+        "early_day_motions": 1,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 224,
+    "debates_participated": 142,
+    "early_day_motions": 1,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 86
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 224,
+    "voting_participation_pct": 64.98,
+    "written_questions": 86
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 76,
+      "meetings_available": 76
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": false,
+      "meetings_attended": 144,
+      "meetings_available": 144
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-01-11"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-15",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2024-04-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2024-03-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-07"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3524,
+    "name": "Hazel Grove"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4429
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4429,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Wragg",
+    "display": "Mr William Wragg",
+    "full_title": "Mr William Wragg",
+    "list_as": "Wragg, Mr William"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Independent",
+        "start_date": "2024-04-09"
+      },
+      {
+        "end_date": "2024-04-09",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hazel Grove",
+        "constituency_id": 3524,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Mr William Wragg is no longer a Member, but was most recently the Independent MP for <a href='/constituency/3524/overview'>Hazel Grove</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4429/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 169,
+        "voting_participation_pct": 69.83
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 146,
+        "voting_participation_pct": 58.17
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 152,
+        "voting_participation_pct": 59.38
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 82,
+        "voting_participation_pct": 64.57
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 694,
+        "voting_participation_pct": 64.98
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 694,
+    "voting_participation_pct": 64.98
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 202,
+        "debates_participated": 88,
+        "oral_questions": 19,
+        "written_questions": 239
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 91,
+        "debates_participated": 73,
+        "oral_questions": 21,
+        "written_questions": 184
+      },
+      "2022": {
+        "debate_contributions": 124,
+        "debates_participated": 76,
+        "oral_questions": 20,
+        "written_questions": 85
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 159,
+        "debates_participated": 108,
+        "oral_questions": 25,
+        "written_questions": 86
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 93,
+        "debates_participated": 66,
+        "oral_questions": 13,
+        "written_questions": 40
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 669,
+    "debates_participated": 411,
+    "early_day_motions": 0,
+    "oral_questions": 98,
+    "petitions_presented": 0,
+    "written_questions": 634
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 669,
+    "voting_participation_pct": 89.14,
+    "written_questions": 634
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-13"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3412,
+    "name": "Chipping Barnet"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1500
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 1500,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Theresa Villiers",
+    "full_title": "Rt Hon Theresa Villiers",
+    "list_as": "Villiers, Theresa"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2016-07-14",
+        "is_current": false,
+        "name": "Secretary of State for Northern Ireland",
+        "start_date": "2012-09-06"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Transport) (Rail and Aviation)",
+        "start_date": "2010-05-14"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2007-07-03"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2007-07-03",
+        "is_current": false,
+        "name": "Shadow Chief Secretary to the Treasury",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3984,
+        "name": "Chipping Barnet",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chipping Barnet",
+        "constituency_id": 3412,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Chipping Barnet",
+        "constituency_id": 673,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Theresa Villiers is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3412/overview'>Chipping Barnet</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1500/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 170,
+        "voting_participation_pct": 89.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 221,
+        "voting_participation_pct": 88.05
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 235,
+        "voting_participation_pct": 91.8
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 110,
+        "voting_participation_pct": 86.61
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 952,
+        "voting_participation_pct": 89.14
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 952,
+    "voting_participation_pct": 89.14
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

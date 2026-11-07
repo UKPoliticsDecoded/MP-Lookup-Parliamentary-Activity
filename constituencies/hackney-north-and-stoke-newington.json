@@ -1,0 +1,81 @@
+{
+  "boundary": {
+    "area_hectares": 910.5,
+    "bng": {
+      "easting": 533884,
+      "northing": 186725
+    },
+    "centroid": {
+      "latitude": 51.56352,
+      "longitude": -0.06984
+    },
+    "geojson": "constituencies/boundaries/hackney-north-and-stoke-newington.geojson",
+    "ons_code": "E14001259",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/172.json",
+    "member_id": 172,
+    "name": "Ms Diane Abbott",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77812,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15080,
+      "result": "Lab Hold",
+      "turnout": 40959,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3506,
+      "end_date": "2024-05-30",
+      "member_id": 172,
+      "name": "Ms Diane Abbott",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1333,
+      "end_date": "2010-05-06",
+      "member_id": 172,
+      "name": "Ms Diane Abbott",
+      "start_date": "1997-05-01"
+    },
+    {
+      "constituency_version_id": 1332,
+      "end_date": "1997-05-01",
+      "member_id": 172,
+      "name": "Ms Diane Abbott",
+      "start_date": "1987-06-11"
+    }
+  ],
+  "id": 4074,
+  "is_current": true,
+  "name": "Hackney North and Stoke Newington",
+  "name_cy": null,
+  "ons_code": "E14001259",
+  "outcodes": [
+    "E5",
+    "E8",
+    "E9",
+    "N15",
+    "N16",
+    "N4",
+    "N5"
+  ],
+  "schema_version": 1,
+  "slug": "hackney-north-and-stoke-newington",
+  "start_date": "2024-05-31"
+}

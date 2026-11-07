@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 131167.5,
+    "bng": {
+      "easting": 533602,
+      "northing": 382253
+    },
+    "centroid": {
+      "latitude": 53.32037,
+      "longitude": 0.004253
+    },
+    "geojson": "constituencies/boundaries/louth-and-horncastle.geojson",
+    "ons_code": "E14001343",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4399.json",
+    "member_id": 4399,
+    "name": "Victoria Atkins",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76880,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5506,
+      "result": "Con Hold",
+      "turnout": 46479,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3587,
+      "end_date": "2024-05-30",
+      "member_id": 4399,
+      "name": "Victoria Atkins",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4158,
+  "is_current": true,
+  "name": "Louth and Horncastle",
+  "name_cy": null,
+  "ons_code": "E14001343",
+  "outcodes": [
+    "DN36",
+    "DN37",
+    "LN10",
+    "LN11",
+    "LN12",
+    "LN13",
+    "LN3",
+    "LN4",
+    "LN8",
+    "LN9",
+    "PE22",
+    "PE23"
+  ],
+  "schema_version": 1,
+  "slug": "louth-and-horncastle",
+  "start_date": "2024-05-31"
+}

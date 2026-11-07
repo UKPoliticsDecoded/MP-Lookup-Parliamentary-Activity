@@ -1,0 +1,604 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 73,
+        "debates_participated": 57,
+        "early_day_motions": 1,
+        "oral_questions": 11,
+        "written_questions": 86
+      },
+      "2021": {
+        "debate_contributions": 81,
+        "debates_participated": 56,
+        "early_day_motions": 10,
+        "oral_questions": 11,
+        "written_questions": 337
+      },
+      "2022": {
+        "debate_contributions": 76,
+        "debates_participated": 45,
+        "early_day_motions": 4,
+        "oral_questions": 2,
+        "written_questions": 274
+      },
+      "2023": {
+        "debate_contributions": 62,
+        "debates_participated": 37,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 370
+      },
+      "2024": {
+        "debate_contributions": 27,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 150
+      },
+      "2025": {
+        "debate_contributions": 46,
+        "debates_participated": 34,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 145
+      },
+      "2026": {
+        "debate_contributions": 39,
+        "debates_participated": 26,
+        "oral_questions": 2,
+        "written_questions": 198
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 404,
+    "debates_participated": 272,
+    "early_day_motions": 19,
+    "oral_questions": 34,
+    "petitions_presented": 0,
+    "written_questions": 1560
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 98.37,
+    "committee_memberships": 2,
+    "debate_contributions": 404,
+    "voting_participation_pct": 77.16,
+    "written_questions": 1560
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 33.33,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL]",
+      "committee_id": 576,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL] Second Reading Committee",
+      "committee_id": 574,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 80,
+      "meetings_available": 80
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+      "committee_id": 570,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+      "committee_id": 749,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety Bill",
+      "committee_id": 592,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": false,
+      "meetings_attended": 23,
+      "meetings_available": 23
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-26"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Charities Bill [HL]",
+        "committee_id": 576,
+        "file": "committees/charities-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "charities-bill-hl"
+      },
+      {
+        "committee": "Charities Bill [HL] Second Reading Committee",
+        "committee_id": 574,
+        "file": "committees/charities-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "charities-bill-hl-second-reading"
+      },
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-10-05"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+        "committee_id": 570,
+        "file": "committees/marriage-and-civil-partnership-minimum-age-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "marriage-and-civil-partnership-minimum-age-bill"
+      },
+      {
+        "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+        "committee_id": 749,
+        "file": "committees/non-domestic-rating-multipliers-and-private-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "non-domestic-rating-multipliers-and-private-schools-bill"
+      },
+      {
+        "committee": "Online Safety Bill",
+        "committee_id": 592,
+        "file": "committees/online-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-18"
+          }
+        ],
+        "slug": "online-safety-bill"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-09-21"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-01"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-05-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stockport.json",
+    "id": 4332,
+    "name": "Stockport",
+    "ons_code": "E14001517",
+    "slug": "stockport"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "navendu.mishra.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "102 Princes Street, Stockport",
+      "phone": "0161 480 0833",
+      "postcode": "SK1 1RJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.navendumishra.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/NavenduForStockport/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4811
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4811,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Navendu Mishra",
+    "full_title": "Navendu Mishra MP",
+    "list_as": "Mishra, Navendu"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2022-01-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stockport",
+        "constituency_id": 4332,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Stockport",
+        "constituency_id": 3774,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Navendu Mishra is the Labour MP for <a href='/constituency/4332/overview'>Stockport</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4811/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 146,
+        "voting_participation_pct": 76.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 193,
+        "voting_participation_pct": 76.89
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 192,
+        "voting_participation_pct": 75.0
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 141,
+        "voting_participation_pct": 70.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 241,
+        "voting_participation_pct": 74.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 200,
+        "voting_participation_pct": 84.75
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 812,
+        "voting_participation_pct": 76.03
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 499,
+        "voting_participation_pct": 79.08
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1311,
+    "voting_participation_pct": 77.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

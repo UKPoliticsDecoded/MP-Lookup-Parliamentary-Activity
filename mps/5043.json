@@ -1,0 +1,212 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 6,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 48,
+        "debates_participated": 39,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 6
+      },
+      "2026": {
+        "debate_contributions": 28,
+        "debates_participated": 20,
+        "early_day_motions": 6,
+        "oral_questions": 5,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 85,
+    "debates_participated": 65,
+    "early_day_motions": 9,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 12
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 85,
+    "voting_participation_pct": 67.04,
+    "written_questions": 12
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": true,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-18"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/kilmarnock-and-loudoun.json",
+    "id": 4444,
+    "name": "Kilmarnock and Loudoun",
+    "ons_code": "S14000110",
+    "slug": "kilmarnock-and-loudoun"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lillian.jones.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "19 Portland Street, Kilmarnock",
+      "email": "lillian.jones.mp@parliament.uk",
+      "phone": "01563 210011",
+      "postcode": "KA1 1JN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/lillianjonesmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/lillianjonesmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5043
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5043,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lillian Jones",
+    "full_title": "Lillian Jones MP",
+    "list_as": "Jones, Lillian"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Kilmarnock and Loudoun",
+        "constituency_id": 4444,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lillian Jones is the Labour MP for <a href='/constituency/4444/overview'>Kilmarnock and Loudoun</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5043/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 49,
+        "voting_participation_pct": 67.12
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 148,
+        "voting_participation_pct": 62.71
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 423,
+        "voting_participation_pct": 67.04
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 423,
+    "voting_participation_pct": 67.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

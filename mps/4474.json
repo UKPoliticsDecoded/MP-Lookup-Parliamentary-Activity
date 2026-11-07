@@ -1,0 +1,549 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 288,
+        "debates_participated": 112,
+        "oral_questions": 20,
+        "written_questions": 41
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 278,
+        "debates_participated": 101,
+        "oral_questions": 23,
+        "written_questions": 80
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 629,
+        "debates_participated": 88,
+        "oral_questions": 6,
+        "written_questions": 39
+      },
+      "2023": {
+        "debate_contributions": 668,
+        "debates_participated": 99,
+        "petitions_presented": 168
+      },
+      "2024": {
+        "debate_contributions": 527,
+        "debates_participated": 71,
+        "petitions_presented": 41,
+        "written_questions": 300
+      },
+      "2025": {
+        "debate_contributions": 86,
+        "debates_participated": 30,
+        "written_questions": 2270
+      },
+      "2026": {
+        "debate_contributions": 11,
+        "debates_participated": 1,
+        "written_questions": 616
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 2487,
+    "debates_participated": 502,
+    "early_day_motions": 0,
+    "oral_questions": 49,
+    "petitions_presented": 209,
+    "written_questions": 3346
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 2487,
+    "voting_participation_pct": 78.28,
+    "written_questions": 3346
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Carer’s Leave Bill",
+      "committee_id": 623,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Neonatal Care (Leave and Pay) Bill",
+      "committee_id": 610,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 54,
+      "meetings_available": 54
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Carer’s Leave Bill",
+        "committee_id": 623,
+        "file": "committees/carers-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "carers-leave-bill"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-31"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Neonatal Care (Leave and Pay) Bill",
+        "committee_id": 610,
+        "file": "committees/neonatal-care-leave-and-pay-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-20"
+          }
+        ],
+        "slug": "neonatal-care-leave-and-pay-bill"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-01"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-14"
+          }
+        ],
+        "slug": "treasury"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-20"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/thirsk-and-malton.json",
+    "id": 4359,
+    "name": "Thirsk and Malton",
+    "ons_code": "E14001544",
+    "slug": "thirsk-and-malton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kevin.hollinrake.mp@parliament.uk",
+      "phone": "020 7219 4746",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "109 Town Street, Old Malton",
+      "phone": "01653 916417",
+      "postcode": "YO17 7HD",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.kevinhollinrake.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/kevinhollinrakeconservative/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/kevinhollinrake"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4474
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4474,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Kevin Hollinrake",
+    "display": "Kevin Hollinrake",
+    "full_title": "Kevin Hollinrake MP",
+    "list_as": "Hollinrake, Kevin"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Business and Trade)",
+        "start_date": "2024-03-26"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-03-26",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Business and Trade)",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2022-10-27"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister without Portfolio",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Levelling Up, Housing and Communities",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Business and Trade",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Party Chair, Conservative Party",
+        "start_date": "2025-07-22"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Thirsk and Malton",
+        "constituency_id": 4359,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Thirsk and Malton",
+        "constituency_id": 3801,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Kevin Hollinrake is the Conservative MP for <a href='/constituency/4359/overview'>Thirsk and Malton</a>, and has been an MP continually since 7 May 2015. \r\nHe currently undertakes the role of Shadow Minister without Portfolio. \r\nIn addition, he is Party Chair, Conservative Party.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4474/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 180,
+        "voting_participation_pct": 94.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 209,
+        "voting_participation_pct": 83.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 236,
+        "voting_participation_pct": 92.19
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 159,
+        "voting_participation_pct": 79.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 204,
+        "voting_participation_pct": 63.35
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 121,
+        "voting_participation_pct": 51.27
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 961,
+        "voting_participation_pct": 89.98
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 369,
+        "voting_participation_pct": 58.48
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1330,
+    "voting_participation_pct": 78.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

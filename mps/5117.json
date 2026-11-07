@@ -1,0 +1,245 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 18,
+        "debates_participated": 11,
+        "oral_questions": 2,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 56,
+        "debates_participated": 41,
+        "oral_questions": 8,
+        "written_questions": 4
+      },
+      "2026": {
+        "debate_contributions": 56,
+        "debates_participated": 37,
+        "oral_questions": 5,
+        "written_questions": 7
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 130,
+    "debates_participated": 89,
+    "early_day_motions": 0,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 20
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 130,
+    "voting_participation_pct": 64.18,
+    "written_questions": 20
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hyndburn.json",
+    "id": 4114,
+    "name": "Hyndburn",
+    "ons_code": "E14001299",
+    "slug": "hyndburn"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.smith.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "9 Blackburn Road, Accrington",
+      "phone": "01254 926 487",
+      "postcode": "BB5 1HF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/sarahsmithlab.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/SarahSmithForHH"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/sarah_smith_mp/"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@sarah.smith.mp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/sarahsmithlab"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5117
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5117,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Smith",
+    "full_title": "Sarah Smith MP",
+    "list_as": "Smith, Sarah"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hyndburn",
+        "constituency_id": 4114,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sarah Smith is the Labour MP for <a href='/constituency/4114/overview'>Hyndburn</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5117/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 47,
+        "voting_participation_pct": 64.38
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 201,
+        "voting_participation_pct": 62.42
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 157,
+        "voting_participation_pct": 66.53
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 405,
+        "voting_participation_pct": 64.18
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 405,
+    "voting_participation_pct": 64.18
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

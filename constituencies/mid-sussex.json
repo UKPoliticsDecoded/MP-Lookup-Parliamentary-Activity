@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 16569.5,
+    "bng": {
+      "easting": 529850,
+      "northing": 119269
+    },
+    "centroid": {
+      "latitude": 50.95822,
+      "longitude": -0.15247
+    },
+    "geojson": "constituencies/boundaries/mid-sussex.geojson",
+    "ons_code": "E14001366",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5283.json",
+    "member_id": 5283,
+    "name": "Alison Bennett",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75969,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6662,
+      "result": "LD Gain",
+      "turnout": 53328,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3607,
+      "end_date": "2024-05-30",
+      "member_id": 4513,
+      "name": "Mims Davies",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4181,
+  "is_current": true,
+  "name": "Mid Sussex",
+  "name_cy": null,
+  "ons_code": "E14001366",
+  "outcodes": [
+    "BN1",
+    "BN45",
+    "BN5",
+    "BN6",
+    "RH13",
+    "RH15",
+    "RH16",
+    "RH17"
+  ],
+  "schema_version": 1,
+  "slug": "mid-sussex",
+  "start_date": "2024-05-31"
+}

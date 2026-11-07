@@ -1,0 +1,56 @@
+{
+  "boundary": {
+    "area_hectares": 4047.8,
+    "bng": {
+      "easting": 452832,
+      "northing": 344369
+    },
+    "centroid": {
+      "latitude": 52.99407,
+      "longitude": -1.21433
+    },
+    "geojson": "constituencies/boundaries/nottingham-north-and-kimberley.geojson",
+    "ons_code": "E14001411",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4641.json",
+    "member_id": 4641,
+    "name": "Alex Norris",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73768,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9427,
+      "result": "Lab Hold",
+      "turnout": 35007,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4226,
+  "is_current": true,
+  "name": "Nottingham North and Kimberley",
+  "name_cy": null,
+  "ons_code": "E14001411",
+  "outcodes": [
+    "NG16",
+    "NG5",
+    "NG6",
+    "NG8"
+  ],
+  "schema_version": 1,
+  "slug": "nottingham-north-and-kimberley",
+  "start_date": "2024-05-31"
+}

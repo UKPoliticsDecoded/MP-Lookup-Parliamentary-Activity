@@ -1,0 +1,253 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 37,
+        "debates_participated": 23,
+        "written_questions": 13
+      },
+      "2026": {
+        "debate_contributions": 15,
+        "debates_participated": 13,
+        "early_day_motions": 2,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 68,
+    "debates_participated": 51,
+    "early_day_motions": 2,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 31
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 68,
+    "voting_participation_pct": 68.15,
+    "written_questions": 31
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 27,
+      "meetings_available": 27
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-27"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/st-helens-north.json",
+    "id": 4324,
+    "name": "St Helens North",
+    "ons_code": "E14001509",
+    "slug": "st-helens-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "david.baines.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://davidbaines.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DavidBainesMP/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/davidbainesmp/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5092
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5092,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "David Baines",
+    "full_title": "David Baines MP",
+    "list_as": "Baines, David"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "St Helens North",
+        "constituency_id": 4324,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "David Baines is the Labour MP for <a href='/constituency/4324/overview'>St Helens North</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5092/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 55,
+        "voting_participation_pct": 75.34
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 221,
+        "voting_participation_pct": 68.63
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 154,
+        "voting_participation_pct": 65.25
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 430,
+        "voting_participation_pct": 68.15
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 430,
+    "voting_participation_pct": 68.15
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

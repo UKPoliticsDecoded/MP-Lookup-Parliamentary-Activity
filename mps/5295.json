@@ -1,0 +1,219 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 55,
+        "debates_participated": 38,
+        "oral_questions": 2,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 145,
+        "debates_participated": 103,
+        "oral_questions": 11,
+        "written_questions": 133
+      },
+      "2026": {
+        "debate_contributions": 76,
+        "debates_participated": 57,
+        "oral_questions": 8,
+        "written_questions": 71
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 276,
+    "debates_participated": 198,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 213
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 276,
+    "voting_participation_pct": 85.74,
+    "written_questions": 213
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "health-and-social-care"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/calder-valley.json",
+    "id": 3962,
+    "name": "Calder Valley",
+    "ons_code": "E14001147",
+    "slug": "calder-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "josh.fentonglynn.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5295
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5295,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Josh Fenton-Glynn",
+    "full_title": "Josh Fenton-Glynn MP",
+    "list_as": "Fenton-Glynn, Josh"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Calder Valley",
+        "constituency_id": 3962,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Josh Fenton-Glynn is the Labour MP for <a href='/constituency/3962/overview'>Calder Valley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5295/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 276,
+        "voting_participation_pct": 85.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 199,
+        "voting_participation_pct": 84.32
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 541,
+        "voting_participation_pct": 85.74
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 541,
+    "voting_participation_pct": 85.74
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

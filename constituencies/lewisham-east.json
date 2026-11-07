@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 1563.5,
+    "bng": {
+      "easting": 539092,
+      "northing": 172809
+    },
+    "centroid": {
+      "latitude": 51.43721,
+      "longitude": -0.00024
+    },
+    "geojson": "constituencies/boundaries/lewisham-east.geojson",
+    "ons_code": "E14001331",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4698.json",
+    "member_id": 4698,
+    "name": "Janet Daby",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73380,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 18073,
+      "result": "Lab Hold",
+      "turnout": 40637,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3575,
+      "end_date": "2024-05-30",
+      "member_id": 4698,
+      "name": "Janet Daby",
+      "start_date": "2018-06-14"
+    },
+    {
+      "constituency_version_id": 3575,
+      "end_date": "2018-05-09",
+      "member_id": 4038,
+      "name": "Heidi Alexander",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4146,
+  "is_current": true,
+  "name": "Lewisham East",
+  "name_cy": null,
+  "ons_code": "E14001331",
+  "outcodes": [
+    "BR1",
+    "BR3",
+    "SE12",
+    "SE13",
+    "SE26",
+    "SE6",
+    "SE9"
+  ],
+  "schema_version": 1,
+  "slug": "lewisham-east",
+  "start_date": "2024-05-31"
+}

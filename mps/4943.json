@@ -1,0 +1,297 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "debate_contributions": 11,
+        "debates_participated": 9,
+        "oral_questions": 2,
+        "written_questions": 39
+      },
+      "2023": {
+        "debate_contributions": 46,
+        "debates_participated": 40,
+        "oral_questions": 7,
+        "written_questions": 99
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 124,
+        "debates_participated": 38,
+        "oral_questions": 1,
+        "written_questions": 13
+      },
+      "2025": {
+        "debate_contributions": 288,
+        "debates_participated": 62
+      },
+      "2026": {
+        "debate_contributions": 169,
+        "debates_participated": 47
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 638,
+    "debates_participated": 196,
+    "early_day_motions": 0,
+    "oral_questions": 10,
+    "petitions_presented": 0,
+    "written_questions": 151
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 638,
+    "voting_participation_pct": 65.96,
+    "written_questions": 151
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Automated Vehicles Bill [HL]",
+      "committee_id": 714,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Seafarers' Wages Bill [HL]",
+      "committee_id": 638,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Automated Vehicles Bill [HL]",
+        "committee_id": 714,
+        "file": "committees/automated-vehicles-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "automated-vehicles-bill-hl"
+      },
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Seafarers' Wages Bill [HL]",
+        "committee_id": 638,
+        "file": "committees/seafarers-wages-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-11"
+          }
+        ],
+        "slug": "seafarers-wages-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wakefield-and-rothwell.json",
+    "id": 4375,
+    "name": "Wakefield and Rothwell",
+    "ons_code": "E14001560",
+    "slug": "wakefield-and-rothwell"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "simon.lightwood.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "16 Westmorland Street, Wakefield",
+      "phone": "01924 682269",
+      "postcode": "WF1 1PJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.simonlightwood.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/simonlightwoodmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/simonlightwood"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4943
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4943,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2022-06-23",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Simon Lightwood",
+    "full_title": "Simon Lightwood MP",
+    "list_as": "Lightwood, Simon"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government) (Minister for Equalities)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Housing, Communities and Local Government) (Minister for Equalities)",
+      "Parliamentary Under-Secretary (Department for Transport)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2022-09-27"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2022-06-23"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wakefield and Rothwell",
+        "constituency_id": 4375,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wakefield",
+        "constituency_id": 3821,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2022-06-23"
+      }
+    ]
+  },
+  "synopsis": "Simon Lightwood is the Labour (Co-op) MP for <a href='/constituency/4375/overview'>Wakefield and Rothwell</a>, and has been an MP continually since 23 June 2022. \r\nHe currently holds the Government posts of Parliamentary Under-Secretary (Department for Transport), and Parliamentary Under-Secretary (Housing, Communities and Local Government) (Minister for Equalities).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4943/Thumbnail",
+  "voting": {
+    "annual": {
+      "2022": {
+        "divisions_eligible": 114,
+        "divisions_voted": 89,
+        "voting_participation_pct": 78.07
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 157,
+        "voting_participation_pct": 61.33
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 136,
+        "voting_participation_pct": 68.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 205,
+        "voting_participation_pct": 63.66
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 157,
+        "voting_participation_pct": 66.53
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 497,
+        "divisions_voted": 326,
+        "voting_participation_pct": 65.59
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 418,
+        "voting_participation_pct": 66.24
+      }
+    },
+    "divisions_eligible": 1128,
+    "divisions_voted": 744,
+    "voting_participation_pct": 65.96
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

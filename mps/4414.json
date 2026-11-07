@@ -1,0 +1,471 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 457,
+        "debates_participated": 75,
+        "petitions_presented": 3
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 820,
+        "debates_participated": 102
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 535,
+        "debates_participated": 65,
+        "petitions_presented": 4
+      },
+      "2023": {
+        "debate_contributions": 181,
+        "debates_participated": 32,
+        "petitions_presented": 115
+      },
+      "2024": {
+        "debate_contributions": 23,
+        "debates_participated": 12
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 2016,
+    "debates_participated": 286,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 122,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 2016,
+    "voting_participation_pct": 87.36,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commercial Rent (Coronavirus) Bill",
+      "committee_id": 561,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+      "committee_id": 673,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commercial Rent (Coronavirus) Bill",
+        "committee_id": 561,
+        "file": "committees/commercial-rent-coronavirus-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "commercial-rent-coronavirus-bill"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+        "committee_id": 673,
+        "file": "committees/electronic-trade-documents-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl-second-reading"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-08"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-01"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-18"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3790,
+    "name": "Sutton and Cheam"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4414
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4414,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": null
+  },
+  "name": {
+    "address_as": "Paul Scully",
+    "display": "Paul Scully",
+    "full_title": "Paul Scully",
+    "list_as": "Scully, Paul"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Science, Innovation and Technology)",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Minister of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Minister of State (London)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Minister of State (London)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2022-07-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2020-02-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sutton and Cheam",
+        "constituency_id": 3790,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Paul Scully is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3790/overview'>Sutton and Cheam</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4414/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 170,
+        "voting_participation_pct": 89.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 223,
+        "voting_participation_pct": 92.15
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 208,
+        "voting_participation_pct": 82.87
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 226,
+        "voting_participation_pct": 88.28
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 104,
+        "voting_participation_pct": 81.89
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 933,
+        "voting_participation_pct": 87.36
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 933,
+    "voting_participation_pct": 87.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

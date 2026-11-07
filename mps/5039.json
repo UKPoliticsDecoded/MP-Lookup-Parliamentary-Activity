@@ -1,0 +1,235 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 6,
+        "oral_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 61,
+        "debates_participated": 21,
+        "oral_questions": 2,
+        "written_questions": 68
+      },
+      "2026": {
+        "debate_contributions": 264,
+        "debates_participated": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 341,
+    "debates_participated": 61,
+    "early_day_motions": 0,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 68
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 2,
+    "debate_contributions": 341,
+    "voting_participation_pct": 76.23,
+    "written_questions": 68
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+      "committee_id": 790,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+        "committee_id": 790,
+        "file": "committees/animal-welfare-import-of-dogs-cats-and-ferrets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "animal-welfare-import-of-dogs-cats-and-ferrets-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/vale-of-glamorgan.json",
+    "id": 4525,
+    "name": "Vale of Glamorgan",
+    "ons_code": "W07000110",
+    "slug": "vale-of-glamorgan"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kanishka.narayan.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5039
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5039,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kanishka Narayan",
+    "full_title": "Rt Hon Kanishka Narayan MP",
+    "list_as": "Narayan, Kanishka"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Business, Innovation, Science and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Cabinet Office) (Jointly with the Department for Business, Innovation, Science and Technology)",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Science, Innovation and Technology)",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Cabinet Office) (Jointly with the Department for Business, Innovation, Science and Technology)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Vale of Glamorgan",
+        "constituency_id": 4525,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Kanishka Narayan is the Labour MP for <a href='/constituency/4525/overview'>Vale of Glamorgan</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Minister of State (Cabinet Office) (Jointly with the Department for Business, Innovation, Science and Technology).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5039/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 270,
+        "voting_participation_pct": 83.85
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 146,
+        "voting_participation_pct": 61.86
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 481,
+        "voting_participation_pct": 76.23
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 481,
+    "voting_participation_pct": 76.23
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

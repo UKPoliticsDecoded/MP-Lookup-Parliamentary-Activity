@@ -1,0 +1,151 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 25,
+        "debates_participated": 13,
+        "oral_questions": 1,
+        "written_questions": 224
+      },
+      "2025": {
+        "debate_contributions": 27,
+        "debates_participated": 19,
+        "early_day_motions": 34,
+        "oral_questions": 4,
+        "written_questions": 1338
+      },
+      "2026": {
+        "debate_contributions": 13,
+        "debates_participated": 11,
+        "early_day_motions": 15,
+        "oral_questions": 4,
+        "written_questions": 3574
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 65,
+    "debates_participated": 43,
+    "early_day_motions": 49,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 5136
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 65,
+    "voting_participation_pct": 41.05,
+    "written_questions": 5136
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/south-basildon-and-east-thurrock.json",
+    "id": 4295,
+    "name": "South Basildon and East Thurrock",
+    "ons_code": "E14001480",
+    "slug": "south-basildon-and-east-thurrock"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "james.mcmurdock.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5361
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5361,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James McMurdock",
+    "full_title": "James McMurdock MP",
+    "list_as": "McMurdock, James"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2025-07-05"
+      },
+      {
+        "end_date": "2025-07-05",
+        "party": "Reform UK",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Basildon and East Thurrock",
+        "constituency_id": 4295,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "James McMurdock is the Independent MP for <a href='/constituency/4295/overview'>South Basildon and East Thurrock</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5361/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 47,
+        "voting_participation_pct": 64.38
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 159,
+        "voting_participation_pct": 49.38
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 53,
+        "voting_participation_pct": 22.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 259,
+        "voting_participation_pct": 41.05
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 259,
+    "voting_participation_pct": 41.05
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 24801.4,
+    "bng": {
+      "easting": 566712,
+      "northing": 140727
+    },
+    "centroid": {
+      "latitude": 51.14153,
+      "longitude": 0.381826
+    },
+    "geojson": "constituencies/boundaries/tunbridge-wells.geojson",
+    "ons_code": "E14001555",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5219.json",
+    "member_id": 5219,
+    "name": "Mike Martin",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78738,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8687,
+      "result": "LD Gain",
+      "turnout": 54250,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3813,
+      "end_date": "2024-05-30",
+      "member_id": 1578,
+      "name": "Greg Clark",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2965,
+      "end_date": "2010-05-06",
+      "member_id": 1578,
+      "name": "Greg Clark",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4370,
+  "is_current": true,
+  "name": "Tunbridge Wells",
+  "name_cy": null,
+  "ons_code": "E14001555",
+  "outcodes": [
+    "TN1",
+    "TN11",
+    "TN12",
+    "TN17",
+    "TN18",
+    "TN2",
+    "TN3",
+    "TN4",
+    "TN5"
+  ],
+  "schema_version": 1,
+  "slug": "tunbridge-wells",
+  "start_date": "2024-05-31"
+}

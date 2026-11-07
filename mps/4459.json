@@ -1,0 +1,489 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 59,
+        "debates_participated": 53,
+        "oral_questions": 13,
+        "written_questions": 7
+      },
+      "2021": {
+        "debate_contributions": 67,
+        "debates_participated": 46,
+        "oral_questions": 11,
+        "written_questions": 7
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 68,
+        "debates_participated": 49,
+        "oral_questions": 5,
+        "written_questions": 2
+      },
+      "2023": {
+        "bills_sponsored": 2,
+        "debate_contributions": 83,
+        "debates_participated": 55,
+        "oral_questions": 14,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 39,
+        "debates_participated": 27,
+        "oral_questions": 7,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 316,
+    "debates_participated": 230,
+    "early_day_motions": 0,
+    "oral_questions": 50,
+    "petitions_presented": 0,
+    "written_questions": 26
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.25,
+    "committee_memberships": 0,
+    "debate_contributions": 316,
+    "voting_participation_pct": 91.01,
+    "written_questions": 26
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+      "committee_id": 657,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support (Enforcement) Bill",
+      "committee_id": 654,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 97.78,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 44,
+      "meetings_available": 45
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Hunting Trophies (Import Prohibition) Bill",
+      "committee_id": 640,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 87,
+      "meetings_available": 87
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+        "committee_id": 657,
+        "file": "committees/animals-low-welfare-activities-abroad-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "animals-low-welfare-activities-abroad-bill"
+      },
+      {
+        "committee": "Child Support (Enforcement) Bill",
+        "committee_id": 654,
+        "file": "committees/child-support-enforcement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "child-support-enforcement-bill"
+      },
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Hunting Trophies (Import Prohibition) Bill",
+        "committee_id": 640,
+        "file": "committees/hunting-trophies-import-prohibition-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "hunting-trophies-import-prohibition-bill"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-15"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3600,
+    "name": "Meon Valley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4459
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4459,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mrs Flick Drummond",
+    "full_title": "Mrs Flick Drummond",
+    "list_as": "Drummond, Mrs Flick"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4402,
+        "name": "Winchester",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3685,
+        "name": "Portsmouth South",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3685,
+        "name": "Portsmouth South",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Meon Valley",
+        "constituency_id": 3600,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      },
+      {
+        "constituency": "Portsmouth South",
+        "constituency_id": 3685,
+        "end_date": "2017-05-03",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Mrs Flick Drummond is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3600/overview'>Meon Valley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4459/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 225,
+        "voting_participation_pct": 92.98
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 222,
+        "voting_participation_pct": 88.45
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 229,
+        "voting_participation_pct": 89.45
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 113,
+        "voting_participation_pct": 88.98
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 972,
+        "voting_participation_pct": 91.01
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 972,
+    "voting_participation_pct": 91.01
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

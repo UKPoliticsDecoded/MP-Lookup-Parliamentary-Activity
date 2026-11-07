@@ -1,0 +1,80 @@
+{
+  "boundary": {
+    "area_hectares": 4194.4,
+    "bng": {
+      "easting": 623005,
+      "northing": 312297
+    },
+    "centroid": {
+      "latitude": 52.66252,
+      "longitude": 1.296274
+    },
+    "geojson": "constituencies/boundaries/norwich-north.geojson",
+    "ons_code": "E14001408",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5133.json",
+    "member_id": 5133,
+    "name": "Alice Macdonald",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73717,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10850,
+      "result": "Lab Gain",
+      "turnout": 45765,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3662,
+      "end_date": "2024-05-30",
+      "member_id": 1609,
+      "name": "Chloe Smith",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2199,
+      "end_date": "2010-05-06",
+      "member_id": 1609,
+      "name": "Chloe Smith",
+      "start_date": "2009-07-23"
+    }
+  ],
+  "id": 4223,
+  "is_current": true,
+  "name": "Norwich North",
+  "name_cy": null,
+  "ons_code": "E14001408",
+  "outcodes": [
+    "NR1",
+    "NR10",
+    "NR12",
+    "NR13",
+    "NR14",
+    "NR2",
+    "NR3",
+    "NR4",
+    "NR5",
+    "NR6",
+    "NR7",
+    "NR8",
+    "NR9"
+  ],
+  "schema_version": 1,
+  "slug": "norwich-north",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,519 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 95,
+        "debates_participated": 51,
+        "oral_questions": 19,
+        "written_questions": 65
+      },
+      "2021": {
+        "debate_contributions": 85,
+        "debates_participated": 50,
+        "oral_questions": 21,
+        "written_questions": 51
+      },
+      "2022": {
+        "debate_contributions": 88,
+        "debates_participated": 40,
+        "oral_questions": 21,
+        "written_questions": 16
+      },
+      "2023": {
+        "debate_contributions": 133,
+        "debates_participated": 34
+      },
+      "2024": {
+        "debate_contributions": 112,
+        "debates_participated": 49,
+        "oral_questions": 6,
+        "written_questions": 12
+      },
+      "2025": {
+        "debate_contributions": 248,
+        "debates_participated": 132,
+        "oral_questions": 29,
+        "written_questions": 70
+      },
+      "2026": {
+        "bills_sponsored": 3,
+        "debate_contributions": 175,
+        "debates_participated": 84,
+        "oral_questions": 24,
+        "written_questions": 51
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 936,
+    "debates_participated": 440,
+    "early_day_motions": 0,
+    "oral_questions": 120,
+    "petitions_presented": 0,
+    "written_questions": 265
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 5,
+    "debate_contributions": 936,
+    "voting_participation_pct": 83.11,
+    "written_questions": 265
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 31,
+      "meetings_available": 31
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 53,
+      "meetings_available": 53
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Programme Board",
+      "committee_id": 652,
+      "is_current": true,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Cultural Objects (Protection From Seizure) Bill",
+      "committee_id": 555,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 92,
+      "meetings_available": 92
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 89,
+      "meetings_available": 89
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-25"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-16"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Restoration and Renewal Programme Board",
+        "committee_id": 652,
+        "file": "committees/restoration-and-renewal-programme-board.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "restoration-and-renewal-programme-board"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Cultural Objects (Protection From Seizure) Bill",
+        "committee_id": 555,
+        "file": "committees/cultural-objects-protection-from-seizure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "cultural-objects-protection-from-seizure-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-04"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2023-01-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2023-01-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/berwickshire-roxburgh-and-selkirk.json",
+    "id": 4440,
+    "name": "Berwickshire, Roxburgh and Selkirk",
+    "ons_code": "S14000108",
+    "slug": "berwickshire-roxburgh-and-selkirk"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.lamont.mp@parliament.uk",
+      "phone": "01450 375948",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office, 25 High Street, Hawick",
+      "phone": "01450 375 948",
+      "postcode": "TD9 9BU",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.johnlamont.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JohnLamontBorders/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/johnlamontborders"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/John2Win"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4608
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4608,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "John Lamont",
+    "display": "John Lamont",
+    "full_title": "John Lamont MP",
+    "list_as": "Lamont, John"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Scotland Office)",
+        "start_date": "2022-10-27"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Deputy Leader of the House of Commons",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Scotland",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 216,
+        "name": "Berwickshire, Roxburgh and Selkirk",
+        "startDate": "2015-05-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 216,
+        "name": "Berwickshire, Roxburgh and Selkirk",
+        "startDate": "2010-05-06T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 216,
+        "name": "Berwickshire, Roxburgh and Selkirk",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Berwickshire, Roxburgh and Selkirk",
+        "constituency_id": 4440,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Berwickshire, Roxburgh and Selkirk",
+        "constituency_id": 216,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "John Lamont is the Conservative MP for <a href='/constituency/4440/overview'>Berwickshire, Roxburgh and Selkirk</a>, and has been an MP continually since 8 June 2017. \r\nHe currently undertakes the role of Shadow Deputy Leader of the House of Commons.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4608/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 163,
+        "voting_participation_pct": 85.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 190,
+        "voting_participation_pct": 78.51
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 213,
+        "voting_participation_pct": 84.86
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 239,
+        "voting_participation_pct": 93.36
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 175,
+        "voting_participation_pct": 87.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 242,
+        "voting_participation_pct": 75.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 924,
+        "voting_participation_pct": 86.52
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 488,
+        "voting_participation_pct": 77.34
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1412,
+    "voting_participation_pct": 83.11
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

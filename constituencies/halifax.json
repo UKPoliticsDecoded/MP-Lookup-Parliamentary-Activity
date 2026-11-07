@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 6174.0,
+    "bng": {
+      "easting": 408261,
+      "northing": 426901
+    },
+    "centroid": {
+      "latitude": 53.73844,
+      "longitude": -1.87624
+    },
+    "geojson": "constituencies/boundaries/halifax.geojson",
+    "ons_code": "E14001262",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5224.json",
+    "member_id": 5224,
+    "name": "Kate Dearden",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77516,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6269,
+      "result": "Lab Hold",
+      "turnout": 40214,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3509,
+      "end_date": "2024-05-30",
+      "member_id": 4472,
+      "name": "Holly Lynch",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4077,
+  "is_current": true,
+  "name": "Halifax",
+  "name_cy": null,
+  "ons_code": "E14001262",
+  "outcodes": [
+    "BD13",
+    "HX1",
+    "HX2",
+    "HX3",
+    "HX4",
+    "HX5",
+    "HX6"
+  ],
+  "schema_version": 1,
+  "slug": "halifax",
+  "start_date": "2024-05-31"
+}

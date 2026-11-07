@@ -1,0 +1,255 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 2,
+        "debates_participated": 2
+      },
+      "2021": {
+        "debate_contributions": 35,
+        "debates_participated": 11
+      },
+      "2022": {
+        "debate_contributions": 271,
+        "debates_participated": 58,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 163,
+        "debates_participated": 41
+      },
+      "2024": {
+        "debate_contributions": 121,
+        "debates_participated": 16
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 592,
+    "debates_participated": 128,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 1
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 592,
+    "voting_participation_pct": 79.68,
+    "written_questions": 1
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Elections Bill",
+      "committee_id": 541,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Insurance Contributions Bill",
+      "committee_id": 526,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Elections Bill",
+        "committee_id": 541,
+        "file": "committees/elections-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "elections-bill"
+      },
+      {
+        "committee": "National Insurance Contributions Bill",
+        "committee_id": 526,
+        "file": "committees/national-insurance-contributions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "national-insurance-contributions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3591,
+    "name": "Macclesfield"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4033
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4033,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "David Rutley",
+    "display": "David Rutley",
+    "full_title": "David Rutley",
+    "list_as": "Rutley, David"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign, Commonwealth and Development Office)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2022-09-20",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2021-09-17"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2018-07-19",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2018-05-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2021-09-17",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2017-06-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4162,
+        "name": "Macclesfield",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2744,
+        "name": "St. Albans",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Macclesfield",
+        "constituency_id": 3591,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "David Rutley is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3591/overview'>Macclesfield</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4033/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 1,
+        "voting_participation_pct": 50.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 184,
+        "voting_participation_pct": 96.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 220,
+        "voting_participation_pct": 90.91
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 202,
+        "voting_participation_pct": 80.48
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 154,
+        "voting_participation_pct": 60.16
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 90,
+        "voting_participation_pct": 70.87
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 851,
+        "voting_participation_pct": 79.68
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 851,
+    "voting_participation_pct": 79.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

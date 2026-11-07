@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 76225.8,
+    "bng": {
+      "easting": 588072,
+      "northing": 137913
+    },
+    "centroid": {
+      "latitude": 51.10964,
+      "longitude": 0.685368
+    },
+    "geojson": "constituencies/boundaries/weald-of-kent.geojson",
+    "ons_code": "E14001570",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5285.json",
+    "member_id": 5285,
+    "name": "Katie Lam",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75987,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8422,
+      "result": "Con Hold",
+      "turnout": 50712,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4385,
+  "is_current": true,
+  "name": "Weald of Kent",
+  "name_cy": null,
+  "ons_code": "E14001570",
+  "outcodes": [
+    "CT4",
+    "ME13",
+    "ME15",
+    "ME17",
+    "ME18",
+    "TN12",
+    "TN17",
+    "TN18",
+    "TN23",
+    "TN25",
+    "TN26",
+    "TN27",
+    "TN30"
+  ],
+  "schema_version": 1,
+  "slug": "weald-of-kent",
+  "start_date": "2024-05-31"
+}

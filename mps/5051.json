@@ -1,0 +1,278 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 39,
+        "debates_participated": 25,
+        "oral_questions": 6,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 84,
+        "debates_participated": 53,
+        "oral_questions": 15,
+        "written_questions": 30
+      },
+      "2026": {
+        "debate_contributions": 87,
+        "debates_participated": 49,
+        "oral_questions": 8,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 210,
+    "debates_participated": 127,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 72
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 210,
+    "voting_participation_pct": 84.47,
+    "written_questions": 72
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stevenage.json",
+    "id": 4331,
+    "name": "Stevenage",
+    "ons_code": "E14001516",
+    "slug": "stevenage"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kevin.bonavia.mp@parliament.uk",
+      "phone": "020 7219 0784",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.kevinbonaviamp.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/KevinBonaviaForStevenage"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/kevinbonavia/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/kevinbonavia"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5051
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5051,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kevin Bonavia",
+    "full_title": "Kevin Bonavia MP",
+    "list_as": "Bonavia, Kevin"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3418,
+        "name": "Clacton",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3702,
+        "name": "Rochford and Southend East",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stevenage",
+        "constituency_id": 4331,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Kevin Bonavia is the Labour MP for <a href='/constituency/4331/overview'>Stevenage</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5051/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 276,
+        "voting_participation_pct": 85.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 189,
+        "voting_participation_pct": 80.08
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 533,
+        "voting_participation_pct": 84.47
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 533,
+    "voting_participation_pct": 84.47
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

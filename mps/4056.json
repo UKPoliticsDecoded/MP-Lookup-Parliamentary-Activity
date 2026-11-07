@@ -1,0 +1,274 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 56,
+        "debates_participated": 16
+      },
+      "2025": {
+        "debate_contributions": 276,
+        "debates_participated": 59
+      },
+      "2026": {
+        "debate_contributions": 10,
+        "debates_participated": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 342,
+    "debates_participated": 79,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 342,
+    "voting_participation_pct": 83.2,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 809,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 809,
+        "file": "committees/secure-16-to-19-academies-bill-809.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill-809"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/scunthorpe.json",
+    "id": 4277,
+    "name": "Scunthorpe",
+    "ons_code": "E14001462",
+    "slug": "scunthorpe"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "nic.dakin.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Suite 3, Limewood Suite, Park Square, Scunthorpe",
+      "phone": "01724 500684",
+      "postcode": "DN15 6JH",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://nicdakin.co.uk/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4056
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4056,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sir Nicholas Dakin",
+    "full_title": "Sir Nicholas Dakin MP",
+    "list_as": "Dakin, Sir Nicholas"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2025-09-16"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Justice)",
+        "start_date": "2024-07-23"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-09-16",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2019-11-06",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2016-10-18"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2015-09-18"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Deputy Leader of the House of Commons",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2011-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3717,
+        "name": "Scunthorpe",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Scunthorpe",
+        "constituency_id": 4277,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Scunthorpe",
+        "constituency_id": 3717,
+        "end_date": "2019-11-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Sir Nicholas Dakin is the Labour MP for <a href='/constituency/4277/overview'>Scunthorpe</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4056/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 63,
+        "voting_participation_pct": 86.3
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 272,
+        "voting_participation_pct": 84.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 190,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 525,
+        "voting_participation_pct": 83.2
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 525,
+    "voting_participation_pct": 83.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

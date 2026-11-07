@@ -1,0 +1,251 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 17,
+        "oral_questions": 3,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 71,
+        "debates_participated": 37,
+        "oral_questions": 7,
+        "written_questions": 7
+      },
+      "2026": {
+        "debate_contributions": 71,
+        "debates_participated": 18,
+        "oral_questions": 2,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 161,
+    "debates_participated": 72,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 14
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 161,
+    "voting_participation_pct": 81.77,
+    "written_questions": 14
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "foreign-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wirral-west.json",
+    "id": 4404,
+    "name": "Wirral West",
+    "ons_code": "E14001589",
+    "slug": "wirral-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "matthew.patrick.mp@parliament.uk",
+      "phone": "0207 219 7907",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Hilbre House, 35A Market Street, Hoylake, Wirral",
+      "phone": "0151 319 3998",
+      "postcode": "CH47 2BG",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "www.matthewpatrick.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/people/Matthew-Patrick-for-Wirral-West/61550576948707/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/matthewpatrickmp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Matthew_Patrick"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5162
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5162,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Matthew Patrick",
+    "full_title": "Matthew Patrick MP",
+    "list_as": "Patrick, Matthew"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Northern Ireland Office)",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wirral West",
+        "constituency_id": 4404,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Matthew Patrick is the Labour MP for <a href='/constituency/4404/overview'>Wirral West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5162/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 272,
+        "voting_participation_pct": 84.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 173,
+        "voting_participation_pct": 73.31
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 516,
+        "voting_participation_pct": 81.77
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 516,
+    "voting_participation_pct": 81.77
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

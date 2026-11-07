@@ -1,0 +1,56 @@
+{
+  "boundary": {
+    "area_hectares": 957041.5,
+    "bng": {
+      "easting": 236932,
+      "northing": 826712
+    },
+    "centroid": {
+      "latitude": 57.30176,
+      "longitude": -4.70826
+    },
+    "geojson": "constituencies/boundaries/inverness-skye-and-west-ross-shire.geojson",
+    "ons_code": "S14000094",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5362.json",
+    "member_id": 5362,
+    "name": "Mr Angus MacDonald",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77927,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2160,
+      "result": "LD Gain",
+      "turnout": 48056,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4483,
+  "is_current": true,
+  "name": "Inverness, Skye and West Ross-shire",
+  "name_cy": null,
+  "ons_code": "S14000094",
+  "outcodes": [
+    "IV13",
+    "IV4",
+    "IV63",
+    "PH32"
+  ],
+  "schema_version": 1,
+  "slug": "inverness-skye-and-west-ross-shire",
+  "start_date": "2024-05-31"
+}

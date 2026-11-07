@@ -1,0 +1,272 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 31,
+        "debates_participated": 17,
+        "early_day_motions": 5,
+        "oral_questions": 1,
+        "written_questions": 5
+      },
+      "2025": {
+        "debate_contributions": 130,
+        "debates_participated": 85,
+        "early_day_motions": 40,
+        "oral_questions": 8,
+        "written_questions": 70
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 94,
+        "debates_participated": 61,
+        "early_day_motions": 46,
+        "oral_questions": 5,
+        "written_questions": 13
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 255,
+    "debates_participated": 163,
+    "early_day_motions": 91,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 88
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 255,
+    "voting_participation_pct": 79.24,
+    "written_questions": 88
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-12"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-12"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-04-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/glasgow-west.json",
+    "id": 4478,
+    "name": "Glasgow West",
+    "ons_code": "S14000089",
+    "slug": "glasgow-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "patricia.ferguson.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0141 370 2324",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://patriciafergusonmp.uk/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5190
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5190,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Patricia Ferguson",
+    "full_title": "Patricia Ferguson MP",
+    "list_as": "Ferguson, Patricia"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1207,
+        "name": "Glasgow North West",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow West",
+        "constituency_id": 4478,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Patricia Ferguson is the Labour MP for <a href='/constituency/4478/overview'>Glasgow West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5190/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 54,
+        "voting_participation_pct": 73.97
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 261,
+        "voting_participation_pct": 81.06
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 185,
+        "voting_participation_pct": 78.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 500,
+        "voting_participation_pct": 79.24
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 500,
+    "voting_participation_pct": 79.24
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

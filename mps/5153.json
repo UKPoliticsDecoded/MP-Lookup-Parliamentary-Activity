@@ -1,0 +1,126 @@
+{
+  "activity": {
+    "annual": {},
+    "bills_sponsored": 0,
+    "debate_contributions": 0,
+    "debates_participated": 0,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 0,
+    "voting_participation_pct": 0.0,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/mid-ulster.json",
+    "id": 4430,
+    "name": "Mid Ulster",
+    "ons_code": "N05000010",
+    "slug": "mid-ulster"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "cathal.mallaghan.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5153
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5153,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Cathal Mallaghan",
+    "full_title": "Mr Cathal Mallaghan MP",
+    "list_as": "Mallaghan, Mr Cathal"
+  },
+  "party": {
+    "abbreviation": "SF",
+    "id": 30,
+    "name": "Sinn Féin"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Sinn Féin",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Ulster",
+        "constituency_id": 4430,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Cathal Mallaghan is the Sinn Féin MP for <a href='/constituency/4430/overview'>Mid Ulster</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5153/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 0,
+    "note": "No recorded votes: typical of the Speaker/Deputy Speakers, abstentionist parties or members with a non-voting role.",
+    "voting_participation_pct": 0.0
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

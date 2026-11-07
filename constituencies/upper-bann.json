@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 38177.5,
+    "bng": {
+      "easting": 112441,
+      "northing": 513947
+    },
+    "centroid": {
+      "latitude": 54.43876,
+      "longitude": -6.43507
+    },
+    "geojson": "constituencies/boundaries/upper-bann.geojson",
+    "ons_code": "N05000017",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4857.json",
+    "member_id": 4857,
+    "name": "Carla Lockhart",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 81249,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7406,
+      "result": "DUP Hold",
+      "turnout": 47358,
+      "winning_party": "Democratic Unionist Party",
+      "winning_party_id": 7
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3816,
+      "end_date": "2024-05-30",
+      "member_id": 4857,
+      "name": "Carla Lockhart",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4437,
+  "is_current": true,
+  "name": "Upper Bann",
+  "name_cy": null,
+  "ons_code": "N05000017",
+  "outcodes": [
+    "BT25",
+    "BT32",
+    "BT61",
+    "BT62",
+    "BT63",
+    "BT64",
+    "BT65",
+    "BT66",
+    "BT67",
+    "BT71"
+  ],
+  "schema_version": 1,
+  "slug": "upper-bann",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,194 @@
+{
+  "activity": {
+    "annual": {
+      "2026": {
+        "debate_contributions": 69,
+        "debates_participated": 33,
+        "oral_questions": 4,
+        "written_questions": 6
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 69,
+    "debates_participated": 33,
+    "early_day_motions": 0,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 6
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 69,
+    "voting_participation_pct": 78.57,
+    "written_questions": 6
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-07-06"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/aberdeen-south.json",
+    "id": 4450,
+    "name": "Aberdeen South",
+    "ons_code": "S14000061",
+    "slug": "aberdeen-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "douglas.lumsden.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.douglaslumsden.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DouglasForNEScotland/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/DLumsden_MP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5450
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5450,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2026-06-18",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Douglas Lumsden",
+    "full_title": "Douglas Lumsden MP",
+    "list_as": "Lumsden, Douglas"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 20,
+        "name": "Aberdeen South",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2026-06-18"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Aberdeen South",
+        "constituency_id": 4450,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2026-06-18"
+      }
+    ]
+  },
+  "synopsis": "Douglas Lumsden is the Conservative MP for <a href='/constituency/4450/overview'>Aberdeen South</a>, and has been an MP continually since 18 June 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5450/Thumbnail",
+  "voting": {
+    "annual": {
+      "2026": {
+        "divisions_eligible": 84,
+        "divisions_voted": 66,
+        "voting_participation_pct": 78.57
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 84,
+        "divisions_voted": 66,
+        "voting_participation_pct": 78.57
+      }
+    },
+    "divisions_eligible": 84,
+    "divisions_voted": 66,
+    "voting_participation_pct": 78.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

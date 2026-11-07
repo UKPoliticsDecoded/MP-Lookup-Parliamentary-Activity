@@ -1,0 +1,409 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 50,
+        "debates_participated": 7
+      },
+      "2021": {
+        "debate_contributions": 6,
+        "debates_participated": 3
+      },
+      "2022": {
+        "debate_contributions": 190,
+        "debates_participated": 49
+      },
+      "2023": {
+        "debate_contributions": 274,
+        "debates_participated": 65
+      },
+      "2024": {
+        "debate_contributions": 214,
+        "debates_participated": 46,
+        "written_questions": 39
+      },
+      "2025": {
+        "debate_contributions": 58,
+        "debates_participated": 23,
+        "written_questions": 179
+      },
+      "2026": {
+        "debate_contributions": 49,
+        "debates_participated": 25,
+        "oral_questions": 1,
+        "written_questions": 152
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 841,
+    "debates_participated": 218,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 370
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 841,
+    "voting_participation_pct": 83.58,
+    "written_questions": 370
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-03"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-15"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/daventry.json",
+    "id": 4007,
+    "name": "Daventry",
+    "ons_code": "E14001192",
+    "slug": "daventry"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "stuart.andrew.mp@parliament.uk",
+      "phone": "020 7219 3615",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Icon Innovation Centre, Daventry, Northamptonshire",
+      "phone": "01327 304803",
+      "postcode": "NN11 0QB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.stuartandrew.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/stuartandrew"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4032
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4032,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Stuart Andrew",
+    "full_title": "Rt Hon Stuart Andrew MP",
+    "list_as": "Andrew, Stuart"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Department for Business and Trade) (Minister for Equalities)",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Culture, Media and Sport)",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for International Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-international-trade",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for International Trade) (Minister for Equalities)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2022-09-20"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice)",
+        "start_date": "2022-07-08"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Minister of State (Minister for Housing)",
+        "start_date": "2022-02-08"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2022-02-08",
+        "is_current": false,
+        "name": "Treasurer of HM Household (Deputy Chief Whip, House of Commons)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Vice-Chamberlain (HM Household)",
+        "start_date": "2019-07-28"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2019-07-28",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence)",
+        "start_date": "2018-07-19"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2018-07-19",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Wales Office)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-07-19",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2017-06-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health and Social Care",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Culture, Media and Sport",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-11-03",
+        "is_current": false,
+        "name": "Opposition Chief Whip (Commons)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3264,
+        "name": "Wrexham",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Daventry",
+        "constituency_id": 4007,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Pudsey",
+        "constituency_id": 3688,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Stuart Andrew is the Conservative MP for <a href='/constituency/4007/overview'>Daventry</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4032/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 209,
+        "voting_participation_pct": 83.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 230,
+        "voting_participation_pct": 89.84
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 165,
+        "voting_participation_pct": 82.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 244,
+        "voting_participation_pct": 75.78
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 179,
+        "voting_participation_pct": 75.85
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 942,
+        "voting_participation_pct": 88.2
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 478,
+        "voting_participation_pct": 75.75
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1420,
+    "voting_participation_pct": 83.58
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

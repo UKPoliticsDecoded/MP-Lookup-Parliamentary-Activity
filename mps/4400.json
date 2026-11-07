@@ -1,0 +1,266 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 49,
+        "debates_participated": 36,
+        "early_day_motions": 1,
+        "oral_questions": 7,
+        "written_questions": 115
+      },
+      "2021": {
+        "debate_contributions": 65,
+        "debates_participated": 46,
+        "early_day_motions": 4,
+        "oral_questions": 2,
+        "written_questions": 50
+      },
+      "2022": {
+        "debate_contributions": 123,
+        "debates_participated": 72,
+        "early_day_motions": 3,
+        "oral_questions": 1,
+        "written_questions": 37
+      },
+      "2023": {
+        "debate_contributions": 115,
+        "debates_participated": 64,
+        "early_day_motions": 8,
+        "oral_questions": 1,
+        "petitions_presented": 1,
+        "written_questions": 54
+      },
+      "2024": {
+        "debate_contributions": 42,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 28
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 394,
+    "debates_participated": 246,
+    "early_day_motions": 17,
+    "oral_questions": 14,
+    "petitions_presented": 1,
+    "written_questions": 284
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 394,
+    "voting_participation_pct": 73.03,
+    "written_questions": 284
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL]",
+      "committee_id": 576,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL] Second Reading Committee",
+      "committee_id": 574,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Charities Bill [HL]",
+        "committee_id": 576,
+        "file": "committees/charities-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "charities-bill-hl"
+      },
+      {
+        "committee": "Charities Bill [HL] Second Reading Committee",
+        "committee_id": 574,
+        "file": "committees/charities-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "charities-bill-hl-second-reading"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3857,
+    "name": "Wirral West"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4400
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4400,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Margaret Greenwood",
+    "display": "Margaret Greenwood",
+    "full_title": "Margaret Greenwood",
+    "list_as": "Greenwood, Margaret"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2020-10-15",
+        "is_current": false,
+        "name": "Shadow Minister (Education) (Schools)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Work and Pensions",
+        "start_date": "2018-03-11"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2018-03-11",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2016-10-09"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wirral West",
+        "constituency_id": 3857,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Margaret Greenwood is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3857/overview'>Wirral West</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4400/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 146,
+        "voting_participation_pct": 76.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 160,
+        "voting_participation_pct": 63.75
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 188,
+        "voting_participation_pct": 73.44
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 82,
+        "voting_participation_pct": 64.57
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 780,
+        "voting_participation_pct": 73.03
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 780,
+    "voting_participation_pct": 73.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

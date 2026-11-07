@@ -1,0 +1,350 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 18,
+        "debates_participated": 11,
+        "oral_questions": 2,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 147,
+        "debates_participated": 48,
+        "oral_questions": 3,
+        "written_questions": 111
+      },
+      "2026": {
+        "debate_contributions": 91,
+        "debates_participated": 44,
+        "oral_questions": 1,
+        "written_questions": 72
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 256,
+    "debates_participated": 103,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 187
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 256,
+    "voting_participation_pct": 67.83,
+    "written_questions": 187
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": true,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 45,
+      "meetings_available": 45
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-21"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/witney.json",
+    "id": 4406,
+    "name": "Witney",
+    "ons_code": "E14001591",
+    "slug": "witney"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "charlie.maynard.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Office of Charlie Maynard MP, Elmfield House, New Yatt Road, Witney, Oxfordshire",
+      "phone": "01993 463701",
+      "postcode": "OX28 1PB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.charliemaynard.co.uk "
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/@charliemaynardliberaldemocrat"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/charliemaynard27"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://www.x.com/@cammaynard"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@CharlieMaynard-LD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5325
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5325,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Charlie Maynard",
+    "full_title": "Charlie Maynard MP",
+    "list_as": "Maynard, Charlie"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-10-09",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Chief Secretary to the Treasury)",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Witney",
+        "constituency_id": 4406,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Charlie Maynard is the Liberal Democrat MP for <a href='/constituency/4406/overview'>Witney</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5325/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 37,
+        "voting_participation_pct": 50.68
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 221,
+        "voting_participation_pct": 68.63
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 170,
+        "voting_participation_pct": 72.03
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 428,
+        "voting_participation_pct": 67.83
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 428,
+    "voting_participation_pct": 67.83
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

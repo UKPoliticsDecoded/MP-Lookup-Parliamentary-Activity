@@ -1,0 +1,171 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 149,
+        "debates_participated": 19
+      },
+      "2025": {
+        "debate_contributions": 995,
+        "debates_participated": 59
+      },
+      "2026": {
+        "debate_contributions": 417,
+        "debates_participated": 41
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1561,
+    "debates_participated": 119,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1561,
+    "voting_participation_pct": 64.66,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/lincoln.json",
+    "id": 4151,
+    "name": "Lincoln",
+    "ons_code": "E14001336",
+    "slug": "lincoln"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "hamish.falconer.mp@parliament.uk",
+      "phone": "01522 449638",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01522 449638",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5148
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5148,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Hamish Falconer",
+    "full_title": "Rt Hon Hamish Falconer MP",
+    "list_as": "Falconer, Mr Hamish"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Cabinet Office) (Jointly with the Foreign, Commonwealth and Development Office)",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign, Commonwealth and Development Office)",
+        "start_date": "2025-02-28"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2025-02-28",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign, Commonwealth and Development Office)",
+        "start_date": "2024-07-18"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Cabinet Office) (Jointly with the Foreign, Commonwealth and Development Office)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lincoln",
+        "constituency_id": 4151,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mr Hamish Falconer is the Labour MP for <a href='/constituency/4151/overview'>Lincoln</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Minister of State (Cabinet Office) (Jointly with the Foreign, Commonwealth and Development Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5148/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 36,
+        "voting_participation_pct": 49.32
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 209,
+        "voting_participation_pct": 64.91
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 163,
+        "voting_participation_pct": 69.07
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 408,
+        "voting_participation_pct": 64.66
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 408,
+    "voting_participation_pct": 64.66
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

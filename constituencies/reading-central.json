@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 2555.2,
+    "bng": {
+      "easting": 471018,
+      "northing": 173955
+    },
+    "centroid": {
+      "latitude": 51.46012,
+      "longitude": -0.97915
+    },
+    "geojson": "constituencies/boundaries/reading-central.geojson",
+    "ons_code": "E14001438",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4654.json",
+    "member_id": 4654,
+    "name": "Matt Rodda",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73600,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12637,
+      "result": "Lab Hold",
+      "turnout": 45291,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4253,
+  "is_current": true,
+  "name": "Reading Central",
+  "name_cy": null,
+  "ons_code": "E14001438",
+  "outcodes": [
+    "RG1",
+    "RG2",
+    "RG30",
+    "RG31",
+    "RG4",
+    "RG6"
+  ],
+  "schema_version": 1,
+  "slug": "reading-central",
+  "start_date": "2024-05-31"
+}

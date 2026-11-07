@@ -1,0 +1,438 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 26,
+        "debates_participated": 19,
+        "oral_questions": 3,
+        "written_questions": 12
+      },
+      "2021": {
+        "debate_contributions": 313,
+        "debates_participated": 42
+      },
+      "2022": {
+        "debate_contributions": 148,
+        "debates_participated": 38
+      },
+      "2023": {
+        "debate_contributions": 49,
+        "debates_participated": 26,
+        "oral_questions": 6,
+        "written_questions": 6
+      },
+      "2024": {
+        "debate_contributions": 28,
+        "debates_participated": 16,
+        "oral_questions": 2,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 566,
+    "debates_participated": 142,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 19
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 566,
+    "voting_participation_pct": 89.04,
+    "written_questions": 19
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety Bill",
+      "committee_id": 535,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+      "committee_id": 662,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing (Regulation) Bill [HL]",
+      "committee_id": 628,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Supported Housing (Regulatory Oversight) Bill",
+      "committee_id": 637,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Building Safety Bill",
+        "committee_id": 535,
+        "file": "committees/building-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "building-safety-bill"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+        "committee_id": 662,
+        "file": "committees/lifelong-learning-higher-education-fee-limits-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-15"
+          }
+        ],
+        "slug": "lifelong-learning-higher-education-fee-limits-bill"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      },
+      {
+        "committee": "Social Housing (Regulation) Bill [HL]",
+        "committee_id": 628,
+        "file": "committees/social-housing-regulation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "social-housing-regulation-bill-hl"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-03-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-03-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Supported Housing (Regulatory Oversight) Bill",
+        "committee_id": 637,
+        "file": "committees/supported-housing-regulatory-oversight-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-14"
+          }
+        ],
+        "slug": "supported-housing-regulatory-oversight-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3823,
+    "name": "Walsall North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4635
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4635,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2017-06-08",
+    "status": null
+  },
+  "name": {
+    "address_as": "Eddie Hughes",
+    "display": "Eddie Hughes",
+    "full_title": "Eddie Hughes",
+    "list_as": "Hughes, Eddie"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-09-08",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2021-01-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2021-01-16",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2020-02-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4353,
+        "name": "Tamworth",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Walsall North",
+        "constituency_id": 3823,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Eddie Hughes is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3823/overview'>Walsall North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4635/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 223,
+        "voting_participation_pct": 92.15
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 209,
+        "voting_participation_pct": 83.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 226,
+        "voting_participation_pct": 88.28
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 110,
+        "voting_participation_pct": 86.61
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 951,
+        "voting_participation_pct": 89.04
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 951,
+    "voting_participation_pct": 89.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

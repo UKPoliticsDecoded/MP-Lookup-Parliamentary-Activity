@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 1464.4,
+    "bng": {
+      "easting": 532817,
+      "northing": 173496
+    },
+    "centroid": {
+      "latitude": 51.44488,
+      "longitude": -0.0902
+    },
+    "geojson": "constituencies/boundaries/dulwich-and-west-norwood.geojson",
+    "ons_code": "E14001205",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4510.json",
+    "member_id": 4510,
+    "name": "Helen Hayes",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79894,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 18789,
+      "result": "Lab Hold",
+      "turnout": 45378,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3453,
+      "end_date": "2024-05-30",
+      "member_id": 4510,
+      "name": "Helen Hayes",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4020,
+  "is_current": true,
+  "name": "Dulwich and West Norwood",
+  "name_cy": null,
+  "ons_code": "E14001205",
+  "outcodes": [
+    "SE19",
+    "SE21",
+    "SE22",
+    "SE23",
+    "SE24",
+    "SE26",
+    "SE27",
+    "SE5",
+    "SW16",
+    "SW2",
+    "SW9"
+  ],
+  "schema_version": 1,
+  "slug": "dulwich-and-west-norwood",
+  "start_date": "2024-05-31"
+}

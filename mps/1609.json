@@ -1,0 +1,323 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 4,
+        "debates_participated": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 235,
+        "debates_participated": 36
+      },
+      "2021": {
+        "debate_contributions": 188,
+        "debates_participated": 23
+      },
+      "2022": {
+        "debate_contributions": 86,
+        "debates_participated": 30,
+        "written_questions": 25
+      },
+      "2023": {
+        "debate_contributions": 68,
+        "debates_participated": 23,
+        "oral_questions": 6,
+        "written_questions": 24
+      },
+      "2024": {
+        "debate_contributions": 10,
+        "debates_participated": 7,
+        "written_questions": 18
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 591,
+    "debates_participated": 120,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 67
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 591,
+    "voting_participation_pct": 85.39,
+    "written_questions": 67
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "British Sign Language Bill",
+      "committee_id": 588,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Elections Bill",
+      "committee_id": 541,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "British Sign Language Bill",
+        "committee_id": 588,
+        "file": "committees/british-sign-language-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "british-sign-language-bill"
+      },
+      {
+        "committee": "Elections Bill",
+        "committee_id": 541,
+        "file": "committees/elections-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "elections-bill"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3662,
+    "name": "Norwich North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1609
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 1609,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2009-07-23",
+    "status": null
+  },
+  "name": {
+    "address_as": "Chloe Smith",
+    "display": "Chloe Smith",
+    "full_title": "Rt Hon Chloe Smith",
+    "list_as": "Smith, Chloe"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2023-07-20",
+        "is_current": false,
+        "name": "Secretary of State for Science, Innovation and Technology",
+        "start_date": "2023-04-28"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Secretary of State for Work and Pensions",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Work and Pensions)",
+        "start_date": "2021-09-16"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Minister of State (Cabinet Office)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2017-06-15"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Northern Ireland Office)",
+        "start_date": "2017-06-14"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2012-09-06"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Economic Secretary (HM Treasury)",
+        "start_date": "2011-10-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2011-10-14",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2009-07-23"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Norwich North",
+        "constituency_id": 3662,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Norwich North",
+        "constituency_id": 2199,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2009-07-23"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Chloe Smith is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3662/overview'>Norwich North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1609/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 179,
+        "voting_participation_pct": 94.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 184,
+        "voting_participation_pct": 73.31
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 220,
+        "voting_participation_pct": 85.94
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 108,
+        "voting_participation_pct": 85.04
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 912,
+        "voting_participation_pct": 85.39
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 912,
+    "voting_participation_pct": 85.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

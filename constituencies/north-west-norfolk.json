@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 82455.1,
+    "bng": {
+      "easting": 574445,
+      "northing": 329423
+    },
+    "centroid": {
+      "latitude": 52.8341,
+      "longitude": 0.588193
+    },
+    "geojson": "constituencies/boundaries/north-west-norfolk.geojson",
+    "ons_code": "E14001405",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4787.json",
+    "member_id": 4787,
+    "name": "James Wild",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74415,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4954,
+      "result": "Con Hold",
+      "turnout": 44566,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3658,
+      "end_date": "2024-05-30",
+      "member_id": 4787,
+      "name": "James Wild",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4220,
+  "is_current": true,
+  "name": "North West Norfolk",
+  "name_cy": null,
+  "ons_code": "E14001405",
+  "outcodes": [
+    "NR21",
+    "NR22",
+    "NR23",
+    "PE13",
+    "PE14",
+    "PE30",
+    "PE31",
+    "PE32",
+    "PE33",
+    "PE34",
+    "PE35",
+    "PE36"
+  ],
+  "schema_version": 1,
+  "slug": "north-west-norfolk",
+  "start_date": "2024-05-31"
+}

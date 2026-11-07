@@ -1,0 +1,593 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 63,
+        "debates_participated": 55,
+        "oral_questions": 6,
+        "written_questions": 148
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 98,
+        "debates_participated": 73,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 227
+      },
+      "2022": {
+        "debate_contributions": 64,
+        "debates_participated": 32,
+        "early_day_motions": 2,
+        "oral_questions": 3,
+        "written_questions": 464
+      },
+      "2023": {
+        "debate_contributions": 70,
+        "debates_participated": 39,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 379
+      },
+      "2024": {
+        "debate_contributions": 38,
+        "debates_participated": 26,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 224
+      },
+      "2025": {
+        "debate_contributions": 47,
+        "debates_participated": 30,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 113
+      },
+      "2026": {
+        "debate_contributions": 10,
+        "debates_participated": 6,
+        "written_questions": 75
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 390,
+    "debates_participated": 261,
+    "early_day_motions": 9,
+    "oral_questions": 26,
+    "petitions_presented": 0,
+    "written_questions": 1630
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 390,
+    "voting_participation_pct": 76.87,
+    "written_questions": 1630
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 136,
+      "meetings_available": 136
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 34,
+      "meetings_available": 34
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 704,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing (Regulation) Bill [HL]",
+      "committee_id": 628,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Zoological Society of London (Leases) Bill",
+      "committee_id": 707,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-28"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-22"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 704,
+        "file": "committees/licensing-hours-extensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      },
+      {
+        "committee": "Social Housing (Regulation) Bill [HL]",
+        "committee_id": 628,
+        "file": "committees/social-housing-regulation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "social-housing-regulation-bill-hl"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      },
+      {
+        "committee": "Zoological Society of London (Leases) Bill",
+        "committee_id": 707,
+        "file": "committees/zoological-society-of-london-leases-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-21"
+          }
+        ],
+        "slug": "zoological-society-of-london-leases-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/warrington-north.json",
+    "id": 4379,
+    "name": "Warrington North",
+    "ons_code": "E14001564",
+    "slug": "warrington-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "charlotte.nichols.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Office of Charlotte Nichols MP, The Outset, Sankey Street, Warrington",
+      "postcode": "WA1 1NN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CharlotteNichols4WN"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4799
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4799,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Charlotte Nichols",
+    "full_title": "Charlotte Nichols MP",
+    "list_as": "Nichols, Charlotte"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2021-09-14",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office)",
+        "start_date": "2021-05-14"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Warrington North",
+        "constituency_id": 4379,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Warrington North",
+        "constituency_id": 3829,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Charlotte Nichols is the Labour MP for <a href='/constituency/4379/overview'>Warrington North</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4799/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 1,
+        "voting_participation_pct": 50.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 175,
+        "voting_participation_pct": 72.31
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 190,
+        "voting_participation_pct": 75.7
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 194,
+        "voting_participation_pct": 75.78
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 153,
+        "voting_participation_pct": 76.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 271,
+        "voting_participation_pct": 84.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 788,
+        "voting_participation_pct": 73.78
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 518,
+        "voting_participation_pct": 82.09
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1306,
+    "voting_participation_pct": 76.87
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

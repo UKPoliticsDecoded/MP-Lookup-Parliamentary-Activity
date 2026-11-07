@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 2693.9,
+    "bng": {
+      "easting": 514744,
+      "northing": 171266
+    },
+    "centroid": {
+      "latitude": 51.42879,
+      "longitude": -0.35086
+    },
+    "geojson": "constituencies/boundaries/twickenham.geojson",
+    "ons_code": "E14001556",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4776.json",
+    "member_id": 4776,
+    "name": "Munira Wilson",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74980,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 21457,
+      "result": "LD Hold",
+      "turnout": 53635,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3814,
+      "end_date": "2024-05-30",
+      "member_id": 4776,
+      "name": "Munira Wilson",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4371,
+  "is_current": true,
+  "name": "Twickenham",
+  "name_cy": null,
+  "ons_code": "E14001556",
+  "outcodes": [
+    "KT1",
+    "KT8",
+    "TW1",
+    "TW11",
+    "TW12",
+    "TW13",
+    "TW2",
+    "TW3",
+    "TW4",
+    "TW7"
+  ],
+  "schema_version": 1,
+  "slug": "twickenham",
+  "start_date": "2024-05-31"
+}

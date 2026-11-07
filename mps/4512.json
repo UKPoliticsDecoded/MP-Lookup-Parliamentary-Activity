@@ -1,0 +1,444 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 69,
+        "debates_participated": 38,
+        "oral_questions": 17,
+        "written_questions": 31
+      },
+      "2021": {
+        "debate_contributions": 66,
+        "debates_participated": 33,
+        "oral_questions": 24,
+        "written_questions": 5
+      },
+      "2022": {
+        "debate_contributions": 72,
+        "debates_participated": 41,
+        "oral_questions": 20,
+        "written_questions": 19
+      },
+      "2023": {
+        "debate_contributions": 39,
+        "debates_participated": 25,
+        "oral_questions": 10,
+        "written_questions": 22
+      },
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 12,
+        "oral_questions": 2,
+        "written_questions": 35
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 260,
+    "debates_participated": 149,
+    "early_day_motions": 0,
+    "oral_questions": 73,
+    "petitions_presented": 0,
+    "written_questions": 112
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 260,
+    "voting_participation_pct": 83.99,
+    "written_questions": 112
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Carer’s Leave Bill",
+      "committee_id": 623,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 59,
+      "meetings_available": 59
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Highgate Cemetery Bill Committee",
+      "committee_id": 521,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 26,
+      "meetings_available": 26
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety Bill",
+      "committee_id": 592,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Carer’s Leave Bill",
+        "committee_id": 623,
+        "file": "committees/carers-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "carers-leave-bill"
+      },
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-15"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Highgate Cemetery Bill Committee",
+        "committee_id": 521,
+        "file": "committees/highgate-cemetery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-21"
+          }
+        ],
+        "slug": "highgate-cemetery-bill"
+      },
+      {
+        "committee": "Monken Hadley Common Bill Unopposed Bill Committee",
+        "committee_id": 486,
+        "file": "committees/monken-hadley-common-bill-unopposed-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "monken-hadley-common-bill-unopposed-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Online Safety Bill",
+        "committee_id": 592,
+        "file": "committees/online-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-23"
+          }
+        ],
+        "slug": "online-safety-bill"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3467,
+    "name": "Eastbourne"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4512
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4512,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Caroline Ansell",
+    "full_title": "Caroline Ansell",
+    "list_as": "Ansell, Caroline"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4034,
+        "name": "Eastbourne",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3467,
+        "name": "Eastbourne",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Eastbourne",
+        "constituency_id": 3467,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Caroline Ansell is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3467/overview'>Eastbourne</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4512/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 171,
+        "voting_participation_pct": 90.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 188,
+        "voting_participation_pct": 77.69
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 209,
+        "voting_participation_pct": 83.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 220,
+        "voting_participation_pct": 85.94
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 107,
+        "voting_participation_pct": 84.25
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 897,
+        "voting_participation_pct": 83.99
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 897,
+    "voting_participation_pct": 83.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

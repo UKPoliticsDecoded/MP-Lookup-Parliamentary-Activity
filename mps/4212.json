@@ -1,0 +1,478 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 90,
+        "debates_participated": 57,
+        "early_day_motions": 4,
+        "oral_questions": 15,
+        "written_questions": 38
+      },
+      "2021": {
+        "debate_contributions": 97,
+        "debates_participated": 75,
+        "early_day_motions": 2,
+        "oral_questions": 11,
+        "written_questions": 55
+      },
+      "2022": {
+        "debate_contributions": 96,
+        "debates_participated": 59,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 37
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 129,
+        "debates_participated": 90,
+        "early_day_motions": 1,
+        "oral_questions": 14,
+        "written_questions": 14
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 165,
+        "debates_participated": 109,
+        "oral_questions": 23,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 107,
+        "debates_participated": 76,
+        "oral_questions": 9,
+        "written_questions": 9
+      },
+      "2026": {
+        "debate_contributions": 42,
+        "debates_participated": 28,
+        "oral_questions": 4,
+        "written_questions": 8
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 727,
+    "debates_participated": 495,
+    "early_day_motions": 8,
+    "oral_questions": 84,
+    "petitions_presented": 0,
+    "written_questions": 175
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 727,
+    "voting_participation_pct": 71.04,
+    "written_questions": 175
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 218,
+      "meetings_available": 218
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support (Enforcement) Bill",
+      "committee_id": 654,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Online Safety Bill (Joint Committee)",
+      "committee_id": 534,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 691,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2011-06-27"
+          },
+          {
+            "end": "2015-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-08"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Child Support (Enforcement) Bill",
+        "committee_id": 654,
+        "file": "committees/child-support-enforcement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "child-support-enforcement-bill"
+      },
+      {
+        "committee": "Draft Online Safety Bill (Joint Committee)",
+        "committee_id": 534,
+        "file": "committees/draft-online-safety-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-21"
+          }
+        ],
+        "slug": "draft-online-safety-bill-joint-committee"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-17"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 691,
+        "file": "committees/finance-bill-691.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-11"
+          }
+        ],
+        "slug": "finance-bill-691"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/oldham-east-and-saddleworth.json",
+    "id": 4230,
+    "name": "Oldham East and Saddleworth",
+    "ons_code": "E14001415",
+    "slug": "oldham-east-and-saddleworth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "abrahamsd@parliament.uk",
+      "phone": "020 7219 1041",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "9 Church Lane, Oldham",
+      "email": "abrahamsd@parliament.uk",
+      "phone": "0161 624 4248",
+      "postcode": "OL1 3AN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.debbieabrahams.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Debbie_abrahams"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4212
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4212,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2011-01-13",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Debbie Abrahams",
+    "display": "Debbie Abrahams",
+    "full_title": "Debbie Abrahams MP",
+    "list_as": "Abrahams, Debbie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2018-03-11",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Work and Pensions",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3423,
+        "name": "Colne Valley",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2011-01-13"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Oldham East and Saddleworth",
+        "constituency_id": 4230,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Oldham East and Saddleworth",
+        "constituency_id": 3670,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2011-01-13"
+      }
+    ]
+  },
+  "synopsis": "Debbie Abrahams is the Labour MP for <a href='/constituency/4230/overview'>Oldham East and Saddleworth</a>, and has been an MP continually since 13 January 2011.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4212/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 131,
+        "voting_participation_pct": 68.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 203,
+        "voting_participation_pct": 83.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 134,
+        "voting_participation_pct": 53.39
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 189,
+        "voting_participation_pct": 73.83
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 138,
+        "voting_participation_pct": 69.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 230,
+        "voting_participation_pct": 71.43
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 182,
+        "voting_participation_pct": 77.12
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 739,
+        "voting_participation_pct": 69.19
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 468,
+        "voting_participation_pct": 74.17
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1207,
+    "voting_participation_pct": 71.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 33,
+        "debates_participated": 27,
+        "oral_questions": 7,
+        "written_questions": 14
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 113,
+        "debates_participated": 85,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 29
+      },
+      "2026": {
+        "debate_contributions": 23,
+        "debates_participated": 13,
+        "oral_questions": 3,
+        "written_questions": 19
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 169,
+    "debates_participated": 125,
+    "early_day_motions": 1,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 62
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 169,
+    "voting_participation_pct": 81.46,
+    "written_questions": 62
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 22,
+      "meetings_available": 22
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      },
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/norwich-north.json",
+    "id": 4223,
+    "name": "Norwich North",
+    "ons_code": "E14001408",
+    "slug": "norwich-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alice.macdonald.mp@parliament.uk",
+      "phone": "0207 219 7118",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01603 733182 (casework); 01603 531584 (general)",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://alicemacdonald.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AliceMLabour"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/AliceMLabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AliceMLabour"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5133
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5133,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alice Macdonald",
+    "full_title": "Alice Macdonald MP",
+    "list_as": "Macdonald, Alice"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Norwich North",
+        "constituency_id": 4223,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alice Macdonald is the Labour (Co-op) MP for <a href='/constituency/4223/overview'>Norwich North</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5133/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 61,
+        "voting_participation_pct": 83.56
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 250,
+        "voting_participation_pct": 77.64
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 203,
+        "voting_participation_pct": 86.02
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 514,
+        "voting_participation_pct": 81.46
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 514,
+    "voting_participation_pct": 81.46
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

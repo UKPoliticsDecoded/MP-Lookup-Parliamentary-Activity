@@ -1,0 +1,381 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 62,
+        "debates_participated": 30,
+        "oral_questions": 11,
+        "written_questions": 11
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 48,
+        "debates_participated": 30,
+        "oral_questions": 11,
+        "written_questions": 30
+      },
+      "2022": {
+        "debate_contributions": 63,
+        "debates_participated": 40,
+        "oral_questions": 11,
+        "written_questions": 12
+      },
+      "2023": {
+        "debate_contributions": 30,
+        "debates_participated": 25,
+        "oral_questions": 8,
+        "written_questions": 16
+      },
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 15,
+        "oral_questions": 5,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 222,
+    "debates_participated": 140,
+    "early_day_motions": 0,
+    "oral_questions": 46,
+    "petitions_presented": 0,
+    "written_questions": 79
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 222,
+    "voting_participation_pct": 80.9,
+    "written_questions": 79
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 125,
+      "meetings_available": 125
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 22,
+      "meetings_available": 22
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 704,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+      "committee_id": 660,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-05"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-15"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 704,
+        "file": "committees/licensing-hours-extensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-11"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      },
+      {
+        "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+        "committee_id": 660,
+        "file": "committees/pensions-extension-of-automatic-enrolment-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "pensions-extension-of-automatic-enrolment-no-2-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3869,
+    "name": "Wrexham"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4855
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4855,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Atherton",
+    "full_title": "Sarah Atherton",
+    "list_as": "Atherton, Sarah"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence)",
+        "start_date": "2022-09-20"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4526,
+        "name": "Wrexham",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wrexham",
+        "constituency_id": 3869,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Sarah Atherton is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3869/overview'>Wrexham</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4855/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 204,
+        "voting_participation_pct": 84.3
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 176,
+        "voting_participation_pct": 70.12
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 208,
+        "voting_participation_pct": 81.25
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 99,
+        "voting_participation_pct": 77.95
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 864,
+        "voting_participation_pct": 80.9
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 864,
+    "voting_participation_pct": 80.9
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

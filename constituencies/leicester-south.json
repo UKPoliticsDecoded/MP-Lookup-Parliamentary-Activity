@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 1950.3,
+    "bng": {
+      "easting": 460036,
+      "northing": 302581
+    },
+    "centroid": {
+      "latitude": 52.6177,
+      "longitude": -1.11467
+    },
+    "geojson": "constituencies/boundaries/leicester-south.geojson",
+    "ons_code": "E14001327",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5120.json",
+    "member_id": 5120,
+    "name": "Shockat Adam",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70867,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 979,
+      "result": "Ind Gain",
+      "turnout": 41837,
+      "winning_party": "Independent",
+      "winning_party_id": 8
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3571,
+      "end_date": "2024-05-30",
+      "member_id": 4244,
+      "name": "Jonathan Ashworth",
+      "start_date": "2011-05-05"
+    }
+  ],
+  "id": 4142,
+  "is_current": true,
+  "name": "Leicester South",
+  "name_cy": null,
+  "ons_code": "E14001327",
+  "outcodes": [
+    "LE1",
+    "LE2",
+    "LE21",
+    "LE5",
+    "LE87"
+  ],
+  "schema_version": 1,
+  "slug": "leicester-south",
+  "start_date": "2024-05-31"
+}

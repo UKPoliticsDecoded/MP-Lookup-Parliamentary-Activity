@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 76743.8,
+    "bng": {
+      "easting": 623434,
+      "northing": 330857
+    },
+    "centroid": {
+      "latitude": 52.82891,
+      "longitude": 1.315234
+    },
+    "geojson": "constituencies/boundaries/north-norfolk.geojson",
+    "ons_code": "E14001396",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5164.json",
+    "member_id": 5164,
+    "name": "Steff Aquarone",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71438,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2585,
+      "result": "LD Gain",
+      "turnout": 47043,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3647,
+      "end_date": "2024-05-30",
+      "member_id": 4784,
+      "name": "Duncan Baker",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4211,
+  "is_current": true,
+  "name": "North Norfolk",
+  "name_cy": null,
+  "ons_code": "E14001396",
+  "outcodes": [
+    "NR10",
+    "NR11",
+    "NR12",
+    "NR21",
+    "NR23",
+    "NR24",
+    "NR25",
+    "NR26",
+    "NR27",
+    "NR28",
+    "NR29"
+  ],
+  "schema_version": 1,
+  "slug": "north-norfolk",
+  "start_date": "2024-05-31"
+}

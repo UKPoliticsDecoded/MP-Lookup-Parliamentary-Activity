@@ -1,0 +1,413 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 63,
+        "debates_participated": 38,
+        "oral_questions": 11,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 85,
+        "debates_participated": 46,
+        "oral_questions": 15,
+        "written_questions": 16
+      },
+      "2022": {
+        "debate_contributions": 43,
+        "debates_participated": 32,
+        "oral_questions": 10,
+        "petitions_presented": 2,
+        "written_questions": 38
+      },
+      "2023": {
+        "debate_contributions": 42,
+        "debates_participated": 27,
+        "oral_questions": 1
+      },
+      "2024": {
+        "debate_contributions": 31,
+        "debates_participated": 18,
+        "oral_questions": 2,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 264,
+    "debates_participated": 161,
+    "early_day_motions": 0,
+    "oral_questions": 39,
+    "petitions_presented": 2,
+    "written_questions": 59
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.21,
+    "committee_memberships": 0,
+    "debate_contributions": 264,
+    "voting_participation_pct": 82.4,
+    "written_questions": 59
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 99.13,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 114,
+      "meetings_available": 115
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Neonatal Care (Leave and Pay) Bill",
+      "committee_id": 610,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing (Regulation) Bill [HL]",
+      "committee_id": 628,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Strategic Litigation Against Public Participation Bill",
+      "committee_id": 724,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-10-12"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Neonatal Care (Leave and Pay) Bill",
+        "committee_id": 610,
+        "file": "committees/neonatal-care-leave-and-pay-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-20"
+          }
+        ],
+        "slug": "neonatal-care-leave-and-pay-bill"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Social Housing (Regulation) Bill [HL]",
+        "committee_id": 628,
+        "file": "committees/social-housing-regulation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "social-housing-regulation-bill-hl"
+      },
+      {
+        "committee": "Strategic Litigation Against Public Participation Bill",
+        "committee_id": 724,
+        "file": "committees/strategic-litigation-against-public-participation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "strategic-litigation-against-public-participation-bill"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3812,
+    "name": "Truro and Falmouth"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4758
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4758,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Cherilyn Mackrory",
+    "full_title": "Cherilyn Mackrory",
+    "list_as": "Mackrory, Cherilyn"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4369,
+        "name": "Truro and Falmouth",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Truro and Falmouth",
+        "constituency_id": 3812,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Cherilyn Mackrory is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3812/overview'>Truro and Falmouth</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4758/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 171,
+        "voting_participation_pct": 90.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 215,
+        "voting_participation_pct": 83.98
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 109,
+        "voting_participation_pct": 85.83
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 880,
+        "voting_participation_pct": 82.4
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 880,
+    "voting_participation_pct": 82.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

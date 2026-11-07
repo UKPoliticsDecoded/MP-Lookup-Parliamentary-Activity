@@ -1,0 +1,305 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 32,
+        "debates_participated": 24,
+        "early_day_motions": 15,
+        "oral_questions": 2,
+        "written_questions": 24
+      },
+      "2021": {
+        "debate_contributions": 50,
+        "debates_participated": 38,
+        "early_day_motions": 16,
+        "oral_questions": 7,
+        "written_questions": 35
+      },
+      "2022": {
+        "debate_contributions": 93,
+        "debates_participated": 36,
+        "early_day_motions": 7,
+        "oral_questions": 2,
+        "written_questions": 12
+      },
+      "2023": {
+        "debate_contributions": 29,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 4
+      },
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 223,
+    "debates_participated": 125,
+    "early_day_motions": 39,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 75
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 223,
+    "voting_participation_pct": 63.86,
+    "written_questions": 75
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 194,
+      "meetings_available": 194
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Online Safety Bill (Joint Committee)",
+      "committee_id": 534,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety Bill",
+      "committee_id": 592,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Draft Online Safety Bill (Joint Committee)",
+        "committee_id": 534,
+        "file": "committees/draft-online-safety-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-21"
+          }
+        ],
+        "slug": "draft-online-safety-bill-joint-committee"
+      },
+      {
+        "committee": "Online Safety Bill",
+        "committee_id": 592,
+        "file": "committees/online-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-18"
+          }
+        ],
+        "slug": "online-safety-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 2234,
+    "name": "Ochil and South Perthshire"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4415
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4415,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "John Nicolson",
+    "full_title": "John Nicolson",
+    "list_as": "Nicolson, John"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Digital, Culture, Media and Sport)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Culture, Media and Sport)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4453,
+        "name": "Alloa and Grangemouth",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 965,
+        "name": "East Dunbartonshire",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ochil and South Perthshire",
+        "constituency_id": 2234,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      },
+      {
+        "constituency": "East Dunbartonshire",
+        "constituency_id": 965,
+        "end_date": "2017-05-03",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "John Nicolson is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/2234/overview'>Ochil and South Perthshire</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4415/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 130,
+        "voting_participation_pct": 68.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 151,
+        "voting_participation_pct": 62.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 120,
+        "voting_participation_pct": 47.81
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 183,
+        "voting_participation_pct": 71.48
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 98,
+        "voting_participation_pct": 77.17
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 682,
+        "voting_participation_pct": 63.86
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 682,
+    "voting_participation_pct": 63.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

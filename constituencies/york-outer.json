@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 24682.7,
+    "bng": {
+      "easting": 461061,
+      "northing": 457913
+    },
+    "centroid": {
+      "latitude": 54.01364,
+      "longitude": -1.06968
+    },
+    "geojson": "constituencies/boundaries/york-outer.geojson",
+    "ons_code": "E14001605",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5199.json",
+    "member_id": 5199,
+    "name": "Mr Luke Charters",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76228,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9391,
+      "result": "Lab Gain",
+      "turnout": 51106,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3877,
+      "end_date": "2024-05-30",
+      "member_id": 4079,
+      "name": "Julian Sturdy",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4420,
+  "is_current": true,
+  "name": "York Outer",
+  "name_cy": null,
+  "ons_code": "E14001605",
+  "outcodes": [
+    "YO10",
+    "YO19",
+    "YO23",
+    "YO24",
+    "YO26",
+    "YO30",
+    "YO31",
+    "YO32",
+    "YO41",
+    "YO60"
+  ],
+  "schema_version": 1,
+  "slug": "york-outer",
+  "start_date": "2024-05-31"
+}

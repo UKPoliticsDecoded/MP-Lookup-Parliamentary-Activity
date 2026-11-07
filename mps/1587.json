@@ -1,0 +1,406 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 222,
+        "debates_participated": 48,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 103,
+        "debates_participated": 45,
+        "written_questions": 14
+      },
+      "2022": {
+        "debate_contributions": 49,
+        "debates_participated": 20,
+        "written_questions": 51
+      },
+      "2023": {
+        "debate_contributions": 29,
+        "debates_participated": 13,
+        "written_questions": 31
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 145,
+        "debates_participated": 21,
+        "written_questions": 62
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 278,
+        "debates_participated": 40
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 268,
+        "debates_participated": 27
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 1094,
+    "debates_participated": 214,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 161
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1094,
+    "voting_participation_pct": 61.92,
+    "written_questions": 161
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Bill",
+      "committee_id": 524,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Bill",
+        "committee_id": 524,
+        "file": "committees/compensation-london-capital-and-finance-plc-and-fraud-compensation-fund-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-08"
+          }
+        ],
+        "slug": "compensation-london-capital-and-finance-plc-and-fraud-compensation-fund-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-04-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-23"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wolverhampton-south-east.json",
+    "id": 4410,
+    "name": "Wolverhampton South East",
+    "ons_code": "E14001595",
+    "slug": "wolverhampton-south-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mcfaddenp@parliament.uk",
+      "phone": "020 7219 4036",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Crescent House, Broad Street, Bilston",
+      "phone": "01902 405762",
+      "postcode": "WV14 0BZ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.patmcfadden.com"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/patmcfaddenmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1587
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1587,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Pat McFadden",
+    "full_title": "Rt Hon Pat McFadden MP",
+    "list_as": "McFadden, Pat"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": null,
+        "is_current": true,
+        "name": "Secretary of State for Work and Pensions",
+        "start_date": "2025-09-05"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister for Intergovernmental Relations",
+        "start_date": "2024-09-05"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Chancellor of the Duchy of Lancaster",
+        "start_date": "2024-07-05"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Innovation and Skills)",
+        "start_date": "2009-06-09"
+      },
+      {
+        "department": "Department for Business, Enterprise and Regulatory Reform",
+        "department_url": "http://www.berr.gov.uk/",
+        "end_date": "2009-06-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Enterprise and Regulatory Reform) (Employment Relations and Postal Affairs)",
+        "start_date": "2007-07-02"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2006-05-05"
+      }
+    ],
+    "ministerial_current": [
+      "Secretary of State for Work and Pensions"
+    ],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "National campaign co-ordinator",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Chancellor of the Duchy of Lancaster",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Chief Secretary to the Treasury",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Economic Secretary (Treasury)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2016-01-05",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2014-10-20"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Business, Innovation and Skills",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Member, Labour Party National Executive Committee",
+        "start_date": "2007-06-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wolverhampton South East",
+        "constituency_id": 4410,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wolverhampton South East",
+        "constituency_id": 3863,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Wolverhampton South East",
+        "constituency_id": 3222,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Pat McFadden is the Labour MP for <a href='/constituency/4410/overview'>Wolverhampton South East</a>, and has been an MP continually since 5 May 2005. \r\nHe currently holds the Government post of Secretary of State for Work and Pensions.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1587/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 165,
+        "voting_participation_pct": 65.74
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 181,
+        "voting_participation_pct": 70.7
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 119,
+        "voting_participation_pct": 59.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 110,
+        "voting_participation_pct": 34.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 120,
+        "voting_participation_pct": 50.85
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 781,
+        "voting_participation_pct": 73.13
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 271,
+        "voting_participation_pct": 42.95
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1052,
+    "voting_participation_pct": 61.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

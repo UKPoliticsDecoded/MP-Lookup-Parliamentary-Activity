@@ -1,0 +1,306 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 40,
+        "debates_participated": 30,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 221
+      },
+      "2021": {
+        "debate_contributions": 55,
+        "debates_participated": 20,
+        "petitions_presented": 12,
+        "written_questions": 118
+      },
+      "2022": {
+        "debate_contributions": 55,
+        "debates_participated": 26,
+        "written_questions": 356
+      },
+      "2023": {
+        "debate_contributions": 32,
+        "debates_participated": 23,
+        "written_questions": 183
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 177,
+        "debates_participated": 25,
+        "written_questions": 121
+      },
+      "2025": {
+        "debate_contributions": 20,
+        "debates_participated": 12,
+        "written_questions": 37
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 98,
+        "debates_participated": 9,
+        "oral_questions": 1,
+        "written_questions": 7
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 477,
+    "debates_participated": 145,
+    "early_day_motions": 1,
+    "oral_questions": 2,
+    "petitions_presented": 12,
+    "written_questions": 1043
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 477,
+    "voting_participation_pct": 62.1,
+    "written_questions": 1043
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+      "committee_id": 529,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+        "committee_id": 529,
+        "file": "committees/northern-ireland-ministers-elections-and-petitions-of-concern-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-28"
+          }
+        ],
+        "slug": "northern-ireland-ministers-elections-and-petitions-of-concern-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/sheffield-heeley.json",
+    "id": 4284,
+    "name": "Sheffield Heeley",
+    "ons_code": "E14001469",
+    "slug": "sheffield-heeley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "louise.haigh.mp@parliament.uk",
+      "phone": "0207 219 5255",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "louise.haigh.mp@parliament.uk",
+      "phone": "0114 250 8113",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.louisehaigh.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/louhaigh"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4473
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4473,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Louise Haigh",
+    "display": "Louise Haigh",
+    "full_title": "Rt Hon Louise Haigh MP",
+    "list_as": "Haigh, Louise"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "First Secretary of State, Chancellor of the Duchy of Lancaster, and Minister for the Cabinet Office",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-11-28",
+        "is_current": false,
+        "name": "Secretary of State for Transport",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "First Secretary of State, Chancellor of the Duchy of Lancaster, and Minister for the Cabinet Office"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Northern Ireland",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office) (Policing)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2017-07-03",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport) (Digital Economy)",
+        "start_date": "2016-10-09"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2016-10-09",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sheffield Heeley",
+        "constituency_id": 4284,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Sheffield, Heeley",
+        "constituency_id": 3726,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Louise Haigh is the Labour MP for <a href='/constituency/4284/overview'>Sheffield Heeley</a>, and has been an MP continually since 7 May 2015. \r\nShe currently holds the Government post of First Secretary of State, Chancellor of the Duchy of Lancaster, and Minister for the Cabinet Office.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4473/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 123,
+        "voting_participation_pct": 64.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 145,
+        "voting_participation_pct": 57.77
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 151,
+        "voting_participation_pct": 58.98
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 110,
+        "voting_participation_pct": 55.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 205,
+        "voting_participation_pct": 63.66
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 113,
+        "voting_participation_pct": 47.88
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 698,
+        "voting_participation_pct": 65.36
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 357,
+        "voting_participation_pct": 56.58
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1055,
+    "voting_participation_pct": 62.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

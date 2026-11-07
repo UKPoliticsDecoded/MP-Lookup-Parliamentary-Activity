@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 3257.9,
+    "bng": {
+      "easting": 424447,
+      "northing": 568463
+    },
+    "centroid": {
+      "latitude": 55.01013,
+      "longitude": -1.61929
+    },
+    "geojson": "constituencies/boundaries/newcastle-upon-tyne-north.geojson",
+    "ons_code": "E14001379",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4125.json",
+    "member_id": 4125,
+    "name": "Catherine McKinnell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74768,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 17762,
+      "result": "Lab Hold",
+      "turnout": 48617,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3627,
+      "end_date": "2024-05-30",
+      "member_id": 4125,
+      "name": "Catherine McKinnell",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4194,
+  "is_current": true,
+  "name": "Newcastle upon Tyne North",
+  "name_cy": null,
+  "ons_code": "E14001379",
+  "outcodes": [
+    "NE12",
+    "NE13",
+    "NE2",
+    "NE3",
+    "NE7",
+    "NE88",
+    "NE98"
+  ],
+  "schema_version": 1,
+  "slug": "newcastle-upon-tyne-north",
+  "start_date": "2024-05-31"
+}

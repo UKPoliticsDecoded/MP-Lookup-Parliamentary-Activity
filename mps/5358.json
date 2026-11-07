@@ -1,0 +1,300 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 32,
+        "written_questions": 24
+      },
+      "2025": {
+        "debate_contributions": 149,
+        "debates_participated": 109,
+        "early_day_motions": 1,
+        "oral_questions": 17,
+        "petitions_presented": 1,
+        "written_questions": 77
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 93,
+        "debates_participated": 60,
+        "early_day_motions": 1,
+        "oral_questions": 13,
+        "written_questions": 102
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 279,
+    "debates_participated": 201,
+    "early_day_motions": 2,
+    "oral_questions": 30,
+    "petitions_presented": 1,
+    "written_questions": 203
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 279,
+    "voting_participation_pct": 73.38,
+    "written_questions": 203
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": true,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          },
+          {
+            "end": "2026-04-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-21"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dumfries-and-galloway.json",
+    "id": 4462,
+    "name": "Dumfries and Galloway",
+    "ons_code": "S14000073",
+    "slug": "dumfries-and-galloway"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.cooper.mp@parliament.uk",
+      "phone": "020 7219 8080",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "20 Academy Street, Dumfries",
+      "phone": "01387 468229",
+      "postcode": "DG1 1BY",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5358
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5358,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "John Cooper",
+    "full_title": "John Cooper MP",
+    "list_as": "Cooper, John"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Exchequer Secretary (Treasury)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dumfries and Galloway",
+        "constituency_id": 4462,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "John Cooper is the Conservative MP for <a href='/constituency/4462/overview'>Dumfries and Galloway</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow Exchequer Secretary (Treasury), and Opposition Assistant Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5358/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 56,
+        "voting_participation_pct": 76.71
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 222,
+        "voting_participation_pct": 68.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 185,
+        "voting_participation_pct": 78.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 463,
+        "voting_participation_pct": 73.38
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 463,
+    "voting_participation_pct": 73.38
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

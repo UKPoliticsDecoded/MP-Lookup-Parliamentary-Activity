@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 2609.0,
+    "bng": {
+      "easting": 547592,
+      "northing": 178598
+    },
+    "centroid": {
+      "latitude": 51.48707,
+      "longitude": 0.124377
+    },
+    "geojson": "constituencies/boundaries/erith-and-thamesmead.geojson",
+    "ons_code": "E14001229",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4820.json",
+    "member_id": 4820,
+    "name": "Ms Abena Oppong-Asare",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78740,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16302,
+      "result": "Lab Hold",
+      "turnout": 40379,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3479,
+      "end_date": "2024-05-30",
+      "member_id": 4820,
+      "name": "Ms Abena Oppong-Asare",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4044,
+  "is_current": true,
+  "name": "Erith and Thamesmead",
+  "name_cy": null,
+  "ons_code": "E14001229",
+  "outcodes": [
+    "DA16",
+    "DA17",
+    "DA18",
+    "DA8",
+    "SE18",
+    "SE2",
+    "SE28"
+  ],
+  "schema_version": 1,
+  "slug": "erith-and-thamesmead",
+  "start_date": "2024-05-31"
+}

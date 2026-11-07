@@ -1,0 +1,254 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 40,
+        "debates_participated": 28,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 134,
+        "debates_participated": 62,
+        "early_day_motions": 6,
+        "oral_questions": 8,
+        "written_questions": 119
+      },
+      "2026": {
+        "debate_contributions": 139,
+        "debates_participated": 48,
+        "early_day_motions": 4,
+        "oral_questions": 7,
+        "written_questions": 37
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 313,
+    "debates_participated": 138,
+    "early_day_motions": 13,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 162
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 313,
+    "voting_participation_pct": 76.55,
+    "written_questions": 162
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": true,
+      "meetings_attended": 81,
+      "meetings_available": 81
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 765,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-16"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance Bill",
+        "committee_id": 765,
+        "file": "committees/finance-bill-765.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-22"
+          }
+        ],
+        "slug": "finance-bill-765"
+      },
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/halesowen.json",
+    "id": 4076,
+    "name": "Halesowen",
+    "ons_code": "E14001261",
+    "slug": "halesowen"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.ballinger.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AlexBallingerMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AlexBallingerMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5238
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5238,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alex Ballinger",
+    "full_title": "Alex Ballinger MP",
+    "list_as": "Ballinger, Alex"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Halesowen",
+        "constituency_id": 4076,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alex Ballinger is the Labour MP for <a href='/constituency/4076/overview'>Halesowen</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5238/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 230,
+        "voting_participation_pct": 71.43
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 183,
+        "voting_participation_pct": 77.54
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 483,
+        "voting_participation_pct": 76.55
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 483,
+    "voting_participation_pct": 76.55
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 39,
+        "debates_participated": 32,
+        "oral_questions": 7
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 103,
+        "debates_participated": 79,
+        "oral_questions": 13,
+        "written_questions": 29
+      },
+      "2026": {
+        "debate_contributions": 93,
+        "debates_participated": 68,
+        "early_day_motions": 5,
+        "oral_questions": 5,
+        "written_questions": 65
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 235,
+    "debates_participated": 179,
+    "early_day_motions": 5,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 94
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 235,
+    "voting_participation_pct": 87.8,
+    "written_questions": 94
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/doncaster-east-and-the-isle-of-axholme.json",
+    "id": 4014,
+    "name": "Doncaster East and the Isle of Axholme",
+    "ons_code": "E14001199",
+    "slug": "doncaster-east-and-the-isle-of-axholme"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lee.pitcher.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Armstrong House, First Avenue, Finningley",
+      "phone": "01302 802090",
+      "postcode": "DN9 3GA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/leepitcher.bsky.social "
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LeePitcherLabour"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/leepitchermp/ "
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@lee.pitcher"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/LeePitcherMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5233
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5233,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lee Pitcher",
+    "full_title": "Lee Pitcher MP",
+    "list_as": "Pitcher, Lee"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Doncaster East and the Isle of Axholme",
+        "constituency_id": 4014,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lee Pitcher is the Labour MP for <a href='/constituency/4014/overview'>Doncaster East and the Isle of Axholme</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5233/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 275,
+        "voting_participation_pct": 85.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 209,
+        "voting_participation_pct": 88.56
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 554,
+        "voting_participation_pct": 87.8
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 554,
+    "voting_participation_pct": 87.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

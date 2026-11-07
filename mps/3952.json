@@ -1,0 +1,441 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 130,
+        "debates_participated": 65,
+        "oral_questions": 14,
+        "written_questions": 65
+      },
+      "2021": {
+        "debate_contributions": 269,
+        "debates_participated": 71,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 95
+      },
+      "2022": {
+        "debate_contributions": 148,
+        "debates_participated": 63,
+        "oral_questions": 8,
+        "written_questions": 149
+      },
+      "2023": {
+        "debate_contributions": 115,
+        "debates_participated": 50,
+        "oral_questions": 3,
+        "written_questions": 98
+      },
+      "2024": {
+        "debate_contributions": 95,
+        "debates_participated": 50,
+        "oral_questions": 4,
+        "written_questions": 67
+      },
+      "2025": {
+        "debate_contributions": 90,
+        "debates_participated": 41,
+        "oral_questions": 3,
+        "written_questions": 85
+      },
+      "2026": {
+        "debate_contributions": 88,
+        "debates_participated": 51,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 89
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 935,
+    "debates_participated": 391,
+    "early_day_motions": 3,
+    "oral_questions": 48,
+    "petitions_presented": 0,
+    "written_questions": 648
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 935,
+    "voting_participation_pct": 73.16,
+    "written_questions": 648
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+      "committee_id": 662,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Skills and Post-16 Education [HL] Bill",
+      "committee_id": 557,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-20"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+        "committee_id": 662,
+        "file": "committees/lifelong-learning-higher-education-fee-limits-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-15"
+          }
+        ],
+        "slug": "lifelong-learning-higher-education-fee-limits-bill"
+      },
+      {
+        "committee": "Skills and Post-16 Education [HL] Bill",
+        "committee_id": 557,
+        "file": "committees/skills-and-post-16-education-hl-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "skills-and-post-16-education-hl-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/chesterfield.json",
+    "id": 3980,
+    "name": "Chesterfield",
+    "ons_code": "E14001165",
+    "slug": "chesterfield"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "toby.perkins.mp@parliament.uk",
+      "phone": "020 7219 2320",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "113 Saltergate, Chesterfield",
+      "phone": "01246 386286",
+      "postcode": "S40 1NF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.tobyperkins.org.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/tobyperkinsmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 3952
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 3952,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Toby Perkins",
+    "full_title": "Mr Toby Perkins MP",
+    "list_as": "Perkins, Mr Toby"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Nature and Rural Affairs)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2015-09-18"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chesterfield",
+        "constituency_id": 3980,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Chesterfield",
+        "constituency_id": 3408,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Mr Toby Perkins is the Labour MP for <a href='/constituency/3980/overview'>Chesterfield</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3952/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 179,
+        "voting_participation_pct": 71.31
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 177,
+        "voting_participation_pct": 69.14
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 115,
+        "voting_participation_pct": 57.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 222,
+        "voting_participation_pct": 68.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 199,
+        "voting_participation_pct": 84.32
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 761,
+        "voting_participation_pct": 71.25
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 482,
+        "voting_participation_pct": 76.39
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1243,
+    "voting_participation_pct": 73.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

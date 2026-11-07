@@ -1,0 +1,211 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 3,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 19,
+        "debates_participated": 13,
+        "early_day_motions": 3,
+        "oral_questions": 2,
+        "written_questions": 46
+      },
+      "2026": {
+        "debate_contributions": 9,
+        "debates_participated": 6,
+        "written_questions": 28
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 31,
+    "debates_participated": 22,
+    "early_day_motions": 3,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 77
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 31,
+    "voting_participation_pct": 87.96,
+    "written_questions": 77
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "home-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dagenham-and-rainham.json",
+    "id": 4004,
+    "name": "Dagenham and Rainham",
+    "ons_code": "E14001189",
+    "slug": "dagenham-and-rainham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "margaret.mullane.mp@parliament.uk",
+      "phone": "020 8984 7854",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.margaretmullane.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CllrMargaretMullane"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/margaret4dr/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/margaret4dr"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5272
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5272,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Margaret Mullane",
+    "full_title": "Margaret Mullane MP",
+    "list_as": "Mullane, Margaret"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dagenham and Rainham",
+        "constituency_id": 4004,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Margaret Mullane is the Labour MP for <a href='/constituency/4004/overview'>Dagenham and Rainham</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5272/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 285,
+        "voting_participation_pct": 88.51
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 202,
+        "voting_participation_pct": 85.59
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 555,
+        "voting_participation_pct": 87.96
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 555,
+    "voting_participation_pct": 87.96
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

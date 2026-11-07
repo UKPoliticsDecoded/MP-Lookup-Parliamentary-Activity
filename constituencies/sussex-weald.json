@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 48151.8,
+    "bng": {
+      "easting": 554740,
+      "northing": 124695
+    },
+    "centroid": {
+      "latitude": 51.00083,
+      "longitude": 0.20397
+    },
+    "geojson": "constituencies/boundaries/sussex-weald.geojson",
+    "ons_code": "E14001533",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4460.json",
+    "member_id": 4460,
+    "name": "Ms Nusrat Ghani",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72885,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6842,
+      "result": "Con Hold",
+      "turnout": 49175,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4348,
+  "is_current": true,
+  "name": "Sussex Weald",
+  "name_cy": null,
+  "ons_code": "E14001533",
+  "outcodes": [
+    "BN24",
+    "BN26",
+    "BN27",
+    "BN8",
+    "RH18",
+    "RH19",
+    "TN19",
+    "TN2",
+    "TN20",
+    "TN21",
+    "TN22",
+    "TN3",
+    "TN5",
+    "TN6",
+    "TN7",
+    "TN8"
+  ],
+  "schema_version": 1,
+  "slug": "sussex-weald",
+  "start_date": "2024-05-31"
+}

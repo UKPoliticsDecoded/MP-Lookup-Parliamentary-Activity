@@ -1,0 +1,206 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 5,
+        "debates_participated": 2
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 110,
+        "debates_participated": 71,
+        "early_day_motions": 4,
+        "oral_questions": 12,
+        "written_questions": 47
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 89,
+        "debates_participated": 71,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 35
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 204,
+    "debates_participated": 144,
+    "early_day_motions": 5,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 82
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 204,
+    "voting_participation_pct": 86.34,
+    "written_questions": 82
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2010-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2001-06-26"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-05-26"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2021-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3762,
+    "name": "Southend West"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 44
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 44,
+  "membership": {
+    "end_date": "2021-10-15",
+    "end_reason": "Death",
+    "start_date": "1983-06-09",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir David",
+    "display": "Sir David Amess",
+    "full_title": "Sir David Amess",
+    "list_as": "Amess, Sir David"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2077,
+        "name": "Newham North West",
+        "startDate": "1979-05-03T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2021-10-15",
+        "party": "Conservative",
+        "start_date": "1983-06-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Southend West",
+        "constituency_id": 3762,
+        "end_date": "2021-10-15",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Southend West",
+        "constituency_id": 2716,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Basildon",
+        "constituency_id": 143,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1983-06-09"
+      }
+    ]
+  },
+  "synopsis": "Sir David Amess died in service 15th October 2021, as the Conservative MP for <a href='/constituency/3762/overview'>Southend West</a>.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/44/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 166,
+        "voting_participation_pct": 87.37
+      },
+      "2021": {
+        "divisions_eligible": 174,
+        "divisions_voted": 148,
+        "voting_participation_pct": 85.06
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 366,
+        "divisions_voted": 316,
+        "voting_participation_pct": 86.34
+      }
+    },
+    "divisions_eligible": 366,
+    "divisions_voted": 316,
+    "voting_participation_pct": 86.34
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

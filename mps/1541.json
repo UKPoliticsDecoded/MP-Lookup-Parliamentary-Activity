@@ -1,0 +1,404 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 21,
+        "debates_participated": 12,
+        "written_questions": 35
+      },
+      "2021": {
+        "debate_contributions": 22,
+        "debates_participated": 12,
+        "written_questions": 9
+      },
+      "2022": {
+        "debate_contributions": 110,
+        "debates_participated": 64,
+        "oral_questions": 12,
+        "written_questions": 21
+      },
+      "2023": {
+        "debate_contributions": 80,
+        "debates_participated": 63,
+        "oral_questions": 8,
+        "written_questions": 18
+      },
+      "2024": {
+        "debate_contributions": 123,
+        "debates_participated": 55,
+        "oral_questions": 4,
+        "written_questions": 65
+      },
+      "2025": {
+        "debate_contributions": 111,
+        "debates_participated": 42,
+        "oral_questions": 4,
+        "written_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 42,
+        "debates_participated": 36,
+        "oral_questions": 3,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 509,
+    "debates_participated": 284,
+    "early_day_motions": 0,
+    "oral_questions": 31,
+    "petitions_presented": 0,
+    "written_questions": 159
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 509,
+    "voting_participation_pct": 78.4,
+    "written_questions": 159
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-03"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/llanelli.json",
+    "id": 4513,
+    "name": "Llanelli",
+    "ons_code": "W07000098",
+    "slug": "llanelli"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "nia.griffith.mp@parliament.uk",
+      "phone": "020 7219 4903",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "43 Pottery Street, Llanelli",
+      "phone": "01554 756374",
+      "postcode": "SA15 1SU",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://niagriffith.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/pages/Nia-Griffith-MP/154165864657660"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/NiaGriffithMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1541
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 1541,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dame Nia Griffith",
+    "full_title": "Dame Nia Griffith MP",
+    "list_as": "Griffith, Dame Nia"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Education) (Equalities)",
+        "start_date": "2024-10-08"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Wales Office)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Minister (International Trade)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Wales",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Defence",
+        "start_date": "2016-10-06"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Wales",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Minister (Wales)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Llanelli",
+        "constituency_id": 4513,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Llanelli",
+        "constituency_id": 3585,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Llanelli",
+        "constituency_id": 1831,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Dame Nia Griffith is the Labour MP for <a href='/constituency/4513/overview'>Llanelli</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1541/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 192,
+        "voting_participation_pct": 76.49
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 214,
+        "voting_participation_pct": 83.59
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 147,
+        "voting_participation_pct": 73.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 277,
+        "voting_participation_pct": 86.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 141,
+        "voting_participation_pct": 59.75
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 851,
+        "voting_participation_pct": 79.68
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 481,
+        "voting_participation_pct": 76.23
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1332,
+    "voting_participation_pct": 78.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

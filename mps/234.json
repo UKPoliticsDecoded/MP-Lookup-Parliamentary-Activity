@@ -1,0 +1,291 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 6,
+        "debates_participated": 2,
+        "written_questions": 1
+      },
+      "2020": {
+        "debate_contributions": 15,
+        "debates_participated": 9,
+        "oral_questions": 3,
+        "written_questions": 7
+      },
+      "2021": {
+        "debate_contributions": 56,
+        "debates_participated": 18,
+        "oral_questions": 5,
+        "written_questions": 9
+      },
+      "2022": {
+        "debate_contributions": 60,
+        "debates_participated": 22,
+        "written_questions": 9
+      },
+      "2023": {
+        "debate_contributions": 26,
+        "debates_participated": 11,
+        "written_questions": 18
+      },
+      "2024": {
+        "debate_contributions": 41,
+        "debates_participated": 12
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 204,
+    "debates_participated": 74,
+    "early_day_motions": 0,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 44
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 204,
+    "voting_participation_pct": 75.56,
+    "written_questions": 44
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2009-01-12"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3755,
+    "name": "South West Devon"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 234
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 234,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "1992-04-09",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Gary Streeter",
+    "display": "Sir Gary Streeter",
+    "full_title": "Sir Gary Streeter",
+    "list_as": "Streeter, Sir Gary"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Lord Chancellor's Department",
+        "department_url": "http://www.lcd.gov.uk",
+        "end_date": "1997-05-01",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Lord Chancellor's Department)",
+        "start_date": "1996-06-02"
+      },
+      {
+        "department": "Law Officers",
+        "department_url": "http://www.attorneygeneral.gov.uk/",
+        "end_date": "1996-11-28",
+        "is_current": false,
+        "name": "Assistant Whip (Law Officers)",
+        "start_date": "1995-07-07"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2004-06-01",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2003-06-01"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2001-09-18",
+        "is_current": false,
+        "name": "Shadow Secretary of State for International Development",
+        "start_date": "1998-06-02"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "1998-06-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Foreign and Commonwealth Affairs)",
+        "start_date": "1997-06-01"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2002-07-01",
+        "is_current": false,
+        "name": "Vice-Chair, Conservative Party",
+        "start_date": "2001-07-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "1992-04-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South West Devon",
+        "constituency_id": 3755,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "South West Devon",
+        "constituency_id": 2683,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Plymouth, Sutton",
+        "constituency_id": 2337,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "1992-04-09"
+      }
+    ]
+  },
+  "synopsis": "Sir Gary Streeter is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3755/overview'>South West Devon</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/234/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 203,
+        "voting_participation_pct": 83.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 176,
+        "voting_participation_pct": 70.12
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 190,
+        "voting_participation_pct": 74.22
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 98,
+        "voting_participation_pct": 77.17
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 807,
+        "voting_participation_pct": 75.56
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 807,
+    "voting_participation_pct": 75.56
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

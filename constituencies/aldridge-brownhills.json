@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 5396.5,
+    "bng": {
+      "easting": 404720,
+      "northing": 301030
+    },
+    "centroid": {
+      "latitude": 52.60704,
+      "longitude": -1.93172
+    },
+    "geojson": "constituencies/boundaries/aldridge-brownhills.geojson",
+    "ons_code": "E14001064",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4358.json",
+    "member_id": 4358,
+    "name": "Wendy Morton",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70268,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4294,
+      "result": "Con Hold",
+      "turnout": 40912,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3290,
+      "end_date": "2024-05-30",
+      "member_id": 4358,
+      "name": "Wendy Morton",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3879,
+  "is_current": true,
+  "name": "Aldridge-Brownhills",
+  "name_cy": null,
+  "ons_code": "E14001064",
+  "outcodes": [
+    "B43",
+    "B74",
+    "WS3",
+    "WS4",
+    "WS5",
+    "WS8",
+    "WS9"
+  ],
+  "schema_version": 1,
+  "slug": "aldridge-brownhills",
+  "start_date": "2024-05-31"
+}

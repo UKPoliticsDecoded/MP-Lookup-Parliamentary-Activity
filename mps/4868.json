@@ -1,0 +1,451 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 46,
+        "debates_participated": 34,
+        "oral_questions": 10,
+        "written_questions": 17
+      },
+      "2021": {
+        "debate_contributions": 35,
+        "debates_participated": 22,
+        "oral_questions": 11,
+        "written_questions": 17
+      },
+      "2022": {
+        "debate_contributions": 16,
+        "debates_participated": 11,
+        "oral_questions": 5,
+        "written_questions": 6
+      },
+      "2023": {
+        "debate_contributions": 56,
+        "debates_participated": 34,
+        "oral_questions": 16,
+        "written_questions": 30
+      },
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 16,
+        "oral_questions": 6,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 179,
+    "debates_participated": 117,
+    "early_day_motions": 0,
+    "oral_questions": 48,
+    "petitions_presented": 0,
+    "written_questions": 82
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 96.77,
+    "committee_memberships": 0,
+    "debate_contributions": 179,
+    "voting_participation_pct": 84.08,
+    "written_questions": 82
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child Support Collection (Domestic Abuse) Bill",
+      "committee_id": 633,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 95.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 19,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Glue Traps (Offences) Bill",
+      "committee_id": 573,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+      "committee_id": 550,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+      "committee_id": 585,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 95.12,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 39,
+      "meetings_available": 41
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Child Support Collection (Domestic Abuse) Bill",
+        "committee_id": 633,
+        "file": "committees/child-support-collection-domestic-abuse-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "child-support-collection-domestic-abuse-bill"
+      },
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Glue Traps (Offences) Bill",
+        "committee_id": 573,
+        "file": "committees/glue-traps-offences-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "glue-traps-offences-bill"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+        "committee_id": 550,
+        "file": "committees/taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales"
+      },
+      {
+        "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+        "committee_id": 585,
+        "file": "committees/taxis-and-private-hire-vehicles-disabled-persons-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-02"
+          }
+        ],
+        "slug": "taxis-and-private-hire-vehicles-disabled-persons-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3841,
+    "name": "West Bromwich East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4868
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4868,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Nicola Richards",
+    "full_title": "Nicola Richards",
+    "list_as": "Richards, Nicola"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Bromwich East",
+        "constituency_id": 3841,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Nicola Richards is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3841/overview'>West Bromwich East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4868/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 183,
+        "voting_participation_pct": 96.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 220,
+        "voting_participation_pct": 90.91
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 166,
+        "voting_participation_pct": 66.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 218,
+        "voting_participation_pct": 85.16
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 109,
+        "voting_participation_pct": 85.83
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 898,
+        "voting_participation_pct": 84.08
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 898,
+    "voting_participation_pct": 84.08
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

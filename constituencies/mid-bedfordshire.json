@@ -1,0 +1,85 @@
+{
+  "boundary": {
+    "area_hectares": 34746.4,
+    "bng": {
+      "easting": 503098,
+      "northing": 235961
+    },
+    "centroid": {
+      "latitude": 52.01252,
+      "longitude": -0.49919
+    },
+    "geojson": "constituencies/boundaries/mid-bedfordshire.geojson",
+    "ons_code": "E14001359",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5100.json",
+    "member_id": 5100,
+    "name": "Blake Stephenson",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75457,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1321,
+      "result": "Con Hold",
+      "turnout": 49621,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3603,
+      "end_date": "2024-05-30",
+      "member_id": 5000,
+      "name": "Alistair Strathern",
+      "start_date": "2023-10-19"
+    },
+    {
+      "constituency_version_id": 3603,
+      "end_date": "2023-08-29",
+      "member_id": 1481,
+      "name": "Ms Nadine Dorries",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1946,
+      "end_date": "2010-05-06",
+      "member_id": 1481,
+      "name": "Ms Nadine Dorries",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4174,
+  "is_current": true,
+  "name": "Mid Bedfordshire",
+  "name_cy": null,
+  "ons_code": "E14001359",
+  "outcodes": [
+    "LU2",
+    "LU3",
+    "LU4",
+    "LU5",
+    "LU7",
+    "MK17",
+    "MK42",
+    "MK43",
+    "MK45",
+    "SG17",
+    "SG5"
+  ],
+  "schema_version": 1,
+  "slug": "mid-bedfordshire",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,310 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 23,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 151,
+        "debates_participated": 89,
+        "early_day_motions": 7,
+        "oral_questions": 10,
+        "written_questions": 198
+      },
+      "2026": {
+        "debate_contributions": 138,
+        "debates_participated": 97,
+        "early_day_motions": 22,
+        "oral_questions": 15,
+        "petitions_presented": 1,
+        "written_questions": 244
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 312,
+    "debates_participated": 203,
+    "early_day_motions": 30,
+    "oral_questions": 29,
+    "petitions_presented": 1,
+    "written_questions": 451
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 312,
+    "voting_participation_pct": 73.85,
+    "written_questions": 451
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 52,
+      "meetings_available": 52
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-04"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/woking.json",
+    "id": 4407,
+    "name": "Woking",
+    "ons_code": "E14001592",
+    "slug": "woking"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "will.forster.mp@parliament.uk",
+      "phone": "020 7219 6613",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "One Crown Square, Church Street East, Woking",
+      "phone": "01483 662935",
+      "postcode": "GU21 6HR",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://willforster.co.uk"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/willforster.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/WillforWoking"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/forster_will/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/WillForster"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5322
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5322,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Will Forster",
+    "full_title": "Mr Will Forster MP",
+    "list_as": "Forster, Mr Will"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Deputy Chief Whip",
+        "start_date": "2026-09-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-09-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Immigration and Asylum)",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3860,
+        "name": "Woking",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3860,
+        "name": "Woking",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Woking",
+        "constituency_id": 4407,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Will Forster is the Liberal Democrat MP for <a href='/constituency/4407/overview'>Woking</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Deputy Chief Whip.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5322/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 44,
+        "voting_participation_pct": 60.27
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 243,
+        "voting_participation_pct": 75.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 179,
+        "voting_participation_pct": 75.85
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 466,
+        "voting_participation_pct": 73.85
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 466,
+    "voting_participation_pct": 73.85
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

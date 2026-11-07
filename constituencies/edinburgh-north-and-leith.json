@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 1880.3,
+    "bng": {
+      "easting": 324350,
+      "northing": 675786
+    },
+    "centroid": {
+      "latitude": 55.96908,
+      "longitude": -3.21357
+    },
+    "geojson": "constituencies/boundaries/edinburgh-north-and-leith.geojson",
+    "ons_code": "S14000079",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5188.json",
+    "member_id": 5188,
+    "name": "Tracy Gilbert",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78411,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7268,
+      "result": "Lab Gain",
+      "turnout": 49475,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1041,
+      "end_date": "2024-05-30",
+      "member_id": 4417,
+      "name": "Deidre Brock",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4468,
+  "is_current": true,
+  "name": "Edinburgh North and Leith",
+  "name_cy": null,
+  "ons_code": "S14000079",
+  "outcodes": [
+    "EH1",
+    "EH12",
+    "EH2",
+    "EH3",
+    "EH4",
+    "EH5",
+    "EH6",
+    "EH7",
+    "EH9",
+    "EH95"
+  ],
+  "schema_version": 1,
+  "slug": "edinburgh-north-and-leith",
+  "start_date": "2024-05-31"
+}

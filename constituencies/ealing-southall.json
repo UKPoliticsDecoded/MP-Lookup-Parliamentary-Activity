@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 1599.9,
+    "bng": {
+      "easting": 513156,
+      "northing": 180445
+    },
+    "centroid": {
+      "latitude": 51.51161,
+      "longitude": -0.37076
+    },
+    "geojson": "constituencies/boundaries/ealing-southall.geojson",
+    "ons_code": "E14001209",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5075.json",
+    "member_id": 5075,
+    "name": "Deirdre Costigan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78669,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15793,
+      "result": "Lab Hold",
+      "turnout": 46816,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3457,
+      "end_date": "2024-05-30",
+      "member_id": 1604,
+      "name": "Mr Virendra Sharma",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 951,
+      "end_date": "2010-05-06",
+      "member_id": 1604,
+      "name": "Mr Virendra Sharma",
+      "start_date": "2007-07-19"
+    }
+  ],
+  "id": 4024,
+  "is_current": true,
+  "name": "Ealing Southall",
+  "name_cy": null,
+  "ons_code": "E14001209",
+  "outcodes": [
+    "TW8",
+    "UB1",
+    "UB18",
+    "UB2",
+    "UB5",
+    "UB6",
+    "W13",
+    "W5",
+    "W7"
+  ],
+  "schema_version": 1,
+  "slug": "ealing-southall",
+  "start_date": "2024-05-31"
+}

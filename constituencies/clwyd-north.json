@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 16140.8,
+    "bng": {
+      "easting": 301609,
+      "northing": 373008
+    },
+    "centroid": {
+      "latitude": 53.24495,
+      "longitude": -3.47592
+    },
+    "geojson": "constituencies/boundaries/clwyd-north.geojson",
+    "ons_code": "W07000095",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5104.json",
+    "member_id": 5104,
+    "name": "Gill German",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75027,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1196,
+      "result": "Lab Gain",
+      "turnout": 41627,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4510,
+  "is_current": true,
+  "name": "Clwyd North",
+  "name_cy": "Gogledd Clwyd",
+  "ons_code": "W07000095",
+  "outcodes": [
+    "LL16",
+    "LL17",
+    "LL18",
+    "LL19",
+    "LL22",
+    "LL28",
+    "LL29"
+  ],
+  "schema_version": 1,
+  "slug": "clwyd-north",
+  "start_date": "2024-05-31"
+}

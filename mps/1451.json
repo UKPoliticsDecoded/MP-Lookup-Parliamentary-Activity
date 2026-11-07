@@ -1,0 +1,261 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 20,
+        "debates_participated": 13,
+        "oral_questions": 2,
+        "written_questions": 7
+      },
+      "2021": {
+        "debate_contributions": 9,
+        "debates_participated": 6,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 36,
+        "debates_participated": 17,
+        "written_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 15,
+        "debates_participated": 10,
+        "written_questions": 1
+      },
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 7,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 94,
+    "debates_participated": 53,
+    "early_day_motions": 0,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 11
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 94,
+    "voting_participation_pct": 79.21,
+    "written_questions": 11
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 91,
+      "meetings_available": 91
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+      "committee_id": 347,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+        "committee_id": 347,
+        "file": "committees/international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-12"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-11-04"
+          },
+          {
+            "end": "2024-12-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-16"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3746,
+    "name": "South Norfolk"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1451
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1451,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Bacon",
+    "display": "Mr Richard Bacon",
+    "full_title": "Mr Richard Bacon",
+    "list_as": "Bacon, Mr Richard"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2998,
+        "name": "Vauxhall",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Norfolk",
+        "constituency_id": 3746,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "South Norfolk",
+        "constituency_id": 2663,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Mr Richard Bacon is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3746/overview'>South Norfolk</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1451/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 204,
+        "voting_participation_pct": 84.3
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 155,
+        "voting_participation_pct": 61.75
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 198,
+        "voting_participation_pct": 77.34
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 112,
+        "voting_participation_pct": 88.19
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 846,
+        "voting_participation_pct": 79.21
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 846,
+    "voting_participation_pct": 79.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 23,
+        "debates_participated": 15,
+        "oral_questions": 2,
+        "written_questions": 5
+      },
+      "2025": {
+        "debate_contributions": 133,
+        "debates_participated": 66,
+        "oral_questions": 7,
+        "written_questions": 4
+      },
+      "2026": {
+        "debate_contributions": 71,
+        "debates_participated": 44,
+        "oral_questions": 5,
+        "written_questions": 32
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 227,
+    "debates_participated": 125,
+    "early_day_motions": 0,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 41
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 227,
+    "voting_participation_pct": 82.88,
+    "written_questions": 41
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "justice"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/congleton.json",
+    "id": 3993,
+    "name": "Congleton",
+    "ons_code": "E14001178",
+    "slug": "congleton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.russell.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "020 7219 6638",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5324
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5324,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Russell",
+    "full_title": "Sarah Russell MP",
+    "list_as": "Russell, Sarah"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Congleton",
+        "constituency_id": 3993,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sarah Russell is the Labour MP for <a href='/constituency/3993/overview'>Congleton</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5324/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 60,
+        "voting_participation_pct": 82.19
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 261,
+        "voting_participation_pct": 81.06
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 202,
+        "voting_participation_pct": 85.59
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 523,
+        "voting_participation_pct": 82.88
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 523,
+    "voting_participation_pct": 82.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

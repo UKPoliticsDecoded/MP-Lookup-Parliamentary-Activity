@@ -1,0 +1,79 @@
+{
+  "boundary": {
+    "area_hectares": 52420.0,
+    "bng": {
+      "easting": 623862,
+      "northing": 301284
+    },
+    "centroid": {
+      "latitude": 52.56332,
+      "longitude": 1.301476
+    },
+    "geojson": "constituencies/boundaries/south-norfolk.geojson",
+    "ons_code": "E14001489",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5205.json",
+    "member_id": 5205,
+    "name": "Ben Goldsborough",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74006,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2826,
+      "result": "Lab Gain",
+      "turnout": 49579,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3746,
+      "end_date": "2024-05-30",
+      "member_id": 1451,
+      "name": "Mr Richard Bacon",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2663,
+      "end_date": "2010-05-06",
+      "member_id": 1451,
+      "name": "Mr Richard Bacon",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4304,
+  "is_current": true,
+  "name": "South Norfolk",
+  "name_cy": null,
+  "ons_code": "E14001489",
+  "outcodes": [
+    "NR1",
+    "NR14",
+    "NR15",
+    "NR16",
+    "NR18",
+    "NR31",
+    "NR34",
+    "NR35",
+    "NR4",
+    "NR5",
+    "NR8",
+    "NR9"
+  ],
+  "schema_version": 1,
+  "slug": "south-norfolk",
+  "start_date": "2024-05-31"
+}

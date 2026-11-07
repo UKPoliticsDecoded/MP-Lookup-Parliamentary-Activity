@@ -1,0 +1,480 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 394,
+        "debates_participated": 99,
+        "oral_questions": 17,
+        "written_questions": 324
+      },
+      "2021": {
+        "debate_contributions": 287,
+        "debates_participated": 87,
+        "oral_questions": 17,
+        "written_questions": 179
+      },
+      "2022": {
+        "debate_contributions": 286,
+        "debates_participated": 80,
+        "oral_questions": 8,
+        "written_questions": 171
+      },
+      "2023": {
+        "debate_contributions": 116,
+        "debates_participated": 68,
+        "oral_questions": 14,
+        "written_questions": 107
+      },
+      "2024": {
+        "debate_contributions": 211,
+        "debates_participated": 60,
+        "oral_questions": 10,
+        "written_questions": 61
+      },
+      "2025": {
+        "debate_contributions": 267,
+        "debates_participated": 63,
+        "oral_questions": 2,
+        "written_questions": 11
+      },
+      "2026": {
+        "debate_contributions": 34,
+        "debates_participated": 25,
+        "oral_questions": 5,
+        "written_questions": 19
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1596,
+    "debates_participated": 483,
+    "early_day_motions": 0,
+    "oral_questions": 73,
+    "petitions_presented": 0,
+    "written_questions": 872
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 1596,
+    "voting_participation_pct": 78.1,
+    "written_questions": 872
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal (Penalty Notices) Bill",
+      "committee_id": 563,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+      "committee_id": 790,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 719,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+      "committee_id": 550,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2015-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-13"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animal (Penalty Notices) Bill",
+        "committee_id": 563,
+        "file": "committees/animal-penalty-notices-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "animal-penalty-notices-bill"
+      },
+      {
+        "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+        "committee_id": 790,
+        "file": "committees/animal-welfare-import-of-dogs-cats-and-ferrets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "animal-welfare-import-of-dogs-cats-and-ferrets-bill"
+      },
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 719,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+        "committee_id": 550,
+        "file": "committees/taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cambridge.json",
+    "id": 3964,
+    "name": "Cambridge",
+    "ons_code": "E14001149",
+    "slug": "cambridge"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "daniel@danielzeichner.co.uk",
+      "phone": "020 7219 4379",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.danielzeichner.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/danielzeichner"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4382
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4382,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Daniel Zeichner",
+    "display": "Daniel Zeichner",
+    "full_title": "Daniel Zeichner MP",
+    "list_as": "Zeichner, Daniel"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2017-06-29",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3386,
+        "name": "Cambridge",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cambridge",
+        "constituency_id": 3964,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Cambridge",
+        "constituency_id": 3386,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Daniel Zeichner is the Labour MP for <a href='/constituency/3964/overview'>Cambridge</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4382/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 202,
+        "voting_participation_pct": 80.48
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 207,
+        "voting_participation_pct": 80.86
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 125,
+        "voting_participation_pct": 62.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 248,
+        "voting_participation_pct": 77.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 184,
+        "voting_participation_pct": 77.97
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 842,
+        "voting_participation_pct": 78.84
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 485,
+        "voting_participation_pct": 76.86
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1327,
+    "voting_participation_pct": 78.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

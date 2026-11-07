@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 21545.5,
+    "bng": {
+      "easting": 425010,
+      "northing": 540102
+    },
+    "centroid": {
+      "latitude": 54.75525,
+      "longitude": -1.61293
+    },
+    "geojson": "constituencies/boundaries/city-of-durham.geojson",
+    "ons_code": "E14001173",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4753.json",
+    "member_id": 4753,
+    "name": "Mary Kelly Foy",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70583,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11757,
+      "result": "Lab Hold",
+      "turnout": 40627,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3417,
+      "end_date": "2024-05-30",
+      "member_id": 4753,
+      "name": "Mary Kelly Foy",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3988,
+  "is_current": true,
+  "name": "City of Durham",
+  "name_cy": null,
+  "ons_code": "E14001173",
+  "outcodes": [
+    "DH1",
+    "DH3",
+    "DH4",
+    "DH5",
+    "DH6",
+    "DH7",
+    "DH97",
+    "DH98",
+    "DH99",
+    "DL13",
+    "DL14",
+    "DL15",
+    "DL16"
+  ],
+  "schema_version": 1,
+  "slug": "city-of-durham",
+  "start_date": "2024-05-31"
+}

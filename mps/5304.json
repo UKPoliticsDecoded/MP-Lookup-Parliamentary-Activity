@@ -1,0 +1,319 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 55,
+        "debates_participated": 29,
+        "early_day_motions": 4,
+        "oral_questions": 7,
+        "written_questions": 34
+      },
+      "2025": {
+        "debate_contributions": 241,
+        "debates_participated": 109,
+        "early_day_motions": 10,
+        "oral_questions": 11,
+        "written_questions": 48
+      },
+      "2026": {
+        "debate_contributions": 168,
+        "debates_participated": 92,
+        "early_day_motions": 18,
+        "oral_questions": 12,
+        "written_questions": 61
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 464,
+    "debates_participated": 230,
+    "early_day_motions": 32,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 143
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 464,
+    "voting_participation_pct": 72.27,
+    "written_questions": 143
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+      "committee_id": 790,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 809,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+        "committee_id": 790,
+        "file": "committees/animal-welfare-import-of-dogs-cats-and-ferrets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "animal-welfare-import-of-dogs-cats-and-ferrets-bill"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 809,
+        "file": "committees/secure-16-to-19-academies-bill-809.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill-809"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/winchester.json",
+    "id": 4402,
+    "name": "Winchester",
+    "ons_code": "E14001587",
+    "slug": "winchester"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "danny.chambers.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.dannychambers.org.uk "
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/dannychambersvet"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/danny_the_vet"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/DannyVet"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5304
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5304,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Danny Chambers",
+    "full_title": "Dr Danny Chambers MP",
+    "list_as": "Chambers, Dr Danny"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Mental Health)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Winchester",
+        "constituency_id": 4402,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Danny Chambers is the Liberal Democrat MP for <a href='/constituency/4402/overview'>Winchester</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Mental Health).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5304/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 42,
+        "voting_participation_pct": 57.53
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 242,
+        "voting_participation_pct": 75.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 172,
+        "voting_participation_pct": 72.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 456,
+        "voting_participation_pct": 72.27
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 456,
+    "voting_participation_pct": 72.27
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 52,
+        "debates_participated": 35,
+        "early_day_motions": 12,
+        "oral_questions": 4,
+        "written_questions": 165
+      },
+      "2021": {
+        "debate_contributions": 74,
+        "debates_participated": 47,
+        "early_day_motions": 11,
+        "oral_questions": 9,
+        "written_questions": 123
+      },
+      "2022": {
+        "debate_contributions": 54,
+        "debates_participated": 32,
+        "early_day_motions": 12,
+        "oral_questions": 4,
+        "written_questions": 163
+      },
+      "2023": {
+        "debate_contributions": 25,
+        "debates_participated": 19,
+        "early_day_motions": 7,
+        "oral_questions": 3,
+        "written_questions": 126
+      },
+      "2024": {
+        "debate_contributions": 24,
+        "debates_participated": 17,
+        "early_day_motions": 3,
+        "oral_questions": 6,
+        "written_questions": 131
+      },
+      "2025": {
+        "debate_contributions": 80,
+        "debates_participated": 51,
+        "early_day_motions": 10,
+        "oral_questions": 6,
+        "written_questions": 720
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 53,
+        "debates_participated": 39,
+        "early_day_motions": 6,
+        "oral_questions": 5,
+        "written_questions": 401
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 362,
+    "debates_participated": 240,
+    "early_day_motions": 61,
+    "oral_questions": 37,
+    "petitions_presented": 0,
+    "written_questions": 1829
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 98.18,
+    "committee_memberships": 1,
+    "debate_contributions": 362,
+    "voting_participation_pct": 72.28,
+    "written_questions": 1829
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": false,
+      "meetings_attended": 45,
+      "meetings_available": 45
+    },
+    {
+      "attendance_pct": 96.36,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 53,
+      "meetings_available": 55
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "home-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/clapham-and-brixton-hill.json",
+    "id": 3990,
+    "name": "Clapham and Brixton Hill",
+    "ons_code": "E14001175",
+    "slug": "clapham-and-brixton-hill"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "bell.ribeiroaddy.mp@parliament.uk",
+      "phone": "0207 219 6695",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/bellribeiroaddy.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/BellRibeiroAddy/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/bell_ribeiroaddy"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4764
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4764,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Bell Ribeiro-Addy",
+    "full_title": "Bell Ribeiro-Addy MP",
+    "list_as": "Ribeiro-Addy, Bell"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Clapham and Brixton Hill",
+        "constituency_id": 3990,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Streatham",
+        "constituency_id": 3784,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Bell Ribeiro-Addy is the Labour MP for <a href='/constituency/3990/overview'>Clapham and Brixton Hill</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4764/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 152,
+        "voting_participation_pct": 80.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 190,
+        "voting_participation_pct": 75.7
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 191,
+        "voting_participation_pct": 74.61
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 136,
+        "voting_participation_pct": 68.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 207,
+        "voting_participation_pct": 64.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 140,
+        "voting_participation_pct": 59.32
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 833,
+        "voting_participation_pct": 78.0
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 395,
+        "voting_participation_pct": 62.6
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1228,
+    "voting_participation_pct": 72.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

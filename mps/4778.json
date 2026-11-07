@@ -1,0 +1,652 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 2
+      },
+      "2020": {
+        "debate_contributions": 108,
+        "debates_participated": 86,
+        "oral_questions": 21,
+        "written_questions": 58
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 74,
+        "debates_participated": 57,
+        "oral_questions": 14,
+        "written_questions": 91
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 173,
+        "debates_participated": 88,
+        "oral_questions": 17,
+        "written_questions": 51
+      },
+      "2023": {
+        "debate_contributions": 166,
+        "debates_participated": 123,
+        "oral_questions": 29,
+        "written_questions": 73
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 426,
+        "debates_participated": 122,
+        "oral_questions": 20,
+        "written_questions": 56
+      },
+      "2025": {
+        "debate_contributions": 502,
+        "debates_participated": 162,
+        "oral_questions": 20,
+        "petitions_presented": 1,
+        "written_questions": 114
+      },
+      "2026": {
+        "debate_contributions": 274,
+        "debates_participated": 129,
+        "oral_questions": 11,
+        "written_questions": 318
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 1723,
+    "debates_participated": 767,
+    "early_day_motions": 0,
+    "oral_questions": 132,
+    "petitions_presented": 1,
+    "written_questions": 763
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 1723,
+    "voting_participation_pct": 88.64,
+    "written_questions": 763
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Equipment Theft (Prevention) Bill",
+      "committee_id": 642,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Firearms Bill",
+      "committee_id": 661,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 704,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 233,
+      "meetings_available": 233
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Equipment Theft (Prevention) Bill",
+        "committee_id": 642,
+        "file": "committees/equipment-theft-prevention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "equipment-theft-prevention-bill"
+      },
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "Firearms Bill",
+        "committee_id": 661,
+        "file": "committees/firearms-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "firearms-bill"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-15"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 704,
+        "file": "committees/licensing-hours-extensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "transport"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/mid-buckinghamshire.json",
+    "id": 4175,
+    "name": "Mid Buckinghamshire",
+    "ons_code": "E14001360",
+    "slug": "mid-buckinghamshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "greg.smith.mp@parliament.uk",
+      "phone": "0207 219 4287",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.gregsmith.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/gregsmith.bucks"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/gregsmith_uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/gregsmith_uk"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4778
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4778,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Greg Smith",
+    "full_title": "Greg Smith MP",
+    "list_as": "Smith, Greg"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Energy Security and Net Zero)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Transport)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-11-20"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Business and Trade)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Transport)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3523,
+        "name": "Hayes and Harlington",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Buckinghamshire",
+        "constituency_id": 4175,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Buckingham",
+        "constituency_id": 3376,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Greg Smith is the Conservative MP for <a href='/constituency/4175/overview'>Mid Buckinghamshire</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Transport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4778/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 189,
+        "voting_participation_pct": 99.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 224,
+        "voting_participation_pct": 92.56
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 234,
+        "voting_participation_pct": 93.23
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 234,
+        "voting_participation_pct": 91.41
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 172,
+        "voting_participation_pct": 86.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 253,
+        "voting_participation_pct": 78.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 198,
+        "voting_participation_pct": 83.9
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 997,
+        "voting_participation_pct": 93.35
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 509,
+        "voting_participation_pct": 80.67
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1506,
+    "voting_participation_pct": 88.64
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

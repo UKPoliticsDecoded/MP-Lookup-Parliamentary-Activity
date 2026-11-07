@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 190160.5,
+    "bng": {
+      "easting": 412781,
+      "northing": 495786
+    },
+    "centroid": {
+      "latitude": 54.35745,
+      "longitude": -1.80484
+    },
+    "geojson": "constituencies/boundaries/richmond-and-northallerton.geojson",
+    "ons_code": "E14001444",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4483.json",
+    "member_id": 4483,
+    "name": "Rishi Sunak",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73886,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12185,
+      "result": "Con Hold",
+      "turnout": 48526,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4259,
+  "is_current": true,
+  "name": "Richmond and Northallerton",
+  "name_cy": null,
+  "ons_code": "E14001444",
+  "outcodes": [
+    "DL10",
+    "DL11",
+    "DL12",
+    "DL2",
+    "DL6",
+    "DL7",
+    "DL8",
+    "DL9",
+    "HG4",
+    "LA10",
+    "TS15",
+    "TS7",
+    "TS8",
+    "TS9",
+    "YO21",
+    "YO7"
+  ],
+  "schema_version": 1,
+  "slug": "richmond-and-northallerton",
+  "start_date": "2024-05-31"
+}

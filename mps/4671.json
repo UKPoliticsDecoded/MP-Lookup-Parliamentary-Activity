@@ -1,0 +1,293 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 4
+      },
+      "2020": {
+        "debate_contributions": 64,
+        "debates_participated": 52,
+        "oral_questions": 21,
+        "written_questions": 525
+      },
+      "2021": {
+        "debate_contributions": 79,
+        "debates_participated": 56,
+        "early_day_motions": 1,
+        "oral_questions": 13,
+        "written_questions": 267
+      },
+      "2022": {
+        "debate_contributions": 85,
+        "debates_participated": 59,
+        "oral_questions": 16,
+        "written_questions": 170
+      },
+      "2023": {
+        "debate_contributions": 72,
+        "debates_participated": 52,
+        "oral_questions": 9,
+        "written_questions": 154
+      },
+      "2024": {
+        "debate_contributions": 72,
+        "debates_participated": 55,
+        "oral_questions": 9,
+        "written_questions": 73
+      },
+      "2025": {
+        "debate_contributions": 42,
+        "debates_participated": 36,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 252
+      },
+      "2026": {
+        "debate_contributions": 25,
+        "debates_participated": 21,
+        "oral_questions": 3,
+        "written_questions": 193
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 439,
+    "debates_participated": 331,
+    "early_day_motions": 2,
+    "oral_questions": 72,
+    "petitions_presented": 0,
+    "written_questions": 1638
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 439,
+    "voting_participation_pct": 77.58,
+    "written_questions": 1638
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": true,
+      "meetings_attended": 57,
+      "meetings_available": 57
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/manchester-rusholme.json",
+    "id": 4168,
+    "name": "Manchester Rusholme",
+    "ons_code": "E14001353",
+    "slug": "manchester-rusholme"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "afzal.khan.mp@parliament.uk",
+      "phone": "020 7219 3570",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "afzal.khan.mp@parliament.uk",
+      "phone": "0161 226 5546",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.afzalkhan.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/afzalkhanmcr.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AfzalKhanMCR/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/afzalkhanmcr/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4671
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4671,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Afzal Khan",
+    "display": "Afzal Khan",
+    "full_title": "Afzal Khan MP",
+    "list_as": "Khan, Afzal"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2023-11-15",
+        "is_current": false,
+        "name": "Shadow Minister (Exports)",
+        "start_date": "2023-09-07"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2023-09-07",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Deputy Leader of the House of Commons",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office) (Immigration)",
+        "start_date": "2017-07-03"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Manchester Rusholme",
+        "constituency_id": 4168,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Manchester, Gorton",
+        "constituency_id": 3597,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Afzal Khan is the Labour MP for <a href='/constituency/4168/overview'>Manchester Rusholme</a>, and has been an MP continually since 8 June 2017.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4671/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 147,
+        "voting_participation_pct": 77.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 174,
+        "voting_participation_pct": 67.97
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 146,
+        "voting_participation_pct": 73.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 248,
+        "voting_participation_pct": 77.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 194,
+        "voting_participation_pct": 82.2
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 812,
+        "voting_participation_pct": 76.03
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 506,
+        "voting_participation_pct": 80.19
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1318,
+    "voting_participation_pct": 77.58
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

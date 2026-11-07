@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 2568.9,
+    "bng": {
+      "easting": 528290,
+      "northing": 163524
+    },
+    "centroid": {
+      "latitude": 51.35631,
+      "longitude": -0.15891
+    },
+    "geojson": "constituencies/boundaries/carshalton-and-wallington.geojson",
+    "ons_code": "E14001153",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5083.json",
+    "member_id": 5083,
+    "name": "Bobby Dean",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74362,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7905,
+      "result": "LD Gain",
+      "turnout": 46670,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3396,
+      "end_date": "2024-05-30",
+      "member_id": 4775,
+      "name": "Elliot Colburn",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3968,
+  "is_current": true,
+  "name": "Carshalton and Wallington",
+  "name_cy": null,
+  "ons_code": "E14001153",
+  "outcodes": [
+    "CR0",
+    "CR4",
+    "CR5",
+    "CR8",
+    "CR9",
+    "SM1",
+    "SM4",
+    "SM5",
+    "SM6",
+    "SM7"
+  ],
+  "schema_version": 1,
+  "slug": "carshalton-and-wallington",
+  "start_date": "2024-05-31"
+}

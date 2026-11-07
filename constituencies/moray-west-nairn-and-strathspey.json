@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 471968.6,
+    "bng": {
+      "easting": 291537,
+      "northing": 822903
+    },
+    "centroid": {
+      "latitude": 57.28381,
+      "longitude": -3.80089
+    },
+    "geojson": "constituencies/boundaries/moray-west-nairn-and-strathspey.geojson",
+    "ons_code": "S14000098",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5277.json",
+    "member_id": 5277,
+    "name": "Graham Leadbitter",
+    "party": "Scottish National Party",
+    "party_abbreviation": "SNP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77243,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1001,
+      "result": "SNP Hold",
+      "turnout": 46554,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4487,
+  "is_current": true,
+  "name": "Moray West, Nairn and Strathspey",
+  "name_cy": null,
+  "ons_code": "S14000098",
+  "outcodes": [
+    "AB54",
+    "AB55",
+    "IV32",
+    "PH22",
+    "PH23",
+    "PH24",
+    "PH25",
+    "PH26"
+  ],
+  "schema_version": 1,
+  "slug": "moray-west-nairn-and-strathspey",
+  "start_date": "2024-05-31"
+}

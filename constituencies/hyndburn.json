@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 8995.1,
+    "bng": {
+      "easting": 374760,
+      "northing": 428559
+    },
+    "centroid": {
+      "latitude": 53.75279,
+      "longitude": -2.38425
+    },
+    "geojson": "constituencies/boundaries/hyndburn.geojson",
+    "ons_code": "E14001299",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5117.json",
+    "member_id": 5117,
+    "name": "Sarah Smith",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 67147,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1687,
+      "result": "Lab Gain",
+      "turnout": 36374,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3544,
+      "end_date": "2024-05-30",
+      "member_id": 4838,
+      "name": "Sara Britcliffe",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4114,
+  "is_current": true,
+  "name": "Hyndburn",
+  "name_cy": null,
+  "ons_code": "E14001299",
+  "outcodes": [
+    "BB1",
+    "BB4",
+    "BB5",
+    "BB6",
+    "BB7"
+  ],
+  "schema_version": 1,
+  "slug": "hyndburn",
+  "start_date": "2024-05-31"
+}

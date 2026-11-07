@@ -1,0 +1,247 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 122,
+        "debates_participated": 59,
+        "early_day_motions": 5,
+        "oral_questions": 15,
+        "written_questions": 180
+      },
+      "2025": {
+        "debate_contributions": 225,
+        "debates_participated": 115,
+        "early_day_motions": 18,
+        "oral_questions": 16,
+        "written_questions": 505
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 183,
+        "debates_participated": 84,
+        "early_day_motions": 72,
+        "oral_questions": 6,
+        "written_questions": 586
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 530,
+    "debates_participated": 258,
+    "early_day_motions": 95,
+    "oral_questions": 37,
+    "petitions_presented": 0,
+    "written_questions": 1271
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 530,
+    "voting_participation_pct": 67.99,
+    "written_questions": 1271
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      },
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newcastle-under-lyme.json",
+    "id": 4195,
+    "name": "Newcastle-under-Lyme",
+    "ons_code": "E14001380",
+    "slug": "newcastle-under-lyme"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "adam.jogee.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5168
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5168,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Adam Jogee",
+    "full_title": "Adam Jogee MP",
+    "list_as": "Jogee, Adam"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newcastle-under-Lyme",
+        "constituency_id": 4195,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Adam Jogee is the Labour MP for <a href='/constituency/4195/overview'>Newcastle-under-Lyme</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5168/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 208,
+        "voting_participation_pct": 64.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 429,
+        "voting_participation_pct": 67.99
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 429,
+    "voting_participation_pct": 67.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

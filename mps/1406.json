@@ -1,0 +1,290 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 2,
+        "debates_participated": 2,
+        "early_day_motions": 1,
+        "written_questions": 14
+      },
+      "2021": {
+        "debate_contributions": 3,
+        "debates_participated": 2,
+        "written_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 8,
+        "debates_participated": 4,
+        "written_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 8,
+        "debates_participated": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 21,
+    "debates_participated": 12,
+    "early_day_motions": 1,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 18
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 21,
+    "voting_participation_pct": 73.31,
+    "written_questions": 18
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 86,
+      "meetings_available": 86
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 726,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+      "committee_id": 550,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-04"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 726,
+        "file": "committees/space-industry-indemnities-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      },
+      {
+        "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+        "committee_id": 550,
+        "file": "committees/taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3436,
+    "name": "Dagenham and Rainham"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1406
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1406,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Jon Cruddas",
+    "display": "Jon Cruddas",
+    "full_title": "Jon Cruddas",
+    "list_as": "Cruddas, Jon"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Policy Review Coordinator",
+        "start_date": "2010-07-13"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dagenham and Rainham",
+        "constituency_id": 3436,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Dagenham",
+        "constituency_id": 815,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Jon Cruddas is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3436/overview'>Dagenham and Rainham</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1406/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 142,
+        "voting_participation_pct": 74.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 205,
+        "voting_participation_pct": 84.71
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 176,
+        "voting_participation_pct": 70.12
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 181,
+        "voting_participation_pct": 70.7
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 77,
+        "voting_participation_pct": 60.63
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 783,
+        "voting_participation_pct": 73.31
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 783,
+    "voting_participation_pct": 73.31
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

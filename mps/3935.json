@@ -1,0 +1,402 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 39,
+        "debates_participated": 28,
+        "oral_questions": 3
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 31,
+        "debates_participated": 16
+      },
+      "2022": {
+        "debate_contributions": 96,
+        "debates_participated": 26,
+        "oral_questions": 1
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 223,
+        "debates_participated": 37
+      },
+      "2024": {
+        "debate_contributions": 268,
+        "debates_participated": 34,
+        "written_questions": 33
+      },
+      "2025": {
+        "debate_contributions": 177,
+        "debates_participated": 28,
+        "written_questions": 60
+      },
+      "2026": {
+        "debate_contributions": 44,
+        "debates_participated": 15,
+        "written_questions": 36
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 878,
+    "debates_participated": 184,
+    "early_day_motions": 0,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 129
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 878,
+    "voting_participation_pct": 71.92,
+    "written_questions": 129
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cultural Objects (Protection From Seizure) Bill",
+      "committee_id": 555,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 166,
+      "meetings_available": 166
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Cultural Objects (Protection From Seizure) Bill",
+        "committee_id": 555,
+        "file": "committees/cultural-objects-protection-from-seizure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "cultural-objects-protection-from-seizure-bill"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-10-23"
+          },
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2019-10-23"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-10-23"
+          },
+          {
+            "end": "2022-10-25",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "treasury"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-26",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-06-20"
+          },
+          {
+            "end": "2022-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-20"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/central-devon.json",
+    "id": 3970,
+    "name": "Central Devon",
+    "ons_code": "E14001155",
+    "slug": "central-devon"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mel.stride.mp@parliament.uk",
+      "phone": "020 7219 7037",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://melstridemp.com"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/meljstride"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 3935
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 3935,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Mel Stride",
+    "display": "Sir Mel Stride",
+    "full_title": "Rt Hon Sir Mel Stride MP",
+    "list_as": "Stride, Sir Mel"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Secretary of State for Work and Pensions",
+        "start_date": "2022-10-25"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Lord President of the Council and Leader of the House of Commons",
+        "start_date": "2019-05-23"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2019-05-23",
+        "is_current": false,
+        "name": "Financial Secretary to the Treasury and Paymaster General",
+        "start_date": "2017-06-12"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2017-06-12",
+        "is_current": false,
+        "name": "Comptroller (HM Household) (Deputy Chief Whip, House of Commons)",
+        "start_date": "2016-07-18"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2016-07-17",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2015-05-13"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2014-07-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Chancellor of the Exchequer",
+        "start_date": "2024-11-04"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2024-11-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Work and Pensions",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Central Devon",
+        "constituency_id": 3970,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Central Devon",
+        "constituency_id": 3398,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Mel Stride is the Conservative MP for <a href='/constituency/3970/overview'>Central Devon</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3935/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 163,
+        "voting_participation_pct": 85.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 192,
+        "voting_participation_pct": 76.49
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 190,
+        "voting_participation_pct": 74.22
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 156,
+        "voting_participation_pct": 78.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 145,
+        "voting_participation_pct": 45.03
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 157,
+        "voting_participation_pct": 66.53
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 867,
+        "voting_participation_pct": 81.18
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 355,
+        "voting_participation_pct": 56.26
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1222,
+    "voting_participation_pct": 71.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

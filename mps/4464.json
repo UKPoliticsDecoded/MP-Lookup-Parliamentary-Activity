@@ -1,0 +1,377 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 56,
+        "debates_participated": 37,
+        "oral_questions": 4,
+        "written_questions": 34
+      },
+      "2025": {
+        "debate_contributions": 106,
+        "debates_participated": 61,
+        "oral_questions": 10,
+        "written_questions": 86
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 141,
+        "debates_participated": 68,
+        "oral_questions": 15,
+        "written_questions": 86
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 303,
+    "debates_participated": 166,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 206
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 303,
+    "voting_participation_pct": 74.64,
+    "written_questions": 206
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-17"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/great-grimsby-and-cleethorpes.json",
+    "id": 4070,
+    "name": "Great Grimsby and Cleethorpes",
+    "ons_code": "E14001255",
+    "slug": "great-grimsby-and-cleethorpes"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "melanie.onn.mp@parliament.uk",
+      "phone": "020 7219 7185",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01472 868229",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://melanieonn.org.uk "
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/MelanieOnnLabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/melanie_onn"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4464
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4464,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Melanie Onn",
+    "full_title": "Melanie Onn MP",
+    "list_as": "Onn, Melanie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2019-03-27",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government) (Housing)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Housing)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Deputy Leader of the House of Commons",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3502,
+        "name": "Great Grimsby",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Great Grimsby and Cleethorpes",
+        "constituency_id": 4070,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Great Grimsby",
+        "constituency_id": 3502,
+        "end_date": "2019-11-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Melanie Onn is the Labour MP for <a href='/constituency/4070/overview'>Great Grimsby and Cleethorpes</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4464/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 209,
+        "voting_participation_pct": 64.91
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 197,
+        "voting_participation_pct": 83.47
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 471,
+        "voting_participation_pct": 74.64
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 471,
+    "voting_participation_pct": 74.64
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

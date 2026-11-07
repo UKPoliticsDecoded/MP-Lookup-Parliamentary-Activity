@@ -1,0 +1,225 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 39,
+        "debates_participated": 27,
+        "written_questions": 25
+      },
+      "2025": {
+        "debate_contributions": 129,
+        "debates_participated": 66,
+        "oral_questions": 4,
+        "written_questions": 72
+      },
+      "2026": {
+        "debate_contributions": 160,
+        "debates_participated": 55,
+        "oral_questions": 4,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 328,
+    "debates_participated": 148,
+    "early_day_motions": 0,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 106
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 328,
+    "voting_participation_pct": 63.71,
+    "written_questions": 106
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 50,
+      "meetings_available": 50
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-06"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "defence"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/leyton-and-wanstead.json",
+    "id": 4149,
+    "name": "Leyton and Wanstead",
+    "ons_code": "E14001334",
+    "slug": "leyton-and-wanstead"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "calvin.bailey.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.calvinbailey.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61569349976743 "
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/calvinbaileymp"
+    },
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/in/calvin-bailey-mp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/CalvinBailey"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5054
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5054,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Calvin Bailey",
+    "full_title": "Mr Calvin Bailey MP",
+    "list_as": "Bailey, Mr Calvin"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence) (Minister for Veterans and People)",
+        "start_date": "2026-06-12"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Ministry of Defence) (Minister for Veterans and People)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leyton and Wanstead",
+        "constituency_id": 4149,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Calvin Bailey is the Labour MP for <a href='/constituency/4149/overview'>Leyton and Wanstead</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Parliamentary Under-Secretary (Ministry of Defence) (Minister for Veterans and People).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5054/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 191,
+        "voting_participation_pct": 59.32
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 140,
+        "voting_participation_pct": 59.32
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 402,
+        "voting_participation_pct": 63.71
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 402,
+    "voting_participation_pct": 63.71
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

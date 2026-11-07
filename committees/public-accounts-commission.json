@@ -1,0 +1,563 @@
+{
+  "activity": {
+    "current_members": 9,
+    "formal_meetings_held": 27,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 9
+  },
+  "category": "Other",
+  "chairs": [
+    {
+      "member_id": 165,
+      "name": "Clive Efford"
+    }
+  ],
+  "contact": {
+    "address": "Public Accounts Commission, House of Commons, London, SW1A 0AA",
+    "email": "TPAC@parliament.uk",
+    "phone": "General enquiries: 020 7219 5903 | Media enquiries: 020 7219 0969 / CommonsPressOffice@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 207,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/165.json",
+      "member_id": 165,
+      "name": "Clive Efford",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-11-16"
+        },
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2025-01-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/249.json",
+      "member_id": 249,
+      "name": "Sir Geoffrey Clifton-Brown",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/529.json",
+      "member_id": 529,
+      "name": "Sir Alan Campbell",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/4051.json",
+      "member_id": 4051,
+      "name": "John Glen",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/4591.json",
+      "member_id": 4591,
+      "name": "Sarah Olney",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/5128.json",
+      "member_id": 5128,
+      "name": "Phil Brickell",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/5210.json",
+      "member_id": 5210,
+      "name": "Tom Hayes",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/5226.json",
+      "member_id": 5226,
+      "name": "Michelle Welsh",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/5237.json",
+      "member_id": 5237,
+      "name": "Chris Vince",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-16"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/345.json",
+      "member_id": 345,
+      "name": "Sir Edward Leigh",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2015-03-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2011-03-16"
+        },
+        {
+          "end": "2015-03-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2011-03-16"
+        },
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-11-04"
+        },
+        {
+          "end": "2022-07-04",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 6,
+        "meetings_available": 6
+      },
+      "file": "mps/523.json",
+      "member_id": 523,
+      "name": "Mr Nicholas Brown",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-11-04"
+        },
+        {
+          "end": "2023-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/1451.json",
+      "member_id": 1451,
+      "name": "Mr Richard Bacon",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2015-03-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2010-07-12"
+        },
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-11-04"
+        },
+        {
+          "end": "2024-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/1521.json",
+      "member_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-03-08"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/1524.json",
+      "member_id": 1524,
+      "name": "Dame Meg Hillier",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-06-18"
+        },
+        {
+          "end": "2024-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-07-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 6,
+        "meetings_available": 6
+      },
+      "file": "mps/4017.json",
+      "member_id": 4017,
+      "name": "Penny Mordaunt",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-09-08"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4055.json",
+      "member_id": 4055,
+      "name": "Sir Mark Spencer",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-09-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-02-08"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/4099.json",
+      "member_id": 4099,
+      "name": "Sir Jacob Rees-Mogg",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-02-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-07-24"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4263.json",
+      "member_id": 4263,
+      "name": "Lucy Powell",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2025-09-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4402.json",
+      "member_id": 4402,
+      "name": "Douglas Chapman",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2020-03-18",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2018-07-09"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4410.json",
+      "member_id": 4410,
+      "name": "Julian Knight",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2020-03-18",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4466.json",
+      "member_id": 4466,
+      "name": "Peter Grant",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-18"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/4484.json",
+      "member_id": 4484,
+      "name": "Alan Mak",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2021-06-09",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-18"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4643.json",
+      "member_id": 4643,
+      "name": "Jack Brereton",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-11-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 4,
+        "meetings_available": 4
+      },
+      "file": "mps/4739.json",
+      "member_id": 4739,
+      "name": "Jerome Mayhew",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2023-07-11",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-07-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 4,
+        "meetings_available": 4
+      },
+      "file": "mps/4801.json",
+      "member_id": 4801,
+      "name": "Anthony Browne",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2023-07-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-09"
+        }
+      ]
+    }
+  ],
+  "name": "Public Accounts Commission",
+  "parent_committee_id": null,
+  "purpose": "<p>The role of the Public Accounts Commission is defined by the National Audit Act 1983 and the Budget Responsibility and National Audit Act 2011. The Commission’s principal duties under the Acts are to examine the National Audit Office Estimate and lay it before the House, to consider reports from the appointed auditor of the National Audit Office and to appoint non-executive members of the National Audit Office Board.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "public-accounts-commission",
+  "start_date": "2010-07-12",
+  "sub_committee_ids": [],
+  "types": [
+    "Other"
+  ]
+}

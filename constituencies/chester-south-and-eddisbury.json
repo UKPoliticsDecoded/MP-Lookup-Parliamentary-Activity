@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 75467.1,
+    "bng": {
+      "easting": 354400,
+      "northing": 358464
+    },
+    "centroid": {
+      "latitude": 53.1214,
+      "longitude": -2.68282
+    },
+    "geojson": "constituencies/boundaries/chester-south-and-eddisbury.geojson",
+    "ons_code": "E14001164",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5241.json",
+    "member_id": 5241,
+    "name": "Aphra Brandreth",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74284,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3057,
+      "result": "Con Hold",
+      "turnout": 52486,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3979,
+  "is_current": true,
+  "name": "Chester South and Eddisbury",
+  "name_cy": null,
+  "ons_code": "E14001164",
+  "outcodes": [
+    "CH3",
+    "CH4",
+    "CH99",
+    "CW1",
+    "CW10",
+    "CW2",
+    "CW3",
+    "CW5",
+    "CW6",
+    "CW7",
+    "CW8",
+    "SY13",
+    "SY14",
+    "TF9",
+    "WA6"
+  ],
+  "schema_version": 1,
+  "slug": "chester-south-and-eddisbury",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,198 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 12,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 75
+      },
+      "2025": {
+        "debate_contributions": 99,
+        "debates_participated": 60,
+        "early_day_motions": 9,
+        "oral_questions": 4,
+        "written_questions": 393
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 78,
+        "debates_participated": 49,
+        "early_day_motions": 10,
+        "oral_questions": 6,
+        "written_questions": 318
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 198,
+    "debates_participated": 121,
+    "early_day_motions": 21,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 786
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 2,
+    "debate_contributions": 198,
+    "voting_participation_pct": 41.68,
+    "written_questions": 786
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-13"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/henley-and-thame.json",
+    "id": 4095,
+    "name": "Henley and Thame",
+    "ons_code": "E14001280",
+    "slug": "henley-and-thame"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "freddie.vanmierlo.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5296
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5296,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Freddie van Mierlo",
+    "full_title": "Freddie van Mierlo MP",
+    "list_as": "van Mierlo, Freddie"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Henley and Thame",
+        "constituency_id": 4095,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Freddie van Mierlo is the Liberal Democrat MP for <a href='/constituency/4095/overview'>Henley and Thame</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5296/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 41,
+        "voting_participation_pct": 56.16
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 122,
+        "voting_participation_pct": 37.89
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 100,
+        "voting_participation_pct": 42.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 263,
+        "voting_participation_pct": 41.68
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 263,
+    "voting_participation_pct": 41.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 5
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 137,
+        "debates_participated": 105,
+        "early_day_motions": 4,
+        "oral_questions": 14,
+        "written_questions": 247
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 116,
+        "debates_participated": 91,
+        "early_day_motions": 5,
+        "oral_questions": 15,
+        "written_questions": 189
+      },
+      "2022": {
+        "bills_sponsored": 2,
+        "debate_contributions": 147,
+        "debates_participated": 83,
+        "early_day_motions": 6,
+        "oral_questions": 14,
+        "written_questions": 266
+      },
+      "2023": {
+        "debate_contributions": 144,
+        "debates_participated": 90,
+        "early_day_motions": 5,
+        "oral_questions": 16,
+        "written_questions": 200
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 141,
+        "debates_participated": 85,
+        "early_day_motions": 6,
+        "oral_questions": 13,
+        "written_questions": 115
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 274,
+        "debates_participated": 109,
+        "early_day_motions": 4,
+        "oral_questions": 8,
+        "written_questions": 251
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 134,
+        "debates_participated": 75,
+        "early_day_motions": 2,
+        "oral_questions": 13,
+        "written_questions": 220
+      }
+    },
+    "bills_sponsored": 9,
+    "debate_contributions": 1093,
+    "debates_participated": 638,
+    "early_day_motions": 32,
+    "oral_questions": 93,
+    "petitions_presented": 0,
+    "written_questions": 1493
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 1093,
+    "voting_participation_pct": 74.75,
+    "written_questions": 1493
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Sex-based Harassment in Public Bill",
+      "committee_id": 653,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Supported Housing (Regulatory Oversight) Bill",
+      "committee_id": 637,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Protection from Sex-based Harassment in Public Bill",
+        "committee_id": 653,
+        "file": "committees/protection-from-sex-based-harassment-in-public-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-08"
+          }
+        ],
+        "slug": "protection-from-sex-based-harassment-in-public-bill"
+      },
+      {
+        "committee": "Supported Housing (Regulatory Oversight) Bill",
+        "committee_id": 637,
+        "file": "committees/supported-housing-regulatory-oversight-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-14"
+          }
+        ],
+        "slug": "supported-housing-regulatory-oversight-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/twickenham.json",
+    "id": 4371,
+    "name": "Twickenham",
+    "ons_code": "E14001556",
+    "slug": "twickenham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "munira.wilson.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "15 Richmond Road, Twickenham",
+      "email": "munira.wilson.mp@parliament.uk",
+      "phone": "020 8977 0606",
+      "postcode": "TW1 3AB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.munira.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/munirawilson.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/munirawilson/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/munirawilson"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4776
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4776,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Munira Wilson",
+    "full_title": "Munira Wilson MP",
+    "list_as": "Wilson, Munira"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Education, Children and Families)",
+        "start_date": "2024-09-18"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Education)",
+        "start_date": "2021-10-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-10-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Health and Social Care)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Transport)",
+        "start_date": "2020-01-06"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3484,
+        "name": "Feltham and Heston",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Twickenham",
+        "constituency_id": 4371,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Twickenham",
+        "constituency_id": 3814,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Munira Wilson is the Liberal Democrat MP for <a href='/constituency/4371/overview'>Twickenham</a>, and has been an MP continually since 12 December 2019. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Education, Children and Families).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4776/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 155,
+        "voting_participation_pct": 81.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 222,
+        "voting_participation_pct": 91.74
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 200,
+        "voting_participation_pct": 79.68
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 185,
+        "voting_participation_pct": 72.27
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 112,
+        "voting_participation_pct": 56.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 227,
+        "voting_participation_pct": 70.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 167,
+        "voting_participation_pct": 70.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 838,
+        "voting_participation_pct": 78.46
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 432,
+        "voting_participation_pct": 68.46
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1270,
+    "voting_participation_pct": 74.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

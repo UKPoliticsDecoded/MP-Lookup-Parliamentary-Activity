@@ -1,0 +1,268 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 40,
+        "debates_participated": 31,
+        "oral_questions": 1,
+        "written_questions": 31
+      },
+      "2021": {
+        "debate_contributions": 50,
+        "debates_participated": 32,
+        "written_questions": 9
+      },
+      "2022": {
+        "debate_contributions": 46,
+        "debates_participated": 28,
+        "oral_questions": 5,
+        "written_questions": 61
+      },
+      "2023": {
+        "debate_contributions": 36,
+        "debates_participated": 22,
+        "written_questions": 125
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 17,
+        "debates_participated": 14,
+        "oral_questions": 2,
+        "written_questions": 47
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 189,
+    "debates_participated": 127,
+    "early_day_motions": 0,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 273
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 189,
+    "voting_participation_pct": 84.27,
+    "written_questions": 273
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 103,
+      "meetings_available": 103
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-11"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3769,
+    "name": "St Ives"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4532
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4532,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Derek Thomas",
+    "display": "Derek Thomas",
+    "full_title": "Derek Thomas",
+    "list_as": "Thomas, Derek"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3769,
+        "name": "St Ives",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "St Ives",
+        "constituency_id": 3769,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Derek Thomas is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3769/overview'>St Ives</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4532/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 169,
+        "voting_participation_pct": 88.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 220,
+        "voting_participation_pct": 90.91
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 195,
+        "voting_participation_pct": 77.69
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 209,
+        "voting_participation_pct": 81.64
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 105,
+        "voting_participation_pct": 82.68
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 900,
+        "voting_participation_pct": 84.27
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 900,
+    "voting_participation_pct": 84.27
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

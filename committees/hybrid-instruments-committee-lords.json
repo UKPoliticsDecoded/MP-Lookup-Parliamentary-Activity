@@ -1,0 +1,208 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 0,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede"
+    }
+  ],
+  "contact": {
+    "phone": "020 7219 3231"
+  },
+  "end_date": null,
+  "house": "Lords",
+  "id": 186,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "file": null,
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2026-05-13"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3453,
+      "name": "The Lord Addington",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2011-05-17"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3577,
+      "name": "The Lord Grantchester",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2004-12-06"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-06-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4229,
+      "name": "The Baroness Jenkin of Kennington",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-10-29"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4351,
+      "name": "The Lord Lisvane KCB DL",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-01-27"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-06-01"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 810,
+      "name": "The Lord Dykes",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-01-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-06-27"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2235,
+      "name": "The Lord Swinfen",
+      "party": null,
+      "roles": [
+        {
+          "end": "2022-06-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2010-06-03"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2488,
+      "name": "The Lord Harrison",
+      "party": null,
+      "roles": [
+        {
+          "end": "2022-05-12",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2003-12-10"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4148,
+      "name": "The Rt Hon. the Lord McFall of Alcluith",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-04-29",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2016-09-01"
+        },
+        {
+          "end": "2021-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-09-01"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4161,
+      "name": "The Lord Gardiner of Kimble",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-05-12",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2021-05-13"
+        },
+        {
+          "end": "2026-05-12",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-05-13"
+        }
+      ]
+    }
+  ],
+  "name": "Hybrid Instruments Committee (Lords)",
+  "parent_committee_id": null,
+  "purpose": "<p>The Hybrid Instruments Committee decides whether an opposed hybrid instrument should have its merits enquired into by a Select Committee set up for that purpose</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "hybrid-instruments-committee-lords",
+  "start_date": "1975-04-16",
+  "sub_committee_ids": [],
+  "types": [
+    "Legislative"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 74,
+        "debates_participated": 29,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 94,
+        "debates_participated": 59,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 9
+      },
+      "2026": {
+        "debate_contributions": 90,
+        "debates_participated": 54,
+        "early_day_motions": 2,
+        "oral_questions": 11,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 258,
+    "debates_participated": 142,
+    "early_day_motions": 5,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 11
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 258,
+    "voting_participation_pct": 78.61,
+    "written_questions": 11
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/na-h-eileanan-an-iar.json",
+    "id": 4443,
+    "name": "Na h-Eileanan an Iar",
+    "ons_code": "S14000027",
+    "slug": "na-h-eileanan-an-iar"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "torcuil.crichton.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5246
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5246,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Torcuil Crichton",
+    "full_title": "Torcuil Crichton MP",
+    "list_as": "Crichton, Torcuil"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Na h-Eileanan an Iar",
+        "constituency_id": 4443,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Torcuil Crichton is the Labour MP for <a href='/constituency/4443/overview'>Na h-Eileanan an Iar</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5246/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 261,
+        "voting_participation_pct": 81.06
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 165,
+        "voting_participation_pct": 69.92
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 496,
+        "voting_participation_pct": 78.61
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 496,
+    "voting_participation_pct": 78.61
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

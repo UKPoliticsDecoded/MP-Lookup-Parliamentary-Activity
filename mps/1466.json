@@ -1,0 +1,396 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 121,
+        "debates_participated": 62,
+        "oral_questions": 1,
+        "written_questions": 10
+      },
+      "2021": {
+        "debate_contributions": 109,
+        "debates_participated": 62,
+        "oral_questions": 4,
+        "written_questions": 23
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 162,
+        "debates_participated": 71,
+        "oral_questions": 2,
+        "written_questions": 12
+      },
+      "2023": {
+        "debate_contributions": 173,
+        "debates_participated": 35
+      },
+      "2024": {
+        "debate_contributions": 139,
+        "debates_participated": 72,
+        "oral_questions": 2,
+        "written_questions": 23
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 239,
+        "debates_participated": 184,
+        "oral_questions": 1,
+        "written_questions": 40
+      },
+      "2026": {
+        "debate_contributions": 210,
+        "debates_participated": 127,
+        "oral_questions": 3,
+        "written_questions": 42
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 1153,
+    "debates_participated": 613,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 150
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 1153,
+    "voting_participation_pct": 81.22,
+    "written_questions": 150
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": true,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Select Committee on the Armed Forces Bill (2021)",
+      "committee_id": 509,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-25"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-27"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill (2021)",
+        "committee_id": 509,
+        "file": "committees/select-committee-on-the-armed-forces-bill-2021.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill-2021"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-west-wiltshire.json",
+    "id": 4313,
+    "name": "South West Wiltshire",
+    "ons_code": "E14001498",
+    "slug": "south-west-wiltshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "murrisona@parliament.uk",
+      "phone": "01225 358584",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.andrewmurrison.co.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/AWMurrison"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1466
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1466,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dr Murrison",
+    "display": "Dr Andrew Murrison",
+    "full_title": "Rt Hon Dr Andrew Murrison MP",
+    "list_as": "Murrison, Dr Andrew"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence)",
+        "start_date": "2022-10-30"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Minister of State (Foreign and Commonwealth Office) (Joint with the Department for International Development)",
+        "start_date": "2019-05-09"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Northern Ireland Office)",
+        "start_date": "2014-07-15"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2014-07-15",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence)",
+        "start_date": "2012-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2007-07-03"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2007-07-03",
+        "is_current": false,
+        "name": "Shadow Minister (Health)",
+        "start_date": "2003-11-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South West Wiltshire",
+        "constituency_id": 4313,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "South West Wiltshire",
+        "constituency_id": 3759,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Westbury",
+        "constituency_id": 3144,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Dr Andrew Murrison is the Conservative MP for <a href='/constituency/4313/overview'>South West Wiltshire</a>, and has been an MP continually since 7 June 2001.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1466/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 152,
+        "voting_participation_pct": 80.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 218,
+        "voting_participation_pct": 85.16
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 166,
+        "voting_participation_pct": 83.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 243,
+        "voting_participation_pct": 75.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 202,
+        "voting_participation_pct": 85.59
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 882,
+        "voting_participation_pct": 82.58
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 498,
+        "voting_participation_pct": 78.92
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1380,
+    "voting_participation_pct": 81.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

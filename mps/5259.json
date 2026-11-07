@@ -1,0 +1,217 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 31,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 105,
+        "debates_participated": 57,
+        "oral_questions": 6,
+        "written_questions": 11
+      },
+      "2026": {
+        "debate_contributions": 43,
+        "debates_participated": 20,
+        "oral_questions": 5,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 179,
+    "debates_participated": 92,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 19
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 179,
+    "voting_participation_pct": 83.99,
+    "written_questions": 19
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 55,
+      "meetings_available": 55
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/loughborough.json",
+    "id": 4157,
+    "name": "Loughborough",
+    "ons_code": "E14001342",
+    "slug": "loughborough"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jeevun.sandher.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "PO Box 11212, Loughborough ",
+      "email": "jeevun.sandher.mp@parliament.uk",
+      "phone": "01509 351051",
+      "postcode": "LE11 9PU",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jeevunsandher.mp/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/jeevunsandher.bsky.social"
+    },
+    {
+      "type": "Substack",
+      "url": "https://jeevunsandher.substack.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/jeevunsandher"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5259
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5259,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Jeevun Sandher",
+    "full_title": "Dr Jeevun Sandher MP",
+    "list_as": "Sandher, Dr Jeevun"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Loughborough",
+        "constituency_id": 4157,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Jeevun Sandher is the Labour MP for <a href='/constituency/4157/overview'>Loughborough</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5259/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 277,
+        "voting_participation_pct": 86.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 185,
+        "voting_participation_pct": 78.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 530,
+        "voting_participation_pct": 83.99
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 530,
+    "voting_participation_pct": 83.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 64,
+        "debates_participated": 40,
+        "oral_questions": 3,
+        "written_questions": 10
+      },
+      "2021": {
+        "debate_contributions": 29,
+        "debates_participated": 23,
+        "oral_questions": 5,
+        "written_questions": 3
+      },
+      "2022": {
+        "debate_contributions": 50,
+        "debates_participated": 35,
+        "oral_questions": 4,
+        "written_questions": 3
+      },
+      "2023": {
+        "debate_contributions": 6,
+        "debates_participated": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 149,
+    "debates_participated": 101,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 16
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 149,
+    "voting_participation_pct": 74.16,
+    "written_questions": 16
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 76,
+      "meetings_available": 76
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "health-and-social-care"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3797,
+    "name": "Telford"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4411
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4411,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Lucy Allan",
+    "display": "Lucy Allan",
+    "full_title": "Lucy Allan",
+    "list_as": "Allan, Lucy"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Independent",
+        "start_date": "2024-05-27"
+      },
+      {
+        "end_date": "2024-05-27",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Telford",
+        "constituency_id": 3797,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Lucy Allan is no longer a Member, but was most recently the Independent MP for <a href='/constituency/3797/overview'>Telford</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4411/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 180,
+        "voting_participation_pct": 94.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 178,
+        "voting_participation_pct": 70.92
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 160,
+        "voting_participation_pct": 62.5
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 59,
+        "voting_participation_pct": 46.46
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 792,
+        "voting_participation_pct": 74.16
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 792,
+    "voting_participation_pct": 74.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

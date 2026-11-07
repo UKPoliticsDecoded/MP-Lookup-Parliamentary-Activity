@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 11348.0,
+    "bng": {
+      "easting": 409396,
+      "northing": 99427
+    },
+    "centroid": {
+      "latitude": 50.79432,
+      "longitude": -1.86804
+    },
+    "geojson": "constituencies/boundaries/christchurch.geojson",
+    "ons_code": "E14001171",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/242.json",
+    "member_id": 242,
+    "name": "Sir Christopher Chope",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71060,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7455,
+      "result": "Con Hold",
+      "turnout": 47335,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3414,
+      "end_date": "2024-05-30",
+      "member_id": 242,
+      "name": "Sir Christopher Chope",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 683,
+      "end_date": "2010-05-06",
+      "member_id": 242,
+      "name": "Sir Christopher Chope",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 3986,
+  "is_current": true,
+  "name": "Christchurch",
+  "name_cy": null,
+  "ons_code": "E14001171",
+  "outcodes": [
+    "BH21",
+    "BH22",
+    "BH23",
+    "BH24"
+  ],
+  "schema_version": 1,
+  "slug": "christchurch",
+  "start_date": "2024-05-31"
+}

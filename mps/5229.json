@@ -1,0 +1,199 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 43,
+        "debates_participated": 32,
+        "oral_questions": 6,
+        "written_questions": 11
+      },
+      "2025": {
+        "debate_contributions": 121,
+        "debates_participated": 68,
+        "oral_questions": 18,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 72,
+        "debates_participated": 44,
+        "oral_questions": 16,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 236,
+    "debates_participated": 144,
+    "early_day_motions": 0,
+    "oral_questions": 40,
+    "petitions_presented": 0,
+    "written_questions": 27
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 236,
+    "voting_participation_pct": 75.28,
+    "written_questions": 27
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 27,
+      "meetings_available": 27
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/kensington-and-bayswater.json",
+    "id": 4125,
+    "name": "Kensington and Bayswater",
+    "ons_code": "E14001310",
+    "slug": "kensington-and-bayswater"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "joe.powell.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "020 3951 3033",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5229
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5229,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Joe Powell",
+    "full_title": "Joe Powell MP",
+    "list_as": "Powell, Joe"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Kensington and Bayswater",
+        "constituency_id": 4125,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Joe Powell is the Labour MP for <a href='/constituency/4125/overview'>Kensington and Bayswater</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5229/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 236,
+        "voting_participation_pct": 73.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 172,
+        "voting_participation_pct": 72.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 475,
+        "voting_participation_pct": 75.28
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 475,
+    "voting_participation_pct": 75.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

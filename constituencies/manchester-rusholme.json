@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 1534.0,
+    "bng": {
+      "easting": 384713,
+      "northing": 395653
+    },
+    "centroid": {
+      "latitude": 53.45742,
+      "longitude": -2.23168
+    },
+    "geojson": "constituencies/boundaries/manchester-rusholme.geojson",
+    "ons_code": "E14001353",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4671.json",
+    "member_id": 4671,
+    "name": "Afzal Khan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72608,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8235,
+      "result": "Lab Hold",
+      "turnout": 29033,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4168,
+  "is_current": true,
+  "name": "Manchester Rusholme",
+  "name_cy": null,
+  "ons_code": "E14001353",
+  "outcodes": [
+    "M1",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M19",
+    "M21",
+    "M3"
+  ],
+  "schema_version": 1,
+  "slug": "manchester-rusholme",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 83251.5,
+    "bng": {
+      "easting": 359746,
+      "northing": 472666
+    },
+    "centroid": {
+      "latitude": 54.14824,
+      "longitude": -2.61777
+    },
+    "geojson": "constituencies/boundaries/morecambe-and-lunesdale.geojson",
+    "ons_code": "E14001372",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5225.json",
+    "member_id": 5225,
+    "name": "Lizzi Collinge",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76424,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5815,
+      "result": "Lab Gain",
+      "turnout": 48059,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3618,
+      "end_date": "2024-05-30",
+      "member_id": 4135,
+      "name": "David Morris",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4187,
+  "is_current": true,
+  "name": "Morecambe and Lunesdale",
+  "name_cy": null,
+  "ons_code": "E14001372",
+  "outcodes": [
+    "LA1",
+    "LA10",
+    "LA2",
+    "LA3",
+    "LA4",
+    "LA5",
+    "LA6",
+    "LA7",
+    "LA8"
+  ],
+  "schema_version": 1,
+  "slug": "morecambe-and-lunesdale",
+  "start_date": "2024-05-31"
+}

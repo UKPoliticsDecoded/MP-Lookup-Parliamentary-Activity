@@ -1,0 +1,260 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 31,
+        "debates_participated": 27,
+        "early_day_motions": 5,
+        "oral_questions": 2,
+        "written_questions": 1
+      },
+      "2021": {
+        "debate_contributions": 60,
+        "debates_participated": 41,
+        "early_day_motions": 8,
+        "oral_questions": 12,
+        "written_questions": 8
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 94,
+        "debates_participated": 64,
+        "early_day_motions": 2,
+        "oral_questions": 7,
+        "written_questions": 3
+      },
+      "2023": {
+        "debate_contributions": 70,
+        "debates_participated": 46,
+        "early_day_motions": 4,
+        "oral_questions": 15,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 38,
+        "debates_participated": 22,
+        "early_day_motions": 2,
+        "oral_questions": 6,
+        "written_questions": 14
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 293,
+    "debates_participated": 200,
+    "early_day_motions": 21,
+    "oral_questions": 42,
+    "petitions_presented": 0,
+    "written_questions": 33
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 293,
+    "voting_participation_pct": 62.92,
+    "written_questions": 33
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Zoological Society of London (Leases) Bill",
+      "committee_id": 707,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Zoological Society of London (Leases) Bill",
+        "committee_id": 707,
+        "file": "committees/zoological-society-of-london-leases-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-21"
+          }
+        ],
+        "slug": "zoological-society-of-london-leases-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 728,
+    "name": "Coatbridge, Chryston and Bellshill"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4748
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4748,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Steven Bonnar",
+    "full_title": "Steven Bonnar",
+    "list_as": "Bonnar, Steven"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (DEFRA Team Member)",
+        "start_date": "2020-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4459,
+        "name": "Coatbridge and Bellshill",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Coatbridge, Chryston and Bellshill",
+        "constituency_id": 728,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Steven Bonnar is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/728/overview'>Coatbridge, Chryston and Bellshill</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4748/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 127,
+        "voting_participation_pct": 66.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 153,
+        "voting_participation_pct": 63.22
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 146,
+        "voting_participation_pct": 58.17
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 151,
+        "voting_participation_pct": 58.98
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 672,
+        "voting_participation_pct": 62.92
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 672,
+    "voting_participation_pct": 62.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

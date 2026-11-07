@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 6386.2,
+    "bng": {
+      "easting": 460782,
+      "northing": 344401
+    },
+    "centroid": {
+      "latitude": 52.99351,
+      "longitude": -1.09589
+    },
+    "geojson": "constituencies/boundaries/gedling.geojson",
+    "ons_code": "E14001245",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5146.json",
+    "member_id": 5146,
+    "name": "Michael Payne",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77006,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11881,
+      "result": "Lab Gain",
+      "turnout": 48722,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3495,
+      "end_date": "2024-05-30",
+      "member_id": 4845,
+      "name": "Tom Randall",
+      "start_date": "2019-12-12"
+    },
+    {
+      "constituency_version_id": 1191,
+      "end_date": "1997-05-01",
+      "member_id": 1211,
+      "name": "Sir Andrew Mitchell",
+      "start_date": "1987-06-11"
+    }
+  ],
+  "id": 4060,
+  "is_current": true,
+  "name": "Gedling",
+  "name_cy": null,
+  "ons_code": "E14001245",
+  "outcodes": [
+    "NG14",
+    "NG2",
+    "NG3",
+    "NG4",
+    "NG5",
+    "NG6"
+  ],
+  "schema_version": 1,
+  "slug": "gedling",
+  "start_date": "2024-05-31"
+}

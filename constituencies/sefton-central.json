@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 8768.3,
+    "bng": {
+      "easting": 328976,
+      "northing": 406093
+    },
+    "centroid": {
+      "latitude": 53.54666,
+      "longitude": -3.07335
+    },
+    "geojson": "constituencies/boundaries/sefton-central.geojson",
+    "ons_code": "E14001463",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4061.json",
+    "member_id": 4061,
+    "name": "Bill Esterson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74284,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 18282,
+      "result": "Lab Hold",
+      "turnout": 47449,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3719,
+      "end_date": "2024-05-30",
+      "member_id": 4061,
+      "name": "Bill Esterson",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4278,
+  "is_current": true,
+  "name": "Sefton Central",
+  "name_cy": null,
+  "ons_code": "E14001463",
+  "outcodes": [
+    "L10",
+    "L22",
+    "L23",
+    "L29",
+    "L30",
+    "L31",
+    "L37",
+    "L38",
+    "PR8"
+  ],
+  "schema_version": 1,
+  "slug": "sefton-central",
+  "start_date": "2024-05-31"
+}

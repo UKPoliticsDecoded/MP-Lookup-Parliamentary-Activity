@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 24068.1,
+    "bng": {
+      "easting": 455325,
+      "northing": 408912
+    },
+    "centroid": {
+      "latitude": 53.57392,
+      "longitude": -1.16598
+    },
+    "geojson": "constituencies/boundaries/doncaster-north.geojson",
+    "ons_code": "E14001200",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1510.json",
+    "member_id": 1510,
+    "name": "Ed Miliband",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69759,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9126,
+      "result": "Lab Hold",
+      "turnout": 31002,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3449,
+      "end_date": "2024-05-30",
+      "member_id": 1510,
+      "name": "Ed Miliband",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 878,
+      "end_date": "2010-05-06",
+      "member_id": 1510,
+      "name": "Ed Miliband",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4015,
+  "is_current": true,
+  "name": "Doncaster North",
+  "name_cy": null,
+  "ons_code": "E14001200",
+  "outcodes": [
+    "DN14",
+    "DN3",
+    "DN5",
+    "DN6",
+    "DN7",
+    "DN8",
+    "S64",
+    "WF8"
+  ],
+  "schema_version": 1,
+  "slug": "doncaster-north",
+  "start_date": "2024-05-31"
+}

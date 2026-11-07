@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 2788.3,
+    "bng": {
+      "easting": 417427,
+      "northing": 433388
+    },
+    "centroid": {
+      "latitude": 53.79652,
+      "longitude": -1.73692
+    },
+    "geojson": "constituencies/boundaries/bradford-east.geojson",
+    "ons_code": "E14001118",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4394.json",
+    "member_id": 4394,
+    "name": "Imran Hussain",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75164,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6189,
+      "result": "Lab Hold",
+      "turnout": 37216,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3353,
+      "end_date": "2024-05-30",
+      "member_id": 4394,
+      "name": "Imran Hussain",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3933,
+  "is_current": true,
+  "name": "Bradford East",
+  "name_cy": null,
+  "ons_code": "E14001118",
+  "outcodes": [
+    "BD1",
+    "BD10",
+    "BD13",
+    "BD16",
+    "BD17",
+    "BD18",
+    "BD2",
+    "BD3",
+    "BD4",
+    "BD5",
+    "BD7",
+    "BD97",
+    "LS19"
+  ],
+  "schema_version": 1,
+  "slug": "bradford-east",
+  "start_date": "2024-05-31"
+}

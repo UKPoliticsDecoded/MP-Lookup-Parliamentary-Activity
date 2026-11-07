@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 26823.9,
+    "bng": {
+      "easting": 302505,
+      "northing": 691896
+    },
+    "centroid": {
+      "latitude": 56.10983,
+      "longitude": -3.56928
+    },
+    "geojson": "constituencies/boundaries/dunfermline-and-dollar.geojson",
+    "ons_code": "S14000076",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5275.json",
+    "member_id": 5275,
+    "name": "Graeme Downie",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72824,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8241,
+      "result": "Lab Gain",
+      "turnout": 44537,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4465,
+  "is_current": true,
+  "name": "Dunfermline and Dollar",
+  "name_cy": null,
+  "ons_code": "S14000076",
+  "outcodes": [
+    "FK10",
+    "FK13",
+    "FK14",
+    "KY11",
+    "KY12",
+    "KY13",
+    "KY4",
+    "KY99"
+  ],
+  "schema_version": 1,
+  "slug": "dunfermline-and-dollar",
+  "start_date": "2024-05-31"
+}

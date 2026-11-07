@@ -1,0 +1,237 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 6,
+        "debates_participated": 4,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 78,
+        "debates_participated": 43,
+        "early_day_motions": 11,
+        "oral_questions": 11,
+        "written_questions": 297
+      },
+      "2026": {
+        "debate_contributions": 37,
+        "debates_participated": 27,
+        "early_day_motions": 4,
+        "written_questions": 50
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 121,
+    "debates_participated": 74,
+    "early_day_motions": 15,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 355
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 121,
+    "voting_participation_pct": 68.62,
+    "written_questions": 355
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": true,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-26"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-26"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/ely-and-east-cambridgeshire.json",
+    "id": 4039,
+    "name": "Ely and East Cambridgeshire",
+    "ons_code": "E14001224",
+    "slug": "ely-and-east-cambridgeshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "charlotte.cane.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5182
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5182,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Charlotte Cane",
+    "full_title": "Charlotte Cane MP",
+    "list_as": "Cane, Charlotte"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3515,
+        "name": "Harlow",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 295,
+        "name": "Birmingham, Selly Oak",
+        "startDate": "1987-06-11T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ely and East Cambridgeshire",
+        "constituency_id": 4039,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Charlotte Cane is the Liberal Democrat MP for <a href='/constituency/4039/overview'>Ely and East Cambridgeshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5182/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 41,
+        "voting_participation_pct": 56.16
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 233,
+        "voting_participation_pct": 72.36
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 433,
+        "voting_participation_pct": 68.62
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 433,
+    "voting_participation_pct": 68.62
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

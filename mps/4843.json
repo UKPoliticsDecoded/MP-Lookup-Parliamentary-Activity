@@ -1,0 +1,411 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 30,
+        "debates_participated": 20,
+        "oral_questions": 9,
+        "written_questions": 6
+      },
+      "2021": {
+        "debate_contributions": 28,
+        "debates_participated": 17,
+        "oral_questions": 5,
+        "written_questions": 17
+      },
+      "2022": {
+        "debate_contributions": 42,
+        "debates_participated": 18,
+        "oral_questions": 10,
+        "written_questions": 4
+      },
+      "2023": {
+        "debate_contributions": 18,
+        "debates_participated": 10,
+        "oral_questions": 5
+      },
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 7,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 127,
+    "debates_participated": 72,
+    "early_day_motions": 0,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 27
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 127,
+    "voting_participation_pct": 90.92,
+    "written_questions": 27
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+      "committee_id": 673,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Offenders (Day of Release from Detention) Bill",
+      "committee_id": 651,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+        "committee_id": 673,
+        "file": "committees/electronic-trade-documents-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl-second-reading"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-09-14"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      },
+      {
+        "committee": "Offenders (Day of Release from Detention) Bill",
+        "committee_id": 651,
+        "file": "committees/offenders-day-of-release-from-detention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-01"
+          }
+        ],
+        "slug": "offenders-day-of-release-from-detention-bill"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3573,
+    "name": "Leigh"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4843
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4843,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James Grundy",
+    "full_title": "James Grundy",
+    "list_as": "Grundy, James"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3573,
+        "name": "Leigh",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leigh",
+        "constituency_id": 3573,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "James Grundy is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3573/overview'>Leigh</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4843/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 184,
+        "voting_participation_pct": 96.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 220,
+        "voting_participation_pct": 90.91
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 224,
+        "voting_participation_pct": 89.24
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 233,
+        "voting_participation_pct": 91.02
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 108,
+        "voting_participation_pct": 85.04
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 971,
+        "voting_participation_pct": 90.92
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 971,
+    "voting_participation_pct": 90.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

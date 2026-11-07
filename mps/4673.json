@@ -1,0 +1,264 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 14,
+        "oral_questions": 6,
+        "written_questions": 22
+      },
+      "2025": {
+        "debate_contributions": 67,
+        "debates_participated": 50,
+        "oral_questions": 11,
+        "written_questions": 143
+      },
+      "2026": {
+        "debate_contributions": 30,
+        "debates_participated": 15,
+        "oral_questions": 4,
+        "written_questions": 66
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 116,
+    "debates_participated": 79,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 231
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 116,
+    "voting_participation_pct": 78.61,
+    "written_questions": 231
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 42,
+      "meetings_available": 42
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crime and Policing Bill",
+      "committee_id": 786,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 71,
+      "meetings_available": 71
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "modernisation"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Crime and Policing Bill",
+        "committee_id": 786,
+        "file": "committees/crime-and-policing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-20"
+          }
+        ],
+        "slug": "crime-and-policing-bill"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/leigh-and-atherton.json",
+    "id": 4144,
+    "name": "Leigh and Atherton",
+    "ons_code": "E14001329",
+    "slug": "leigh-and-atherton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jo.platt.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "92 Bradshawgate, Leigh",
+      "phone": "01942 950219",
+      "postcode": "WN7 4NP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JoPlattLeigh/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/joplattleigh/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JoPlattLeigh"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4673
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4673,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jo Platt",
+    "full_title": "Jo Platt MP",
+    "list_as": "Platt, Jo"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2019-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2018-07-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3573,
+        "name": "Leigh",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leigh and Atherton",
+        "constituency_id": 4144,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Leigh",
+        "constituency_id": 3573,
+        "end_date": "2019-11-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Jo Platt is the Labour (Co-op) MP for <a href='/constituency/4144/overview'>Leigh and Atherton</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4673/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 245,
+        "voting_participation_pct": 76.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 182,
+        "voting_participation_pct": 77.12
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 496,
+        "voting_participation_pct": 78.61
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 496,
+    "voting_participation_pct": 78.61
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

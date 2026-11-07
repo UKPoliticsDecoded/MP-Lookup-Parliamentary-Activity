@@ -1,0 +1,576 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 2,
+        "debate_contributions": 236,
+        "debates_participated": 133,
+        "early_day_motions": 9,
+        "oral_questions": 22,
+        "written_questions": 53
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 202,
+        "debates_participated": 117,
+        "early_day_motions": 11,
+        "oral_questions": 16,
+        "petitions_presented": 1,
+        "written_questions": 74
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 178,
+        "debates_participated": 111,
+        "early_day_motions": 12,
+        "oral_questions": 13,
+        "written_questions": 59
+      },
+      "2023": {
+        "bills_sponsored": 2,
+        "debate_contributions": 232,
+        "debates_participated": 120,
+        "early_day_motions": 10,
+        "oral_questions": 24,
+        "written_questions": 64
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 210,
+        "debates_participated": 106,
+        "early_day_motions": 3,
+        "oral_questions": 15,
+        "written_questions": 36
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 144,
+        "debates_participated": 86,
+        "early_day_motions": 4,
+        "oral_questions": 12,
+        "written_questions": 3
+      },
+      "2026": {
+        "debate_contributions": 92,
+        "debates_participated": 54,
+        "early_day_motions": 31,
+        "oral_questions": 4,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 8,
+    "debate_contributions": 1294,
+    "debates_participated": 727,
+    "early_day_motions": 80,
+    "oral_questions": 106,
+    "petitions_presented": 1,
+    "written_questions": 301
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 1294,
+    "voting_participation_pct": 64.92,
+    "written_questions": 301
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Disqualification) Bill",
+      "committee_id": 556,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+      "committee_id": 585,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-09"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-20"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-11"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Local Government (Disqualification) Bill",
+        "committee_id": 556,
+        "file": "committees/local-government-disqualification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "local-government-disqualification-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+        "committee_id": 585,
+        "file": "committees/taxis-and-private-hire-vehicles-disabled-persons-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-02"
+          }
+        ],
+        "slug": "taxis-and-private-hire-vehicles-disabled-persons-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/orkney-and-shetland.json",
+    "id": 4447,
+    "name": "Orkney and Shetland",
+    "ons_code": "S14000051",
+    "slug": "orkney-and-shetland"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "carmichaela@parliament.uk",
+      "phone": "020 7219 8181",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Orkney: 14 Palace Road , Kirkwall",
+      "email": "carmichaela@parliament.uk",
+      "phone": "01856 876541",
+      "postcode": "KW15 1PA",
+      "type": "Constituency office"
+    },
+    {
+      "address": "Shetland: 155 Commercial Street, Lerwick",
+      "email": "carmichaela@parliament.uk",
+      "phone": "01595 690044",
+      "postcode": "ZE1 0EX",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.alistaircarmichael.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/amcarmichaelMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1442
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1442,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Carmichael",
+    "display": "Mr Alistair Carmichael",
+    "full_title": "Rt Hon Alistair Carmichael MP",
+    "list_as": "Carmichael, Mr Alistair"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Secretary of State for Scotland",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Comptroller (HM Household) (Deputy Chief Whip, House of Commons)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Cabinet Office)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Home Affairs)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Northern Ireland)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Exiting the European Union)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Foreign and Commonwealth Affairs)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-08-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2019-02-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Chief Whip",
+        "start_date": "2017-06-16"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-06",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Northern Ireland)",
+        "start_date": "2017-06-16"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-16",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Home Affairs)",
+        "start_date": "2015-07-29"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2010-04-12",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Scotland)",
+        "start_date": "2008-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Northern Ireland)",
+        "start_date": "2007-10-18"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2007-10-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Transport)",
+        "start_date": "2006-03-03"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2006-03-02",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Home Affairs)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Energy and Climate Change)",
+        "start_date": "2001-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2289,
+        "name": "Paisley South",
+        "startDate": "1987-06-11T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Orkney and Shetland",
+        "constituency_id": 4447,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Orkney and Shetland",
+        "constituency_id": 2256,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 5 times",
+        "start_date": "2005-05-05"
+      },
+      {
+        "constituency": "Orkney and Shetland",
+        "constituency_id": 2255,
+        "end_date": "2005-05-05",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mr Alistair Carmichael is the Liberal Democrat MP for <a href='/constituency/4447/overview'>Orkney and Shetland</a>, and has been an MP continually since 7 June 2001.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1442/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 154,
+        "voting_participation_pct": 81.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 159,
+        "voting_participation_pct": 62.11
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 110,
+        "voting_participation_pct": 55.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 189,
+        "voting_participation_pct": 58.7
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 100,
+        "voting_participation_pct": 42.37
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 779,
+        "voting_participation_pct": 72.94
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 324,
+        "voting_participation_pct": 51.35
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1103,
+    "voting_participation_pct": 64.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

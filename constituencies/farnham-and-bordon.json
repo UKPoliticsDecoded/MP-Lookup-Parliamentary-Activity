@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 16995.0,
+    "bng": {
+      "easting": 484346,
+      "northing": 139949
+    },
+    "centroid": {
+      "latitude": 51.15258,
+      "longitude": -0.79538
+    },
+    "geojson": "constituencies/boundaries/farnham-and-bordon.geojson",
+    "ons_code": "E14001234",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5351.json",
+    "member_id": 5351,
+    "name": "Gregory Stafford",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75920,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1349,
+      "result": "Con Hold",
+      "turnout": 53015,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4049,
+  "is_current": true,
+  "name": "Farnham and Bordon",
+  "name_cy": null,
+  "ons_code": "E14001234",
+  "outcodes": [
+    "GU10",
+    "GU26",
+    "GU27",
+    "GU30",
+    "GU33",
+    "GU35",
+    "GU9"
+  ],
+  "schema_version": 1,
+  "slug": "farnham-and-bordon",
+  "start_date": "2024-05-31"
+}

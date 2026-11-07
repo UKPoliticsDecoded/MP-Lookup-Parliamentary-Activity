@@ -1,0 +1,198 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 46,
+        "debates_participated": 32,
+        "early_day_motions": 1
+      },
+      "2025": {
+        "debate_contributions": 203,
+        "debates_participated": 115,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 53
+      },
+      "2026": {
+        "debate_contributions": 208,
+        "debates_participated": 91,
+        "early_day_motions": 11,
+        "oral_questions": 7,
+        "written_questions": 366
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 457,
+    "debates_participated": 238,
+    "early_day_motions": 14,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 419
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 457,
+    "voting_participation_pct": 58.95,
+    "written_questions": 419
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/dewsbury-and-batley.json",
+    "id": 4011,
+    "name": "Dewsbury and Batley",
+    "ons_code": "E14001196",
+    "slug": "dewsbury-and-batley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "iqbal.mohamed.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Units 47 & 50, Annexe 3, Batley Business Park, Technology Drive, Batley",
+      "phone": "01924 668118",
+      "postcode": "WF17 6ER",
+      "type": "Constituency office"
+    },
+    {
+      "address": "WhatsApp number",
+      "phone": "07899 617148",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/iqbalmohamedmp"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/iqbalmohamedmp"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://tiktok.com/@iqbalmohamedmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/iqbalmohamedMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5268
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5268,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Iqbal Mohamed",
+    "full_title": "Iqbal Mohamed MP",
+    "list_as": "Mohamed, Iqbal"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dewsbury and Batley",
+        "constituency_id": 4011,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Iqbal Mohamed is the Independent MP for <a href='/constituency/4011/overview'>Dewsbury and Batley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5268/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 184,
+        "voting_participation_pct": 57.14
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 129,
+        "voting_participation_pct": 54.66
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 372,
+        "voting_participation_pct": 58.95
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 372,
+    "voting_participation_pct": 58.95
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 111,
+        "debates_participated": 61,
+        "oral_questions": 8,
+        "written_questions": 26
+      },
+      "2021": {
+        "debate_contributions": 49,
+        "debates_participated": 34,
+        "oral_questions": 6,
+        "written_questions": 19
+      },
+      "2022": {
+        "debate_contributions": 72,
+        "debates_participated": 39,
+        "oral_questions": 7,
+        "written_questions": 12
+      },
+      "2023": {
+        "debate_contributions": 17,
+        "debates_participated": 5
+      },
+      "2024": {
+        "debate_contributions": 45,
+        "debates_participated": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 294,
+    "debates_participated": 149,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 57
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 294,
+    "voting_participation_pct": 84.93,
+    "written_questions": 57
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal (Penalty Notices) Bill",
+      "committee_id": 563,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment (Allocation of Tips) Bill",
+      "committee_id": 615,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 46,
+      "meetings_available": 46
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Prisoners Bill",
+      "committee_id": 674,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal (Penalty Notices) Bill",
+        "committee_id": 563,
+        "file": "committees/animal-penalty-notices-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "animal-penalty-notices-bill"
+      },
+      {
+        "committee": "Employment (Allocation of Tips) Bill",
+        "committee_id": 615,
+        "file": "committees/employment-allocation-of-tips-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "employment-allocation-of-tips-bill"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-01-11"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Victims and Prisoners Bill",
+        "committee_id": 674,
+        "file": "committees/victims-and-prisoners-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "victims-and-prisoners-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3357,
+    "name": "Brecon and Radnorshire"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4763
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4763,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Fay Jones",
+    "full_title": "Fay Jones",
+    "list_as": "Jones, Fay"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Wales Office)",
+        "start_date": "2023-11-13"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-10-27"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4500,
+        "name": "Brecon, Radnor and Cwm Tawe",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brecon and Radnorshire",
+        "constituency_id": 3357,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Fay Jones is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3357/overview'>Brecon and Radnorshire</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4763/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 180,
+        "voting_participation_pct": 94.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 179,
+        "voting_participation_pct": 73.97
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 195,
+        "voting_participation_pct": 77.69
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 250,
+        "voting_participation_pct": 97.66
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 101,
+        "voting_participation_pct": 79.53
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 907,
+        "voting_participation_pct": 84.93
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 907,
+    "voting_participation_pct": 84.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 1,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Private Bill Office, House of Commons, London, SW1A 0AA",
+    "email": "prbohoc@parliament.uk",
+    "phone": "020 7219 3250"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 682,
+  "is_current": true,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 36,
+      "name": "Rt Hon Dame Eleanor Laing",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 390,
+      "name": "Rt Hon Dame Rosie Winterton",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/474.json",
+      "member_id": 474,
+      "name": "Mr Nigel Evans",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4058.json",
+      "member_id": 4058,
+      "name": "Paul Blomfield",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4423.json",
+      "member_id": 4423,
+      "name": "Will Quince",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4452.json",
+      "member_id": 4452,
+      "name": "Steve Double",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4753.json",
+      "member_id": 4753,
+      "name": "Mary Kelly Foy",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-10"
+        }
+      ]
+    }
+  ],
+  "name": "Bishop's Stortford Cemetery Bill",
+  "parent_committee_id": null,
+  "purpose": "<p>The Select Committee on the Bishop's Stortford Cemetery Bill was set up to oversee the Bill’s petitioning period. The Committee provides individuals and bodies directly and specially affected by the Bill with the opportunity to object to the Bill’s specific provisions and to seek its amendment, or to petition against its alteration. The Committee will hear from petitioners against the Bill, and the Bill’s promoters, before reporting the Bill, and any amendments, to the House.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "bishop-s-stortford-cemetery-bill",
+  "start_date": "2023-09-18",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Private Bill Standing Orders or Private/Hybrid Bill proceedings"
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 120,
+        "debates_participated": 82,
+        "oral_questions": 20,
+        "written_questions": 152
+      },
+      "2021": {
+        "debate_contributions": 72,
+        "debates_participated": 54,
+        "oral_questions": 6,
+        "written_questions": 113
+      },
+      "2022": {
+        "debate_contributions": 54,
+        "debates_participated": 36,
+        "written_questions": 85
+      },
+      "2023": {
+        "debate_contributions": 31,
+        "debates_participated": 24,
+        "oral_questions": 2,
+        "written_questions": 76
+      },
+      "2024": {
+        "debate_contributions": 117,
+        "debates_participated": 52,
+        "oral_questions": 3,
+        "written_questions": 15
+      },
+      "2025": {
+        "debate_contributions": 148,
+        "debates_participated": 48
+      },
+      "2026": {
+        "debate_contributions": 165,
+        "debates_participated": 37
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 707,
+    "debates_participated": 333,
+    "early_day_motions": 0,
+    "oral_questions": 31,
+    "petitions_presented": 0,
+    "written_questions": 441
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 707,
+    "voting_participation_pct": 76.34,
+    "written_questions": 441
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "British Sign Language Bill",
+      "committee_id": 588,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 13,
+      "meetings_available": 13
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Parliamentary Works Estimates Commission",
+      "committee_id": 495,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 107,
+      "meetings_available": 107
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "British Sign Language Bill",
+        "committee_id": 588,
+        "file": "committees/british-sign-language-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-02"
+          }
+        ],
+        "slug": "british-sign-language-bill"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-10-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          },
+          {
+            "end": "2026-09-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-09"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2021-05-25",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-03-03"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2021-05-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Parliamentary Works Estimates Commission",
+        "committee_id": 495,
+        "file": "committees/parliamentary-works-estimates-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-09-23"
+          }
+        ],
+        "slug": "parliamentary-works-estimates-commission"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2010-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-12"
+          },
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/nottingham-south.json",
+    "id": 4227,
+    "name": "Nottingham South",
+    "ons_code": "E14001412",
+    "slug": "nottingham-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lilian.greenwood.mp@parliament.uk",
+      "phone": "020 7219 7122",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0115 711 7000",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.liliangreenwood.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/LilianGreenwood"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4029
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4029,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Lilian Greenwood",
+    "display": "Lilian Greenwood",
+    "full_title": "Lilian Greenwood MP",
+    "list_as": "Greenwood, Lilian"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2025-09-16"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2025-09-16"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2025-09-16",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2025-09-07"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Department for Work and Pensions)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Opposition Deputy Chief Whip (Commons)",
+        "start_date": "2021-05-14"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2016-06-26",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Nottingham South",
+        "constituency_id": 4227,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Nottingham South",
+        "constituency_id": 3666,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Lilian Greenwood is the Labour MP for <a href='/constituency/4227/overview'>Nottingham South</a>, and has been an MP continually since 6 May 2010. \r\nShe currently holds the Government post of Parliamentary Under-Secretary (Department for Work and Pensions).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4029/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 194,
+        "voting_participation_pct": 77.29
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 184,
+        "voting_participation_pct": 71.88
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 132,
+        "voting_participation_pct": 66.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 242,
+        "voting_participation_pct": 75.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 805,
+        "voting_participation_pct": 75.37
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 492,
+        "voting_participation_pct": 77.97
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1297,
+    "voting_participation_pct": 76.34
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

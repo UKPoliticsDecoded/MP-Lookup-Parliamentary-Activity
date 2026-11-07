@@ -1,0 +1,298 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 251,
+        "debates_participated": 37
+      },
+      "2021": {
+        "debate_contributions": 427,
+        "debates_participated": 47
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 301,
+        "debates_participated": 26
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 302,
+        "debates_participated": 29
+      },
+      "2024": {
+        "debate_contributions": 247,
+        "debates_participated": 23
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 1528,
+    "debates_participated": 162,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1528,
+    "voting_participation_pct": 65.73,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3839,
+    "name": "Welwyn Hatfield"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1582
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1582,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": "Grant Shapps",
+    "display": "Grant Shapps",
+    "full_title": "Rt Hon Grant Shapps",
+    "list_as": "Shapps, Grant"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Secretary of State for Defence",
+        "start_date": "2023-08-31"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2023-08-31",
+        "is_current": false,
+        "name": "Secretary of State for Energy Security and Net Zero",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Secretary of State for Business, Energy and Industrial Strategy ",
+        "start_date": "2022-10-25"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Home Secretary",
+        "start_date": "2022-10-19"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Secretary of State for Transport",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2015-10-26",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign and Commonwealth Office)",
+        "start_date": "2015-07-15"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2015-11-28",
+        "is_current": false,
+        "name": "Minister of State (Department for International Development)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Minister without Portfolio (Cabinet Office)",
+        "start_date": "2012-09-06"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Communities and Local Government) (Housing)",
+        "start_date": "2010-05-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Communities and Local Government) (Housing and Planning)",
+        "start_date": "2007-12-20"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Co-Chair, Conservative Party",
+        "start_date": "2005-07-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3085,
+        "name": "Welwyn Hatfield",
+        "startDate": "2001-06-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2155,
+        "name": "North Southwark and Bermondsey",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Welwyn Hatfield",
+        "constituency_id": 3839,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Welwyn Hatfield",
+        "constituency_id": 3085,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Grant Shapps is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3839/overview'>Welwyn Hatfield</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1582/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 141,
+        "voting_participation_pct": 74.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 189,
+        "voting_participation_pct": 78.1
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 170,
+        "voting_participation_pct": 67.73
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 133,
+        "voting_participation_pct": 51.95
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 67,
+        "voting_participation_pct": 52.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 702,
+        "voting_participation_pct": 65.73
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 702,
+    "voting_participation_pct": 65.73
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

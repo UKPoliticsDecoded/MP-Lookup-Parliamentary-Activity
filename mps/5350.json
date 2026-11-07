@@ -1,0 +1,255 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 51,
+        "debates_participated": 29,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 141
+      },
+      "2025": {
+        "bills_sponsored": 3,
+        "debate_contributions": 109,
+        "debates_participated": 79,
+        "early_day_motions": 6,
+        "oral_questions": 11,
+        "written_questions": 333
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 81,
+        "debates_participated": 61,
+        "early_day_motions": 6,
+        "oral_questions": 5,
+        "written_questions": 137
+      }
+    },
+    "bills_sponsored": 6,
+    "debate_contributions": 241,
+    "debates_participated": 169,
+    "early_day_motions": 15,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 611
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 241,
+    "voting_participation_pct": 60.22,
+    "written_questions": 611
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill",
+      "committee_id": 742,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+      "committee_id": 743,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "home-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Terrorism (Protection of Premises) Bill",
+        "committee_id": 742,
+        "file": "committees/terrorism-protection-of-premises-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+        "committee_id": 743,
+        "file": "committees/terrorism-protection-of-premises-bill-programming-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill-programming-sub-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-cornwall.json",
+    "id": 4200,
+    "name": "North Cornwall",
+    "ons_code": "E14001385",
+    "slug": "north-cornwall"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ben.maguire.mp@parliament.uk",
+      "phone": "01208 640 995",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/benmaguiremp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/BenMaguireMP/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/benmaguiremp/"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@ben.maguire.mp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/benmaguiremp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5350
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5350,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ben Maguire",
+    "full_title": "Ben Maguire MP",
+    "list_as": "Maguire, Ben"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Shadow Attorney General",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Cornwall",
+        "constituency_id": 4200,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ben Maguire is the Liberal Democrat MP for <a href='/constituency/4200/overview'>North Cornwall</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Shadow Attorney General.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5350/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 203,
+        "voting_participation_pct": 63.04
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 138,
+        "voting_participation_pct": 58.47
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 380,
+        "voting_participation_pct": 60.22
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 380,
+    "voting_participation_pct": 60.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

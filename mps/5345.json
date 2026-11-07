@@ -1,0 +1,243 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 12,
+        "debates_participated": 12,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 53,
+        "debates_participated": 29,
+        "early_day_motions": 5,
+        "oral_questions": 13,
+        "written_questions": 39
+      },
+      "2026": {
+        "debate_contributions": 27,
+        "debates_participated": 16,
+        "early_day_motions": 14,
+        "oral_questions": 5,
+        "written_questions": 77
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 92,
+    "debates_participated": 57,
+    "early_day_motions": 20,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 119
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 92,
+    "voting_participation_pct": 92.23,
+    "written_questions": 119
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/crawley.json",
+    "id": 3999,
+    "name": "Crawley",
+    "ons_code": "E14001184",
+    "slug": "crawley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "peter.lamb.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "7-8 The Courtyard, East Park, Crawley",
+      "phone": "01293 420564",
+      "postcode": "RH10 6AG",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/delivering4crawley.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Delivering4Crawley"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/Delivering4Crawley"
+    },
+    {
+      "type": "Mastodon",
+      "url": "https://mastodonapp.uk/@PeterLambForCrawley"
+    },
+    {
+      "type": "Threads",
+      "url": "https://www.threads.net/@delivering4crawley"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/PeterKLamb"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@Delivering4Crawley"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5345
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5345,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Peter Lamb",
+    "full_title": "Peter Lamb MP",
+    "list_as": "Lamb, Peter"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3430,
+        "name": "Crawley",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Crawley",
+        "constituency_id": 3999,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Peter Lamb is the Labour MP for <a href='/constituency/3999/overview'>Crawley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5345/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 294,
+        "voting_participation_pct": 91.3
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 218,
+        "voting_participation_pct": 92.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 582,
+        "voting_participation_pct": 92.23
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 582,
+    "voting_participation_pct": 92.23
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 2843.7,
+    "bng": {
+      "easting": 453829,
+      "northing": 205066
+    },
+    "centroid": {
+      "latitude": 51.74172,
+      "longitude": -1.22177
+    },
+    "geojson": "constituencies/boundaries/oxford-east.geojson",
+    "ons_code": "E14001419",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4657.json",
+    "member_id": 4657,
+    "name": "Anneliese Dodds",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71845,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 14465,
+      "result": "Lab Hold",
+      "turnout": 39341,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3673,
+      "end_date": "2024-05-30",
+      "member_id": 4657,
+      "name": "Anneliese Dodds",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4234,
+  "is_current": true,
+  "name": "Oxford East",
+  "name_cy": null,
+  "ons_code": "E14001419",
+  "outcodes": [
+    "OX1",
+    "OX2",
+    "OX3",
+    "OX4"
+  ],
+  "schema_version": 1,
+  "slug": "oxford-east",
+  "start_date": "2024-05-31"
+}

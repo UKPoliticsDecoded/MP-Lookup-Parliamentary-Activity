@@ -1,0 +1,344 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 25,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 122,
+        "debates_participated": 63,
+        "oral_questions": 5,
+        "written_questions": 96
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 85,
+        "debates_participated": 62,
+        "oral_questions": 11,
+        "written_questions": 61
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 232,
+    "debates_participated": 137,
+    "early_day_motions": 0,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 163
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 232,
+    "voting_participation_pct": 66.24,
+    "written_questions": 163
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": true,
+      "meetings_attended": 88,
+      "meetings_available": 88
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+      "committee_id": 790,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "foreign-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+        "committee_id": 790,
+        "file": "committees/animal-welfare-import-of-dogs-cats-and-ferrets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "animal-welfare-import-of-dogs-cats-and-ferrets-bill"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-16"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/chester-south-and-eddisbury.json",
+    "id": 3979,
+    "name": "Chester South and Eddisbury",
+    "ons_code": "E14001164",
+    "slug": "chester-south-and-eddisbury"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "aphra.brandreth.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5241
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5241,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Aphra Brandreth",
+    "full_title": "Aphra Brandreth MP",
+    "list_as": "Brandreth, Aphra"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Environment, Food and Rural Affairs)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3557,
+        "name": "Kingston and Surbiton",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chester South and Eddisbury",
+        "constituency_id": 3979,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Aphra Brandreth is the Conservative MP for <a href='/constituency/3979/overview'>Chester South and Eddisbury</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the roles of Shadow Parliamentary Under Secretary (Environment, Food and Rural Affairs), and Opposition Assistant Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5241/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 58,
+        "voting_participation_pct": 79.45
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 207,
+        "voting_participation_pct": 64.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 153,
+        "voting_participation_pct": 64.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 418,
+        "voting_participation_pct": 66.24
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 418,
+    "voting_participation_pct": 66.24
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

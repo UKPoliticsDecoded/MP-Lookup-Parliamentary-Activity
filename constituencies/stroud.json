@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 26799.1,
+    "bng": {
+      "easting": 376126,
+      "northing": 202190
+    },
+    "centroid": {
+      "latitude": 51.71792,
+      "longitude": -2.34698
+    },
+    "geojson": "constituencies/boundaries/stroud.geojson",
+    "ons_code": "E14001529",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5030.json",
+    "member_id": 5030,
+    "name": "Dr Simon Opher",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77905,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11388,
+      "result": "Lab Gain",
+      "turnout": 55221,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3786,
+      "end_date": "2024-05-30",
+      "member_id": 4847,
+      "name": "Siobhan Baillie",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4344,
+  "is_current": true,
+  "name": "Stroud",
+  "name_cy": null,
+  "ons_code": "E14001529",
+  "outcodes": [
+    "GL10",
+    "GL11",
+    "GL12",
+    "GL13",
+    "GL2",
+    "GL5",
+    "GL6",
+    "GL8"
+  ],
+  "schema_version": 1,
+  "slug": "stroud",
+  "start_date": "2024-05-31"
+}

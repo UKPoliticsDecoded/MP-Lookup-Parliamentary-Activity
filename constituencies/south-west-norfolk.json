@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 115926.8,
+    "bng": {
+      "easting": 573376,
+      "northing": 297872
+    },
+    "centroid": {
+      "latitude": 52.55109,
+      "longitude": 0.555738
+    },
+    "geojson": "constituencies/boundaries/south-west-norfolk.geojson",
+    "ons_code": "E14001497",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5338.json",
+    "member_id": 5338,
+    "name": "Terry Jermy",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74724,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 630,
+      "result": "Lab Gain",
+      "turnout": 44335,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3757,
+      "end_date": "2024-05-30",
+      "member_id": 4097,
+      "name": "Elizabeth Truss",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4312,
+  "is_current": true,
+  "name": "South West Norfolk",
+  "name_cy": null,
+  "ons_code": "E14001497",
+  "outcodes": [
+    "CB6",
+    "IP22",
+    "IP24",
+    "IP25",
+    "IP26",
+    "IP27",
+    "NR16",
+    "PE14",
+    "PE32",
+    "PE33",
+    "PE34",
+    "PE37",
+    "PE38"
+  ],
+  "schema_version": 1,
+  "slug": "south-west-norfolk",
+  "start_date": "2024-05-31"
+}

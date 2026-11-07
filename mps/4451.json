@@ -1,0 +1,358 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 257,
+        "debates_participated": 39
+      },
+      "2021": {
+        "debate_contributions": 100,
+        "debates_participated": 27
+      },
+      "2022": {
+        "debate_contributions": 432,
+        "debates_participated": 70,
+        "oral_questions": 4,
+        "written_questions": 2
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 125,
+        "debates_participated": 83,
+        "oral_questions": 23,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 61,
+        "debates_participated": 40,
+        "oral_questions": 12,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 975,
+    "debates_participated": 259,
+    "early_day_motions": 0,
+    "oral_questions": 39,
+    "petitions_presented": 0,
+    "written_questions": 10
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 975,
+    "voting_participation_pct": 88.3,
+    "written_questions": 10
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Hunting Trophies (Import Prohibition) Bill",
+      "committee_id": 640,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Investigatory Powers (Amendment) Bill [HL]",
+      "committee_id": 709,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Shark Fins Bill",
+      "committee_id": 624,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2016-05-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-12-14"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-06-13"
+          },
+          {
+            "end": "2023-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-27"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Hunting Trophies (Import Prohibition) Bill",
+        "committee_id": 640,
+        "file": "committees/hunting-trophies-import-prohibition-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "hunting-trophies-import-prohibition-bill"
+      },
+      {
+        "committee": "Investigatory Powers (Amendment) Bill [HL]",
+        "committee_id": 709,
+        "file": "committees/investigatory-powers-amendment-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "investigatory-powers-amendment-bill-hl"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Shark Fins Bill",
+        "committee_id": 624,
+        "file": "committees/shark-fins-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "shark-fins-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3807,
+    "name": "Torbay"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4451
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4451,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Kevin Foster",
+    "display": "Kevin Foster",
+    "full_title": "Kevin Foster",
+    "list_as": "Foster, Kevin"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2022-10-26",
+        "is_current": false,
+        "name": "Minister of State (Department for Transport)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2019-12-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2019-12-16",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2019-04-04"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2019-10-31",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2019-04-04"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2019-12-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Wales Office)",
+        "start_date": "2019-04-04"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4366,
+        "name": "Torbay",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3429,
+        "name": "Coventry South",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Torbay",
+        "constituency_id": 3807,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Kevin Foster is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3807/overview'>Torbay</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4451/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 183,
+        "voting_participation_pct": 96.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 205,
+        "voting_participation_pct": 84.71
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 226,
+        "voting_participation_pct": 90.04
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 220,
+        "voting_participation_pct": 85.94
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 107,
+        "voting_participation_pct": 84.25
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 943,
+        "voting_participation_pct": 88.3
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 943,
+    "voting_participation_pct": 88.3
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

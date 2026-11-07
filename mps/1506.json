@@ -1,0 +1,436 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 120,
+        "debates_participated": 85,
+        "early_day_motions": 2,
+        "oral_questions": 19,
+        "written_questions": 187
+      },
+      "2021": {
+        "debate_contributions": 182,
+        "debates_participated": 98,
+        "early_day_motions": 4,
+        "oral_questions": 26,
+        "written_questions": 230
+      },
+      "2022": {
+        "debate_contributions": 175,
+        "debates_participated": 131,
+        "oral_questions": 10,
+        "written_questions": 318
+      },
+      "2023": {
+        "debate_contributions": 196,
+        "debates_participated": 141,
+        "oral_questions": 12,
+        "written_questions": 168
+      },
+      "2024": {
+        "debate_contributions": 169,
+        "debates_participated": 86,
+        "oral_questions": 10,
+        "petitions_presented": 4,
+        "written_questions": 54
+      },
+      "2025": {
+        "debate_contributions": 355,
+        "debates_participated": 24,
+        "written_questions": 211
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1197,
+    "debates_participated": 565,
+    "early_day_motions": 6,
+    "oral_questions": 77,
+    "petitions_presented": 4,
+    "written_questions": 1168
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1197,
+    "voting_participation_pct": 72.59,
+    "written_questions": 1168
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal (Penalty Notices) Bill",
+      "committee_id": 563,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 76,
+      "meetings_available": 76
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Skills and Post-16 Education [HL] Bill",
+      "committee_id": 557,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal (Penalty Notices) Bill",
+        "committee_id": 563,
+        "file": "committees/animal-penalty-notices-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "animal-penalty-notices-bill"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Skills and Post-16 Education [HL] Bill",
+        "committee_id": 557,
+        "file": "committees/skills-and-post-16-education-hl-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "skills-and-post-16-education-hl-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/gorton-and-denton.json",
+    "id": 4066,
+    "name": "Gorton and Denton",
+    "ons_code": "E14001251",
+    "slug": "gorton-and-denton"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1506
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1506,
+  "membership": {
+    "end_date": "2026-01-23",
+    "end_reason": "Resignation (Northstead)",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": "Andrew Gwynne",
+    "display": "Andrew Gwynne",
+    "full_title": "Andrew Gwynne",
+    "list_as": "Gwynne, Andrew"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2025-02-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Social Care)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2023-09-06",
+        "is_current": false,
+        "name": "Shadow Minister (Health and Social Care)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Communities and Local Government",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Co-National Campaign Coordinator",
+        "start_date": "2017-06-14"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Communities and Local Government",
+        "start_date": "2017-06-14"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2017-06-14",
+        "is_current": false,
+        "name": "Campaigns and Elections Chair",
+        "start_date": "2017-02-11"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2017-06-14",
+        "is_current": false,
+        "name": "Shadow Minister without Portfolio (Cabinet Office)",
+        "start_date": "2016-10-07"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2016-06-28",
+        "is_current": false,
+        "name": "Shadow Minister (Health)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2026-01-23",
+        "party": "Independent",
+        "start_date": "2025-02-08"
+      },
+      {
+        "end_date": "2025-02-08",
+        "party": "Labour",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Gorton and Denton",
+        "constituency_id": 4066,
+        "end_date": "2026-01-23",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Denton and Reddish",
+        "constituency_id": 3441,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Denton and Reddish",
+        "constituency_id": 843,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Andrew Gwynne is no longer a Member, but was most recently the Independent MP for <a href='/constituency/4066/overview'>Gorton and Denton</a>, and left the Commons on 23 January 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1506/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 128,
+        "voting_participation_pct": 51.0
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 184,
+        "voting_participation_pct": 71.88
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 123,
+        "voting_participation_pct": 61.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 287,
+        "voting_participation_pct": 89.13
+      },
+      "2026": {
+        "divisions_eligible": 22,
+        "divisions_voted": 20,
+        "voting_participation_pct": 90.91
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 713,
+        "voting_participation_pct": 66.76
+      },
+      "59th": {
+        "divisions_eligible": 417,
+        "divisions_voted": 365,
+        "voting_participation_pct": 87.53
+      }
+    },
+    "divisions_eligible": 1485,
+    "divisions_voted": 1078,
+    "voting_participation_pct": 72.59
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

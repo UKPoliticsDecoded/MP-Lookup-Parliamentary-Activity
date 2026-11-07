@@ -1,0 +1,268 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 7,
+        "debates_participated": 1,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 3,
+        "debates_participated": 1,
+        "written_questions": 23
+      },
+      "2022": {
+        "debate_contributions": 16,
+        "debates_participated": 5,
+        "written_questions": 16
+      },
+      "2023": {
+        "debate_contributions": 18,
+        "debates_participated": 5,
+        "written_questions": 9
+      },
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 5,
+        "written_questions": 18
+      },
+      "2025": {
+        "debate_contributions": 13,
+        "debates_participated": 5,
+        "written_questions": 13
+      },
+      "2026": {
+        "debate_contributions": 20,
+        "debates_participated": 6,
+        "written_questions": 13
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 89,
+    "debates_participated": 28,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 95
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 89,
+    "voting_participation_pct": 59.8,
+    "written_questions": 95
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 719,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 719,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/torridge-and-tavistock.json",
+    "id": 4367,
+    "name": "Torridge and Tavistock",
+    "ons_code": "E14001552",
+    "slug": "torridge-and-tavistock"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "coxg@parliament.uk",
+      "phone": "020 7219 4719",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "First Floor, Lockyer House, Paddons Row, Tavistock",
+      "email": "tellgeoffrey@geoffreycox.co.uk",
+      "phone": "01822 612925",
+      "postcode": "PL19 0HF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.geoffreycox.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Geoffrey_Cox"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1508
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1508,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Geoffrey",
+    "display": "Sir Geoffrey Cox",
+    "full_title": "Rt Hon Sir Geoffrey Cox KC MP",
+    "list_as": "Cox, Sir Geoffrey"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Attorney General",
+        "start_date": "2018-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2948,
+        "name": "Torridge and West Devon",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Torridge and Tavistock",
+        "constituency_id": 4367,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Torridge and West Devon",
+        "constituency_id": 3809,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Torridge and West Devon",
+        "constituency_id": 2948,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Geoffrey Cox is the Conservative MP for <a href='/constituency/4367/overview'>Torridge and Tavistock</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1508/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 147,
+        "voting_participation_pct": 77.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 191,
+        "voting_participation_pct": 78.93
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 135,
+        "voting_participation_pct": 53.78
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 200,
+        "voting_participation_pct": 78.12
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 105,
+        "voting_participation_pct": 52.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 134,
+        "voting_participation_pct": 41.61
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 102,
+        "voting_participation_pct": 43.22
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 744,
+        "voting_participation_pct": 69.66
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 272,
+        "voting_participation_pct": 43.11
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1016,
+    "voting_participation_pct": 59.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

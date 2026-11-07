@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 28996.8,
+    "bng": {
+      "easting": 433551,
+      "northing": 325042
+    },
+    "centroid": {
+      "latitude": 52.82189,
+      "longitude": -1.50355
+    },
+    "geojson": "constituencies/boundaries/south-derbyshire.geojson",
+    "ons_code": "E14001483",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5150.json",
+    "member_id": 5150,
+    "name": "Samantha Niblett",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73714,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4168,
+      "result": "Lab Gain",
+      "turnout": 45737,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3739,
+      "end_date": "2024-05-30",
+      "member_id": 4053,
+      "name": "Mrs Heather Wheeler",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4298,
+  "is_current": true,
+  "name": "South Derbyshire",
+  "name_cy": null,
+  "ons_code": "E14001483",
+  "outcodes": [
+    "DE1",
+    "DE11",
+    "DE12",
+    "DE15",
+    "DE23",
+    "DE24",
+    "DE3",
+    "DE6",
+    "DE65",
+    "DE72",
+    "DE73",
+    "LE65"
+  ],
+  "schema_version": 1,
+  "slug": "south-derbyshire",
+  "start_date": "2024-05-31"
+}

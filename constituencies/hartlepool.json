@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 9446.4,
+    "bng": {
+      "easting": 447161,
+      "northing": 531473
+    },
+    "centroid": {
+      "latitude": 54.67613,
+      "longitude": -1.27017
+    },
+    "geojson": "constituencies/boundaries/hartlepool.geojson",
+    "ons_code": "E14001272",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5045.json",
+    "member_id": 5045,
+    "name": "Mr Jonathan Brash",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71437,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7698,
+      "result": "Lab Hold",
+      "turnout": 35511,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3519,
+      "end_date": "2024-05-30",
+      "member_id": 4916,
+      "name": "Jill Mortimer",
+      "start_date": "2021-05-06"
+    },
+    {
+      "constituency_version_id": 3519,
+      "end_date": "2021-03-16",
+      "member_id": 4644,
+      "name": "Mike Hill",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4087,
+  "is_current": true,
+  "name": "Hartlepool",
+  "name_cy": null,
+  "ons_code": "E14001272",
+  "outcodes": [
+    "TS22",
+    "TS23",
+    "TS24",
+    "TS25",
+    "TS26",
+    "TS27"
+  ],
+  "schema_version": 1,
+  "slug": "hartlepool",
+  "start_date": "2024-05-31"
+}

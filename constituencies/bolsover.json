@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 22819.6,
+    "bng": {
+      "easting": 447717,
+      "northing": 366869
+    },
+    "centroid": {
+      "latitude": 53.19678,
+      "longitude": -1.28719
+    },
+    "geojson": "constituencies/boundaries/bolsover.geojson",
+    "ons_code": "E14001109",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5053.json",
+    "member_id": 5053,
+    "name": "Natalie Fleet",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77207,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6323,
+      "result": "Lab Gain",
+      "turnout": 42434,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3343,
+      "end_date": "2024-05-30",
+      "member_id": 4774,
+      "name": "Mark Fletcher",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3924,
+  "is_current": true,
+  "name": "Bolsover",
+  "name_cy": null,
+  "ons_code": "E14001109",
+  "outcodes": [
+    "DE55",
+    "NG16",
+    "NG19",
+    "NG20",
+    "S21",
+    "S41",
+    "S42",
+    "S43",
+    "S44",
+    "S45",
+    "S80"
+  ],
+  "schema_version": 1,
+  "slug": "bolsover",
+  "start_date": "2024-05-31"
+}

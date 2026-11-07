@@ -1,0 +1,527 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 88,
+        "debates_participated": 48,
+        "early_day_motions": 1,
+        "oral_questions": 7
+      },
+      "2021": {
+        "debate_contributions": 135,
+        "debates_participated": 72,
+        "oral_questions": 15,
+        "written_questions": 36
+      },
+      "2022": {
+        "bills_sponsored": 2,
+        "debate_contributions": 149,
+        "debates_participated": 64,
+        "oral_questions": 7,
+        "written_questions": 25
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 92,
+        "debates_participated": 39,
+        "oral_questions": 5,
+        "written_questions": 29
+      },
+      "2024": {
+        "debate_contributions": 42,
+        "debates_participated": 16,
+        "oral_questions": 3,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 506,
+    "debates_participated": 239,
+    "early_day_motions": 1,
+    "oral_questions": 37,
+    "petitions_presented": 0,
+    "written_questions": 93
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 506,
+    "voting_participation_pct": 84.64,
+    "written_questions": 93
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commercial Rent (Coronavirus) Bill",
+      "committee_id": 561,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 54,
+      "meetings_available": 54
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 62,
+      "meetings_available": 62
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 704,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nuclear Energy (Financing) Bill",
+      "committee_id": 553,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pet Abduction Bill",
+      "committee_id": 699,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Commercial Rent (Coronavirus) Bill",
+        "committee_id": 561,
+        "file": "committees/commercial-rent-coronavirus-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "commercial-rent-coronavirus-bill"
+      },
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-27"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-27"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 704,
+        "file": "committees/licensing-hours-extensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-14"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill"
+      },
+      {
+        "committee": "Nuclear Energy (Financing) Bill",
+        "committee_id": 553,
+        "file": "committees/nuclear-energy-financing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "nuclear-energy-financing-bill"
+      },
+      {
+        "committee": "Pet Abduction Bill",
+        "committee_id": 699,
+        "file": "committees/pet-abduction-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-24"
+          }
+        ],
+        "slug": "pet-abduction-bill"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3379,
+    "name": "Bury North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4854
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4854,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James Daly",
+    "full_title": "James Daly",
+    "list_as": "Daly, James"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3959,
+        "name": "Bury North",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3344,
+        "name": "Bolton North East",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3671,
+        "name": "Oldham West and Royton",
+        "startDate": "2015-12-03T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3344,
+        "name": "Bolton North East",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bury North",
+        "constituency_id": 3379,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "James Daly is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3379/overview'>Bury North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4854/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 222,
+        "voting_participation_pct": 91.74
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 218,
+        "voting_participation_pct": 86.85
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 182,
+        "voting_participation_pct": 71.09
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 99,
+        "voting_participation_pct": 77.95
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 904,
+        "voting_participation_pct": 84.64
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 904,
+    "voting_participation_pct": 84.64
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

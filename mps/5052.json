@@ -1,0 +1,195 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 27,
+        "debates_participated": 17,
+        "oral_questions": 12,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 61,
+        "debates_participated": 38,
+        "oral_questions": 21,
+        "written_questions": 73
+      },
+      "2026": {
+        "debate_contributions": 77,
+        "debates_participated": 40,
+        "oral_questions": 19,
+        "written_questions": 95
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 165,
+    "debates_participated": 95,
+    "early_day_motions": 0,
+    "oral_questions": 52,
+    "petitions_presented": 0,
+    "written_questions": 174
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 165,
+    "voting_participation_pct": 87.8,
+    "written_questions": 174
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/southport.json",
+    "id": 4319,
+    "name": "Southport",
+    "ons_code": "E14001504",
+    "slug": "southport"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "patrick.hurley.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5052
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5052,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Patrick Hurley",
+    "full_title": "Patrick Hurley MP",
+    "list_as": "Hurley, Patrick"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Southport",
+        "constituency_id": 4319,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Patrick Hurley is the Labour MP for <a href='/constituency/4319/overview'>Southport</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5052/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 285,
+        "voting_participation_pct": 88.51
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 198,
+        "voting_participation_pct": 83.9
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 554,
+        "voting_participation_pct": 87.8
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 554,
+    "voting_participation_pct": 87.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 4757.6,
+    "bng": {
+      "easting": 385248,
+      "northing": 353010
+    },
+    "centroid": {
+      "latitude": 53.07413,
+      "longitude": -2.22164
+    },
+    "geojson": "constituencies/boundaries/stoke-on-trent-north.geojson",
+    "ons_code": "E14001521",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5151.json",
+    "member_id": 5151,
+    "name": "David Williams",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69854,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5082,
+      "result": "Lab Gain",
+      "turnout": 36150,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3778,
+      "end_date": "2024-05-30",
+      "member_id": 4814,
+      "name": "Jonathan Gullis",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4336,
+  "is_current": true,
+  "name": "Stoke-on-Trent North",
+  "name_cy": null,
+  "ons_code": "E14001521",
+  "outcodes": [
+    "ST1",
+    "ST2",
+    "ST6",
+    "ST7",
+    "ST8",
+    "ST9"
+  ],
+  "schema_version": 1,
+  "slug": "stoke-on-trent-north",
+  "start_date": "2024-05-31"
+}

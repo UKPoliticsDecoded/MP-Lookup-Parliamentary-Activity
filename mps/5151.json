@@ -1,0 +1,144 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 11,
+        "oral_questions": 3,
+        "written_questions": 33
+      },
+      "2025": {
+        "debate_contributions": 88,
+        "debates_participated": 64,
+        "oral_questions": 10,
+        "written_questions": 14
+      },
+      "2026": {
+        "debate_contributions": 41,
+        "debates_participated": 31,
+        "oral_questions": 8,
+        "written_questions": 24
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 143,
+    "debates_participated": 106,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 71
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 143,
+    "voting_participation_pct": 83.52,
+    "written_questions": 71
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/stoke-on-trent-north.json",
+    "id": 4336,
+    "name": "Stoke-on-Trent North",
+    "ons_code": "E14001521",
+    "slug": "stoke-on-trent-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "david.williams.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5151
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5151,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "David Williams",
+    "full_title": "David Williams MP",
+    "list_as": "Williams, David"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stoke-on-Trent North",
+        "constituency_id": 4336,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "David Williams is the Labour MP for <a href='/constituency/4336/overview'>Stoke-on-Trent North</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5151/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 63,
+        "voting_participation_pct": 86.3
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 286,
+        "voting_participation_pct": 88.82
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 527,
+        "voting_participation_pct": 83.52
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 527,
+    "voting_participation_pct": 83.52
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

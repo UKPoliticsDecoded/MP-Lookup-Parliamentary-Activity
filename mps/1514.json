@@ -1,0 +1,348 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 106,
+        "debates_participated": 42,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 4
+      },
+      "2021": {
+        "debate_contributions": 69,
+        "debates_participated": 35,
+        "early_day_motions": 2
+      },
+      "2022": {
+        "debate_contributions": 101,
+        "debates_participated": 43,
+        "early_day_motions": 1,
+        "written_questions": 26
+      },
+      "2023": {
+        "debate_contributions": 58,
+        "debates_participated": 35,
+        "written_questions": 14
+      },
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 5
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 347,
+    "debates_participated": 160,
+    "early_day_motions": 4,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 44
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 347,
+    "voting_participation_pct": 63.48,
+    "written_questions": 44
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "National Security Bill",
+      "committee_id": 607,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "National Security Bill",
+        "committee_id": 607,
+        "file": "committees/national-security-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-29"
+          }
+        ],
+        "slug": "national-security-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 922,
+    "name": "Dundee East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1514
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1514,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Stewart Hosie",
+    "display": "Stewart Hosie",
+    "full_title": "Rt Hon Stewart Hosie",
+    "list_as": "Hosie, Stewart"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Economy)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Cabinet Office)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Constitution)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Trade)",
+        "start_date": "2018-05-17"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Economy)",
+        "start_date": "2015-05-13"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-05-20",
+        "is_current": false,
+        "name": "SNP Chief Whip",
+        "start_date": "2010-06-15"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "SNP Deputy Westminster Leader",
+        "start_date": "2010-06-15"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-05-13",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Treasury)",
+        "start_date": "2010-06-15"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Chief Whip (Commons)",
+        "start_date": "2007-10-10"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2007-10-10",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Home Affairs)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Treasury)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2007-10-10",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Women)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2016-10-13",
+        "is_current": false,
+        "name": "Deputy Leader, Scottish National Party",
+        "start_date": "2014-11-14"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 921,
+        "name": "Dundee East",
+        "startDate": "2001-06-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1660,
+        "name": "Kirkcaldy",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1659,
+        "name": "Kirkcaldy",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dundee East",
+        "constituency_id": 922,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 5 times",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Stewart Hosie is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/922/overview'>Dundee East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1514/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 127,
+        "voting_participation_pct": 66.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 159,
+        "voting_participation_pct": 65.7
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 153,
+        "voting_participation_pct": 60.96
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 156,
+        "voting_participation_pct": 60.94
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 81,
+        "voting_participation_pct": 63.78
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 678,
+        "voting_participation_pct": 63.48
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 678,
+    "voting_participation_pct": 63.48
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

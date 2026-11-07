@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 10398.0,
+    "bng": {
+      "easting": 398906,
+      "northing": 408181
+    },
+    "centroid": {
+      "latitude": 53.57025,
+      "longitude": -2.01799
+    },
+    "geojson": "constituencies/boundaries/oldham-east-and-saddleworth.geojson",
+    "ons_code": "E14001415",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4212.json",
+    "member_id": 4212,
+    "name": "Debbie Abrahams",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73460,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6357,
+      "result": "Lab Hold",
+      "turnout": 40065,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3670,
+      "end_date": "2024-05-30",
+      "member_id": 4212,
+      "name": "Debbie Abrahams",
+      "start_date": "2011-01-13"
+    }
+  ],
+  "id": 4230,
+  "is_current": true,
+  "name": "Oldham East and Saddleworth",
+  "name_cy": null,
+  "ons_code": "E14001415",
+  "outcodes": [
+    "OL1",
+    "OL16",
+    "OL2",
+    "OL3",
+    "OL4",
+    "OL5",
+    "OL6",
+    "OL8",
+    "OL9"
+  ],
+  "schema_version": 1,
+  "slug": "oldham-east-and-saddleworth",
+  "start_date": "2024-05-31"
+}

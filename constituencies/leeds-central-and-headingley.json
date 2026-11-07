@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 2027.2,
+    "bng": {
+      "easting": 426677,
+      "northing": 436783
+    },
+    "centroid": {
+      "latitude": 53.82665,
+      "longitude": -1.5962
+    },
+    "geojson": "constituencies/boundaries/leeds-central-and-headingley.geojson",
+    "ons_code": "E14001319",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4658.json",
+    "member_id": 4658,
+    "name": "Alex Sobel",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70554,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8422,
+      "result": "Lab Hold",
+      "turnout": 31595,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4134,
+  "is_current": true,
+  "name": "Leeds Central and Headingley",
+  "name_cy": null,
+  "ons_code": "E14001319",
+  "outcodes": [
+    "LS1",
+    "LS12",
+    "LS16",
+    "LS18",
+    "LS2",
+    "LS3",
+    "LS4",
+    "LS5",
+    "LS6",
+    "LS7",
+    "LS8",
+    "LS9"
+  ],
+  "schema_version": 1,
+  "slug": "leeds-central-and-headingley",
+  "start_date": "2024-05-31"
+}

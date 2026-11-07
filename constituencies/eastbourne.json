@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 4410.5,
+    "bng": {
+      "easting": 559339,
+      "northing": 99575
+    },
+    "centroid": {
+      "latitude": 50.77387,
+      "longitude": 0.258516
+    },
+    "geojson": "constituencies/boundaries/eastbourne.geojson",
+    "ons_code": "E14001219",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5086.json",
+    "member_id": 5086,
+    "name": "Josh Babarinde",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72590,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12204,
+      "result": "LD Gain",
+      "turnout": 45605,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3467,
+      "end_date": "2024-05-30",
+      "member_id": 4512,
+      "name": "Caroline Ansell",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4034,
+  "is_current": true,
+  "name": "Eastbourne",
+  "name_cy": null,
+  "ons_code": "E14001219",
+  "outcodes": [
+    "BN20",
+    "BN21",
+    "BN22",
+    "BN23"
+  ],
+  "schema_version": 1,
+  "slug": "eastbourne",
+  "start_date": "2024-05-31"
+}

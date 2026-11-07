@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 21870.3,
+    "bng": {
+      "easting": 629857,
+      "northing": 147550
+    },
+    "centroid": {
+      "latitude": 51.18095,
+      "longitude": 1.287481
+    },
+    "geojson": "constituencies/boundaries/dover-and-deal.geojson",
+    "ons_code": "E14001202",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5266.json",
+    "member_id": 5266,
+    "name": "Mike Tapp",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76406,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7585,
+      "result": "Lab Gain",
+      "turnout": 47775,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4017,
+  "is_current": true,
+  "name": "Dover and Deal",
+  "name_cy": null,
+  "ons_code": "E14001202",
+  "outcodes": [
+    "CT13",
+    "CT14",
+    "CT15",
+    "CT16",
+    "CT17",
+    "CT18",
+    "CT3",
+    "CT4"
+  ],
+  "schema_version": 1,
+  "slug": "dover-and-deal",
+  "start_date": "2024-05-31"
+}

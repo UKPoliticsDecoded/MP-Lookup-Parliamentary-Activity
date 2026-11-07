@@ -1,0 +1,396 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 65,
+        "debates_participated": 42,
+        "oral_questions": 4,
+        "written_questions": 168
+      },
+      "2021": {
+        "debate_contributions": 156,
+        "debates_participated": 68,
+        "oral_questions": 6,
+        "written_questions": 113
+      },
+      "2022": {
+        "debate_contributions": 103,
+        "debates_participated": 67,
+        "written_questions": 151
+      },
+      "2023": {
+        "debate_contributions": 65,
+        "debates_participated": 43,
+        "oral_questions": 4,
+        "written_questions": 99
+      },
+      "2024": {
+        "debate_contributions": 185,
+        "debates_participated": 46,
+        "oral_questions": 3,
+        "written_questions": 104
+      },
+      "2025": {
+        "debate_contributions": 301,
+        "debates_participated": 80
+      },
+      "2026": {
+        "debate_contributions": 392,
+        "debates_participated": 59
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1267,
+    "debates_participated": 405,
+    "early_day_motions": 0,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 635
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1267,
+    "voting_participation_pct": 71.45,
+    "written_questions": 635
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": false,
+      "meetings_attended": 146,
+      "meetings_available": 146
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-06-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bristol-south.json",
+    "id": 3950,
+    "name": "Bristol South",
+    "ons_code": "E14001135",
+    "slug": "bristol-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "karin.smyth.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0117 953 3575",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://karinsmyth.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/karinsmyth"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4444
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4444,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Karin Smyth",
+    "display": "Karin Smyth",
+    "full_title": "Karin Smyth MP",
+    "list_as": "Smyth, Karin"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department of Health and Social Care)"
+    ],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Health)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2022-11-01",
+        "is_current": false,
+        "name": "Shadow Minister (Health and Social Care)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2021-02-26",
+        "is_current": false,
+        "name": "Shadow Minister (Northern Ireland)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bristol South",
+        "constituency_id": 3950,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Bristol South",
+        "constituency_id": 3369,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Karin Smyth is the Labour MP for <a href='/constituency/3950/overview'>Bristol South</a>, and has been an MP continually since 7 May 2015. \r\nShe currently holds the Government post of Minister of State (Department of Health and Social Care).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4444/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 122,
+        "voting_participation_pct": 64.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 158,
+        "voting_participation_pct": 62.95
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 147,
+        "voting_participation_pct": 57.42
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 143,
+        "voting_participation_pct": 71.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 253,
+        "voting_participation_pct": 78.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 189,
+        "voting_participation_pct": 80.08
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 706,
+        "voting_participation_pct": 66.1
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 508,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1214,
+    "voting_participation_pct": 71.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

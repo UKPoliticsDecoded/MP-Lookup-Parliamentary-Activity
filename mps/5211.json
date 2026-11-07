@@ -1,0 +1,272 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 15,
+        "oral_questions": 5,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 47,
+        "debates_participated": 33,
+        "oral_questions": 8,
+        "written_questions": 18
+      },
+      "2026": {
+        "debate_contributions": 32,
+        "debates_participated": 24,
+        "oral_questions": 10,
+        "written_questions": 8
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 101,
+    "debates_participated": 72,
+    "early_day_motions": 0,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 32
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 101,
+    "voting_participation_pct": 85.58,
+    "written_questions": 32
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "committee_id": 856,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+        "committee_id": 856,
+        "file": "committees/building-safety-remediation-of-unsafe-cladding-etc-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-04"
+          }
+        ],
+        "slug": "building-safety-remediation-of-unsafe-cladding-etc-bill"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-10"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-10"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/west-ham-and-beckton.json",
+    "id": 4391,
+    "name": "West Ham and Beckton",
+    "ons_code": "E14001576",
+    "slug": "west-ham-and-beckton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "james.asser.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0208 103 6936",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5211
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5211,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James Asser",
+    "full_title": "James Asser MP",
+    "list_as": "Asser, James"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Ham and Beckton",
+        "constituency_id": 4391,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "James Asser is the Labour MP for <a href='/constituency/4391/overview'>West Ham and Beckton</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5211/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 262,
+        "voting_participation_pct": 81.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 210,
+        "voting_participation_pct": 88.98
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 540,
+        "voting_participation_pct": 85.58
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 540,
+    "voting_participation_pct": 85.58
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 83,
+        "debates_participated": 44,
+        "early_day_motions": 1,
+        "oral_questions": 9,
+        "written_questions": 17
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 119,
+        "debates_participated": 90,
+        "oral_questions": 20,
+        "written_questions": 274
+      },
+      "2026": {
+        "debate_contributions": 51,
+        "debates_participated": 44,
+        "oral_questions": 4,
+        "written_questions": 46
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 253,
+    "debates_participated": 178,
+    "early_day_motions": 1,
+    "oral_questions": 33,
+    "petitions_presented": 0,
+    "written_questions": 337
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 253,
+    "voting_participation_pct": 82.41,
+    "written_questions": 337
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-02"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hexham.json",
+    "id": 4100,
+    "name": "Hexham",
+    "ons_code": "E14001285",
+    "slug": "hexham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "joe.morris.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Queen's Hall Arts Centre, Beaumont Street, Hexham, Northumberland",
+      "postcode": "NE46 3LS",
+      "type": "Constituency office",
+      "website": "01434 614720"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5081
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5081,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Joe Morris",
+    "full_title": "Joe Morris MP",
+    "list_as": "Morris, Joe"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hexham",
+        "constituency_id": 4100,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Joe Morris is the Labour MP for <a href='/constituency/4100/overview'>Hexham</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5081/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 276,
+        "voting_participation_pct": 85.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 173,
+        "voting_participation_pct": 73.31
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 520,
+        "voting_participation_pct": 82.41
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 520,
+    "voting_participation_pct": 82.41
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 66,
+        "debates_participated": 49,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 179
+      },
+      "2021": {
+        "debate_contributions": 79,
+        "debates_participated": 53,
+        "early_day_motions": 7,
+        "oral_questions": 5,
+        "petitions_presented": 4,
+        "written_questions": 87
+      },
+      "2022": {
+        "debate_contributions": 79,
+        "debates_participated": 46,
+        "early_day_motions": 11,
+        "written_questions": 119
+      },
+      "2023": {
+        "debate_contributions": 41,
+        "debates_participated": 26,
+        "early_day_motions": 36,
+        "oral_questions": 5,
+        "written_questions": 69
+      },
+      "2024": {
+        "debate_contributions": 68,
+        "debates_participated": 50,
+        "early_day_motions": 16,
+        "oral_questions": 3,
+        "written_questions": 53
+      },
+      "2025": {
+        "debate_contributions": 157,
+        "debates_participated": 117,
+        "early_day_motions": 37,
+        "written_questions": 236
+      },
+      "2026": {
+        "debate_contributions": 130,
+        "debates_participated": 94,
+        "early_day_motions": 29,
+        "oral_questions": 3,
+        "written_questions": 108
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 620,
+    "debates_participated": 435,
+    "early_day_motions": 140,
+    "oral_questions": 19,
+    "petitions_presented": 4,
+    "written_questions": 851
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 620,
+    "voting_participation_pct": 45.85,
+    "written_questions": 851
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "British Sign Language Bill",
+      "committee_id": 588,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+      "committee_id": 570,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 39,
+      "meetings_available": 39
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "British Sign Language Bill",
+        "committee_id": 588,
+        "file": "committees/british-sign-language-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "british-sign-language-bill"
+      },
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      },
+      {
+        "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+        "committee_id": 570,
+        "file": "committees/marriage-and-civil-partnership-minimum-age-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "marriage-and-civil-partnership-minimum-age-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/upper-bann.json",
+    "id": 4437,
+    "name": "Upper Bann",
+    "ons_code": "N05000017",
+    "slug": "upper-bann"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "carla.lockhart.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "31-33 Queen Street , Lurgan",
+      "postcode": "BT66 8BQ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CarlaLockhartMP/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/carlalockhart"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4857
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4857,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Carla Lockhart",
+    "full_title": "Carla Lockhart MP",
+    "list_as": "Lockhart, Carla"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2026-11-02"
+      },
+      {
+        "end_date": "2026-11-02",
+        "party": "Democratic Unionist Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Upper Bann",
+        "constituency_id": 4437,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Upper Bann",
+        "constituency_id": 3816,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Carla Lockhart is the Independent MP for <a href='/constituency/4437/overview'>Upper Bann</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4857/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 101,
+        "voting_participation_pct": 53.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 150,
+        "voting_participation_pct": 61.98
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 111,
+        "voting_participation_pct": 44.22
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 84,
+        "voting_participation_pct": 32.81
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 70,
+        "voting_participation_pct": 35.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 126,
+        "voting_participation_pct": 39.13
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 135,
+        "voting_participation_pct": 57.2
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 476,
+        "voting_participation_pct": 44.57
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 303,
+        "voting_participation_pct": 48.02
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 779,
+    "voting_participation_pct": 45.85
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

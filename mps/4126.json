@@ -1,0 +1,563 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "early_day_motions": 2
+      },
+      "2020": {
+        "debate_contributions": 19,
+        "debates_participated": 12,
+        "early_day_motions": 3,
+        "oral_questions": 11,
+        "written_questions": 127
+      },
+      "2021": {
+        "debate_contributions": 25,
+        "debates_participated": 18,
+        "oral_questions": 9,
+        "written_questions": 53
+      },
+      "2022": {
+        "debate_contributions": 38,
+        "debates_participated": 28,
+        "oral_questions": 13,
+        "written_questions": 34
+      },
+      "2023": {
+        "debate_contributions": 57,
+        "debates_participated": 40,
+        "early_day_motions": 1,
+        "oral_questions": 23,
+        "written_questions": 56
+      },
+      "2024": {
+        "debate_contributions": 70,
+        "debates_participated": 42,
+        "early_day_motions": 3,
+        "oral_questions": 16,
+        "written_questions": 91
+      },
+      "2025": {
+        "debate_contributions": 43,
+        "debates_participated": 29,
+        "early_day_motions": 3,
+        "oral_questions": 11,
+        "written_questions": 170
+      },
+      "2026": {
+        "debate_contributions": 26,
+        "debates_participated": 23,
+        "early_day_motions": 3,
+        "oral_questions": 5,
+        "written_questions": 150
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 278,
+    "debates_participated": 192,
+    "early_day_motions": 15,
+    "oral_questions": 88,
+    "petitions_presented": 0,
+    "written_questions": 681
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 77.78,
+    "committee_memberships": 2,
+    "debate_contributions": 278,
+    "voting_participation_pct": 80.69,
+    "written_questions": 681
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 0.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+      "committee_id": 662,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 720,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "backbench-business"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-12"
+          },
+          {
+            "end": "2020-06-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+        "committee_id": 662,
+        "file": "committees/lifelong-learning-higher-education-fee-limits-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-15"
+          }
+        ],
+        "slug": "lifelong-learning-higher-education-fee-limits-bill"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 720,
+        "file": "committees/tobacco-and-vapes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-30"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newcastle-upon-tyne-east-and-wallsend.json",
+    "id": 4193,
+    "name": "Newcastle upon Tyne East and Wallsend",
+    "ons_code": "E14001378",
+    "slug": "newcastle-upon-tyne-east-and-wallsend"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mary.glindon.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Swans Centre for Innovation, Station Rd, Wallsend",
+      "phone": "0191 234 2493",
+      "postcode": "NE28 6HJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://maryglindon.com"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4126
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4126,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mary Glindon",
+    "display": "Mary Glindon",
+    "full_title": "Mary Glindon MP",
+    "list_as": "Glindon, Mary"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2020-04-14"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs) (Farming and Rural Communities)",
+        "start_date": "2016-10-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newcastle upon Tyne East and Wallsend",
+        "constituency_id": 4193,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "North Tyneside",
+        "constituency_id": 3652,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Mary Glindon is the Labour MP for <a href='/constituency/4193/overview'>Newcastle upon Tyne East and Wallsend</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4126/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 199,
+        "voting_participation_pct": 79.28
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 204,
+        "voting_participation_pct": 79.69
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 155,
+        "voting_participation_pct": 77.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 256,
+        "voting_participation_pct": 79.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 220,
+        "voting_participation_pct": 93.22
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 829,
+        "voting_participation_pct": 77.62
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 542,
+        "voting_participation_pct": 85.9
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1371,
+    "voting_participation_pct": 80.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

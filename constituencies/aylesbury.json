@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 19646.4,
+    "bng": {
+      "easting": 495172,
+      "northing": 216598
+    },
+    "centroid": {
+      "latitude": 51.83989,
+      "longitude": -0.61998
+    },
+    "geojson": "constituencies/boundaries/aylesbury.geojson",
+    "ons_code": "E14001071",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5341.json",
+    "member_id": 5341,
+    "name": "Laura Kyrke-Smith",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79169,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 630,
+      "result": "Lab Gain",
+      "turnout": 49940,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3299,
+      "end_date": "2024-05-30",
+      "member_id": 4745,
+      "name": "Rob Butler",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3886,
+  "is_current": true,
+  "name": "Aylesbury",
+  "name_cy": null,
+  "ons_code": "E14001071",
+  "outcodes": [
+    "HP17",
+    "HP19",
+    "HP20",
+    "HP21",
+    "HP22",
+    "HP23",
+    "HP4",
+    "LU6",
+    "LU7"
+  ],
+  "schema_version": 1,
+  "slug": "aylesbury",
+  "start_date": "2024-05-31"
+}

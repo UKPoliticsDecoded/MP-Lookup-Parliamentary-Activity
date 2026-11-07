@@ -1,0 +1,476 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 43,
+        "debates_participated": 38,
+        "early_day_motions": 22,
+        "oral_questions": 5,
+        "written_questions": 181
+      },
+      "2021": {
+        "debate_contributions": 83,
+        "debates_participated": 60,
+        "early_day_motions": 5,
+        "oral_questions": 6,
+        "written_questions": 147
+      },
+      "2022": {
+        "debate_contributions": 99,
+        "debates_participated": 52,
+        "early_day_motions": 6,
+        "oral_questions": 3,
+        "written_questions": 114
+      },
+      "2023": {
+        "debate_contributions": 82,
+        "debates_participated": 58,
+        "early_day_motions": 7,
+        "oral_questions": 4,
+        "written_questions": 111
+      },
+      "2024": {
+        "debate_contributions": 39,
+        "debates_participated": 21,
+        "early_day_motions": 7,
+        "oral_questions": 1,
+        "written_questions": 21
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 346,
+    "debates_participated": 229,
+    "early_day_motions": 47,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 574
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 346,
+    "voting_participation_pct": 72.47,
+    "written_questions": 574
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Powers of Attorney Bill",
+      "committee_id": 655,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Powers of Attorney Bill",
+        "committee_id": 655,
+        "file": "committees/powers-of-attorney-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "powers-of-attorney-bill"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-11-18"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-01"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-12-12"
+          },
+          {
+            "end": "2021-10-15",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3294,
+    "name": "Arfon"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1397
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1397,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Hywel Williams",
+    "display": "Hywel Williams",
+    "full_title": "Hywel Williams",
+    "list_as": "Williams, Hywel"
+  },
+  "party": {
+    "abbreviation": "PC",
+    "id": 22,
+    "name": "Plaid Cymru"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Chief Whip",
+        "start_date": "2020-07-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Defence)",
+        "start_date": "2020-07-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Foreign Affairs)",
+        "start_date": "2020-07-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (International Development)",
+        "start_date": "2020-07-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-07-21",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Brexit)",
+        "start_date": "2017-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Cabinet Office)",
+        "start_date": "2017-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (International Trade)",
+        "start_date": "2017-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-01",
+        "is_current": false,
+        "name": "Plaid Cymru Westminster Leader",
+        "start_date": "2015-10-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-01",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Culture, Media and Sport)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-01",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Defence)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-01",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Foreign and Commonwealth Office/Europe)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2013-03-18",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Cabinet Office)",
+        "start_date": "2010-06-18"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Education)",
+        "start_date": "2005-06-10"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2006-05-10",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Culture, Media and Sport)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-01",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (International Development)",
+        "start_date": "2004-05-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Health)",
+        "start_date": "2001-05-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow PC Spokesperson (Work and Pensions)",
+        "start_date": "2001-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Plaid Cymru",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Arfon",
+        "constituency_id": 3294,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Caernarfon",
+        "constituency_id": 528,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Hywel Williams is no longer a Member, but was most recently the Plaid Cymru MP for <a href='/constituency/3294/overview'>Arfon</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1397/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 173,
+        "voting_participation_pct": 71.49
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 194,
+        "voting_participation_pct": 75.78
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 81,
+        "voting_participation_pct": 63.78
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 774,
+        "voting_participation_pct": 72.47
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 774,
+    "voting_participation_pct": 72.47
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

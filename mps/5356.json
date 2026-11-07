@@ -1,0 +1,178 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 133,
+        "debates_participated": 49,
+        "early_day_motions": 8,
+        "oral_questions": 2,
+        "written_questions": 72
+      },
+      "2025": {
+        "debate_contributions": 257,
+        "debates_participated": 157,
+        "early_day_motions": 35,
+        "oral_questions": 2,
+        "written_questions": 157
+      },
+      "2026": {
+        "debate_contributions": 186,
+        "debates_participated": 109,
+        "early_day_motions": 16,
+        "written_questions": 53
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 576,
+    "debates_participated": 315,
+    "early_day_motions": 59,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 282
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 576,
+    "voting_participation_pct": 70.21,
+    "written_questions": 282
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/north-antrim.json",
+    "id": 4432,
+    "name": "North Antrim",
+    "ons_code": "N05000012",
+    "slug": "north-antrim"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jim.allister.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jimallister.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/jim.allister.1"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JimAllister"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5356
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5356,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jim Allister",
+    "full_title": "Jim Allister KC MP",
+    "list_as": "Allister, Jim"
+  },
+  "party": {
+    "abbreviation": "TUV",
+    "id": 158,
+    "name": "Traditional Unionist Voice"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3634,
+        "name": "North Antrim",
+        "startDate": "2010-05-06T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 958,
+        "name": "East Antrim",
+        "startDate": "1983-06-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Traditional Unionist Voice",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Antrim",
+        "constituency_id": 4432,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jim Allister is the Traditional Unionist Voice MP for <a href='/constituency/4432/overview'>North Antrim</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5356/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 51,
+        "voting_participation_pct": 69.86
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 236,
+        "voting_participation_pct": 73.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 156,
+        "voting_participation_pct": 66.1
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 443,
+        "voting_participation_pct": 70.21
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 443,
+    "voting_participation_pct": 70.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

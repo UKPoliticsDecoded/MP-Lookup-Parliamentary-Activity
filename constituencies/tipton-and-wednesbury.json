@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 2752.0,
+    "bng": {
+      "easting": 397068,
+      "northing": 293727
+    },
+    "centroid": {
+      "latitude": 52.5414,
+      "longitude": -2.04465
+    },
+    "geojson": "constituencies/boundaries/tipton-and-wednesbury.geojson",
+    "ons_code": "E14001547",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5048.json",
+    "member_id": 5048,
+    "name": "Antonia Bance",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74098,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3385,
+      "result": "Lab Gain",
+      "turnout": 31850,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4362,
+  "is_current": true,
+  "name": "Tipton and Wednesbury",
+  "name_cy": null,
+  "ons_code": "E14001547",
+  "outcodes": [
+    "B70",
+    "B71",
+    "DY4",
+    "WS10",
+    "WV14"
+  ],
+  "schema_version": 1,
+  "slug": "tipton-and-wednesbury",
+  "start_date": "2024-05-31"
+}

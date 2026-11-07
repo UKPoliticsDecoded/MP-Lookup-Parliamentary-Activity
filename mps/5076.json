@@ -1,0 +1,209 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 38,
+        "debates_participated": 29,
+        "early_day_motions": 8,
+        "oral_questions": 3,
+        "written_questions": 67
+      },
+      "2025": {
+        "bills_sponsored": 3,
+        "debate_contributions": 104,
+        "debates_participated": 44,
+        "early_day_motions": 11,
+        "oral_questions": 2,
+        "petitions_presented": 1,
+        "written_questions": 54
+      },
+      "2026": {
+        "debate_contributions": 194,
+        "debates_participated": 30
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 336,
+    "debates_participated": 103,
+    "early_day_motions": 19,
+    "oral_questions": 5,
+    "petitions_presented": 1,
+    "written_questions": 121
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 336,
+    "voting_participation_pct": 72.9,
+    "written_questions": 121
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 47,
+      "meetings_available": 47
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "foreign-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/east-renfrewshire.json",
+    "id": 4442,
+    "name": "East Renfrewshire",
+    "ons_code": "S14000021",
+    "slug": "east-renfrewshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "blair.mcdougall.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "8 Benview Road, Clarkston, Glasgow",
+      "phone": "0141 280 2005",
+      "postcode": "G76 7PP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.blairmcdougall.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/blairforeastren"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/blairforeastren"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5076
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5076,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Blair McDougall",
+    "full_title": "Blair McDougall MP",
+    "list_as": "McDougall, Blair"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary of State (Department for Business, Innovation, Science and Trade) (Jointly with the Department for Energy Security and Net Zero) ",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Business and Trade)",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary of State (Department for Business, Innovation, Science and Trade) (Jointly with the Department for Energy Security and Net Zero) "
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "East Renfrewshire",
+        "constituency_id": 4442,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Blair McDougall is the Labour MP for <a href='/constituency/4442/overview'>East Renfrewshire</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Parliamentary Under-Secretary of State (Department for Business, Innovation, Science and Trade) (Jointly with the Department for Energy Security and Net Zero) .",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5076/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 233,
+        "voting_participation_pct": 72.36
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 158,
+        "voting_participation_pct": 66.95
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 460,
+        "voting_participation_pct": 72.9
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 460,
+    "voting_participation_pct": 72.9
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

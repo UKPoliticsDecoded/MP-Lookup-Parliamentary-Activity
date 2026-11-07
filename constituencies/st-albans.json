@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 5944.5,
+    "bng": {
+      "easting": 515636,
+      "northing": 206011
+    },
+    "centroid": {
+      "latitude": 51.74088,
+      "longitude": -0.3266
+    },
+    "geojson": "constituencies/boundaries/st-albans.geojson",
+    "ons_code": "E14001507",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4769.json",
+    "member_id": 4769,
+    "name": "Daisy Cooper",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72739,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 19834,
+      "result": "LD Hold",
+      "turnout": 51614,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3765,
+      "end_date": "2024-05-30",
+      "member_id": 4769,
+      "name": "Daisy Cooper",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4322,
+  "is_current": true,
+  "name": "St Albans",
+  "name_cy": null,
+  "ons_code": "E14001507",
+  "outcodes": [
+    "AL1",
+    "AL2",
+    "AL3",
+    "AL4",
+    "AL5",
+    "WD25",
+    "WD5",
+    "WD7"
+  ],
+  "schema_version": 1,
+  "slug": "st-albans",
+  "start_date": "2024-05-31"
+}

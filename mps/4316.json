@@ -1,0 +1,398 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 29,
+        "debates_participated": 25,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 24
+      },
+      "2021": {
+        "debate_contributions": 54,
+        "debates_participated": 38,
+        "oral_questions": 2,
+        "written_questions": 35
+      },
+      "2022": {
+        "debate_contributions": 78,
+        "debates_participated": 56,
+        "oral_questions": 3,
+        "written_questions": 31
+      },
+      "2023": {
+        "debate_contributions": 62,
+        "debates_participated": 36,
+        "oral_questions": 5,
+        "written_questions": 18
+      },
+      "2024": {
+        "debate_contributions": 73,
+        "debates_participated": 24,
+        "oral_questions": 1,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 187,
+        "debates_participated": 38,
+        "oral_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 23,
+        "debates_participated": 17,
+        "oral_questions": 3,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 506,
+    "debates_participated": 234,
+    "early_day_motions": 1,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 115
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 506,
+    "voting_participation_pct": 70.51,
+    "written_questions": 115
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Air Traffic Management and Unmanned Aircraft Bill [Lords]",
+      "committee_id": 507,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Seafarers' Wages Bill [HL]",
+      "committee_id": 638,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-17"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Air Traffic Management and Unmanned Aircraft Bill [Lords]",
+        "committee_id": 507,
+        "file": "committees/air-traffic-management-and-unmanned-aircraft-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-04"
+          }
+        ],
+        "slug": "air-traffic-management-and-unmanned-aircraft-bill-lords"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Seafarers' Wages Bill [HL]",
+        "committee_id": 638,
+        "file": "committees/seafarers-wages-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-11"
+          }
+        ],
+        "slug": "seafarers-wages-bill-hl"
+      },
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wythenshawe-and-sale-east.json",
+    "id": 4417,
+    "name": "Wythenshawe and Sale East",
+    "ons_code": "E14001602",
+    "slug": "wythenshawe-and-sale-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mike.kane.mp@parliament.uk",
+      "phone": "020 7219 7524",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit A, Etrop Court, Wythenshawe Town Centre, Manchester",
+      "phone": "0161 499 7900",
+      "postcode": "M22 5RG",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/MikeKaneMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4316
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4316,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2014-02-13",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mike Kane",
+    "full_title": "Mike Kane MP",
+    "list_as": "Kane, Mike"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Education) (Schools)",
+        "start_date": "2016-10-09"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (International Development)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2014-02-13"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wythenshawe and Sale East",
+        "constituency_id": 4417,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wythenshawe and Sale East",
+        "constituency_id": 3873,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2014-02-13"
+      }
+    ]
+  },
+  "synopsis": "Mike Kane is the Labour MP for <a href='/constituency/4417/overview'>Wythenshawe and Sale East</a>, and has been an MP continually since 13 February 2014.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4316/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 142,
+        "voting_participation_pct": 74.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 179,
+        "voting_participation_pct": 71.31
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 134,
+        "voting_participation_pct": 52.34
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 127,
+        "voting_participation_pct": 63.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 182,
+        "voting_participation_pct": 77.12
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 741,
+        "voting_participation_pct": 69.38
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 457,
+        "voting_participation_pct": 72.42
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1198,
+    "voting_participation_pct": 70.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

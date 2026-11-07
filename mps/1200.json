@@ -1,0 +1,383 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 2
+      },
+      "2020": {
+        "debate_contributions": 11,
+        "debates_participated": 8,
+        "early_day_motions": 1,
+        "written_questions": 80
+      },
+      "2021": {
+        "debate_contributions": 20,
+        "debates_participated": 15,
+        "written_questions": 95
+      },
+      "2022": {
+        "debate_contributions": 45,
+        "debates_participated": 25,
+        "oral_questions": 1,
+        "written_questions": 95
+      },
+      "2023": {
+        "debate_contributions": 28,
+        "debates_participated": 20,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 86
+      },
+      "2024": {
+        "debate_contributions": 15,
+        "debates_participated": 8,
+        "written_questions": 33
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 119,
+    "debates_participated": 76,
+    "early_day_motions": 2,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 391
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 119,
+    "voting_participation_pct": 83.71,
+    "written_questions": 391
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Hunting Trophies (Import Prohibition) Bill",
+      "committee_id": 640,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Special Rules for End of Life) Bill",
+      "committee_id": 718,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 725,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2010-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2006-05-15"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Hunting Trophies (Import Prohibition) Bill",
+        "committee_id": 640,
+        "file": "committees/hunting-trophies-import-prohibition-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "hunting-trophies-import-prohibition-bill"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Pensions (Special Rules for End of Life) Bill",
+        "committee_id": 718,
+        "file": "committees/pensions-special-rules-for-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "pensions-special-rules-for-end-of-life-bill"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 725,
+        "file": "committees/unauthorised-entry-to-football-matches-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3466,
+    "name": "East Yorkshire"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1200
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1200,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2001-06-07",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir Greg",
+    "display": "Sir Greg Knight",
+    "full_title": "Rt Hon Sir Greg Knight",
+    "list_as": "Knight, Sir Greg"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2012-09-06"
+      },
+      {
+        "department": "Department of Trade and Industry",
+        "department_url": "http://www.dti.gov.uk",
+        "end_date": "1997-05-01",
+        "is_current": false,
+        "name": "Minister of State (Energy and Industry)",
+        "start_date": "1996-07-05"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "1996-07-22",
+        "is_current": false,
+        "name": "Deputy Chief Whip and Treasurer",
+        "start_date": "1993-06-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "1993-05-27",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "1990-11-28"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "1990-07-25",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "1989-07-28"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2005-12-08",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2005-06-01",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "start_date": "2003-10-02"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2003-10-01",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2003-03-03"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 850,
+        "name": "Derby North",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "1983-06-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "East Yorkshire",
+        "constituency_id": 3466,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "East Yorkshire",
+        "constituency_id": 1000,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      },
+      {
+        "constituency": "Derby North",
+        "constituency_id": 849,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1983-06-09"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Greg Knight is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3466/overview'>East Yorkshire</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1200/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 168,
+        "voting_participation_pct": 88.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 189,
+        "voting_participation_pct": 75.3
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 221,
+        "voting_participation_pct": 86.33
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 108,
+        "voting_participation_pct": 85.04
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 894,
+        "voting_participation_pct": 83.71
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 894,
+    "voting_participation_pct": 83.71
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

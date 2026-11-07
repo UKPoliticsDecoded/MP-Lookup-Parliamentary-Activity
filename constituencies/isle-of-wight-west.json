@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 26363.4,
+    "bng": {
+      "easting": 443052,
+      "northing": 85949
+    },
+    "centroid": {
+      "latitude": 50.67161,
+      "longitude": -1.39211
+    },
+    "geojson": "constituencies/boundaries/isle-of-wight-west.geojson",
+    "ons_code": "E14001304",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5144.json",
+    "member_id": 5144,
+    "name": "Richard Quigley",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 55406,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3177,
+      "result": "Lab Gain",
+      "turnout": 34290,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4119,
+  "is_current": true,
+  "name": "Isle of Wight West",
+  "name_cy": null,
+  "ons_code": "E14001304",
+  "outcodes": [
+    "PO30",
+    "PO31",
+    "PO32",
+    "PO33",
+    "PO36",
+    "PO38",
+    "PO39",
+    "PO40",
+    "PO41"
+  ],
+  "schema_version": 1,
+  "slug": "isle-of-wight-west",
+  "start_date": "2024-05-31"
+}

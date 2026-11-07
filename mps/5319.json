@@ -1,0 +1,224 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 70,
+        "debates_participated": 45,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 50
+      },
+      "2025": {
+        "debate_contributions": 200,
+        "debates_participated": 150,
+        "early_day_motions": 4,
+        "oral_questions": 13,
+        "written_questions": 116
+      },
+      "2026": {
+        "debate_contributions": 92,
+        "debates_participated": 56,
+        "early_day_motions": 9,
+        "oral_questions": 8,
+        "written_questions": 55
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 362,
+    "debates_participated": 251,
+    "early_day_motions": 14,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 221
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 362,
+    "voting_participation_pct": 74.01,
+    "written_questions": 221
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-12"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-antrim.json",
+    "id": 4434,
+    "name": "South Antrim",
+    "ons_code": "N05000014",
+    "slug": "south-antrim"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "robin.swann.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/robinswannuup"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/robin.swann.mp"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://tiktok.com/robinswannmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/RobinSwann_MP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5319
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5319,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Robin Swann",
+    "full_title": "Robin Swann MP",
+    "list_as": "Swann, Robin"
+  },
+  "party": {
+    "abbreviation": "UUP",
+    "id": 38,
+    "name": "Ulster Unionist Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3634,
+        "name": "North Antrim",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Ulster Unionist Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Antrim",
+        "constituency_id": 4434,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Robin Swann is the Ulster Unionist Party MP for <a href='/constituency/4434/overview'>South Antrim</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5319/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 252,
+        "voting_participation_pct": 78.26
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 153,
+        "voting_participation_pct": 64.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 467,
+        "voting_participation_pct": 74.01
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 467,
+    "voting_participation_pct": 74.01
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

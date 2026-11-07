@@ -1,0 +1,358 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 70,
+        "debates_participated": 51,
+        "oral_questions": 12,
+        "written_questions": 77
+      },
+      "2021": {
+        "debate_contributions": 44,
+        "debates_participated": 35,
+        "oral_questions": 5,
+        "written_questions": 34
+      },
+      "2022": {
+        "debate_contributions": 72,
+        "debates_participated": 34,
+        "oral_questions": 7,
+        "written_questions": 69
+      },
+      "2023": {
+        "debate_contributions": 47,
+        "debates_participated": 30,
+        "oral_questions": 14,
+        "written_questions": 27
+      },
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 7,
+        "oral_questions": 4,
+        "written_questions": 6
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 246,
+    "debates_participated": 157,
+    "early_day_motions": 0,
+    "oral_questions": 42,
+    "petitions_presented": 0,
+    "written_questions": 213
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 246,
+    "voting_participation_pct": 84.18,
+    "written_questions": 213
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 719,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill",
+      "committee_id": 613,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 22,
+      "meetings_available": 22
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 719,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill"
+      },
+      {
+        "committee": "Financial Services and Markets Bill",
+        "committee_id": 613,
+        "file": "committees/financial-services-and-markets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-08"
+          },
+          {
+            "end": "2018-12-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-11"
+          }
+        ],
+        "slug": "treasury"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-11"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3853,
+    "name": "Wimbledon"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1585
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1585,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Stephen Hammond",
+    "display": "Stephen Hammond",
+    "full_title": "Stephen Hammond",
+    "list_as": "Hammond, Stephen"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2018-11-16"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2014-07-15",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2012-09-04"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2005-12-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3187,
+        "name": "Wimbledon",
+        "startDate": "2001-06-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2163,
+        "name": "North Warwickshire",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-10-30"
+      },
+      {
+        "end_date": "2019-10-29",
+        "party": "Independent",
+        "start_date": "2019-09-04"
+      },
+      {
+        "end_date": "2019-09-04",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wimbledon",
+        "constituency_id": 3853,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Wimbledon",
+        "constituency_id": 3187,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Stephen Hammond is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3853/overview'>Wimbledon</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1585/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 172,
+        "voting_participation_pct": 90.53
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 200,
+        "voting_participation_pct": 79.68
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 206,
+        "voting_participation_pct": 80.47
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 111,
+        "voting_participation_pct": 87.4
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 899,
+        "voting_participation_pct": 84.18
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 899,
+    "voting_participation_pct": 84.18
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

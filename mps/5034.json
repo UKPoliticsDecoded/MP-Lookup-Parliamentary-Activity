@@ -1,0 +1,217 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 12,
+        "oral_questions": 5,
+        "written_questions": 64
+      },
+      "2025": {
+        "debate_contributions": 146,
+        "debates_participated": 103,
+        "oral_questions": 18,
+        "written_questions": 63
+      },
+      "2026": {
+        "debate_contributions": 131,
+        "debates_participated": 85,
+        "oral_questions": 13,
+        "written_questions": 73
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 291,
+    "debates_participated": 200,
+    "early_day_motions": 0,
+    "oral_questions": 36,
+    "petitions_presented": 0,
+    "written_questions": 200
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 291,
+    "voting_participation_pct": 84.63,
+    "written_questions": 200
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cannock-chase.json",
+    "id": 3965,
+    "name": "Cannock Chase",
+    "ons_code": "E14001150",
+    "slug": "cannock-chase"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "josh.newbury.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "11 Market Street, Hednesford, Staffordshire",
+      "phone": "01543 384681",
+      "postcode": "WS12 1AY",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/joshnewburymp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/joshnewburymp"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/joshnewburymp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/joshnewburymp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5034
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5034,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Josh Newbury",
+    "full_title": "Josh Newbury MP",
+    "list_as": "Newbury, Josh"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cannock Chase",
+        "constituency_id": 3965,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Josh Newbury is the Labour MP for <a href='/constituency/3965/overview'>Cannock Chase</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5034/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 279,
+        "voting_participation_pct": 86.65
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 186,
+        "voting_participation_pct": 78.81
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 534,
+        "voting_participation_pct": 84.63
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 534,
+    "voting_participation_pct": 84.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

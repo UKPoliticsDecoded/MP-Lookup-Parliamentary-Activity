@@ -1,0 +1,433 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 101,
+        "debates_participated": 57,
+        "oral_questions": 7,
+        "written_questions": 109
+      },
+      "2021": {
+        "debate_contributions": 44,
+        "debates_participated": 32,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 56
+      },
+      "2022": {
+        "debate_contributions": 71,
+        "debates_participated": 42,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 40
+      },
+      "2023": {
+        "debate_contributions": 55,
+        "debates_participated": 36,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 20
+      },
+      "2024": {
+        "debate_contributions": 121,
+        "debates_participated": 49,
+        "oral_questions": 2,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 114,
+        "debates_participated": 28
+      },
+      "2026": {
+        "debate_contributions": 31,
+        "debates_participated": 21,
+        "oral_questions": 3,
+        "written_questions": 17
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 537,
+    "debates_participated": 265,
+    "early_day_motions": 4,
+    "oral_questions": 34,
+    "petitions_presented": 0,
+    "written_questions": 252
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 537,
+    "voting_participation_pct": 76.63,
+    "written_questions": 252
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 29,
+      "meetings_available": 29
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Cultural Objects (Protection From Seizure) Bill",
+      "committee_id": 555,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 224,
+      "meetings_available": 224
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Cultural Objects (Protection From Seizure) Bill",
+        "committee_id": 555,
+        "file": "committees/cultural-objects-protection-from-seizure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "cultural-objects-protection-from-seizure-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-22"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-08-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-27"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2014-11-24"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-11-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "treasury"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-20"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bethnal-green-and-stepney.json",
+    "id": 3901,
+    "name": "Bethnal Green and Stepney",
+    "ons_code": "E14001086",
+    "slug": "bethnal-green-and-stepney"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rushanara.ali.mp@parliament.uk",
+      "phone": "020 7219 7200",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.rushanaraali.org/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/rushanaraali"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4138
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4138,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Rushanara Ali",
+    "display": "Rushanara Ali",
+    "full_title": "Rushanara Ali MP",
+    "list_as": "Ali, Rushanara"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2025-08-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Investment and Small Business)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2014-09-26",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (International Development)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bethnal Green and Stepney",
+        "constituency_id": 3901,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Bethnal Green and Bow",
+        "constituency_id": 3320,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Rushanara Ali is the Labour MP for <a href='/constituency/3901/overview'>Bethnal Green and Stepney</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4138/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 172,
+        "voting_participation_pct": 68.53
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 161,
+        "voting_participation_pct": 62.89
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 138,
+        "voting_participation_pct": 69.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 259,
+        "voting_participation_pct": 80.43
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 219,
+        "voting_participation_pct": 92.8
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 769,
+        "voting_participation_pct": 72.0
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 533,
+        "voting_participation_pct": 84.47
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1302,
+    "voting_participation_pct": 76.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

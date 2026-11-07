@@ -1,0 +1,77 @@
+{
+  "boundary": {
+    "area_hectares": 2548.0,
+    "bng": {
+      "easting": 410569,
+      "northing": 292685
+    },
+    "centroid": {
+      "latitude": 52.53194,
+      "longitude": -1.84562
+    },
+    "geojson": "constituencies/boundaries/birmingham-erdington.geojson",
+    "ons_code": "E14001093",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4938.json",
+    "member_id": 4938,
+    "name": "Paulette Hamilton",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77463,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7019,
+      "result": "Lab Hold",
+      "turnout": 34137,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3326,
+      "end_date": "2024-05-30",
+      "member_id": 4938,
+      "name": "Paulette Hamilton",
+      "start_date": "2022-03-03"
+    },
+    {
+      "constituency_version_id": 3326,
+      "end_date": "2022-01-07",
+      "member_id": 3913,
+      "name": "Jack Dromey",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3908,
+  "is_current": true,
+  "name": "Birmingham Erdington",
+  "name_cy": null,
+  "ons_code": "E14001093",
+  "outcodes": [
+    "B23",
+    "B24",
+    "B35",
+    "B36",
+    "B42",
+    "B44",
+    "B7",
+    "B72",
+    "B73",
+    "B76"
+  ],
+  "schema_version": 1,
+  "slug": "birmingham-erdington",
+  "start_date": "2024-05-31"
+}

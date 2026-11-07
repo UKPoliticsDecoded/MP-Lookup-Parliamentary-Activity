@@ -1,0 +1,85 @@
+{
+  "boundary": {
+    "area_hectares": 77207.6,
+    "bng": {
+      "easting": 339931,
+      "northing": 330083
+    },
+    "centroid": {
+      "latitude": 52.86487,
+      "longitude": -2.89372
+    },
+    "geojson": "constituencies/boundaries/north-shropshire.geojson",
+    "ons_code": "E14001398",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4934.json",
+    "member_id": 4934,
+    "name": "Helen Morgan",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77573,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15311,
+      "result": "LD Gain",
+      "turnout": 49594,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3648,
+      "end_date": "2024-05-30",
+      "member_id": 4934,
+      "name": "Helen Morgan",
+      "start_date": "2021-12-16"
+    },
+    {
+      "constituency_version_id": 3648,
+      "end_date": "2021-11-05",
+      "member_id": 274,
+      "name": "Mr Owen Paterson",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2152,
+      "end_date": "2010-05-06",
+      "member_id": 274,
+      "name": "Mr Owen Paterson",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4213,
+  "is_current": true,
+  "name": "North Shropshire",
+  "name_cy": null,
+  "ons_code": "E14001398",
+  "outcodes": [
+    "CW3",
+    "LL14",
+    "SY10",
+    "SY11",
+    "SY12",
+    "SY13",
+    "SY14",
+    "SY22",
+    "SY4",
+    "TF6",
+    "TF9"
+  ],
+  "schema_version": 1,
+  "slug": "north-shropshire",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,217 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 21,
+        "early_day_motions": 7,
+        "oral_questions": 2,
+        "written_questions": 19
+      },
+      "2025": {
+        "debate_contributions": 112,
+        "debates_participated": 67,
+        "early_day_motions": 50,
+        "oral_questions": 9,
+        "written_questions": 138
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 92,
+        "debates_participated": 49,
+        "early_day_motions": 15,
+        "oral_questions": 8,
+        "written_questions": 158
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 230,
+    "debates_participated": 137,
+    "early_day_motions": 72,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 315
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 230,
+    "voting_participation_pct": 27.42,
+    "written_questions": 315
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/moray-west-nairn-and-strathspey.json",
+    "id": 4487,
+    "name": "Moray West, Nairn and Strathspey",
+    "ons_code": "S14000098",
+    "slug": "moray-west-nairn-and-strathspey"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "graham.leadbitter.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "9 Wards Road, Elgin",
+      "phone": "020 7219 4306",
+      "postcode": "IV30 1NL",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://grahamleadbitter.scot/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/GrahamLeadbitterSNP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/grahamsnp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5277
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5277,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Graham Leadbitter",
+    "full_title": "Graham Leadbitter MP",
+    "list_as": "Leadbitter, Graham"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Energy Security and Net Zero)",
+        "start_date": "2025-06-16"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Science, Innovation and Technology)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Transport)",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Moray West, Nairn and Strathspey",
+        "constituency_id": 4487,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Graham Leadbitter is the Scottish National Party MP for <a href='/constituency/4487/overview'>Moray West, Nairn and Strathspey</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow SNP Spokesperson (Science, Innovation and Technology), Shadow SNP Spokesperson (Transport), and Shadow SNP Spokesperson (Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5277/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 36,
+        "voting_participation_pct": 49.32
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 76,
+        "voting_participation_pct": 23.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 61,
+        "voting_participation_pct": 25.85
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 173,
+        "voting_participation_pct": 27.42
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 173,
+    "voting_participation_pct": 27.42
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

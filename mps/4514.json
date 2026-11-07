@@ -1,0 +1,236 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 209,
+        "debates_participated": 39,
+        "early_day_motions": 8
+      },
+      "2021": {
+        "debate_contributions": 250,
+        "debates_participated": 49,
+        "early_day_motions": 7
+      },
+      "2022": {
+        "debate_contributions": 263,
+        "debates_participated": 52,
+        "early_day_motions": 3
+      },
+      "2023": {
+        "debate_contributions": 200,
+        "debates_participated": 36
+      },
+      "2024": {
+        "debate_contributions": 650,
+        "debates_participated": 43,
+        "early_day_motions": 2
+      },
+      "2025": {
+        "debate_contributions": 1393,
+        "debates_participated": 48
+      },
+      "2026": {
+        "debate_contributions": 965,
+        "debates_participated": 28
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 3931,
+    "debates_participated": 296,
+    "early_day_motions": 20,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 3931,
+    "voting_participation_pct": 25.81,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/holborn-and-st-pancras.json",
+    "id": 4105,
+    "name": "Holborn and St Pancras",
+    "ons_code": "E14001290",
+    "slug": "holborn-and-st-pancras"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4514
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4514,
+  "membership": {
+    "end_date": "2026-09-01",
+    "end_reason": "Resignation (Chiltern)",
+    "start_date": "2015-05-07",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sir Keir Starmer",
+    "full_title": "Rt Hon Sir Keir Starmer",
+    "list_as": "Starmer, Sir Keir"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Prime Minister",
+        "department_url": "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Prime Minister and First Lord of the Treasury",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Leader of HM Official Opposition",
+        "start_date": "2020-04-04"
+      },
+      {
+        "department": "Department for Exiting the European Union ",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union",
+        "end_date": "2020-04-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Exiting the European Union",
+        "start_date": "2016-10-06"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2026-07-17",
+        "is_current": false,
+        "name": "Leader of the Labour Party",
+        "start_date": "2020-04-04"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2026-09-01",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Holborn and St Pancras",
+        "constituency_id": 4105,
+        "end_date": "2026-09-01",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Holborn and St Pancras",
+        "constituency_id": 3536,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Keir Starmer is no longer a Member, but was most recently the Labour MP for <a href='/constituency/4105/overview'>Holborn and St Pancras</a>, and left the Commons on 1 September 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4514/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 100,
+        "voting_participation_pct": 52.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 177,
+        "voting_participation_pct": 73.14
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 34,
+        "voting_participation_pct": 13.55
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 42,
+        "voting_participation_pct": 16.41
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 34,
+        "voting_participation_pct": 17.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 19,
+        "voting_participation_pct": 5.9
+      },
+      "2026": {
+        "divisions_eligible": 180,
+        "divisions_voted": 16,
+        "voting_participation_pct": 8.89
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 385,
+        "voting_participation_pct": 36.05
+      },
+      "59th": {
+        "divisions_eligible": 575,
+        "divisions_voted": 39,
+        "voting_participation_pct": 6.78
+      }
+    },
+    "divisions_eligible": 1643,
+    "divisions_voted": 424,
+    "voting_participation_pct": 25.81
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

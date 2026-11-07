@@ -1,0 +1,247 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 44,
+        "debates_participated": 31,
+        "oral_questions": 5,
+        "written_questions": 17
+      },
+      "2025": {
+        "debate_contributions": 126,
+        "debates_participated": 89,
+        "oral_questions": 14,
+        "written_questions": 50
+      },
+      "2026": {
+        "debate_contributions": 60,
+        "debates_participated": 39,
+        "oral_questions": 7,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 230,
+    "debates_participated": 159,
+    "early_day_motions": 0,
+    "oral_questions": 26,
+    "petitions_presented": 0,
+    "written_questions": 79
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 230,
+    "voting_participation_pct": 77.65,
+    "written_questions": 79
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-17"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/scarborough-and-whitby.json",
+    "id": 4276,
+    "name": "Scarborough and Whitby",
+    "ons_code": "E14001461",
+    "slug": "scarborough-and-whitby"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alison.hume.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.alisonhume.com/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5254
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5254,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alison Hume",
+    "full_title": "Alison Hume MP",
+    "list_as": "Hume, Alison"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Scarborough and Whitby",
+        "constituency_id": 4276,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alison Hume is the Labour MP for <a href='/constituency/4276/overview'>Scarborough and Whitby</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5254/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 250,
+        "voting_participation_pct": 77.64
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 490,
+        "voting_participation_pct": 77.65
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 490,
+    "voting_participation_pct": 77.65
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

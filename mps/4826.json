@@ -1,0 +1,430 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 87,
+        "debates_participated": 57,
+        "oral_questions": 15,
+        "written_questions": 15
+      },
+      "2021": {
+        "debate_contributions": 71,
+        "debates_participated": 40,
+        "oral_questions": 10,
+        "written_questions": 5
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 49,
+        "debates_participated": 36,
+        "oral_questions": 6,
+        "written_questions": 3
+      },
+      "2023": {
+        "debate_contributions": 187,
+        "debates_participated": 44,
+        "oral_questions": 3,
+        "written_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 223,
+        "debates_participated": 32
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 617,
+    "debates_participated": 209,
+    "early_day_motions": 0,
+    "oral_questions": 34,
+    "petitions_presented": 0,
+    "written_questions": 26
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 617,
+    "voting_participation_pct": 88.3,
+    "written_questions": 26
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child Support (Enforcement) Bill",
+      "committee_id": 654,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 85,
+      "meetings_available": 85
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Sex-based Harassment in Public Bill",
+      "committee_id": 653,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Conference (2022)",
+      "committee_id": 609,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Child Support (Enforcement) Bill",
+        "committee_id": 654,
+        "file": "committees/child-support-enforcement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "child-support-enforcement-bill"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-14"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-14"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-08"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Protection from Sex-based Harassment in Public Bill",
+        "committee_id": 653,
+        "file": "committees/protection-from-sex-based-harassment-in-public-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-08"
+          }
+        ],
+        "slug": "protection-from-sex-based-harassment-in-public-bill"
+      },
+      {
+        "committee": "Speaker's Conference (2022)",
+        "committee_id": 609,
+        "file": "committees/speaker-s-conference-2022.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "speaker-s-conference-2022"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3624,
+    "name": "Newbury"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4826
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4826,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Laura Farris",
+    "full_title": "Laura Farris",
+    "list_as": "Farris, Laura"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Ministry of Justice) (jointly with Home Office)",
+        "start_date": "2023-11-14"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4191,
+        "name": "Newbury",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3578,
+        "name": "Leyton and Wanstead",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newbury",
+        "constituency_id": 3624,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Laura Farris is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3624/overview'>Newbury</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4826/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 169,
+        "voting_participation_pct": 88.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 222,
+        "voting_participation_pct": 91.74
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 198,
+        "voting_participation_pct": 78.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 237,
+        "voting_participation_pct": 92.58
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 115,
+        "voting_participation_pct": 90.55
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 943,
+        "voting_participation_pct": 88.3
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 943,
+    "voting_participation_pct": 88.3
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

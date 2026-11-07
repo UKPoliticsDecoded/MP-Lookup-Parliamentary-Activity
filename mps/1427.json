@@ -1,0 +1,229 @@
+{
+  "activity": {
+    "annual": {
+      "2026": {
+        "debate_contributions": 344,
+        "debates_participated": 8
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 344,
+    "debates_participated": 8,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 344,
+    "voting_participation_pct": 35.71,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/makerfield.json",
+    "id": 4165,
+    "name": "Makerfield",
+    "ons_code": "E14001350",
+    "slug": "makerfield"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andy.burnham.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1427
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1427,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2026-06-18",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Andy Burnham",
+    "display": "Andy Burnham",
+    "full_title": "Rt Hon Andy Burnham",
+    "list_as": "Burnham, Andy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Prime Minister",
+        "department_url": "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street",
+        "end_date": null,
+        "is_current": true,
+        "name": "Prime Minister and First Lord of the Treasury",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Secretary of State for Health",
+        "start_date": "2009-06-06"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2009-06-05",
+        "is_current": false,
+        "name": "Secretary of State for Culture, Media and Sport",
+        "start_date": "2008-01-25"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2008-01-24",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2007-06-28"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Minister of State (Department of Health) (Delivery and Quality)",
+        "start_date": "2006-05-05"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2006-05-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "ministerial_current": [
+      "Prime Minister and First Lord of the Treasury"
+    ],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Home Secretary",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": "",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Secretary of State (Education and Election Co-ordinator)",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Leader of the Labour Party",
+        "start_date": "2026-07-17"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Makerfield",
+        "constituency_id": 4165,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2026-06-18"
+      },
+      {
+        "constituency": "Leigh",
+        "constituency_id": 3573,
+        "end_date": "2017-05-03",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Leigh",
+        "constituency_id": 1738,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Andy Burnham is the Labour (Co-op) MP for <a href='/constituency/4165/overview'>Makerfield</a>, and has been an MP continually since 18 June 2026. \r\nHe currently holds the Government post of Prime Minister and First Lord of the Treasury. \r\nIn addition, he is Leader of the Labour Party.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1427/Thumbnail",
+  "voting": {
+    "annual": {
+      "2026": {
+        "divisions_eligible": 84,
+        "divisions_voted": 30,
+        "voting_participation_pct": 35.71
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 84,
+        "divisions_voted": 30,
+        "voting_participation_pct": 35.71
+      }
+    },
+    "divisions_eligible": 84,
+    "divisions_voted": 30,
+    "voting_participation_pct": 35.71
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

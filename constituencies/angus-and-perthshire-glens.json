@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 552063.3,
+    "bng": {
+      "easting": 302665,
+      "northing": 757277
+    },
+    "centroid": {
+      "latitude": 56.69702,
+      "longitude": -3.59103
+    },
+    "geojson": "constituencies/boundaries/angus-and-perthshire-glens.geojson",
+    "ons_code": "S14000065",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4736.json",
+    "member_id": 4736,
+    "name": "Dave Doogan",
+    "party": "Scottish National Party",
+    "party_abbreviation": "SNP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76668,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4870,
+      "result": "SNP Hold",
+      "turnout": 47348,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4454,
+  "is_current": true,
+  "name": "Angus and Perthshire Glens",
+  "name_cy": null,
+  "ons_code": "S14000065",
+  "outcodes": [
+    "DD11",
+    "DD2",
+    "DD3",
+    "DD4",
+    "DD8",
+    "DD9",
+    "PH10",
+    "PH11",
+    "PH12",
+    "PH13",
+    "PH15",
+    "PH16",
+    "PH18",
+    "PH8",
+    "PH9"
+  ],
+  "schema_version": 1,
+  "slug": "angus-and-perthshire-glens",
+  "start_date": "2024-05-31"
+}

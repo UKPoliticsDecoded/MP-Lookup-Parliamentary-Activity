@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 12143.3,
+    "bng": {
+      "easting": 339979,
+      "northing": 419859
+    },
+    "centroid": {
+      "latitude": 53.67175,
+      "longitude": -2.90998
+    },
+    "geojson": "constituencies/boundaries/southport.geojson",
+    "ons_code": "E14001504",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5052.json",
+    "member_id": 5052,
+    "name": "Patrick Hurley",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73641,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5789,
+      "result": "Lab Gain",
+      "turnout": 45059,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3763,
+      "end_date": "2024-05-30",
+      "member_id": 4669,
+      "name": "Damien Moore",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4319,
+  "is_current": true,
+  "name": "Southport",
+  "name_cy": null,
+  "ons_code": "E14001504",
+  "outcodes": [
+    "L40",
+    "PR4",
+    "PR8",
+    "PR9"
+  ],
+  "schema_version": 1,
+  "slug": "southport",
+  "start_date": "2024-05-31"
+}

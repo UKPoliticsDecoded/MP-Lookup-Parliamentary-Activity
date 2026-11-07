@@ -1,0 +1,112 @@
+{
+  "boundary": {
+    "area_hectares": 794.5,
+    "bng": {
+      "easting": 531835,
+      "northing": 183831
+    },
+    "centroid": {
+      "latitude": 51.53799,
+      "longitude": -0.10047
+    },
+    "geojson": "constituencies/boundaries/islington-south-and-finsbury.geojson",
+    "ons_code": "E14001306",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1536.json",
+    "member_id": 1536,
+    "name": "Emily Thornberry",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74122,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15455,
+      "result": "Lab Hold",
+      "turnout": 42754,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3550,
+      "end_date": "2024-05-30",
+      "member_id": 1536,
+      "name": "Emily Thornberry",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1587,
+      "end_date": "2010-05-06",
+      "member_id": 1536,
+      "name": "Emily Thornberry",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4121,
+  "is_current": true,
+  "name": "Islington South and Finsbury",
+  "name_cy": null,
+  "ons_code": "E14001306",
+  "outcodes": [
+    "E8",
+    "EC1A",
+    "EC1M",
+    "EC1P",
+    "EC1R",
+    "EC1V",
+    "EC1Y",
+    "EC2A",
+    "EC2M",
+    "EC2N",
+    "EC2P",
+    "EC2R",
+    "EC2V",
+    "EC2Y",
+    "EC3A",
+    "EC3P",
+    "EC3R",
+    "EC3V",
+    "EC4A",
+    "EC4M",
+    "EC4N",
+    "EC4P",
+    "EC4R",
+    "EC4V",
+    "EC4Y",
+    "N1",
+    "N1P",
+    "N5",
+    "N7",
+    "W1A",
+    "W1G",
+    "W1J",
+    "W1T",
+    "W1W",
+    "WC1A",
+    "WC1B",
+    "WC1H",
+    "WC1N",
+    "WC1V",
+    "WC1X",
+    "WC2A",
+    "WC2B",
+    "WC2H",
+    "WC2N",
+    "WC2R"
+  ],
+  "schema_version": 1,
+  "slug": "islington-south-and-finsbury",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,368 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 39,
+        "debates_participated": 17
+      },
+      "2025": {
+        "debate_contributions": 62,
+        "debates_participated": 32,
+        "oral_questions": 5,
+        "written_questions": 78
+      },
+      "2026": {
+        "debate_contributions": 14,
+        "debates_participated": 7,
+        "oral_questions": 4,
+        "written_questions": 67
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 115,
+    "debates_participated": 56,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 145
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 115,
+    "voting_participation_pct": 89.54,
+    "written_questions": 145
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters’ Rights Bill",
+      "committee_id": 739,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-09-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-03"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-09-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-03"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Renters’ Rights Bill",
+        "committee_id": 739,
+        "file": "committees/renters-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "renters-rights-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/worsley-and-eccles.json",
+    "id": 4413,
+    "name": "Worsley and Eccles",
+    "ons_code": "E14001598",
+    "slug": "worsley-and-eccles"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "michael.wheeler.mp@parliament.uk",
+      "phone": "0161 768 4134",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Suite 10, Moorfield House, 2a Moorside Road, Worsley",
+      "email": "michael.wheeler.mp@parliament.uk ",
+      "phone": "0161 768 4134",
+      "postcode": "M27 0EW",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://michaelwheeler.co.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/mwheelermp.bsky.social"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/MWheelerMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5242
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5242,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Michael Wheeler",
+    "full_title": "Michael Wheeler MP",
+    "list_as": "Wheeler, Michael"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Assistant Whip",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Assistant Whip"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Worsley and Eccles",
+        "constituency_id": 4413,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Michael Wheeler is the Labour MP for <a href='/constituency/4413/overview'>Worsley and Eccles</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Assistant Whip.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5242/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 293,
+        "voting_participation_pct": 90.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 200,
+        "voting_participation_pct": 84.75
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 565,
+        "voting_participation_pct": 89.54
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 565,
+    "voting_participation_pct": 89.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

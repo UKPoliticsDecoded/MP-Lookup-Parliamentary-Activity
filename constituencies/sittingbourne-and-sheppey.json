@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 16523.4,
+    "bng": {
+      "easting": 596761,
+      "northing": 170678
+    },
+    "centroid": {
+      "latitude": 51.401,
+      "longitude": 0.827341
+    },
+    "geojson": "constituencies/boundaries/sittingbourne-and-sheppey.geojson",
+    "ons_code": "E14001474",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5300.json",
+    "member_id": 5300,
+    "name": "Kevin McKenna",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79067,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 355,
+      "result": "Lab Gain",
+      "turnout": 40998,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3730,
+      "end_date": "2024-05-30",
+      "member_id": 4050,
+      "name": "Gordon Henderson",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4289,
+  "is_current": true,
+  "name": "Sittingbourne and Sheppey",
+  "name_cy": null,
+  "ons_code": "E14001474",
+  "outcodes": [
+    "ME10",
+    "ME11",
+    "ME12",
+    "ME8",
+    "ME9"
+  ],
+  "schema_version": 1,
+  "slug": "sittingbourne-and-sheppey",
+  "start_date": "2024-05-31"
+}

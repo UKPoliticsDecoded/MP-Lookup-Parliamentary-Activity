@@ -1,0 +1,394 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 2
+      },
+      "2020": {
+        "debate_contributions": 55,
+        "debates_participated": 39,
+        "oral_questions": 12,
+        "written_questions": 37
+      },
+      "2021": {
+        "debate_contributions": 42,
+        "debates_participated": 28,
+        "oral_questions": 6,
+        "written_questions": 10
+      },
+      "2022": {
+        "debate_contributions": 126,
+        "debates_participated": 30,
+        "oral_questions": 5,
+        "petitions_presented": 3,
+        "written_questions": 9
+      },
+      "2023": {
+        "debate_contributions": 111,
+        "debates_participated": 33,
+        "oral_questions": 1,
+        "petitions_presented": 9,
+        "written_questions": 5
+      },
+      "2024": {
+        "debate_contributions": 89,
+        "debates_participated": 18,
+        "petitions_presented": 3,
+        "written_questions": 7
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 423,
+    "debates_participated": 148,
+    "early_day_motions": 0,
+    "oral_questions": 24,
+    "petitions_presented": 15,
+    "written_questions": 70
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 423,
+    "voting_participation_pct": 90.36,
+    "written_questions": 70
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Online Safety Bill (Joint Committee)",
+      "committee_id": 534,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Strategic Litigation Against Public Participation Bill",
+      "committee_id": 724,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Draft Online Safety Bill (Joint Committee)",
+        "committee_id": 534,
+        "file": "committees/draft-online-safety-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-21"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2021-07-27"
+          }
+        ],
+        "slug": "draft-online-safety-bill-joint-committee"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-14"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Strategic Litigation Against Public Participation Bill",
+        "committee_id": 724,
+        "file": "committees/strategic-litigation-against-public-participation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "strategic-litigation-against-public-participation-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3488,
+    "name": "Folkestone and Hythe"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3986
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3986,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Damian Collins",
+    "display": "Damian Collins",
+    "full_title": "Damian Collins",
+    "list_as": "Collins, Damian"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2022-07-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4054,
+        "name": "Folkestone and Hythe",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2184,
+        "name": "Northampton North",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Folkestone and Hythe",
+        "constituency_id": 3488,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Damian Collins is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3488/overview'>Folkestone and Hythe</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3986/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 218,
+        "voting_participation_pct": 86.85
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 241,
+        "voting_participation_pct": 94.14
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 113,
+        "voting_participation_pct": 88.98
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 965,
+        "voting_participation_pct": 90.36
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 965,
+    "voting_participation_pct": 90.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 64,
+        "debates_participated": 54,
+        "oral_questions": 7,
+        "written_questions": 47
+      },
+      "2021": {
+        "debate_contributions": 94,
+        "debates_participated": 75,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 83
+      },
+      "2022": {
+        "debate_contributions": 97,
+        "debates_participated": 86,
+        "oral_questions": 5,
+        "written_questions": 153
+      },
+      "2023": {
+        "debate_contributions": 270,
+        "debates_participated": 91,
+        "oral_questions": 7,
+        "petitions_presented": 1,
+        "written_questions": 56
+      },
+      "2024": {
+        "debate_contributions": 97,
+        "debates_participated": 72,
+        "oral_questions": 3,
+        "written_questions": 30
+      },
+      "2025": {
+        "debate_contributions": 134,
+        "debates_participated": 79,
+        "oral_questions": 2,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 192,
+        "debates_participated": 62,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 948,
+    "debates_participated": 519,
+    "early_day_motions": 1,
+    "oral_questions": 33,
+    "petitions_presented": 1,
+    "written_questions": 374
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 948,
+    "voting_participation_pct": 73.1,
+    "written_questions": 374
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "committee_id": 856,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": true,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 107,
+      "meetings_available": 107
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": false,
+      "meetings_attended": 37,
+      "meetings_available": 37
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Conference (2022)",
+      "committee_id": 609,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+        "committee_id": 856,
+        "file": "committees/building-safety-remediation-of-unsafe-cladding-etc-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-04"
+          }
+        ],
+        "slug": "building-safety-remediation-of-unsafe-cladding-etc-bill"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2026-07-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-27"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2026-09-01",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": "2026-09-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-29"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-11"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      },
+      {
+        "committee": "Speaker's Conference (2022)",
+        "committee_id": 609,
+        "file": "committees/speaker-s-conference-2022.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "speaker-s-conference-2022"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/vauxhall-and-camberwell-green.json",
+    "id": 4374,
+    "name": "Vauxhall and Camberwell Green",
+    "ons_code": "E14001559",
+    "slug": "vauxhall-and-camberwell-green"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "florence.eshalomi.mp@parliament.uk",
+      "phone": "0207 219 6552",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4870
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4870,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Florence Eshalomi",
+    "full_title": "Florence Eshalomi MP",
+    "list_as": "Eshalomi, Florence"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Housing, Communities and Local Government)",
+        "start_date": "2026-07-21"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Housing, Communities and Local Government)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Levelling Up, Housing, Communities and Local Government)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2022-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-12-30",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2020-04-14"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Vauxhall and Camberwell Green",
+        "constituency_id": 4374,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Vauxhall",
+        "constituency_id": 3820,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Florence Eshalomi is the Labour (Co-op) MP for <a href='/constituency/4374/overview'>Vauxhall and Camberwell Green</a>, and has been an MP continually since 12 December 2019. \r\nShe currently holds the Government post of Minister of State (Housing, Communities and Local Government).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4870/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 193,
+        "voting_participation_pct": 75.39
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 147,
+        "voting_participation_pct": 73.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 245,
+        "voting_participation_pct": 76.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 130,
+        "voting_participation_pct": 55.08
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 802,
+        "voting_participation_pct": 75.09
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 440,
+        "voting_participation_pct": 69.73
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1242,
+    "voting_participation_pct": 73.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

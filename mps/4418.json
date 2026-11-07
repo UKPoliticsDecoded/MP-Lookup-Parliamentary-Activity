@@ -1,0 +1,470 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 212,
+        "debates_participated": 110,
+        "oral_questions": 13,
+        "written_questions": 404
+      },
+      "2021": {
+        "debate_contributions": 346,
+        "debates_participated": 91,
+        "oral_questions": 6,
+        "written_questions": 608
+      },
+      "2022": {
+        "debate_contributions": 250,
+        "debates_participated": 102,
+        "oral_questions": 11,
+        "written_questions": 423
+      },
+      "2023": {
+        "debate_contributions": 194,
+        "debates_participated": 104,
+        "oral_questions": 14,
+        "written_questions": 362
+      },
+      "2024": {
+        "debate_contributions": 388,
+        "debates_participated": 97,
+        "oral_questions": 8,
+        "written_questions": 84
+      },
+      "2025": {
+        "debate_contributions": 460,
+        "debates_participated": 71,
+        "oral_questions": 2,
+        "petitions_presented": 24,
+        "written_questions": 27
+      },
+      "2026": {
+        "debate_contributions": 157,
+        "debates_participated": 56,
+        "oral_questions": 2,
+        "written_questions": 71
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 2007,
+    "debates_participated": 631,
+    "early_day_motions": 0,
+    "oral_questions": 56,
+    "petitions_presented": 24,
+    "written_questions": 1979
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 2007,
+    "voting_participation_pct": 81.75,
+    "written_questions": 1979
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 29,
+      "meetings_available": 29
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ellesmere-port-and-bromborough.json",
+    "id": 4037,
+    "name": "Ellesmere Port and Bromborough",
+    "ons_code": "E14001222",
+    "slug": "ellesmere-port-and-bromborough"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "justin.madders.mp@parliament.uk",
+      "phone": "020 7219 6584",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "31 Whitby Road, Ellesmere Port",
+      "email": "justin.madders.mp@parliament.uk",
+      "phone": "0151 355 2365",
+      "postcode": "CH65 8AA ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.justinmadders.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/justinmadders"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4418
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4418,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Justin Madders",
+    "display": "Justin Madders",
+    "full_title": "Justin Madders MP",
+    "list_as": "Madders, Justin"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Business and Trade)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Department for Transport)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Employment Rights and Protections)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Minister (Business and Industrial Strategy)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Future of Work)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Health and Social Care)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2019-03-14",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Energy and Industrial Strategy) (Labour)",
+        "start_date": "2018-07-10"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2019-03-14",
+        "is_current": false,
+        "name": "Shadow Minister (Health and Social Care)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Health)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ellesmere Port and Bromborough",
+        "constituency_id": 4037,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Ellesmere Port and Neston",
+        "constituency_id": 3471,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Justin Madders is the Labour MP for <a href='/constituency/4037/overview'>Ellesmere Port and Bromborough</a>, and has been an MP continually since 7 May 2015. \r\nHe currently holds the Government post of Parliamentary Under-Secretary (Department for Transport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4418/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 198,
+        "voting_participation_pct": 78.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 206,
+        "voting_participation_pct": 80.47
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 158,
+        "voting_participation_pct": 79.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 274,
+        "voting_participation_pct": 85.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 202,
+        "voting_participation_pct": 85.59
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 846,
+        "voting_participation_pct": 79.21
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 543,
+        "voting_participation_pct": 86.05
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1389,
+    "voting_participation_pct": 81.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

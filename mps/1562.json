@@ -1,0 +1,514 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 151,
+        "debates_participated": 45,
+        "oral_questions": 4,
+        "written_questions": 2
+      },
+      "2021": {
+        "debate_contributions": 173,
+        "debates_participated": 51,
+        "oral_questions": 2,
+        "written_questions": 32
+      },
+      "2022": {
+        "debate_contributions": 55,
+        "debates_participated": 31,
+        "oral_questions": 2,
+        "written_questions": 27
+      },
+      "2023": {
+        "debate_contributions": 45,
+        "debates_participated": 31,
+        "oral_questions": 2,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 12,
+        "oral_questions": 2,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 440,
+    "debates_participated": 170,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 72
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.53,
+    "committee_memberships": 0,
+    "debate_contributions": 440,
+    "voting_participation_pct": 85.96,
+    "written_questions": 72
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 719,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    },
+    {
+      "attendance_pct": 98.53,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 67,
+      "meetings_available": 68
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+      "committee_id": 491,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 719,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill"
+      },
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-05-25"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-01-22"
+          },
+          {
+            "end": "2022-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+        "committee_id": 491,
+        "file": "committees/joint-committee-on-the-fixed-term-parliaments-act.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-11-10"
+          }
+        ],
+        "slug": "joint-committee-on-the-fixed-term-parliaments-act"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-04-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-03-05"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3716,
+    "name": "Scarborough and Whitby"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1562
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1562,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir Robert Goodwill",
+    "display": "Sir Robert Goodwill",
+    "full_title": "Sir Robert Goodwill",
+    "list_as": "Goodwill, Sir Robert"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2019-03-05"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Minister of State (Education)",
+        "start_date": "2017-06-12"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2017-06-11",
+        "is_current": false,
+        "name": "Minister of State (Home Office) (Immigration)",
+        "start_date": "2016-07-15"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2016-07-15",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2012-09-06"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2007-07-03"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2007-07-03",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2006-11-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2172,
+        "name": "North West Leicestershire",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2403,
+        "name": "Redcar",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Scarborough and Whitby",
+        "constituency_id": 3716,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Scarborough and Whitby",
+        "constituency_id": 2535,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Sir Robert Goodwill is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3716/overview'>Scarborough and Whitby</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1562/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 187,
+        "voting_participation_pct": 98.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 208,
+        "voting_participation_pct": 82.87
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 207,
+        "voting_participation_pct": 80.86
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 108,
+        "voting_participation_pct": 85.04
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 918,
+        "voting_participation_pct": 85.96
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 918,
+    "voting_participation_pct": 85.96
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

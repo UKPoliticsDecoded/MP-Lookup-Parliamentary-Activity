@@ -1,0 +1,206 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 50,
+        "debates_participated": 39,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 22
+      },
+      "2025": {
+        "debate_contributions": 165,
+        "debates_participated": 118,
+        "early_day_motions": 4,
+        "oral_questions": 11,
+        "written_questions": 153
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 85,
+        "debates_participated": 64,
+        "early_day_motions": 4,
+        "oral_questions": 10,
+        "written_questions": 116
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 300,
+    "debates_participated": 221,
+    "early_day_motions": 10,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 291
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 300,
+    "voting_participation_pct": 69.73,
+    "written_questions": 291
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "justice"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/eastbourne.json",
+    "id": 4034,
+    "name": "Eastbourne",
+    "ons_code": "E14001219",
+    "slug": "eastbourne"
+  },
+  "contact": [
+    {
+      "address": "100 Seaside Road, Eastbourne",
+      "email": "josh.babarinde.mp@parliament.uk",
+      "postcode": "BN21 2PF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/joshbabarinde"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/joshbabarinde"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JoshBabarinde"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5086
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5086,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Josh Babarinde",
+    "full_title": "Josh Babarinde MP",
+    "list_as": "Babarinde, Josh"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3320,
+        "name": "Bethnal Green and Bow",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Eastbourne",
+        "constituency_id": 4034,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Josh Babarinde is the Liberal Democrat MP for <a href='/constituency/4034/overview'>Eastbourne</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5086/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 43,
+        "voting_participation_pct": 58.9
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 233,
+        "voting_participation_pct": 72.36
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 164,
+        "voting_participation_pct": 69.49
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 440,
+        "voting_participation_pct": 69.73
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 440,
+    "voting_participation_pct": 69.73
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

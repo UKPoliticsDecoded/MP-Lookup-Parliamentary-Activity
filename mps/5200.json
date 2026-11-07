@@ -1,0 +1,236 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 6,
+        "debates_participated": 4,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 41,
+        "debates_participated": 23,
+        "early_day_motions": 1,
+        "oral_questions": 11,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 4,
+        "debates_participated": 2,
+        "early_day_motions": 1,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 51,
+    "debates_participated": 29,
+    "early_day_motions": 2,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 7
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 51,
+    "voting_participation_pct": 70.52,
+    "written_questions": 7
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 25,
+      "meetings_available": 25
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-01"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/airdrie-and-shotts.json",
+    "id": 4452,
+    "name": "Airdrie and Shotts",
+    "ons_code": "S14000063",
+    "slug": "airdrie-and-shotts"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kenneth.stevenson.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "12 Graham Street, Airdrie",
+      "phone": "01236 381541",
+      "postcode": "ML6 6BU",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5200
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5200,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kenneth Stevenson",
+    "full_title": "Kenneth Stevenson MP",
+    "list_as": "Stevenson, Kenneth"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 36,
+        "name": "Airdrie and Shotts",
+        "startDate": "2021-05-13T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Airdrie and Shotts",
+        "constituency_id": 4452,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Kenneth Stevenson is the Labour MP for <a href='/constituency/4452/overview'>Airdrie and Shotts</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5200/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 246,
+        "voting_participation_pct": 76.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 140,
+        "voting_participation_pct": 59.32
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 445,
+        "voting_participation_pct": 70.52
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 445,
+    "voting_participation_pct": 70.52
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

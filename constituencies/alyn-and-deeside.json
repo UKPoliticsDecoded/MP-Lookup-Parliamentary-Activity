@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 18389.7,
+    "bng": {
+      "easting": 332347,
+      "northing": 365301
+    },
+    "centroid": {
+      "latitude": 53.1805,
+      "longitude": -3.01375
+    },
+    "geojson": "constituencies/boundaries/alyn-and-deeside.geojson",
+    "ons_code": "W07000082",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1383.json",
+    "member_id": 1383,
+    "name": "Sir Mark Tami",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75790,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8794,
+      "result": "Lab Hold",
+      "turnout": 43392,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3292,
+      "end_date": "2024-05-30",
+      "member_id": 1383,
+      "name": "Sir Mark Tami",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 52,
+      "end_date": "2010-05-06",
+      "member_id": 1383,
+      "name": "Sir Mark Tami",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4497,
+  "is_current": true,
+  "name": "Alyn and Deeside",
+  "name_cy": "Alun a Glannau Dyfrdwy",
+  "ons_code": "W07000082",
+  "outcodes": [
+    "CH1",
+    "CH4",
+    "CH5",
+    "CH6",
+    "CH7",
+    "CH8",
+    "LL11",
+    "LL12"
+  ],
+  "schema_version": 1,
+  "slug": "alyn-and-deeside",
+  "start_date": "2024-05-31"
+}

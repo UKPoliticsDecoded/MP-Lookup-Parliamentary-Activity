@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 22669.5,
+    "bng": {
+      "easting": 437369,
+      "northing": 365923
+    },
+    "centroid": {
+      "latitude": 53.18911,
+      "longitude": -1.44219
+    },
+    "geojson": "constituencies/boundaries/north-east-derbyshire.geojson",
+    "ons_code": "E14001391",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5258.json",
+    "member_id": 5258,
+    "name": "Louise Sandher-Jones",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73234,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1753,
+      "result": "Lab Gain",
+      "turnout": 45866,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3642,
+      "end_date": "2024-05-30",
+      "member_id": 4652,
+      "name": "Lee Rowley",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4206,
+  "is_current": true,
+  "name": "North East Derbyshire",
+  "name_cy": null,
+  "ons_code": "E14001391",
+  "outcodes": [
+    "DE4",
+    "DE55",
+    "S12",
+    "S17",
+    "S18",
+    "S21",
+    "S40",
+    "S41",
+    "S42",
+    "S43",
+    "S45",
+    "S8"
+  ],
+  "schema_version": 1,
+  "slug": "north-east-derbyshire",
+  "start_date": "2024-05-31"
+}

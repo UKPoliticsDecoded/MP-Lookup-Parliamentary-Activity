@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 24287.4,
+    "bng": {
+      "easting": 624442,
+      "northing": 164668
+    },
+    "centroid": {
+      "latitude": 51.33678,
+      "longitude": 1.220864
+    },
+    "geojson": "constituencies/boundaries/herne-bay-and-sandwich.geojson",
+    "ons_code": "E14001282",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/87.json",
+    "member_id": 87,
+    "name": "Sir Roger Gale",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77869,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2499,
+      "result": "Con Hold",
+      "turnout": 48827,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4097,
+  "is_current": true,
+  "name": "Herne Bay and Sandwich",
+  "name_cy": null,
+  "ons_code": "E14001282",
+  "outcodes": [
+    "CT12",
+    "CT13",
+    "CT2",
+    "CT3",
+    "CT6",
+    "CT7",
+    "CT8",
+    "CT9"
+  ],
+  "schema_version": 1,
+  "slug": "herne-bay-and-sandwich",
+  "start_date": "2024-05-31"
+}

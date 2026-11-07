@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 1745.0,
+    "bng": {
+      "easting": 514333,
+      "northing": 188002
+    },
+    "centroid": {
+      "latitude": 51.57929,
+      "longitude": -0.35135
+    },
+    "geojson": "constituencies/boundaries/harrow-west.geojson",
+    "ons_code": "E14001271",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/177.json",
+    "member_id": 177,
+    "name": "Gareth Thomas",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79902,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6642,
+      "result": "Lab Hold",
+      "turnout": 45241,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3518,
+      "end_date": "2024-05-30",
+      "member_id": 177,
+      "name": "Gareth Thomas",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1394,
+      "end_date": "2010-05-06",
+      "member_id": 177,
+      "name": "Gareth Thomas",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4086,
+  "is_current": true,
+  "name": "Harrow West",
+  "name_cy": null,
+  "ons_code": "E14001271",
+  "outcodes": [
+    "HA1",
+    "HA2",
+    "HA3",
+    "HA4",
+    "HA5",
+    "UB5",
+    "UB6"
+  ],
+  "schema_version": 1,
+  "slug": "harrow-west",
+  "start_date": "2024-05-31"
+}

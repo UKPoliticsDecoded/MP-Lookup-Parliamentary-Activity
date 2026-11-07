@@ -1,0 +1,371 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 242,
+        "debates_participated": 39
+      },
+      "2021": {
+        "debate_contributions": 12,
+        "debates_participated": 9,
+        "oral_questions": 2,
+        "written_questions": 28
+      },
+      "2022": {
+        "debate_contributions": 43,
+        "debates_participated": 20,
+        "oral_questions": 2,
+        "written_questions": 11
+      },
+      "2023": {
+        "debate_contributions": 23,
+        "debates_participated": 18,
+        "oral_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 4,
+        "early_day_motions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 334,
+    "debates_participated": 90,
+    "early_day_motions": 1,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 39
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 334,
+    "voting_participation_pct": 88.86,
+    "written_questions": 39
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-14"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-22"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3701,
+    "name": "Rochester and Strood"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4487
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4487,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": null
+  },
+  "name": {
+    "address_as": "Kelly Tolhurst",
+    "display": "Kelly Tolhurst",
+    "full_title": "Rt Hon Kelly Tolhurst",
+    "list_as": "Tolhurst, Kelly"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Minister of State (Education)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Treasurer of HM Household (Deputy Chief Whip, House of Commons)",
+        "start_date": "2022-07-01"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-01-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2020-09-08"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2020-09-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2018-07-19"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-07-19",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2018-01-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4262,
+        "name": "Rochester and Strood",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3701,
+        "name": "Rochester and Strood",
+        "startDate": "2014-11-20T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rochester and Strood",
+        "constituency_id": 3701,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Kelly Tolhurst is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3701/overview'>Rochester and Strood</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4487/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 182,
+        "voting_participation_pct": 95.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 220,
+        "voting_participation_pct": 87.65
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 233,
+        "voting_participation_pct": 91.02
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 99,
+        "voting_participation_pct": 77.95
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 949,
+        "voting_participation_pct": 88.86
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 949,
+    "voting_participation_pct": 88.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

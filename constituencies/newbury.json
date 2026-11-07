@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 39629.2,
+    "bng": {
+      "easting": 441905,
+      "northing": 173263
+    },
+    "centroid": {
+      "latitude": 51.4568,
+      "longitude": -1.39825
+    },
+    "geojson": "constituencies/boundaries/newbury.geojson",
+    "ons_code": "E14001376",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5310.json",
+    "member_id": 5310,
+    "name": "Mr Lee Dillon",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71982,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2377,
+      "result": "LD Gain",
+      "turnout": 48930,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3624,
+      "end_date": "2024-05-30",
+      "member_id": 4826,
+      "name": "Laura Farris",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4191,
+  "is_current": true,
+  "name": "Newbury",
+  "name_cy": null,
+  "ons_code": "E14001376",
+  "outcodes": [
+    "OX12",
+    "RG14",
+    "RG17",
+    "RG18",
+    "RG19",
+    "RG20",
+    "SN8"
+  ],
+  "schema_version": 1,
+  "slug": "newbury",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,493 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 144,
+        "debates_participated": 115,
+        "oral_questions": 24,
+        "written_questions": 7
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 112,
+        "debates_participated": 89,
+        "oral_questions": 19,
+        "written_questions": 13
+      },
+      "2022": {
+        "debate_contributions": 123,
+        "debates_participated": 82,
+        "oral_questions": 25,
+        "written_questions": 12
+      },
+      "2023": {
+        "debate_contributions": 204,
+        "debates_participated": 33
+      },
+      "2024": {
+        "debate_contributions": 66,
+        "debates_participated": 15
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 649,
+    "debates_participated": 334,
+    "early_day_motions": 0,
+    "oral_questions": 68,
+    "petitions_presented": 0,
+    "written_questions": 32
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 649,
+    "voting_participation_pct": 91.39,
+    "written_questions": 32
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commercial Rent (Coronavirus) Bill",
+      "committee_id": 561,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Cultural Objects (Protection From Seizure) Bill",
+      "committee_id": 555,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment (Allocation of Tips) Bill",
+      "committee_id": 615,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 37,
+      "meetings_available": 37
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Insurance Contributions Bill",
+      "committee_id": 526,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Supported Housing (Regulatory Oversight) Bill",
+      "committee_id": 637,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 118,
+      "meetings_available": 118
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commercial Rent (Coronavirus) Bill",
+        "committee_id": 561,
+        "file": "committees/commercial-rent-coronavirus-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "commercial-rent-coronavirus-bill"
+      },
+      {
+        "committee": "Cultural Objects (Protection From Seizure) Bill",
+        "committee_id": 555,
+        "file": "committees/cultural-objects-protection-from-seizure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "cultural-objects-protection-from-seizure-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Employment (Allocation of Tips) Bill",
+        "committee_id": 615,
+        "file": "committees/employment-allocation-of-tips-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "employment-allocation-of-tips-bill"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "National Insurance Contributions Bill",
+        "committee_id": 526,
+        "file": "committees/national-insurance-contributions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "national-insurance-contributions-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-17"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-01"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "Supported Housing (Regulatory Oversight) Bill",
+        "committee_id": 637,
+        "file": "committees/supported-housing-regulatory-oversight-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-14"
+          }
+        ],
+        "slug": "supported-housing-regulatory-oversight-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3555,
+    "name": "Kensington"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4821
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4821,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Felicity Buchan",
+    "full_title": "Felicity Buchan",
+    "list_as": "Buchan, Felicity"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2022-10-28"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-10-28",
+        "is_current": false,
+        "name": "Exchequer Secretary (HM Treasury)",
+        "start_date": "2022-09-07"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4125,
+        "name": "Kensington and Bayswater",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3749,
+        "name": "South Shields",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3741,
+        "name": "South Down",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Kensington",
+        "constituency_id": 3555,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Felicity Buchan is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3555/overview'>Kensington</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4821/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 186,
+        "voting_participation_pct": 97.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 215,
+        "voting_participation_pct": 85.66
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 244,
+        "voting_participation_pct": 95.31
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 115,
+        "voting_participation_pct": 90.55
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 976,
+        "voting_participation_pct": 91.39
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 976,
+    "voting_participation_pct": 91.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

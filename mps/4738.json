@@ -1,0 +1,233 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1,
+        "written_questions": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 89,
+        "debates_participated": 59,
+        "oral_questions": 2,
+        "written_questions": 60
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 73,
+        "debates_participated": 59,
+        "early_day_motions": 7,
+        "oral_questions": 2,
+        "written_questions": 51
+      },
+      "2022": {
+        "debate_contributions": 87,
+        "debates_participated": 63,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 53
+      },
+      "2023": {
+        "debate_contributions": 49,
+        "debates_participated": 30,
+        "early_day_motions": 5,
+        "oral_questions": 5,
+        "written_questions": 42
+      },
+      "2024": {
+        "debate_contributions": 20,
+        "debates_participated": 13,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 87
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 319,
+    "debates_participated": 225,
+    "early_day_motions": 16,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 294
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 319,
+    "voting_participation_pct": 61.89,
+    "written_questions": 294
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+      "committee_id": 657,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+        "committee_id": 657,
+        "file": "committees/animals-low-welfare-activities-abroad-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "animals-low-welfare-activities-abroad-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 2784,
+    "name": "Stirling"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4738
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4738,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alyn Smith",
+    "full_title": "Alyn Smith",
+    "list_as": "Smith, Alyn"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (EU Accession)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Europe)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Foreign and Commonwealth Office)",
+        "start_date": "2020-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4494,
+        "name": "Stirling and Strathallan",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stirling",
+        "constituency_id": 2784,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Alyn Smith is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/2784/overview'>Stirling</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4738/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 125,
+        "voting_participation_pct": 65.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 153,
+        "voting_participation_pct": 63.22
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 158,
+        "voting_participation_pct": 62.95
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 141,
+        "voting_participation_pct": 55.08
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 82,
+        "voting_participation_pct": 64.57
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 661,
+        "voting_participation_pct": 61.89
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 661,
+    "voting_participation_pct": 61.89
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

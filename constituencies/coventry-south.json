@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 3101.0,
+    "bng": {
+      "easting": 431582,
+      "northing": 277293
+    },
+    "centroid": {
+      "latitude": 52.39277,
+      "longitude": -1.53731
+    },
+    "geojson": "constituencies/boundaries/coventry-south.geojson",
+    "ons_code": "E14001182",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4786.json",
+    "member_id": 4786,
+    "name": "Zarah Sultana",
+    "party": "Your Party",
+    "party_abbreviation": "YP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76232,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10201,
+      "result": "Lab Hold",
+      "turnout": 42731,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3429,
+      "end_date": "2024-05-30",
+      "member_id": 4786,
+      "name": "Zarah Sultana",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3997,
+  "is_current": true,
+  "name": "Coventry South",
+  "name_cy": null,
+  "ons_code": "E14001182",
+  "outcodes": [
+    "CV1",
+    "CV2",
+    "CV3",
+    "CV4",
+    "CV5"
+  ],
+  "schema_version": 1,
+  "slug": "coventry-south",
+  "start_date": "2024-05-31"
+}

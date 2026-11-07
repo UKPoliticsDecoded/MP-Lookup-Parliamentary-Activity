@@ -1,0 +1,660 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 53,
+        "debates_participated": 39,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 50
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 142,
+        "debates_participated": 36,
+        "oral_questions": 1,
+        "written_questions": 42
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 102,
+        "debates_participated": 40,
+        "oral_questions": 1,
+        "written_questions": 38
+      },
+      "2023": {
+        "bills_sponsored": 2,
+        "debate_contributions": 123,
+        "debates_participated": 28,
+        "written_questions": 414
+      },
+      "2024": {
+        "debate_contributions": 41,
+        "debates_participated": 13,
+        "written_questions": 622
+      },
+      "2025": {
+        "debate_contributions": 216,
+        "debates_participated": 32
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 6,
+        "debates_participated": 4,
+        "written_questions": 28
+      }
+    },
+    "bills_sponsored": 6,
+    "debate_contributions": 683,
+    "debates_participated": 192,
+    "early_day_motions": 1,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 1194
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 683,
+    "voting_participation_pct": 69.04,
+    "written_questions": 1194
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "British Sign Language Bill",
+      "committee_id": 588,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Consolidation, &c., Bills (Joint Committee)",
+      "committee_id": 171,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+      "committee_id": 491,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 62,
+      "meetings_available": 62
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Security Bill",
+      "committee_id": 607,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+      "committee_id": 550,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Prisoners Bill",
+      "committee_id": 674,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "British Sign Language Bill",
+        "committee_id": 588,
+        "file": "committees/british-sign-language-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "british-sign-language-bill"
+      },
+      {
+        "committee": "Consolidation, &c., Bills (Joint Committee)",
+        "committee_id": 171,
+        "file": "committees/consolidation-and-c-bills-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "consolidation-and-c-bills-joint-committee"
+      },
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      },
+      {
+        "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+        "committee_id": 491,
+        "file": "committees/joint-committee-on-the-fixed-term-parliaments-act.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-11-10"
+          }
+        ],
+        "slug": "joint-committee-on-the-fixed-term-parliaments-act"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "National Security Bill",
+        "committee_id": 607,
+        "file": "committees/national-security-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-29"
+          }
+        ],
+        "slug": "national-security-bill"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      },
+      {
+        "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+        "committee_id": 550,
+        "file": "committees/taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales"
+      },
+      {
+        "committee": "Victims and Prisoners Bill",
+        "committee_id": 674,
+        "file": "committees/victims-and-prisoners-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "victims-and-prisoners-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/liverpool-garston.json",
+    "id": 4152,
+    "name": "Liverpool Garston",
+    "ons_code": "E14001337",
+    "slug": "liverpool-garston"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "maria.eagle.mp@parliament.uk",
+      "phone": "020 7219 0551",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit House, Speke Boulevard, Liverpool",
+      "phone": "0151 448 1167",
+      "postcode": "L24 9HZ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.mariaeagle.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/meaglemp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 483
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 483,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Maria Eagle",
+    "display": "Maria Eagle",
+    "full_title": "Rt Hon Maria Eagle MP",
+    "list_as": "Eagle, Maria"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Defence)",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "http://www.equalities.gov.uk",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Minister of State (Government Equalities Office) (also in the Ministry of Justice)",
+        "start_date": "2009-06-09"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice) (also in Government Equalities Office)",
+        "start_date": "2009-06-09"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "http://www.equalities.gov.uk",
+        "end_date": "2009-06-09",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Government Equalities office) (also in the Ministry of Justice)",
+        "start_date": "2008-10-05"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2009-06-09",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Justice)",
+        "start_date": "2007-07-02"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Northern Ireland Office)",
+        "start_date": "2006-05-05"
+      },
+      {
+        "department": "Department for Education and Skills",
+        "department_url": "http://www.dfes.gov.uk",
+        "end_date": "2006-05-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education and Skills) (Children and Families)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2001-06-11"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Culture, Media and Sport",
+        "start_date": "2016-01-05"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2016-01-05",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Defence",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office)",
+        "start_date": "2010-05-12"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2010-05-12"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 780,
+        "name": "Crosby",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Liverpool Garston",
+        "constituency_id": 4152,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Garston and Halewood",
+        "constituency_id": 3493,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Liverpool, Garston",
+        "constituency_id": 1797,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Maria Eagle is the Labour MP for <a href='/constituency/4152/overview'>Liverpool Garston</a>, and has been an MP continually since 1 May 1997.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/483/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 145,
+        "voting_participation_pct": 76.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 198,
+        "voting_participation_pct": 81.82
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 182,
+        "voting_participation_pct": 72.51
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 162,
+        "voting_participation_pct": 63.28
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 120,
+        "voting_participation_pct": 60.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 189,
+        "voting_participation_pct": 58.7
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 770,
+        "voting_participation_pct": 72.1
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 403,
+        "voting_participation_pct": 63.87
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1173,
+    "voting_participation_pct": 69.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

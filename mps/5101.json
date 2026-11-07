@@ -1,0 +1,312 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 80,
+        "debates_participated": 40,
+        "oral_questions": 6,
+        "written_questions": 148
+      },
+      "2025": {
+        "debate_contributions": 256,
+        "debates_participated": 127,
+        "oral_questions": 19,
+        "written_questions": 122
+      },
+      "2026": {
+        "debate_contributions": 176,
+        "debates_participated": 104,
+        "oral_questions": 4,
+        "written_questions": 142
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 512,
+    "debates_participated": 271,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 412
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 512,
+    "voting_participation_pct": 77.5,
+    "written_questions": 412
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-06"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bridgwater.json",
+    "id": 3941,
+    "name": "Bridgwater",
+    "ons_code": "E14001126",
+    "slug": "bridgwater"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ashley.fox.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01278 811 007",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "www.ashleyfox.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Ashley7Fox"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Ashley7Fox"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5101
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5101,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sir Ashley Fox",
+    "full_title": "Sir Ashley Fox MP",
+    "list_as": "Fox, Sir Ashley"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Energy Security and Net Zero)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 159,
+        "name": "Bath",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bridgwater",
+        "constituency_id": 3941,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sir Ashley Fox is the Conservative MP for <a href='/constituency/3941/overview'>Bridgwater</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Opposition Assistant Whip (Commons), and Shadow Parliamentary Under Secretary (Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5101/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 244,
+        "voting_participation_pct": 75.78
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 186,
+        "voting_participation_pct": 78.81
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 489,
+        "voting_participation_pct": 77.5
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 489,
+    "voting_participation_pct": 77.5
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

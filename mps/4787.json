@@ -1,0 +1,518 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 51,
+        "debates_participated": 37,
+        "oral_questions": 11,
+        "written_questions": 69
+      },
+      "2021": {
+        "debate_contributions": 35,
+        "debates_participated": 29,
+        "oral_questions": 6,
+        "written_questions": 50
+      },
+      "2022": {
+        "debate_contributions": 50,
+        "debates_participated": 36,
+        "oral_questions": 5,
+        "written_questions": 67
+      },
+      "2023": {
+        "debate_contributions": 62,
+        "debates_participated": 49,
+        "oral_questions": 4,
+        "petitions_presented": 1,
+        "written_questions": 85
+      },
+      "2024": {
+        "debate_contributions": 123,
+        "debates_participated": 73,
+        "oral_questions": 4,
+        "petitions_presented": 1,
+        "written_questions": 108
+      },
+      "2025": {
+        "debate_contributions": 191,
+        "debates_participated": 97,
+        "oral_questions": 6,
+        "written_questions": 250
+      },
+      "2026": {
+        "debate_contributions": 203,
+        "debates_participated": 75,
+        "oral_questions": 5,
+        "written_questions": 199
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 715,
+    "debates_participated": 396,
+    "early_day_motions": 0,
+    "oral_questions": 41,
+    "petitions_presented": 2,
+    "written_questions": 828
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 715,
+    "voting_participation_pct": 85.87,
+    "written_questions": 828
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL]",
+      "committee_id": 576,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL] Second Reading Committee",
+      "committee_id": 574,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support Collection (Domestic Abuse) Bill",
+      "committee_id": 633,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 733,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 765,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+      "committee_id": 660,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Special Rules for End of Life) Bill",
+      "committee_id": 718,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 177,
+      "meetings_available": 177
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Charities Bill [HL]",
+        "committee_id": 576,
+        "file": "committees/charities-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "charities-bill-hl"
+      },
+      {
+        "committee": "Charities Bill [HL] Second Reading Committee",
+        "committee_id": 574,
+        "file": "committees/charities-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "charities-bill-hl-second-reading"
+      },
+      {
+        "committee": "Child Support Collection (Domestic Abuse) Bill",
+        "committee_id": 633,
+        "file": "committees/child-support-collection-domestic-abuse-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-13"
+          }
+        ],
+        "slug": "child-support-collection-domestic-abuse-bill"
+      },
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 733,
+        "file": "committees/finance-no-2-bill-733.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-733"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 765,
+        "file": "committees/finance-bill-765.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-22"
+          }
+        ],
+        "slug": "finance-bill-765"
+      },
+      {
+        "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+        "committee_id": 660,
+        "file": "committees/pensions-extension-of-automatic-enrolment-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "pensions-extension-of-automatic-enrolment-no-2-bill"
+      },
+      {
+        "committee": "Pensions (Special Rules for End of Life) Bill",
+        "committee_id": 718,
+        "file": "committees/pensions-special-rules-for-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "pensions-special-rules-for-end-of-life-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-west-norfolk.json",
+    "id": 4220,
+    "name": "North West Norfolk",
+    "ons_code": "E14001405",
+    "slug": "north-west-norfolk"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "james.wild.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4787
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4787,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James Wild",
+    "full_title": "James Wild MP",
+    "list_as": "Wild, James"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-11-20"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Exchequer Secretary (Treasury)",
+        "start_date": "2024-11-06"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Education)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3647,
+        "name": "North Norfolk",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North West Norfolk",
+        "constituency_id": 4220,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "North West Norfolk",
+        "constituency_id": 3658,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "James Wild is the Conservative MP for <a href='/constituency/4220/overview'>North West Norfolk</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Digital, Culture, Media and Sport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4787/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 187,
+        "voting_participation_pct": 98.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 223,
+        "voting_participation_pct": 92.15
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 203,
+        "voting_participation_pct": 80.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 250,
+        "voting_participation_pct": 97.66
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 168,
+        "voting_participation_pct": 84.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 236,
+        "voting_participation_pct": 73.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 190,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 977,
+        "voting_participation_pct": 91.48
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 482,
+        "voting_participation_pct": 76.39
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1459,
+    "voting_participation_pct": 85.87
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "boundary": {
+    "area_hectares": 115692.3,
+    "bng": {
+      "easting": 499314,
+      "northing": 390326
+    },
+    "centroid": {
+      "latitude": 53.40044,
+      "longitude": -0.50774
+    },
+    "geojson": "constituencies/boundaries/gainsborough.geojson",
+    "ons_code": "E14001243",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/345.json",
+    "member_id": 345,
+    "name": "Sir Edward Leigh",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75836,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3532,
+      "result": "Con Hold",
+      "turnout": 46685,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3492,
+      "end_date": "2024-05-30",
+      "member_id": 345,
+      "name": "Sir Edward Leigh",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1177,
+      "end_date": "2010-05-06",
+      "member_id": 345,
+      "name": "Sir Edward Leigh",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4058,
+  "is_current": true,
+  "name": "Gainsborough",
+  "name_cy": null,
+  "ons_code": "E14001243",
+  "outcodes": [
+    "DN17",
+    "DN20",
+    "DN21",
+    "DN37",
+    "DN38",
+    "DN39",
+    "DN41",
+    "LN1",
+    "LN2",
+    "LN3",
+    "LN7",
+    "LN8",
+    "NG23"
+  ],
+  "schema_version": 1,
+  "slug": "gainsborough",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 19201.9,
+    "bng": {
+      "easting": 417897,
+      "northing": 306775
+    },
+    "centroid": {
+      "latitude": 52.65842,
+      "longitude": -1.73683
+    },
+    "geojson": "constituencies/boundaries/tamworth.geojson",
+    "ons_code": "E14001538",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5001.json",
+    "member_id": 5001,
+    "name": "Sarah Edwards",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75055,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1382,
+      "result": "Lab Gain",
+      "turnout": 43788,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3794,
+      "end_date": "2024-05-30",
+      "member_id": 5001,
+      "name": "Sarah Edwards",
+      "start_date": "2023-10-19"
+    },
+    {
+      "constituency_version_id": 3794,
+      "end_date": "2023-09-07",
+      "member_id": 4075,
+      "name": "Christopher Pincher",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4353,
+  "is_current": true,
+  "name": "Tamworth",
+  "name_cy": null,
+  "ons_code": "E14001538",
+  "outcodes": [
+    "B74",
+    "B75",
+    "B77",
+    "B78",
+    "B79",
+    "WS13",
+    "WS14",
+    "WS9"
+  ],
+  "schema_version": 1,
+  "slug": "tamworth",
+  "start_date": "2024-05-31"
+}

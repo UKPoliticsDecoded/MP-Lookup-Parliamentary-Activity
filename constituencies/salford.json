@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 2757.4,
+    "bng": {
+      "easting": 380211,
+      "northing": 399703
+    },
+    "centroid": {
+      "latitude": 53.49367,
+      "longitude": -2.29974
+    },
+    "geojson": "constituencies/boundaries/salford.geojson",
+    "ons_code": "E14001459",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4396.json",
+    "member_id": 4396,
+    "name": "Rebecca Long Bailey",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 83633,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15101,
+      "result": "Lab Hold",
+      "turnout": 39704,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4274,
+  "is_current": true,
+  "name": "Salford",
+  "name_cy": null,
+  "ons_code": "E14001459",
+  "outcodes": [
+    "M17",
+    "M27",
+    "M3",
+    "M30",
+    "M5",
+    "M50",
+    "M6",
+    "M60",
+    "M7",
+    "M8"
+  ],
+  "schema_version": 1,
+  "slug": "salford",
+  "start_date": "2024-05-31"
+}

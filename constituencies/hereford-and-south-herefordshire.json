@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 74207.4,
+    "bng": {
+      "easting": 342783,
+      "northing": 230969
+    },
+    "centroid": {
+      "latitude": 51.97423,
+      "longitude": -2.83437
+    },
+    "geojson": "constituencies/boundaries/hereford-and-south-herefordshire.geojson",
+    "ons_code": "E14001281",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3991.json",
+    "member_id": 3991,
+    "name": "Jesse Norman",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72203,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1279,
+      "result": "Con Hold",
+      "turnout": 45572,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3529,
+      "end_date": "2024-05-30",
+      "member_id": 3991,
+      "name": "Jesse Norman",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4096,
+  "is_current": true,
+  "name": "Hereford and South Herefordshire",
+  "name_cy": null,
+  "ons_code": "E14001281",
+  "outcodes": [
+    "GL17",
+    "GL18",
+    "HR1",
+    "HR2",
+    "HR3",
+    "HR4",
+    "HR7",
+    "HR9",
+    "NP25",
+    "NP7"
+  ],
+  "schema_version": 1,
+  "slug": "hereford-and-south-herefordshire",
+  "start_date": "2024-05-31"
+}

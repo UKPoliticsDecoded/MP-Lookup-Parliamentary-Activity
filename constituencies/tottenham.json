@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 1201.6,
+    "bng": {
+      "easting": 533605,
+      "northing": 189904
+    },
+    "centroid": {
+      "latitude": 51.59215,
+      "longitude": -0.07266
+    },
+    "geojson": "constituencies/boundaries/tottenham.geojson",
+    "ons_code": "E14001553",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/206.json",
+    "member_id": 206,
+    "name": "Mr David Lammy",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75906,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15434,
+      "result": "Lab Hold",
+      "turnout": 40148,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3811,
+      "end_date": "2024-05-30",
+      "member_id": 206,
+      "name": "Mr David Lammy",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2957,
+      "end_date": "2010-05-06",
+      "member_id": 206,
+      "name": "Mr David Lammy",
+      "start_date": "2000-06-22"
+    }
+  ],
+  "id": 4368,
+  "is_current": true,
+  "name": "Tottenham",
+  "name_cy": null,
+  "ons_code": "E14001553",
+  "outcodes": [
+    "N15",
+    "N16",
+    "N17",
+    "N18",
+    "N22",
+    "N4",
+    "N5",
+    "N8"
+  ],
+  "schema_version": 1,
+  "slug": "tottenham",
+  "start_date": "2024-05-31"
+}

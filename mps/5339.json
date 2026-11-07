@@ -1,0 +1,290 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 17,
+        "oral_questions": 6,
+        "written_questions": 28
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 94,
+        "debates_participated": 56,
+        "oral_questions": 9,
+        "written_questions": 116
+      },
+      "2026": {
+        "debate_contributions": 104,
+        "debates_participated": 64,
+        "oral_questions": 8,
+        "written_questions": 68
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 228,
+    "debates_participated": 137,
+    "early_day_motions": 0,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 212
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 228,
+    "voting_participation_pct": 89.86,
+    "written_questions": 212
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Conversion Practices Bill (Joint Committee)",
+      "committee_id": 851,
+      "is_current": true,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Draft Conversion Practices Bill (Joint Committee)",
+        "committee_id": 851,
+        "file": "committees/draft-conversion-practices-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-10"
+          }
+        ],
+        "slug": "draft-conversion-practices-bill-joint-committee"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/uxbridge-and-south-ruislip.json",
+    "id": 4373,
+    "name": "Uxbridge and South Ruislip",
+    "ons_code": "E14001558",
+    "slug": "uxbridge-and-south-ruislip"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "danny.beales.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.dannybeales.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DannyBealesForUxbridgeAndSouthRuislip/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/DannyBeales"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5339
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5339,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Danny Beales",
+    "full_title": "Danny Beales MP",
+    "list_as": "Beales, Danny"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3817,
+        "name": "Uxbridge and South Ruislip",
+        "startDate": "2023-07-20T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Uxbridge and South Ruislip",
+        "constituency_id": 4373,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Danny Beales is the Labour MP for <a href='/constituency/4373/overview'>Uxbridge and South Ruislip</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5339/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 282,
+        "voting_participation_pct": 87.58
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 213,
+        "voting_participation_pct": 90.25
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 567,
+        "voting_participation_pct": 89.86
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 567,
+    "voting_participation_pct": 89.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

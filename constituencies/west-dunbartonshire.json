@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 17728.0,
+    "bng": {
+      "easting": 243096,
+      "northing": 681433
+    },
+    "centroid": {
+      "latitude": 56.00009,
+      "longitude": -4.51758
+    },
+    "geojson": "constituencies/boundaries/west-dunbartonshire.geojson",
+    "ons_code": "S14000106",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5057.json",
+    "member_id": 5057,
+    "name": "Douglas McAllister",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69074,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6010,
+      "result": "Lab Gain",
+      "turnout": 39584,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3117,
+      "end_date": "2024-05-30",
+      "member_id": 4374,
+      "name": "Martin Docherty-Hughes",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4495,
+  "is_current": true,
+  "name": "West Dunbartonshire",
+  "name_cy": null,
+  "ons_code": "S14000106",
+  "outcodes": [
+    "G13",
+    "G14",
+    "G60",
+    "G63",
+    "G81",
+    "G82",
+    "G83"
+  ],
+  "schema_version": 1,
+  "slug": "west-dunbartonshire",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 16506.2,
+    "bng": {
+      "easting": 405388,
+      "northing": 444492
+    },
+    "centroid": {
+      "latitude": 53.89658,
+      "longitude": -1.91949
+    },
+    "geojson": "constituencies/boundaries/keighley-and-ilkley.geojson",
+    "ons_code": "E14001308",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4861.json",
+    "member_id": 4861,
+    "name": "Robbie Moore",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74367,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1625,
+      "result": "Con Hold",
+      "turnout": 46186,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4123,
+  "is_current": true,
+  "name": "Keighley and Ilkley",
+  "name_cy": null,
+  "ons_code": "E14001308",
+  "outcodes": [
+    "BD16",
+    "BD20",
+    "BD21",
+    "BD22",
+    "LS29"
+  ],
+  "schema_version": 1,
+  "slug": "keighley-and-ilkley",
+  "start_date": "2024-05-31"
+}

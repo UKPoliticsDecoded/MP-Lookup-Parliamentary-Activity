@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 23414.0,
+    "bng": {
+      "easting": 615576,
+      "northing": 157189
+    },
+    "centroid": {
+      "latitude": 51.27305,
+      "longitude": 1.089267
+    },
+    "geojson": "constituencies/boundaries/canterbury.geojson",
+    "ons_code": "E14001151",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4616.json",
+    "member_id": 4616,
+    "name": "Rosie Duffield",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71155,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8653,
+      "result": "Lab Hold",
+      "turnout": 47231,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3388,
+      "end_date": "2024-05-30",
+      "member_id": 4616,
+      "name": "Rosie Duffield",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 3966,
+  "is_current": true,
+  "name": "Canterbury",
+  "name_cy": null,
+  "ons_code": "E14001151",
+  "outcodes": [
+    "CT1",
+    "CT2",
+    "CT3",
+    "CT4",
+    "CT5",
+    "CT6"
+  ],
+  "schema_version": 1,
+  "slug": "canterbury",
+  "start_date": "2024-05-31"
+}

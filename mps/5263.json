@@ -1,0 +1,222 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 6,
+        "debates_participated": 6,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 57,
+        "debates_participated": 32,
+        "early_day_motions": 14,
+        "oral_questions": 8,
+        "written_questions": 176
+      },
+      "2026": {
+        "debate_contributions": 26,
+        "debates_participated": 23,
+        "early_day_motions": 7,
+        "oral_questions": 1,
+        "written_questions": 361
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 89,
+    "debates_participated": 61,
+    "early_day_motions": 22,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 539
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 89,
+    "voting_participation_pct": 65.77,
+    "written_questions": 539
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Courts Bill",
+      "committee_id": 801,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      },
+      {
+        "committee": "Victims and Courts Bill",
+        "committee_id": 801,
+        "file": "committees/victims-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-17"
+          }
+        ],
+        "slug": "victims-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-east-hampshire.json",
+    "id": 4207,
+    "name": "North East Hampshire",
+    "ons_code": "E14001392",
+    "slug": "north-east-hampshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.brewer.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5263
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5263,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alex Brewer",
+    "full_title": "Alex Brewer MP",
+    "list_as": "Brewer, Alex"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North East Hampshire",
+        "constituency_id": 4207,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alex Brewer is the Liberal Democrat MP for <a href='/constituency/4207/overview'>North East Hampshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5263/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 223,
+        "voting_participation_pct": 69.25
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 153,
+        "voting_participation_pct": 64.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 415,
+        "voting_participation_pct": 65.77
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 415,
+    "voting_participation_pct": 65.77
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

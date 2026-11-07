@@ -1,0 +1,80 @@
+{
+  "boundary": {
+    "area_hectares": 41348.9,
+    "bng": {
+      "easting": 356476,
+      "northing": 742817
+    },
+    "centroid": {
+      "latitude": 56.57525,
+      "longitude": -2.71001
+    },
+    "geojson": "constituencies/boundaries/arbroath-and-broughty-ferry.geojson",
+    "ons_code": "S14000066",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5449.json",
+    "member_id": 5449,
+    "name": "Lara Bird",
+    "party": "Scottish National Party",
+    "party_abbreviation": "SNP",
+    "representing_since": "2026-06-18"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2026-06-18",
+      "election": "2026-06-18 Arbroath and Broughty Ferry By-election",
+      "election_id": 556,
+      "electorate": 75985,
+      "is_general_election": false,
+      "is_notional": false,
+      "majority": 5278,
+      "result": "SNP Hold",
+      "turnout": 23770,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    },
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76149,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 859,
+      "result": "SNP Hold",
+      "turnout": 44117,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 4455,
+      "end_date": "2026-05-14",
+      "member_id": 4434,
+      "name": "Stephen Gethins",
+      "start_date": "2024-07-04"
+    }
+  ],
+  "id": 4455,
+  "is_current": true,
+  "name": "Arbroath and Broughty Ferry",
+  "name_cy": null,
+  "ons_code": "S14000066",
+  "outcodes": [
+    "DD11",
+    "DD4",
+    "DD5",
+    "DD7",
+    "DD8",
+    "DD9"
+  ],
+  "schema_version": 1,
+  "slug": "arbroath-and-broughty-ferry",
+  "start_date": "2024-05-31"
+}

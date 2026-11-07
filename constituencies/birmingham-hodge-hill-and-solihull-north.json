@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 2437.3,
+    "bng": {
+      "easting": 413876,
+      "northing": 287889
+    },
+    "centroid": {
+      "latitude": 52.48875,
+      "longitude": -1.79707
+    },
+    "geojson": "constituencies/boundaries/birmingham-hodge-hill-and-solihull-north.geojson",
+    "ons_code": "E14001095",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1171.json",
+    "member_id": 1171,
+    "name": "Liam Byrne",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77737,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1566,
+      "result": "Lab Hold",
+      "turnout": 34136,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3910,
+  "is_current": true,
+  "name": "Birmingham Hodge Hill and Solihull North",
+  "name_cy": null,
+  "ons_code": "E14001095",
+  "outcodes": [
+    "B10",
+    "B26",
+    "B33",
+    "B34",
+    "B36",
+    "B37",
+    "B8",
+    "B9"
+  ],
+  "schema_version": 1,
+  "slug": "birmingham-hodge-hill-and-solihull-north",
+  "start_date": "2024-05-31"
+}

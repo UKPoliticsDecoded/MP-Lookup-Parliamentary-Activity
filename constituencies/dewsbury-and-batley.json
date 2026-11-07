@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 5432.0,
+    "bng": {
+      "easting": 423804,
+      "northing": 420002
+    },
+    "centroid": {
+      "latitude": 53.67596,
+      "longitude": -1.64113
+    },
+    "geojson": "constituencies/boundaries/dewsbury-and-batley.geojson",
+    "ons_code": "E14001196",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5268.json",
+    "member_id": 5268,
+    "name": "Iqbal Mohamed",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71685,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6934,
+      "result": "Ind Gain",
+      "turnout": 38070,
+      "winning_party": "Independent",
+      "winning_party_id": 8
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4011,
+  "is_current": true,
+  "name": "Dewsbury and Batley",
+  "name_cy": null,
+  "ons_code": "E14001196",
+  "outcodes": [
+    "HD5",
+    "HD8",
+    "WF12",
+    "WF13",
+    "WF14",
+    "WF15",
+    "WF16",
+    "WF17",
+    "WF3",
+    "WF4",
+    "WF5"
+  ],
+  "schema_version": 1,
+  "slug": "dewsbury-and-batley",
+  "start_date": "2024-05-31"
+}

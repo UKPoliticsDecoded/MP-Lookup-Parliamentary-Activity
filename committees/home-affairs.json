@@ -1,0 +1,914 @@
+{
+  "activity": {
+    "current_members": 11,
+    "formal_meetings_held": 224,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 144
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 4110,
+      "name": "Dame Karen Bradley"
+    }
+  ],
+  "contact": {
+    "address": "Home Affairs Committee, House of Commons, London, SW1A 0AA",
+    "email": "homeaffcom@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 83,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/4110.json",
+      "member_id": 4110,
+      "name": "Dame Karen Bradley",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-09-11"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-11"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4603.json",
+      "member_id": 4603,
+      "name": "Preet Kaur Gill",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2018-02-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/4764.json",
+      "member_id": 4764,
+      "name": "Bell Ribeiro-Addy",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/4861.json",
+      "member_id": 4861,
+      "name": "Robbie Moore",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/5028.json",
+      "member_id": 5028,
+      "name": "Lewis Atkinson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/5079.json",
+      "member_id": 5079,
+      "name": "Joani Reid",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/5163.json",
+      "member_id": 5163,
+      "name": "Dr Peter Prinsley",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/5272.json",
+      "member_id": 5272,
+      "name": "Margaret Mullane",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/5321.json",
+      "member_id": 5321,
+      "name": "Mr Paul Kohler",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5323.json",
+      "member_id": 5323,
+      "name": "Matt Bishop",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/5350.json",
+      "member_id": 5350,
+      "name": "Ben Maguire",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 134,
+        "meetings_available": 134
+      },
+      "file": "mps/114.json",
+      "member_id": 114,
+      "name": "Tim Loughton",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2015-03-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2014-11-03"
+        },
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-07-08"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/172.json",
+      "member_id": 172,
+      "name": "Ms Diane Abbott",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-11"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 76,
+        "meetings_available": 76
+      },
+      "file": "mps/420.json",
+      "member_id": 420,
+      "name": "Yvette Cooper",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2017-05-03",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2016-10-19"
+        },
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-10-19"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2017-07-12"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-07-12"
+        },
+        {
+          "end": "2021-12-01",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2020-01-27"
+        },
+        {
+          "end": "2021-12-01",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 76,
+        "meetings_available": 76
+      },
+      "file": "mps/1506.json",
+      "member_id": 1506,
+      "name": "Andrew Gwynne",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2022-03-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-11"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 134,
+        "meetings_available": 134
+      },
+      "file": "mps/1522.json",
+      "member_id": 1522,
+      "name": "Adam Holloway",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/1533.json",
+      "member_id": 1533,
+      "name": "Dame Diana Johnson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-11"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2021-12-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/3957.json",
+      "member_id": 3957,
+      "name": "Martin Vickers",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-03-15",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-03-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4264.json",
+      "member_id": 4264,
+      "name": "Stephen Doughty",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2020-05-11",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 113,
+        "meetings_available": 113
+      },
+      "file": "mps/4393.json",
+      "member_id": 4393,
+      "name": "Stuart C McDonald",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-07-08"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2023-03-28",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 21,
+        "meetings_available": 21
+      },
+      "file": "mps/4430.json",
+      "member_id": 4430,
+      "name": "Alison Thewliss",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-03-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4472.json",
+      "member_id": 4472,
+      "name": "Holly Lynch",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2020-05-11",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 50,
+        "meetings_available": 50
+      },
+      "file": "mps/4480.json",
+      "member_id": 4480,
+      "name": "Carolyn Harris",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-03-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4698.json",
+      "member_id": 4698,
+      "name": "Janet Daby",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-05-08"
+        },
+        {
+          "end": "2020-05-11",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 71,
+        "meetings_available": 71
+      },
+      "file": "mps/4737.json",
+      "member_id": 4737,
+      "name": "Dehenna Davison",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2021-11-02",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 49,
+        "meetings_available": 49
+      },
+      "file": "mps/4743.json",
+      "member_id": 4743,
+      "name": "Lee Anderson",
+      "party": "Reform UK",
+      "roles": [
+        {
+          "end": "2024-05-14",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-03-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 134,
+        "meetings_available": 134
+      },
+      "file": "mps/4744.json",
+      "member_id": 4744,
+      "name": "Simon Fell",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4756.json",
+      "member_id": 4756,
+      "name": "Brendan Clarke-Smith",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-05-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 34,
+        "meetings_available": 34
+      },
+      "file": "mps/4760.json",
+      "member_id": 4760,
+      "name": "Gary Sambrook",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2023-01-09",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-11-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 29,
+        "meetings_available": 29
+      },
+      "file": "mps/4789.json",
+      "member_id": 4789,
+      "name": "Marco Longhi",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-09"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 71,
+        "meetings_available": 71
+      },
+      "file": "mps/4808.json",
+      "member_id": 4808,
+      "name": "Ruth Edwards",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2021-11-02",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/4824.json",
+      "member_id": 4824,
+      "name": "Kim Johnson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 85,
+        "meetings_available": 85
+      },
+      "file": "mps/4826.json",
+      "member_id": 4826,
+      "name": "Laura Farris",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-03-15",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 43,
+        "meetings_available": 43
+      },
+      "file": "mps/4828.json",
+      "member_id": 4828,
+      "name": "Paula Barker",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2023-11-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-02-08"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/4844.json",
+      "member_id": 4844,
+      "name": "Matt Vickers",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-06-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-03-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 54,
+        "meetings_available": 54
+      },
+      "file": "mps/4854.json",
+      "member_id": 4854,
+      "name": "James Daly",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-03-15",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-11-02"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-06-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/5041.json",
+      "member_id": 5041,
+      "name": "Shaun Davies",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-10-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/5082.json",
+      "member_id": 5082,
+      "name": "Jake Richards",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-10-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/5105.json",
+      "member_id": 5105,
+      "name": "Jo White",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2026-10-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/5159.json",
+      "member_id": 5159,
+      "name": "Mr Connor Rand",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-10-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/5245.json",
+      "member_id": 5245,
+      "name": "Chris Murray",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2026-10-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    }
+  ],
+  "name": "Home Affairs Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The Home Affairs Committee is a cross-party committee of MPs responsible for scrutinising the work of the Home Office and its associated bodies. It examines government policy, spending and the law in areas including immigration, security, and policing.</p>\r\n<p>Follow us on social media: <u><a href=\"https://bsky.app/profile/hoccommittees.parliament.uk\">Bluesky</a></u>&nbsp;| <u><a href=\"https://www.facebook.com/profile.php?id=61579513151155\">Facebook</a></u>&nbsp;|&nbsp;<u><a href=\"https://www.instagram.com/ukcommonscommittees\">Instagram</a></u>&nbsp;| <u><a href=\"https://www.linkedin.com/showcase/house-of-commons-committees\">LinkedIn</a></u>&nbsp;| <u><a href=\"https://www.reddit.com/user/UKCommonsCommittees/\">Reddit</a></u>&nbsp;| <u><a href=\"https://x.com/HoCcommitteesUK\">X</a></u>&nbsp;| <u><a href=\"https://www.youtube.com/playlist?list=PLj3mInRJqIekxA--aDW780T_TUCwjea4M\">YouTube</a></u><u></u><u></u><u></u></p>\r\n<p>Sign up to the weekly <a href=\"https://mailchi.mp/email/committeecorridor\">cross-committee newsletter, ‘Committee Corridor</a>.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "home-affairs",
+  "start_date": "1979-05-03",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Public Standing Orders - Departmental"
+  ]
+}

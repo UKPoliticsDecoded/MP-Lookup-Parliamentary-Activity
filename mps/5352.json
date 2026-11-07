@@ -1,0 +1,228 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 21,
+        "debates_participated": 9,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 21
+      },
+      "2025": {
+        "debate_contributions": 113,
+        "debates_participated": 47,
+        "early_day_motions": 16,
+        "oral_questions": 7,
+        "written_questions": 206
+      },
+      "2026": {
+        "debate_contributions": 81,
+        "debates_participated": 49,
+        "early_day_motions": 6,
+        "oral_questions": 6,
+        "written_questions": 256
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 215,
+    "debates_participated": 105,
+    "early_day_motions": 23,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 483
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 215,
+    "voting_participation_pct": 63.07,
+    "written_questions": 483
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 31,
+      "meetings_available": 31
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/south-cotswolds.json",
+    "id": 4297,
+    "name": "South Cotswolds",
+    "ons_code": "E14001482",
+    "slug": "south-cotswolds"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "roz.savage.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Watermoor Point, Watermoor Road, Cirencester",
+      "phone": "01285 300555",
+      "postcode": "GL7 1LF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.rozsavagemp.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/rozsavage.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/rozsavage/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/rozsavage/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/roz_savage"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@Roz_Savage"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5352
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5352,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Roz Savage",
+    "full_title": "Dr Roz Savage MP",
+    "list_as": "Savage, Dr Roz"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Cotswolds",
+        "constituency_id": 4297,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Roz Savage is the Liberal Democrat MP for <a href='/constituency/4297/overview'>South Cotswolds</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5352/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 28,
+        "voting_participation_pct": 38.36
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 212,
+        "voting_participation_pct": 65.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 158,
+        "voting_participation_pct": 66.95
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 398,
+        "voting_participation_pct": 63.07
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 398,
+    "voting_participation_pct": 63.07
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "boundary": {
+    "area_hectares": 70660.9,
+    "bng": {
+      "easting": 380454,
+      "northing": 250015
+    },
+    "centroid": {
+      "latitude": 52.14808,
+      "longitude": -2.28706
+    },
+    "geojson": "constituencies/boundaries/west-worcestershire.geojson",
+    "ons_code": "E14001579",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4107.json",
+    "member_id": 4107,
+    "name": "Dame Harriett Baldwin",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79246,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6547,
+      "result": "Con Hold",
+      "turnout": 54687,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3848,
+      "end_date": "2024-05-30",
+      "member_id": 4107,
+      "name": "Dame Harriett Baldwin",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4394,
+  "is_current": true,
+  "name": "West Worcestershire",
+  "name_cy": null,
+  "ons_code": "E14001579",
+  "outcodes": [
+    "DY12",
+    "DY13",
+    "DY14",
+    "GL19",
+    "GL20",
+    "HR7",
+    "HR8",
+    "SY8",
+    "WR10",
+    "WR11",
+    "WR12",
+    "WR13",
+    "WR14",
+    "WR15",
+    "WR2",
+    "WR5",
+    "WR6",
+    "WR8"
+  ],
+  "schema_version": 1,
+  "slug": "west-worcestershire",
+  "start_date": "2024-05-31"
+}

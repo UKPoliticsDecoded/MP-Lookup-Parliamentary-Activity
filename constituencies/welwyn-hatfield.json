@@ -1,0 +1,77 @@
+{
+  "boundary": {
+    "area_hectares": 10816.0,
+    "bng": {
+      "easting": 523758,
+      "northing": 210274
+    },
+    "centroid": {
+      "latitude": 51.77746,
+      "longitude": -0.20751
+    },
+    "geojson": "constituencies/boundaries/welwyn-hatfield.geojson",
+    "ons_code": "E14001573",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5061.json",
+    "member_id": 5061,
+    "name": "Andrew Lewin",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75259,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3799,
+      "result": "Lab Gain",
+      "turnout": 48455,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3839,
+      "end_date": "2024-05-30",
+      "member_id": 1582,
+      "name": "Grant Shapps",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 3085,
+      "end_date": "2010-05-06",
+      "member_id": 1582,
+      "name": "Grant Shapps",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4388,
+  "is_current": true,
+  "name": "Welwyn Hatfield",
+  "name_cy": null,
+  "ons_code": "E14001573",
+  "outcodes": [
+    "AL10",
+    "AL4",
+    "AL6",
+    "AL7",
+    "AL8",
+    "AL9",
+    "EN6",
+    "SG13",
+    "SG3",
+    "SG4"
+  ],
+  "schema_version": 1,
+  "slug": "welwyn-hatfield",
+  "start_date": "2024-05-31"
+}

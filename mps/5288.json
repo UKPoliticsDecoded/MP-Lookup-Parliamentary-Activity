@@ -1,0 +1,215 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 21,
+        "oral_questions": 1,
+        "written_questions": 36
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 153,
+        "debates_participated": 102,
+        "early_day_motions": 3,
+        "oral_questions": 10,
+        "written_questions": 966
+      },
+      "2026": {
+        "debate_contributions": 126,
+        "debates_participated": 81,
+        "early_day_motions": 11,
+        "oral_questions": 7,
+        "written_questions": 629
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 305,
+    "debates_participated": 204,
+    "early_day_motions": 14,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 1631
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 305,
+    "voting_participation_pct": 68.15,
+    "written_questions": 1631
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/surrey-heath.json",
+    "id": 4347,
+    "name": "Surrey Heath",
+    "ons_code": "E14001532",
+    "slug": "surrey-heath"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "al.pinkerton.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5288
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5288,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Al Pinkerton",
+    "full_title": "Dr Al Pinkerton MP",
+    "list_as": "Pinkerton, Dr Al"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Europe)",
+        "start_date": "2025-10-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Northern Ireland)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Surrey Heath",
+        "constituency_id": 4347,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Al Pinkerton is the Liberal Democrat MP for <a href='/constituency/4347/overview'>Surrey Heath</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Europe).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5288/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 231,
+        "voting_participation_pct": 71.74
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 160,
+        "voting_participation_pct": 67.8
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 430,
+        "voting_participation_pct": 68.15
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 430,
+    "voting_participation_pct": 68.15
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

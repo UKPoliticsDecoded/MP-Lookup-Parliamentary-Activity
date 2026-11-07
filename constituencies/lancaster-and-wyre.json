@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 40782.7,
+    "bng": {
+      "easting": 348996,
+      "northing": 450919
+    },
+    "centroid": {
+      "latitude": 53.95185,
+      "longitude": -2.77866
+    },
+    "geojson": "constituencies/boundaries/lancaster-and-wyre.geojson",
+    "ons_code": "E14001318",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4436.json",
+    "member_id": 4436,
+    "name": "Cat Smith",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74760,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9253,
+      "result": "Lab Gain",
+      "turnout": 43008,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1683,
+      "end_date": "2010-05-06",
+      "member_id": 1539,
+      "name": "Mr Ben Wallace",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4133,
+  "is_current": true,
+  "name": "Lancaster and Wyre",
+  "name_cy": null,
+  "ons_code": "E14001318",
+  "outcodes": [
+    "FY6",
+    "LA1",
+    "LA2",
+    "LA3",
+    "PR3",
+    "PR4"
+  ],
+  "schema_version": 1,
+  "slug": "lancaster-and-wyre",
+  "start_date": "2024-05-31"
+}

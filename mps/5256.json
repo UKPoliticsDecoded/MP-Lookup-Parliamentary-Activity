@@ -1,0 +1,283 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 20,
+        "oral_questions": 1,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 68,
+        "debates_participated": 42,
+        "oral_questions": 3,
+        "written_questions": 103
+      },
+      "2026": {
+        "debate_contributions": 77,
+        "debates_participated": 56,
+        "oral_questions": 7,
+        "written_questions": 53
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 171,
+    "debates_participated": 118,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 160
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 171,
+    "voting_participation_pct": 83.36,
+    "written_questions": 160
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Court of Referees",
+      "committee_id": 780,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 26,
+      "meetings_available": 26
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-03"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Court of Referees",
+        "committee_id": 780,
+        "file": "committees/court-of-referees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-27"
+          }
+        ],
+        "slug": "court-of-referees"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-17"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/mid-derbyshire.json",
+    "id": 4177,
+    "name": "Mid Derbyshire",
+    "ons_code": "E14001362",
+    "slug": "mid-derbyshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jonathan.davies.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jonathan-davies.net"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/jonathandaviesmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/people/Jonathan-Davies-for-Mid-Derbyshire/61558098747057"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Jonathan4MD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5256
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5256,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jonathan Davies",
+    "full_title": "Jonathan Davies MP",
+    "list_as": "Davies, Jonathan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Derbyshire",
+        "constituency_id": 4177,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jonathan Davies is the Labour MP for <a href='/constituency/4177/overview'>Mid Derbyshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5256/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 64,
+        "voting_participation_pct": 87.67
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 262,
+        "voting_participation_pct": 81.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 200,
+        "voting_participation_pct": 84.75
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 526,
+        "voting_participation_pct": 83.36
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 526,
+    "voting_participation_pct": 83.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

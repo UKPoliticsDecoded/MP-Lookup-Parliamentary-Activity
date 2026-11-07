@@ -1,0 +1,249 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 10,
+        "debates_participated": 8,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 81,
+        "debates_participated": 39,
+        "early_day_motions": 2,
+        "oral_questions": 13,
+        "written_questions": 20
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 55,
+        "debates_participated": 32,
+        "oral_questions": 11,
+        "written_questions": 17
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 146,
+    "debates_participated": 79,
+    "early_day_motions": 2,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 40
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 146,
+    "voting_participation_pct": 80.51,
+    "written_questions": 40
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/isle-of-wight-west.json",
+    "id": 4119,
+    "name": "Isle of Wight West",
+    "ons_code": "E14001304",
+    "slug": "isle-of-wight-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "richard.quigley.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01983 244980",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5144
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5144,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Richard Quigley",
+    "full_title": "Richard Quigley MP",
+    "list_as": "Quigley, Richard"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Isle of Wight West",
+        "constituency_id": 4119,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Richard Quigley is the Labour MP for <a href='/constituency/4119/overview'>Isle of Wight West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5144/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 251,
+        "voting_participation_pct": 77.95
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 186,
+        "voting_participation_pct": 78.81
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 508,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 508,
+    "voting_participation_pct": 80.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

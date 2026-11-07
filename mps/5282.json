@@ -1,0 +1,270 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 27,
+        "debates_participated": 14,
+        "oral_questions": 4,
+        "written_questions": 22
+      },
+      "2025": {
+        "debate_contributions": 169,
+        "debates_participated": 38,
+        "oral_questions": 3,
+        "written_questions": 16
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 530,
+        "debates_participated": 51
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 726,
+    "debates_participated": 103,
+    "early_day_motions": 0,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 38
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 726,
+    "voting_participation_pct": 62.28,
+    "written_questions": 38
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 62,
+      "meetings_available": 62
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-21"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/chipping-barnet.json",
+    "id": 3984,
+    "name": "Chipping Barnet",
+    "ons_code": "E14001169",
+    "slug": "chipping-barnet"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "dan.tomlinson.mp@parliament.uk",
+      "phone": "020 7219 6510",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/dan4barnet"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/dan4barnet"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5282
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5282,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dan Tomlinson",
+    "full_title": "Dan Tomlinson MP",
+    "list_as": "Tomlinson, Dan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Exchequer Secretary (Cabinet Office) (Jointly with HM Treasury)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Exchequer Secretary (HM Treasury)",
+        "start_date": "2025-09-01"
+      }
+    ],
+    "ministerial_current": [
+      "Exchequer Secretary (Cabinet Office) (Jointly with HM Treasury)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chipping Barnet",
+        "constituency_id": 3984,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dan Tomlinson is the Labour MP for <a href='/constituency/3984/overview'>Chipping Barnet</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Exchequer Secretary (Cabinet Office) (Jointly with HM Treasury).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5282/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 54,
+        "voting_participation_pct": 73.97
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 185,
+        "voting_participation_pct": 57.45
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 154,
+        "voting_participation_pct": 65.25
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 393,
+        "voting_participation_pct": 62.28
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 393,
+    "voting_participation_pct": 62.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 66,
+        "debates_participated": 44,
+        "oral_questions": 9,
+        "written_questions": 2
+      },
+      "2021": {
+        "debate_contributions": 38,
+        "debates_participated": 27,
+        "oral_questions": 7,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 13,
+        "debates_participated": 12,
+        "written_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 31,
+        "debates_participated": 23,
+        "oral_questions": 4,
+        "written_questions": 1
+      },
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 9,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 164,
+    "debates_participated": 115,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 6
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 97.96,
+    "committee_memberships": 0,
+    "debate_contributions": 164,
+    "voting_participation_pct": 83.61,
+    "written_questions": 6
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety Bill",
+      "committee_id": 535,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 91,
+      "meetings_available": 91
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+      "committee_id": 347,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 92.86,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 39,
+      "meetings_available": 42
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Building Safety Bill",
+        "committee_id": 535,
+        "file": "committees/building-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "building-safety-bill"
+      },
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-10-05"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+        "committee_id": 347,
+        "file": "committees/international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-03-10"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-19"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-09-07"
+          }
+        ],
+        "slug": "women-and-equalities"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-02"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3770,
+    "name": "Stafford"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4819
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4819,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Theo Clarke",
+    "full_title": "Theo Clarke",
+    "list_as": "Clarke, Theo"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4328,
+        "name": "Stafford",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3367,
+        "name": "Bristol East",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3367,
+        "name": "Bristol East",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stafford",
+        "constituency_id": 3770,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Theo Clarke is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3770/overview'>Stafford</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4819/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 218,
+        "voting_participation_pct": 90.08
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 142,
+        "voting_participation_pct": 56.57
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 247,
+        "voting_participation_pct": 96.48
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 109,
+        "voting_participation_pct": 85.83
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 893,
+        "voting_participation_pct": 83.61
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 893,
+    "voting_participation_pct": 83.61
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

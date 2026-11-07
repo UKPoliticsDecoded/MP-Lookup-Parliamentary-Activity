@@ -1,0 +1,77 @@
+{
+  "boundary": {
+    "area_hectares": 4051.1,
+    "bng": {
+      "easting": 524233,
+      "northing": 194734
+    },
+    "centroid": {
+      "latitude": 51.6377,
+      "longitude": -0.20617
+    },
+    "geojson": "constituencies/boundaries/chipping-barnet.geojson",
+    "ons_code": "E14001169",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5282.json",
+    "member_id": 5282,
+    "name": "Dan Tomlinson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78038,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2914,
+      "result": "Lab Gain",
+      "turnout": 50859,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3412,
+      "end_date": "2024-05-30",
+      "member_id": 1500,
+      "name": "Theresa Villiers",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 673,
+      "end_date": "2010-05-06",
+      "member_id": 1500,
+      "name": "Theresa Villiers",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 3984,
+  "is_current": true,
+  "name": "Chipping Barnet",
+  "name_cy": null,
+  "ons_code": "E14001169",
+  "outcodes": [
+    "EN4",
+    "EN5",
+    "HA8",
+    "N11",
+    "N12",
+    "N14",
+    "N20",
+    "N3",
+    "NW7",
+    "WD6"
+  ],
+  "schema_version": 1,
+  "slug": "chipping-barnet",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 1525.9,
+    "bng": {
+      "easting": 545958,
+      "northing": 187956
+    },
+    "centroid": {
+      "latitude": 51.57158,
+      "longitude": 0.104733
+    },
+    "geojson": "constituencies/boundaries/ilford-south.geojson",
+    "ons_code": "E14001301",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5227.json",
+    "member_id": 5227,
+    "name": "Jas Athwal",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80993,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6894,
+      "result": "Lab Hold",
+      "turnout": 41170,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3546,
+      "end_date": "2024-05-30",
+      "member_id": 4829,
+      "name": "Sam Tarry",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4116,
+  "is_current": true,
+  "name": "Ilford South",
+  "name_cy": null,
+  "ons_code": "E14001301",
+  "outcodes": [
+    "IG1",
+    "IG11",
+    "IG2",
+    "IG3",
+    "IG4",
+    "IG5",
+    "RM5",
+    "RM6",
+    "RM8"
+  ],
+  "schema_version": 1,
+  "slug": "ilford-south",
+  "start_date": "2024-05-31"
+}

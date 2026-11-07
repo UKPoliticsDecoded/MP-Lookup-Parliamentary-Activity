@@ -1,0 +1,387 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 79,
+        "debates_participated": 54,
+        "early_day_motions": 3,
+        "oral_questions": 7,
+        "written_questions": 301
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 136,
+        "debates_participated": 82,
+        "early_day_motions": 9,
+        "oral_questions": 23,
+        "written_questions": 402
+      },
+      "2022": {
+        "bills_sponsored": 2,
+        "debate_contributions": 90,
+        "debates_participated": 54,
+        "early_day_motions": 4,
+        "oral_questions": 11,
+        "written_questions": 498
+      },
+      "2023": {
+        "debate_contributions": 60,
+        "debates_participated": 39,
+        "early_day_motions": 8,
+        "oral_questions": 7,
+        "petitions_presented": 2,
+        "written_questions": 346
+      },
+      "2024": {
+        "bills_sponsored": 3,
+        "debate_contributions": 104,
+        "debates_participated": 57,
+        "early_day_motions": 7,
+        "oral_questions": 5,
+        "petitions_presented": 2,
+        "written_questions": 171
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 375,
+        "debates_participated": 136,
+        "early_day_motions": 4,
+        "oral_questions": 8,
+        "written_questions": 142
+      },
+      "2026": {
+        "debate_contributions": 130,
+        "debates_participated": 85,
+        "early_day_motions": 6,
+        "oral_questions": 20,
+        "written_questions": 96
+      }
+    },
+    "bills_sponsored": 8,
+    "debate_contributions": 975,
+    "debates_participated": 508,
+    "early_day_motions": 41,
+    "oral_questions": 81,
+    "petitions_presented": 4,
+    "written_questions": 1956
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 975,
+    "voting_participation_pct": 69.57,
+    "written_questions": 1956
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 339,
+      "meetings_available": 339
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-17"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/richmond-park.json",
+    "id": 4260,
+    "name": "Richmond Park",
+    "ons_code": "E14001445",
+    "slug": "richmond-park"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.olney.mp@parliament.uk",
+      "phone": "020 7219 4821",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "office@saraholney.com",
+      "phone": "020 8876 2986",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.saraholney.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/saraholneyld"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/sarahjolney/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/sarahjolney1"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4591
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4591,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Olney",
+    "full_title": "Sarah Olney MP",
+    "list_as": "Olney, Sarah"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Business)",
+        "start_date": "2025-10-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Cabinet Office)",
+        "start_date": "2024-09-18"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Treasury)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Transport)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Business, Energy and Industrial Strategy)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (International Trade)",
+        "start_date": "2020-01-06"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3699,
+        "name": "Richmond Park",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2016-12-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Richmond Park",
+        "constituency_id": 4260,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Richmond Park",
+        "constituency_id": 3699,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2016-12-01"
+      }
+    ]
+  },
+  "synopsis": "Sarah Olney is the Liberal Democrat MP for <a href='/constituency/4260/overview'>Richmond Park</a>, and has been an MP continually since 12 December 2019. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Business).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4591/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 151,
+        "voting_participation_pct": 79.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 211,
+        "voting_participation_pct": 87.19
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 202,
+        "voting_participation_pct": 80.48
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 162,
+        "voting_participation_pct": 63.28
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 116,
+        "voting_participation_pct": 58.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 217,
+        "voting_participation_pct": 67.39
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 121,
+        "voting_participation_pct": 51.27
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 804,
+        "voting_participation_pct": 75.28
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 378,
+        "voting_participation_pct": 59.9
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1182,
+    "voting_participation_pct": 69.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

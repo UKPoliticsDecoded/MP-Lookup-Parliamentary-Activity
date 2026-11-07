@@ -1,0 +1,173 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 59,
+        "debates_participated": 39,
+        "early_day_motions": 5,
+        "oral_questions": 11,
+        "written_questions": 67
+      },
+      "2026": {
+        "debate_contributions": 57,
+        "debates_participated": 39,
+        "early_day_motions": 2,
+        "oral_questions": 10,
+        "written_questions": 23
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 138,
+    "debates_participated": 95,
+    "early_day_motions": 8,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 100
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 138,
+    "voting_participation_pct": 80.35,
+    "written_questions": 100
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": true,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/montgomeryshire-and-glyndwr.json",
+    "id": 4517,
+    "name": "Montgomeryshire and Glyndŵr",
+    "ons_code": "W07000102",
+    "slug": "montgomeryshire-and-glyndwr"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "steve.witherden.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5221
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5221,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Steve Witherden",
+    "full_title": "Steve Witherden MP",
+    "list_as": "Witherden, Steve"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Montgomeryshire and Glyndŵr",
+        "constituency_id": 4517,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Steve Witherden is the Labour MP for <a href='/constituency/4517/overview'>Montgomeryshire and Glyndŵr</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5221/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 63,
+        "voting_participation_pct": 86.3
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 266,
+        "voting_participation_pct": 82.61
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 507,
+        "voting_participation_pct": 80.35
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 507,
+    "voting_participation_pct": 80.35
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

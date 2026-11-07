@@ -1,0 +1,325 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 16,
+        "debates_participated": 15,
+        "early_day_motions": 3,
+        "oral_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 184,
+        "debates_participated": 88,
+        "early_day_motions": 8,
+        "oral_questions": 10,
+        "written_questions": 33
+      },
+      "2026": {
+        "debate_contributions": 119,
+        "debates_participated": 70,
+        "early_day_motions": 7,
+        "oral_questions": 12,
+        "written_questions": 27
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 319,
+    "debates_participated": 173,
+    "early_day_motions": 18,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 60
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 319,
+    "voting_participation_pct": 85.9,
+    "written_questions": 60
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 13,
+      "meetings_available": 13
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-08"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bexleyheath-and-crayford.json",
+    "id": 3904,
+    "name": "Bexleyheath and Crayford",
+    "ons_code": "E14001089",
+    "slug": "bexleyheath-and-crayford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "daniel.francis.mp@parliament.uk",
+      "phone": "0207 219 5278",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.danielfrancis.uk"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/danfrancis02.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DanielFrancisforBexCray"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/danielfrancismp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/danfrancis02"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5184
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5184,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Daniel Francis",
+    "full_title": "Daniel Francis MP",
+    "list_as": "Francis, Daniel"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3669,
+        "name": "Old Bexley and Sidcup",
+        "startDate": "2021-12-02T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bexleyheath and Crayford",
+        "constituency_id": 3904,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Daniel Francis is the Labour MP for <a href='/constituency/3904/overview'>Bexleyheath and Crayford</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5184/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 277,
+        "voting_participation_pct": 86.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 194,
+        "voting_participation_pct": 82.2
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 542,
+        "voting_participation_pct": 85.9
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 542,
+    "voting_participation_pct": 85.9
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

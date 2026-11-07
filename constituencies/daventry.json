@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 78092.9,
+    "bng": {
+      "easting": 470112,
+      "northing": 266122
+    },
+    "centroid": {
+      "latitude": 52.28878,
+      "longitude": -0.9735
+    },
+    "geojson": "constituencies/boundaries/daventry.geojson",
+    "ons_code": "E14001192",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4032.json",
+    "member_id": 4032,
+    "name": "Stuart Andrew",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80879,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3012,
+      "result": "Con Hold",
+      "turnout": 53082,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3439,
+      "end_date": "2024-05-30",
+      "member_id": 3977,
+      "name": "Chris Heaton-Harris",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4007,
+  "is_current": true,
+  "name": "Daventry",
+  "name_cy": null,
+  "ons_code": "E14001192",
+  "outcodes": [
+    "CV23",
+    "LE16",
+    "LE17",
+    "NN11",
+    "NN12",
+    "NN14",
+    "NN2",
+    "NN29",
+    "NN3",
+    "NN5",
+    "NN6",
+    "NN7",
+    "NN8",
+    "NN9",
+    "OX17"
+  ],
+  "schema_version": 1,
+  "slug": "daventry",
+  "start_date": "2024-05-31"
+}

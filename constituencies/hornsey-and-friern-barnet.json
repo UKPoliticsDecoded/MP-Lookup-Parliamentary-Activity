@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 1400.4,
+    "bng": {
+      "easting": 529684,
+      "northing": 189433
+    },
+    "centroid": {
+      "latitude": 51.58883,
+      "longitude": -0.1294
+    },
+    "geojson": "constituencies/boundaries/hornsey-and-friern-barnet.geojson",
+    "ons_code": "E14001293",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4523.json",
+    "member_id": 4523,
+    "name": "Catherine West",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69885,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 21475,
+      "result": "Lab Hold",
+      "turnout": 48642,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4108,
+  "is_current": true,
+  "name": "Hornsey and Friern Barnet",
+  "name_cy": null,
+  "ons_code": "E14001293",
+  "outcodes": [
+    "N10",
+    "N11",
+    "N12",
+    "N15",
+    "N2",
+    "N20",
+    "N22",
+    "N4",
+    "N6",
+    "N8"
+  ],
+  "schema_version": 1,
+  "slug": "hornsey-and-friern-barnet",
+  "start_date": "2024-05-31"
+}

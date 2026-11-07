@@ -1,0 +1,204 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 9,
+        "early_day_motions": 6,
+        "oral_questions": 3,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 47,
+        "debates_participated": 35,
+        "early_day_motions": 5,
+        "oral_questions": 8,
+        "written_questions": 3
+      },
+      "2026": {
+        "debate_contributions": 23,
+        "debates_participated": 20,
+        "oral_questions": 4,
+        "written_questions": 5
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 83,
+    "debates_participated": 64,
+    "early_day_motions": 11,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 15
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 83,
+    "voting_participation_pct": 83.2,
+    "written_questions": 15
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 27,
+      "meetings_available": 27
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-16"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/coatbridge-and-bellshill.json",
+    "id": 4459,
+    "name": "Coatbridge and Bellshill",
+    "ons_code": "S14000070",
+    "slug": "coatbridge-and-bellshill"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "frank.mcnally.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Frank4Labour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/FJMcNally"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5183
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5183,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Frank McNally",
+    "full_title": "Frank McNally MP",
+    "list_as": "McNally, Frank"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Coatbridge and Bellshill",
+        "constituency_id": 4459,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Frank McNally is the Labour MP for <a href='/constituency/4459/overview'>Coatbridge and Bellshill</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5183/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 198,
+        "voting_participation_pct": 83.9
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 525,
+        "voting_participation_pct": 83.2
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 525,
+    "voting_participation_pct": 83.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

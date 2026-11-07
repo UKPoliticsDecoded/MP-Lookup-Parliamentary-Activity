@@ -1,0 +1,246 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 20,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 124,
+        "debates_participated": 88,
+        "early_day_motions": 6,
+        "oral_questions": 14,
+        "written_questions": 68
+      },
+      "2026": {
+        "debate_contributions": 213,
+        "debates_participated": 111,
+        "early_day_motions": 7,
+        "oral_questions": 12,
+        "written_questions": 70
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 363,
+    "debates_participated": 219,
+    "early_day_motions": 14,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 145
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 363,
+    "voting_participation_pct": 83.99,
+    "written_questions": 145
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bury-st-edmunds-and-stowmarket.json",
+    "id": 3961,
+    "name": "Bury St Edmunds and Stowmarket",
+    "ons_code": "E14001146",
+    "slug": "bury-st-edmunds-and-stowmarket"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "peter.prinsley.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5163
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5163,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dr Peter Prinsley",
+    "display": "Dr Peter Prinsley",
+    "full_title": "Dr Peter Prinsley MP",
+    "list_as": "Prinsley, Dr Peter"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bury St Edmunds and Stowmarket",
+        "constituency_id": 3961,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Peter Prinsley is the Labour MP for <a href='/constituency/3961/overview'>Bury St Edmunds and Stowmarket</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5163/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 270,
+        "voting_participation_pct": 83.85
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 195,
+        "voting_participation_pct": 82.63
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 530,
+        "voting_participation_pct": 83.99
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 530,
+    "voting_participation_pct": 83.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 21,
+        "debates_participated": 17,
+        "written_questions": 26
+      },
+      "2021": {
+        "debate_contributions": 50,
+        "debates_participated": 33,
+        "written_questions": 19
+      },
+      "2022": {
+        "debate_contributions": 89,
+        "debates_participated": 31
+      },
+      "2023": {
+        "debate_contributions": 44,
+        "debates_participated": 26,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 6,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 216,
+    "debates_participated": 113,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 54
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 216,
+    "voting_participation_pct": 79.78,
+    "written_questions": 54
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+      "committee_id": 491,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nuclear Energy (Financing) Bill",
+      "committee_id": 553,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": false,
+      "meetings_attended": 105,
+      "meetings_available": 105
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Regulatory Reform",
+      "committee_id": 131,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Seafarers' Wages Bill [HL]",
+      "committee_id": 638,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+        "committee_id": 491,
+        "file": "committees/joint-committee-on-the-fixed-term-parliaments-act.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-11-10"
+          }
+        ],
+        "slug": "joint-committee-on-the-fixed-term-parliaments-act"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Nuclear Energy (Financing) Bill",
+        "committee_id": 553,
+        "file": "committees/nuclear-energy-financing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-15"
+          }
+        ],
+        "slug": "nuclear-energy-financing-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-05-08"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      },
+      {
+        "committee": "Regulatory Reform",
+        "committee_id": 131,
+        "file": "committees/regulatory-reform.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "regulatory-reform"
+      },
+      {
+        "committee": "Seafarers' Wages Bill [HL]",
+        "committee_id": 638,
+        "file": "committees/seafarers-wages-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-11"
+          }
+        ],
+        "slug": "seafarers-wages-bill-hl"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-22"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3803,
+    "name": "Thurrock"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4065
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4065,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Dame Jackie Doyle-Price",
+    "display": "Dame Jackie Doyle-Price",
+    "full_title": "Dame Jackie Doyle-Price",
+    "list_as": "Doyle-Price, Dame Jackie"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2019-07-26",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+        "start_date": "2018-01-08"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2018-01-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health)",
+        "start_date": "2017-06-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2017-06-14",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2015-05-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4361,
+        "name": "Thurrock",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2576,
+        "name": "Sheffield, Hillsborough",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Thurrock",
+        "constituency_id": 3803,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Dame Jackie Doyle-Price is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3803/overview'>Thurrock</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4065/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 167,
+        "voting_participation_pct": 87.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 192,
+        "voting_participation_pct": 76.49
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 188,
+        "voting_participation_pct": 73.44
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 88,
+        "voting_participation_pct": 69.29
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 852,
+        "voting_participation_pct": 79.78
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 852,
+    "voting_participation_pct": 79.78
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

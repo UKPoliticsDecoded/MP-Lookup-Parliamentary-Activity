@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 23226.0,
+    "bng": {
+      "easting": 238950,
+      "northing": 628173
+    },
+    "centroid": {
+      "latitude": 55.52066,
+      "longitude": -4.55254
+    },
+    "geojson": "constituencies/boundaries/central-ayrshire.geojson",
+    "ons_code": "S14000109",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5185.json",
+    "member_id": 5185,
+    "name": "Alan Gemmell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69413,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6869,
+      "result": "Lab Gain",
+      "turnout": 41419,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 614,
+      "end_date": "2024-05-30",
+      "member_id": 4385,
+      "name": "Dr Philippa Whitford",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4441,
+  "is_current": true,
+  "name": "Central Ayrshire",
+  "name_cy": null,
+  "ons_code": "S14000109",
+  "outcodes": [
+    "KA1",
+    "KA10",
+    "KA11",
+    "KA12",
+    "KA13",
+    "KA2",
+    "KA3",
+    "KA5",
+    "KA6",
+    "KA8",
+    "KA9"
+  ],
+  "schema_version": 1,
+  "slug": "central-ayrshire",
+  "start_date": "2024-05-31"
+}

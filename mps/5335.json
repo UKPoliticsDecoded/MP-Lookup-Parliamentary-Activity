@@ -1,0 +1,252 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 49,
+        "debates_participated": 39,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 190,
+        "debates_participated": 138,
+        "early_day_motions": 9,
+        "oral_questions": 8,
+        "written_questions": 201
+      },
+      "2026": {
+        "debate_contributions": 281,
+        "debates_participated": 113,
+        "early_day_motions": 14,
+        "oral_questions": 3,
+        "written_questions": 254
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 520,
+    "debates_participated": 290,
+    "early_day_motions": 25,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 490
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 520,
+    "voting_participation_pct": 69.73,
+    "written_questions": 490
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/chichester.json",
+    "id": 3981,
+    "name": "Chichester",
+    "ons_code": "E14001166",
+    "slug": "chichester"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jess.brownfuller.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "07979 301755",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/jessbrownfullermp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/JessBrownFuller"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5335
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5335,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jess Brown-Fuller",
+    "full_title": "Jess Brown-Fuller MP",
+    "list_as": "Brown-Fuller, Jess"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2025-10-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Hospitals and Primary Care)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chichester",
+        "constituency_id": 3981,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jess Brown-Fuller is the Liberal Democrat MP for <a href='/constituency/3981/overview'>Chichester</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Justice).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5335/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 42,
+        "voting_participation_pct": 57.53
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 227,
+        "voting_participation_pct": 70.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 440,
+        "voting_participation_pct": 69.73
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 440,
+    "voting_participation_pct": 69.73
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

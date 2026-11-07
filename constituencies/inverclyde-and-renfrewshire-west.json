@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 19588.7,
+    "bng": {
+      "easting": 227889,
+      "northing": 670663
+    },
+    "centroid": {
+      "latitude": 55.89822,
+      "longitude": -4.75425
+    },
+    "geojson": "constituencies/boundaries/inverclyde-and-renfrewshire-west.geojson",
+    "ons_code": "S14000093",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5129.json",
+    "member_id": 5129,
+    "name": "Martin McCluskey",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70126,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6371,
+      "result": "Lab Gain",
+      "turnout": 40350,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4482,
+  "is_current": true,
+  "name": "Inverclyde and Renfrewshire West",
+  "name_cy": null,
+  "ons_code": "S14000093",
+  "outcodes": [
+    "PA10",
+    "PA11",
+    "PA13",
+    "PA14",
+    "PA15",
+    "PA16",
+    "PA18",
+    "PA19",
+    "PA6"
+  ],
+  "schema_version": 1,
+  "slug": "inverclyde-and-renfrewshire-west",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 50731.8,
+    "bng": {
+      "easting": 457620,
+      "northing": 427208
+    },
+    "centroid": {
+      "latitude": 53.7381,
+      "longitude": -1.12794
+    },
+    "geojson": "constituencies/boundaries/selby.geojson",
+    "ons_code": "E14001464",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4993.json",
+    "member_id": 4993,
+    "name": "Keir Mather",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78043,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10195,
+      "result": "Lab Gain",
+      "turnout": 49222,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4279,
+  "is_current": true,
+  "name": "Selby",
+  "name_cy": null,
+  "ons_code": "E14001464",
+  "outcodes": [
+    "DN14",
+    "DN6",
+    "LS24",
+    "LS25",
+    "LS26",
+    "WF10",
+    "WF11",
+    "WF8",
+    "YO19",
+    "YO8"
+  ],
+  "schema_version": 1,
+  "slug": "selby",
+  "start_date": "2024-05-31"
+}

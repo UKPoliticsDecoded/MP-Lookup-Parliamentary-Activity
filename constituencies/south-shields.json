@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 3594.4,
+    "bng": {
+      "easting": 438004,
+      "northing": 563694
+    },
+    "centroid": {
+      "latitude": 54.96643,
+      "longitude": -1.40795
+    },
+    "geojson": "constituencies/boundaries/south-shields.geojson",
+    "ons_code": "E14001492",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4277.json",
+    "member_id": 4277,
+    "name": "Emma Lewell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68366,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6653,
+      "result": "Lab Hold",
+      "turnout": 36824,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3749,
+      "end_date": "2024-05-30",
+      "member_id": 4277,
+      "name": "Emma Lewell",
+      "start_date": "2013-05-02"
+    }
+  ],
+  "id": 4307,
+  "is_current": true,
+  "name": "South Shields",
+  "name_cy": null,
+  "ons_code": "E14001492",
+  "outcodes": [
+    "NE33",
+    "NE34",
+    "NE36",
+    "SR5",
+    "SR6"
+  ],
+  "schema_version": 1,
+  "slug": "south-shields",
+  "start_date": "2024-05-31"
+}

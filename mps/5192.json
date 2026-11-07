@@ -1,0 +1,315 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 19,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 63,
+        "debates_participated": 40,
+        "oral_questions": 2,
+        "written_questions": 31
+      },
+      "2026": {
+        "debate_contributions": 49,
+        "debates_participated": 41,
+        "oral_questions": 1,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 138,
+    "debates_participated": 100,
+    "early_day_motions": 1,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 45
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 138,
+    "voting_participation_pct": 78.45,
+    "written_questions": 45
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": true,
+      "meetings_attended": 41,
+      "meetings_available": 41
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2025-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-02"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-02"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-06-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-12"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hastings-and-rye.json",
+    "id": 4089,
+    "name": "Hastings and Rye",
+    "ons_code": "E14001274",
+    "slug": "hastings-and-rye"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "helena.dollimore.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01424 424 125",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.helenadollimore.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/HelenaDollimore1066"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/helenadollimore1066"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5192
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5192,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Helena Dollimore",
+    "full_title": "Helena Dollimore MP",
+    "list_as": "Dollimore, Helena"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hastings and Rye",
+        "constituency_id": 4089,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Helena Dollimore is the Labour (Co-op) MP for <a href='/constituency/4089/overview'>Hastings and Rye</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5192/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 244,
+        "voting_participation_pct": 75.78
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 184,
+        "voting_participation_pct": 77.97
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 495,
+        "voting_participation_pct": 78.45
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 495,
+    "voting_participation_pct": 78.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

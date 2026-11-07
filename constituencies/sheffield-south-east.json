@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 4630.3,
+    "bng": {
+      "easting": 440551,
+      "northing": 386679
+    },
+    "centroid": {
+      "latitude": 53.37543,
+      "longitude": -1.39193
+    },
+    "geojson": "constituencies/boundaries/sheffield-south-east.geojson",
+    "ons_code": "E14001470",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/394.json",
+    "member_id": 394,
+    "name": "Mr Clive Betts",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74156,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12458,
+      "result": "Lab Hold",
+      "turnout": 35771,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3723,
+      "end_date": "2024-05-30",
+      "member_id": 394,
+      "name": "Mr Clive Betts",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4285,
+  "is_current": true,
+  "name": "Sheffield South East",
+  "name_cy": null,
+  "ons_code": "E14001470",
+  "outcodes": [
+    "S12",
+    "S13",
+    "S2",
+    "S20",
+    "S4",
+    "S60",
+    "S9",
+    "S95",
+    "S96",
+    "S97",
+    "S98",
+    "S99"
+  ],
+  "schema_version": 1,
+  "slug": "sheffield-south-east",
+  "start_date": "2024-05-31"
+}

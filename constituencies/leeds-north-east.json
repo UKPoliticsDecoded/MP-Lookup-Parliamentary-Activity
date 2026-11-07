@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 3937.7,
+    "bng": {
+      "easting": 430948,
+      "northing": 438845
+    },
+    "centroid": {
+      "latitude": 53.84494,
+      "longitude": -1.53111
+    },
+    "geojson": "constituencies/boundaries/leeds-north-east.geojson",
+    "ons_code": "E14001321",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/415.json",
+    "member_id": 415,
+    "name": "Fabian Hamilton",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70178,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16083,
+      "result": "Lab Hold",
+      "turnout": 45167,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3567,
+      "end_date": "2024-05-30",
+      "member_id": 415,
+      "name": "Fabian Hamilton",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1699,
+      "end_date": "2010-05-06",
+      "member_id": 415,
+      "name": "Fabian Hamilton",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4136,
+  "is_current": true,
+  "name": "Leeds North East",
+  "name_cy": null,
+  "ons_code": "E14001321",
+  "outcodes": [
+    "LS16",
+    "LS17",
+    "LS21",
+    "LS6",
+    "LS7",
+    "LS8"
+  ],
+  "schema_version": 1,
+  "slug": "leeds-north-east",
+  "start_date": "2024-05-31"
+}

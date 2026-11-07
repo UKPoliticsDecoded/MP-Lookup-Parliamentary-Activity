@@ -1,0 +1,527 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 120,
+        "debates_participated": 67,
+        "oral_questions": 6,
+        "written_questions": 202
+      },
+      "2021": {
+        "debate_contributions": 292,
+        "debates_participated": 75,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 157
+      },
+      "2022": {
+        "debate_contributions": 144,
+        "debates_participated": 93,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 321
+      },
+      "2023": {
+        "debate_contributions": 167,
+        "debates_participated": 110,
+        "early_day_motions": 5,
+        "oral_questions": 12,
+        "written_questions": 258
+      },
+      "2024": {
+        "debate_contributions": 89,
+        "debates_participated": 49,
+        "oral_questions": 5,
+        "written_questions": 447
+      },
+      "2025": {
+        "written_questions": 115
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 813,
+    "debates_participated": 395,
+    "early_day_motions": 7,
+    "oral_questions": 31,
+    "petitions_presented": 0,
+    "written_questions": 1500
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 813,
+    "voting_participation_pct": 75.13,
+    "written_questions": 1500
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety Bill",
+      "committee_id": 535,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": false,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+      "committee_id": 660,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 50,
+      "meetings_available": 50
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Building Safety Bill",
+        "committee_id": 535,
+        "file": "committees/building-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "building-safety-bill"
+      },
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2018-07-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2025-03-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
+        "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+        "committee_id": 660,
+        "file": "committees/pensions-extension-of-automatic-enrolment-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "pensions-extension-of-automatic-enrolment-no-2-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-13"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/runcorn-and-helsby.json",
+    "id": 4270,
+    "name": "Runcorn and Helsby",
+    "ons_code": "E14001455",
+    "slug": "runcorn-and-helsby"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4667
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4667,
+  "membership": {
+    "end_date": "2025-03-17",
+    "end_reason": "Resignation (Chiltern)",
+    "start_date": "2017-06-08",
+    "status": null
+  },
+  "name": {
+    "address_as": "Mike Amesbury",
+    "display": "Mike Amesbury",
+    "full_title": "Mike Amesbury",
+    "list_as": "Amesbury, Mike"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Levelling Up, Housing, Communities and Local Government)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-06-30",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions) (Employment)",
+        "start_date": "2018-07-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2025-03-17",
+        "party": "Independent",
+        "start_date": "2024-10-27"
+      },
+      {
+        "end_date": "2024-10-27",
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Runcorn and Helsby",
+        "constituency_id": 4270,
+        "end_date": "2025-03-17",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Weaver Vale",
+        "constituency_id": 3836,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Mike Amesbury is no longer a Member, but was most recently the Independent MP for <a href='/constituency/4270/overview'>Runcorn and Helsby</a>, and left the Commons on 17 March 2025.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4667/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 147,
+        "voting_participation_pct": 77.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 185,
+        "voting_participation_pct": 73.71
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 195,
+        "voting_participation_pct": 76.17
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 126,
+        "voting_participation_pct": 63.0
+      },
+      "2025": {
+        "divisions_eligible": 53,
+        "divisions_voted": 25,
+        "voting_participation_pct": 47.17
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 824,
+        "voting_participation_pct": 77.15
+      },
+      "59th": {
+        "divisions_eligible": 126,
+        "divisions_voted": 73,
+        "voting_participation_pct": 57.94
+      }
+    },
+    "divisions_eligible": 1194,
+    "divisions_voted": 897,
+    "voting_participation_pct": 75.13
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

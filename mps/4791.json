@@ -1,0 +1,511 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 116,
+        "debates_participated": 91,
+        "oral_questions": 19,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 100,
+        "debates_participated": 68,
+        "oral_questions": 14,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 109,
+        "debates_participated": 64,
+        "oral_questions": 13,
+        "written_questions": 10
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 104,
+        "debates_participated": 55,
+        "oral_questions": 8,
+        "petitions_presented": 27,
+        "written_questions": 14
+      },
+      "2024": {
+        "debate_contributions": 105,
+        "debates_participated": 27,
+        "oral_questions": 3,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 534,
+    "debates_participated": 305,
+    "early_day_motions": 0,
+    "oral_questions": 57,
+    "petitions_presented": 27,
+    "written_questions": 40
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 534,
+    "voting_participation_pct": 93.35,
+    "written_questions": 40
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Automated Vehicles Bill [HL]",
+      "committee_id": 714,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment (Allocation of Tips) Bill",
+      "committee_id": 615,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Skills and Post-16 Education [HL] Bill",
+      "committee_id": 557,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 726,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Automated Vehicles Bill [HL]",
+        "committee_id": 714,
+        "file": "committees/automated-vehicles-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "automated-vehicles-bill-hl"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Employment (Allocation of Tips) Bill",
+        "committee_id": 615,
+        "file": "committees/employment-allocation-of-tips-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "employment-allocation-of-tips-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-14"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      },
+      {
+        "committee": "Skills and Post-16 Education [HL] Bill",
+        "committee_id": 557,
+        "file": "committees/skills-and-post-16-education-hl-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "skills-and-post-16-education-hl-bill"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 726,
+        "file": "committees/space-industry-indemnities-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3830,
+    "name": "Warrington South"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4791
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4791,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Andy Carter",
+    "full_title": "Andy Carter",
+    "list_as": "Carter, Andy"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4380,
+        "name": "Warrington South",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Warrington South",
+        "constituency_id": 3830,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Andy Carter is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3830/overview'>Warrington South</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4791/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 188,
+        "voting_participation_pct": 98.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 232,
+        "voting_participation_pct": 92.43
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 249,
+        "voting_participation_pct": 97.27
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 114,
+        "voting_participation_pct": 89.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 997,
+        "voting_participation_pct": 93.35
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 997,
+    "voting_participation_pct": 93.35
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

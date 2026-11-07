@@ -1,0 +1,218 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 10,
+        "oral_questions": 1,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 83,
+        "debates_participated": 62,
+        "oral_questions": 15,
+        "written_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 66,
+        "debates_participated": 44,
+        "oral_questions": 6,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 161,
+    "debates_participated": 116,
+    "early_day_motions": 0,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 7
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 161,
+    "voting_participation_pct": 84.15,
+    "written_questions": 7
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 113,
+      "meetings_available": 113
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/derby-south.json",
+    "id": 4009,
+    "name": "Derby South",
+    "ons_code": "E14001194",
+    "slug": "derby-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "baggy.shanker.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5176
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5176,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Baggy Shanker",
+    "full_title": "Baggy Shanker MP",
+    "list_as": "Shanker, Baggy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Derby South",
+        "constituency_id": 4009,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Baggy Shanker is the Labour (Co-op) MP for <a href='/constituency/4009/overview'>Derby South</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5176/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 64,
+        "voting_participation_pct": 87.67
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 209,
+        "voting_participation_pct": 88.56
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 531,
+        "voting_participation_pct": 84.15
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 531,
+    "voting_participation_pct": 84.15
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

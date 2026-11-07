@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 2516.7,
+    "bng": {
+      "easting": 496534,
+      "northing": 180509
+    },
+    "centroid": {
+      "latitude": 51.51526,
+      "longitude": -0.61019
+    },
+    "geojson": "constituencies/boundaries/slough.geojson",
+    "ons_code": "E14001477",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4638.json",
+    "member_id": 4638,
+    "name": "Mr Tanmanjeet Singh Dhesi",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 81295,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3647,
+      "result": "Lab Hold",
+      "turnout": 43278,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3733,
+      "end_date": "2024-05-30",
+      "member_id": 4638,
+      "name": "Mr Tanmanjeet Singh Dhesi",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4292,
+  "is_current": true,
+  "name": "Slough",
+  "name_cy": null,
+  "ons_code": "E14001477",
+  "outcodes": [
+    "SL0",
+    "SL1",
+    "SL2",
+    "SL3",
+    "SL4",
+    "SL6",
+    "SL95"
+  ],
+  "schema_version": 1,
+  "slug": "slough",
+  "start_date": "2024-05-31"
+}

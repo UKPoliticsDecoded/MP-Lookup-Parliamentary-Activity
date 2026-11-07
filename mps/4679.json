@@ -1,0 +1,337 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 59,
+        "debates_participated": 36,
+        "oral_questions": 4,
+        "written_questions": 106
+      },
+      "2021": {
+        "debate_contributions": 43,
+        "debates_participated": 24,
+        "oral_questions": 2,
+        "written_questions": 10
+      },
+      "2022": {
+        "debate_contributions": 279,
+        "debates_participated": 52,
+        "written_questions": 8
+      },
+      "2023": {
+        "debate_contributions": 244,
+        "debates_participated": 70,
+        "oral_questions": 2,
+        "written_questions": 68
+      },
+      "2024": {
+        "debate_contributions": 72,
+        "debates_participated": 41,
+        "oral_questions": 4,
+        "written_questions": 298
+      },
+      "2025": {
+        "debate_contributions": 476,
+        "debates_participated": 73,
+        "oral_questions": 1,
+        "written_questions": 419
+      },
+      "2026": {
+        "debate_contributions": 23,
+        "debates_participated": 10,
+        "written_questions": 281
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1197,
+    "debates_participated": 307,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 1190
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1197,
+    "voting_participation_pct": 82.4,
+    "written_questions": 1190
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-15"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/harborough-oadby-and-wigston.json",
+    "id": 4081,
+    "name": "Harborough, Oadby and Wigston",
+    "ons_code": "E14001266",
+    "slug": "harborough-oadby-and-wigston"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "neil.obrien.mp@parliament.uk",
+      "phone": "0207 219 1802",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.neilobrien.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/neil4harborough/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/NeilDotObrien"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4679
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4679,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Neil O'Brien",
+    "display": "Neil O'Brien",
+    "full_title": "Neil O'Brien MP",
+    "list_as": "O'Brien, Neil"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+        "start_date": "2022-09-08"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2021-09-16"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Policy Renewal and Development)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2024-11-04"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Harborough, Oadby and Wigston",
+        "constituency_id": 4081,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Harborough",
+        "constituency_id": 3514,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Neil O'Brien is the Conservative MP for <a href='/constituency/4081/overview'>Harborough, Oadby and Wigston</a>, and has been an MP continually since 8 June 2017. \r\nHe currently undertakes the role of Shadow Minister (Policy Renewal and Development).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4679/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 179,
+        "voting_participation_pct": 94.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 219,
+        "voting_participation_pct": 87.25
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 250,
+        "voting_participation_pct": 97.66
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 152,
+        "voting_participation_pct": 76.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 221,
+        "voting_participation_pct": 68.63
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 160,
+        "voting_participation_pct": 67.8
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 974,
+        "voting_participation_pct": 91.2
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 426,
+        "voting_participation_pct": 67.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1400,
+    "voting_participation_pct": 82.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

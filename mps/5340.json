@@ -1,0 +1,314 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 8,
+        "oral_questions": 2,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 230,
+        "debates_participated": 74,
+        "early_day_motions": 1,
+        "oral_questions": 20,
+        "written_questions": 117
+      },
+      "2026": {
+        "debate_contributions": 39,
+        "debates_participated": 23,
+        "oral_questions": 7,
+        "written_questions": 149
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 281,
+    "debates_participated": 105,
+    "early_day_motions": 1,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 276
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 281,
+    "voting_participation_pct": 66.88,
+    "written_questions": 276
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crime and Policing Bill",
+      "committee_id": 786,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 53,
+      "meetings_available": 53
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Courts Bill",
+      "committee_id": 801,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      },
+      {
+        "committee": "Crime and Policing Bill",
+        "committee_id": 786,
+        "file": "committees/crime-and-policing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-20"
+          }
+        ],
+        "slug": "crime-and-policing-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      },
+      {
+        "committee": "Victims and Courts Bill",
+        "committee_id": 801,
+        "file": "committees/victims-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-17"
+          }
+        ],
+        "slug": "victims-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/windsor.json",
+    "id": 4403,
+    "name": "Windsor",
+    "ons_code": "E14001588",
+    "slug": "windsor"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jack.rankin.mp@parliament.uk",
+      "phone": "020 7219 1233",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "www.jackrankin.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JackRankinWindsor"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/jackmrankin"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5340
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5340,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jack Rankin",
+    "full_title": "Jack Rankin MP",
+    "list_as": "Rankin, Jack"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3831,
+        "name": "Warwick and Leamington",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Windsor",
+        "constituency_id": 4403,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jack Rankin is the Conservative MP for <a href='/constituency/4403/overview'>Windsor</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5340/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 45,
+        "voting_participation_pct": 61.64
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 214,
+        "voting_participation_pct": 66.46
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 163,
+        "voting_participation_pct": 69.07
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 422,
+        "voting_participation_pct": 66.88
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 422,
+    "voting_participation_pct": 66.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 9
+      },
+      "2025": {
+        "debate_contributions": 125,
+        "debates_participated": 31
+      },
+      "2026": {
+        "debate_contributions": 97,
+        "debates_participated": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 244,
+    "debates_participated": 60,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 244,
+    "voting_participation_pct": 64.66,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/midlothian.json",
+    "id": 4445,
+    "name": "Midlothian",
+    "ons_code": "S14000045",
+    "slug": "midlothian"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kirsty.mcneill.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "www.kirstymcneill.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "www.facebook.com/KirstyMcNeillLabour"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/kirstyjmcneill/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/kirstyjmcneill"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@kirstymcneillmidlothian24"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5114
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5114,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kirsty McNeill",
+    "full_title": "Kirsty McNeill MP",
+    "list_as": "McNeill, Kirsty"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Foreign, Commonwealth and Development Office)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Scotland Office)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Foreign, Commonwealth and Development Office)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2155,
+        "name": "North Southwark and Bermondsey",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Midlothian",
+        "constituency_id": 4445,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Kirsty McNeill is the Labour (Co-op) MP for <a href='/constituency/4445/overview'>Midlothian</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Minister of State (Foreign, Commonwealth and Development Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5114/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 218,
+        "voting_participation_pct": 67.7
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 119,
+        "voting_participation_pct": 50.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 408,
+        "voting_participation_pct": 64.66
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 408,
+    "voting_participation_pct": 64.66
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 65,
+        "debates_participated": 53,
+        "oral_questions": 3,
+        "written_questions": 32
+      },
+      "2025": {
+        "debate_contributions": 132,
+        "debates_participated": 94,
+        "oral_questions": 9,
+        "written_questions": 39
+      },
+      "2026": {
+        "debate_contributions": 114,
+        "debates_participated": 87,
+        "oral_questions": 4,
+        "written_questions": 150
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 311,
+    "debates_participated": 234,
+    "early_day_motions": 0,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 221
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 311,
+    "voting_participation_pct": 77.5,
+    "written_questions": 221
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": true,
+      "meetings_attended": 85,
+      "meetings_available": 85
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+      "committee_id": 749,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "education"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+        "committee_id": 749,
+        "file": "committees/non-domestic-rating-multipliers-and-private-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "non-domestic-rating-multipliers-and-private-schools-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/leeds-south-west-and-morley.json",
+    "id": 4139,
+    "name": "Leeds South West and Morley",
+    "ons_code": "E14001324",
+    "slug": "leeds-south-west-and-morley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mark.sewards.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "62 Queen Street, Morley",
+      "phone": "0113 529 0596",
+      "postcode": "LS27 9BP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/MarkSewardsforLeedsSWandMorley/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/markjsewards"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5166
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5166,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mark Sewards",
+    "full_title": "Mark Sewards MP",
+    "list_as": "Sewards, Mark"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3516,
+        "name": "Harrogate and Knaresborough",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3516,
+        "name": "Harrogate and Knaresborough",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leeds South West and Morley",
+        "constituency_id": 4139,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mark Sewards is the Labour MP for <a href='/constituency/4139/overview'>Leeds South West and Morley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5166/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 246,
+        "voting_participation_pct": 76.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 489,
+        "voting_participation_pct": 77.5
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 489,
+    "voting_participation_pct": 77.5
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 65,
+        "debates_participated": 25,
+        "early_day_motions": 1,
+        "written_questions": 23
+      },
+      "2025": {
+        "debate_contributions": 118,
+        "debates_participated": 64,
+        "early_day_motions": 28,
+        "oral_questions": 7,
+        "written_questions": 370
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 93,
+        "debates_participated": 54,
+        "early_day_motions": 19,
+        "oral_questions": 1,
+        "written_questions": 320
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 276,
+    "debates_participated": 143,
+    "early_day_motions": 48,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 713
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 276,
+    "voting_participation_pct": 56.1,
+    "written_questions": 713
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-cambridgeshire.json",
+    "id": 4296,
+    "name": "South Cambridgeshire",
+    "ons_code": "E14001481",
+    "slug": "south-cambridgeshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "pippa.heylings.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "07751 923176",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.pippaheylings.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/pippaheylings"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/pippa4southcambs/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/pippaheylings"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5078
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5078,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Pippa Heylings",
+    "full_title": "Pippa Heylings MP",
+    "list_as": "Heylings, Pippa"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Energy Security and Net Zero)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3742,
+        "name": "South East Cambridgeshire",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Cambridgeshire",
+        "constituency_id": 4296,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Pippa Heylings is the Liberal Democrat MP for <a href='/constituency/4296/overview'>South Cambridgeshire</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5078/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 36,
+        "voting_participation_pct": 49.32
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 192,
+        "voting_participation_pct": 59.63
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 126,
+        "voting_participation_pct": 53.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 354,
+        "voting_participation_pct": 56.1
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 354,
+    "voting_participation_pct": 56.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

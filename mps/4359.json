@@ -1,0 +1,479 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 110,
+        "debates_participated": 46,
+        "oral_questions": 6,
+        "written_questions": 91
+      },
+      "2021": {
+        "debate_contributions": 118,
+        "debates_participated": 64,
+        "oral_questions": 7,
+        "written_questions": 78
+      },
+      "2022": {
+        "debate_contributions": 308,
+        "debates_participated": 89,
+        "oral_questions": 7,
+        "written_questions": 253
+      },
+      "2023": {
+        "debate_contributions": 149,
+        "debates_participated": 60,
+        "oral_questions": 5,
+        "written_questions": 150
+      },
+      "2024": {
+        "debate_contributions": 216,
+        "debates_participated": 62,
+        "oral_questions": 3,
+        "written_questions": 55
+      },
+      "2025": {
+        "debate_contributions": 688,
+        "debates_participated": 101
+      },
+      "2026": {
+        "debate_contributions": 199,
+        "debates_participated": 40
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1788,
+    "debates_participated": 462,
+    "early_day_motions": 0,
+    "oral_questions": 28,
+    "petitions_presented": 0,
+    "written_questions": 627
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1788,
+    "voting_participation_pct": 75.93,
+    "written_questions": 627
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-11-09"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/aberafan-maesteg.json",
+    "id": 4496,
+    "name": "Aberafan Maesteg",
+    "ons_code": "W07000081",
+    "slug": "aberafan-maesteg"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "stephen.kinnock.mp@parliament.uk",
+      "phone": "020 7219 8801",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.stephenkinnock.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/stephenkinnock"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/skinnock"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4359
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4359,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Stephen Kinnock",
+    "display": "Stephen Kinnock",
+    "full_title": "Rt Hon Stephen Kinnock MP",
+    "list_as": "Kinnock, Stephen"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Secretary of State for Wales",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "ministerial_current": [
+      "Secretary of State for Wales"
+    ],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office) (Immigration)",
+        "start_date": "2022-02-03"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2022-02-03",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2020-09-02"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-09-02",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Aberafan Maesteg",
+        "constituency_id": 4496,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Aberavon",
+        "constituency_id": 3287,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Stephen Kinnock is the Labour MP for <a href='/constituency/4496/overview'>Aberafan Maesteg</a>, and has been an MP continually since 7 May 2015. \r\nHe currently holds the Government post of Secretary of State for Wales.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4359/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 169,
+        "voting_participation_pct": 67.33
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 204,
+        "voting_participation_pct": 79.69
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 138,
+        "voting_participation_pct": 69.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 270,
+        "voting_participation_pct": 83.85
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 167,
+        "voting_participation_pct": 70.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 793,
+        "voting_participation_pct": 74.25
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 497,
+        "voting_participation_pct": 78.76
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1290,
+    "voting_participation_pct": 75.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

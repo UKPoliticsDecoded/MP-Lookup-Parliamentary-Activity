@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 3788.2,
+    "bng": {
+      "easting": 337399,
+      "northing": 377627
+    },
+    "centroid": {
+      "latitude": 53.2919,
+      "longitude": -2.94059
+    },
+    "geojson": "constituencies/boundaries/ellesmere-port-and-bromborough.geojson",
+    "ons_code": "E14001222",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4418.json",
+    "member_id": 4418,
+    "name": "Justin Madders",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70799,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16908,
+      "result": "Lab Hold",
+      "turnout": 41964,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4037,
+  "is_current": true,
+  "name": "Ellesmere Port and Bromborough",
+  "name_cy": null,
+  "ons_code": "E14001222",
+  "outcodes": [
+    "CH1",
+    "CH2",
+    "CH32",
+    "CH34",
+    "CH42",
+    "CH62",
+    "CH63",
+    "CH65",
+    "CH66"
+  ],
+  "schema_version": 1,
+  "slug": "ellesmere-port-and-bromborough",
+  "start_date": "2024-05-31"
+}

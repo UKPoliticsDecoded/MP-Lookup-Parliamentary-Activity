@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 8171.9,
+    "bng": {
+      "easting": 245864,
+      "northing": 668396
+    },
+    "centroid": {
+      "latitude": 55.88396,
+      "longitude": -4.46579
+    },
+    "geojson": "constituencies/boundaries/paisley-and-renfrewshire-north.geojson",
+    "ons_code": "S14000101",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5093.json",
+    "member_id": 5093,
+    "name": "Alison Taylor",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71103,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6333,
+      "result": "Lab Gain",
+      "turnout": 41519,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 2285,
+      "end_date": "2024-05-30",
+      "member_id": 4420,
+      "name": "Gavin Newlands",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4490,
+  "is_current": true,
+  "name": "Paisley and Renfrewshire North",
+  "name_cy": null,
+  "ons_code": "S14000101",
+  "outcodes": [
+    "G51",
+    "G52",
+    "PA1",
+    "PA14",
+    "PA2",
+    "PA3",
+    "PA4",
+    "PA6",
+    "PA7",
+    "PA8"
+  ],
+  "schema_version": 1,
+  "slug": "paisley-and-renfrewshire-north",
+  "start_date": "2024-05-31"
+}

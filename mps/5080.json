@@ -1,0 +1,208 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 8,
+        "debates_participated": 8,
+        "oral_questions": 2,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 47,
+        "debates_participated": 28,
+        "oral_questions": 9,
+        "written_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 14,
+        "debates_participated": 13,
+        "oral_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 69,
+    "debates_participated": 49,
+    "early_day_motions": 0,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 4
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 69,
+    "voting_participation_pct": 88.59,
+    "written_questions": 4
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newton-aycliffe-and-spennymoor.json",
+    "id": 4197,
+    "name": "Newton Aycliffe and Spennymoor",
+    "ons_code": "E14001382",
+    "slug": "newton-aycliffe-and-spennymoor"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alan.strickland.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AlanStrickland"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5080
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5080,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alan Strickland",
+    "full_title": "Alan Strickland MP",
+    "list_as": "Strickland, Alan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3319,
+        "name": "Berwick-upon-Tweed",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newton Aycliffe and Spennymoor",
+        "constituency_id": 4197,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alan Strickland is the Labour MP for <a href='/constituency/4197/overview'>Newton Aycliffe and Spennymoor</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5080/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 271,
+        "voting_participation_pct": 84.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 219,
+        "voting_participation_pct": 92.8
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 559,
+        "voting_participation_pct": 88.59
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 559,
+    "voting_participation_pct": 88.59
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

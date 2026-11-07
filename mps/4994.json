@@ -1,0 +1,230 @@
+{
+  "activity": {
+    "annual": {
+      "2023": {
+        "debate_contributions": 7,
+        "debates_participated": 6,
+        "oral_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 32,
+        "debates_participated": 21,
+        "oral_questions": 12,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 39,
+    "debates_participated": 27,
+    "early_day_motions": 0,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 2
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 39,
+    "voting_participation_pct": 94.66,
+    "written_questions": 2
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 720,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-14"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 720,
+        "file": "committees/tobacco-and-vapes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3817,
+    "name": "Uxbridge and South Ruislip"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4994
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4994,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2023-07-20",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Steve Tuckwell",
+    "full_title": "Steve Tuckwell",
+    "list_as": "Tuckwell, Steve"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4373,
+        "name": "Uxbridge and South Ruislip",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2023-07-20"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Uxbridge and South Ruislip",
+        "constituency_id": 3817,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2023-07-20"
+      }
+    ]
+  },
+  "synopsis": "Steve Tuckwell is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3817/overview'>Uxbridge and South Ruislip</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4994/Thumbnail",
+  "voting": {
+    "annual": {
+      "2023": {
+        "divisions_eligible": 79,
+        "divisions_voted": 79,
+        "voting_participation_pct": 100.0
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 116,
+        "voting_participation_pct": 91.34
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 206,
+        "divisions_voted": 195,
+        "voting_participation_pct": 94.66
+      }
+    },
+    "divisions_eligible": 206,
+    "divisions_voted": 195,
+    "voting_participation_pct": 94.66
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

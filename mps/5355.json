@@ -1,0 +1,279 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 189,
+        "debates_participated": 85,
+        "oral_questions": 20,
+        "written_questions": 204
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 87,
+        "debates_participated": 56,
+        "oral_questions": 4,
+        "written_questions": 43
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 292,
+    "debates_participated": 153,
+    "early_day_motions": 0,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 251
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 292,
+    "voting_participation_pct": 71.16,
+    "written_questions": 251
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-northamptonshire.json",
+    "id": 4305,
+    "name": "South Northamptonshire",
+    "ons_code": "E14001490",
+    "slug": "south-northamptonshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.bool.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5355
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5355,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Bool",
+    "full_title": "Sarah Bool MP",
+    "list_as": "Bool, Sarah"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Home Office)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Justice)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3820,
+        "name": "Vauxhall",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Northamptonshire",
+        "constituency_id": 4305,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sarah Bool is the Conservative MP for <a href='/constituency/4305/overview'>South Northamptonshire</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the roles of Shadow Parliamentary Under Secretary (Home Office), Shadow Parliamentary Under Secretary (Justice), and Opposition Assistant Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5355/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 58,
+        "voting_participation_pct": 79.45
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 227,
+        "voting_participation_pct": 70.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 164,
+        "voting_participation_pct": 69.49
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 449,
+        "voting_participation_pct": 71.16
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 449,
+    "voting_participation_pct": 71.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

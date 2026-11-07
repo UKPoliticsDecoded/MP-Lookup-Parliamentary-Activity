@@ -1,0 +1,369 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 41,
+        "debates_participated": 24,
+        "oral_questions": 8,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 300,
+        "debates_participated": 152,
+        "oral_questions": 16,
+        "written_questions": 52
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 240,
+        "debates_participated": 123,
+        "oral_questions": 11,
+        "written_questions": 14
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 581,
+    "debates_participated": 299,
+    "early_day_motions": 0,
+    "oral_questions": 35,
+    "petitions_presented": 0,
+    "written_questions": 69
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 581,
+    "voting_participation_pct": 69.41,
+    "written_questions": 69
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 809,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "defence"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      },
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 809,
+        "file": "committees/secure-16-to-19-academies-bill-809.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill-809"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/spelthorne.json",
+    "id": 4320,
+    "name": "Spelthorne",
+    "ons_code": "E14001505",
+    "slug": "spelthorne"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lincoln.jopp.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://lincolnjoppmc.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61568175346331"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/LincolnJopp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5332
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5332,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lincoln Jopp",
+    "full_title": "Lincoln Jopp MP",
+    "list_as": "Jopp, Lincoln"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Foreign, Commonwealth and Development Affairs)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Spelthorne",
+        "constituency_id": 4320,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lincoln Jopp is the Conservative MP for <a href='/constituency/4320/overview'>Spelthorne</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow Parliamentary Under Secretary (Foreign, Commonwealth and Development Affairs), and Opposition Assistant Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5332/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 52,
+        "voting_participation_pct": 71.23
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 208,
+        "voting_participation_pct": 64.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 438,
+        "voting_participation_pct": 69.41
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 438,
+    "voting_participation_pct": 69.41
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

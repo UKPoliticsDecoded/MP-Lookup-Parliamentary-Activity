@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 2021.5,
+    "bng": {
+      "easting": 519962,
+      "northing": 181117
+    },
+    "centroid": {
+      "latitude": 51.51624,
+      "longitude": -0.2725
+    },
+    "geojson": "constituencies/boundaries/ealing-central-and-acton.geojson",
+    "ons_code": "E14001207",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4511.json",
+    "member_id": 4511,
+    "name": "Dr Rupa Huq",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78436,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13995,
+      "result": "Lab Hold",
+      "turnout": 47769,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3455,
+      "end_date": "2024-05-30",
+      "member_id": 4511,
+      "name": "Dr Rupa Huq",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4022,
+  "is_current": true,
+  "name": "Ealing Central and Acton",
+  "name_cy": null,
+  "ons_code": "E14001207",
+  "outcodes": [
+    "NW10",
+    "W10",
+    "W12",
+    "W13",
+    "W2",
+    "W3",
+    "W4",
+    "W5"
+  ],
+  "schema_version": 1,
+  "slug": "ealing-central-and-acton",
+  "start_date": "2024-05-31"
+}

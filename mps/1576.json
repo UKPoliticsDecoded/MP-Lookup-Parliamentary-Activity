@@ -1,0 +1,309 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 3
+      },
+      "2020": {
+        "debate_contributions": 80,
+        "debates_participated": 43,
+        "oral_questions": 5,
+        "petitions_presented": 2,
+        "written_questions": 77
+      },
+      "2021": {
+        "debate_contributions": 17,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 69
+      },
+      "2022": {
+        "debate_contributions": 37,
+        "debates_participated": 28,
+        "written_questions": 61
+      },
+      "2023": {
+        "debate_contributions": 66,
+        "debates_participated": 37,
+        "written_questions": 89
+      },
+      "2024": {
+        "debate_contributions": 75,
+        "debates_participated": 45,
+        "written_questions": 103
+      },
+      "2025": {
+        "debate_contributions": 125,
+        "debates_participated": 100,
+        "oral_questions": 3,
+        "written_questions": 150
+      },
+      "2026": {
+        "debate_contributions": 141,
+        "debates_participated": 96,
+        "oral_questions": 3,
+        "written_questions": 138
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 541,
+    "debates_participated": 361,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 2,
+    "written_questions": 690
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 541,
+    "voting_participation_pct": 60.39,
+    "written_questions": 690
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2012-12-03"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-13"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/the-wrekin.json",
+    "id": 4358,
+    "name": "The Wrekin",
+    "ons_code": "E14001543",
+    "slug": "the-wrekin"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mark.pritchard.mp@parliament.uk",
+      "phone": "020 7219 8494",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "25 Church Street, Wellington",
+      "phone": "01952 256080",
+      "postcode": "TF1 1DG",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.markpritchard.com"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/MPritchardUK"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1576
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1576,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mark Pritchard",
+    "display": "Mark Pritchard",
+    "full_title": "Rt Hon Mark Pritchard MP",
+    "list_as": "Pritchard, Mark"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3043,
+        "name": "Warley",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "The Wrekin",
+        "constituency_id": 4358,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "The Wrekin",
+        "constituency_id": 3800,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "The Wrekin",
+        "constituency_id": 2916,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mark Pritchard is the Conservative MP for <a href='/constituency/4358/overview'>The Wrekin</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1576/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 181,
+        "voting_participation_pct": 74.79
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 103,
+        "voting_participation_pct": 41.04
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 189,
+        "voting_participation_pct": 73.83
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 168,
+        "voting_participation_pct": 52.17
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 119,
+        "voting_participation_pct": 50.42
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 701,
+        "voting_participation_pct": 65.64
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 325,
+        "voting_participation_pct": 51.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1026,
+    "voting_participation_pct": 60.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

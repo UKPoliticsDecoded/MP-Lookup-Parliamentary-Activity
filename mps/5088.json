@@ -1,0 +1,225 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 29,
+        "debates_participated": 22,
+        "oral_questions": 9,
+        "written_questions": 24
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 61,
+        "debates_participated": 44,
+        "oral_questions": 8,
+        "written_questions": 77
+      },
+      "2026": {
+        "debate_contributions": 39,
+        "debates_participated": 32,
+        "oral_questions": 8,
+        "written_questions": 33
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 129,
+    "debates_participated": 98,
+    "early_day_motions": 0,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 134
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 129,
+    "voting_participation_pct": 81.14,
+    "written_questions": 134
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "committee_id": 856,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": false,
+      "meetings_attended": 29,
+      "meetings_available": 29
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+        "committee_id": 856,
+        "file": "committees/building-safety-remediation-of-unsafe-cladding-etc-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-04"
+          }
+        ],
+        "slug": "building-safety-remediation-of-unsafe-cladding-etc-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "modernisation"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/west-bromwich.json",
+    "id": 4389,
+    "name": "West Bromwich",
+    "ons_code": "E14001574",
+    "slug": "west-bromwich"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.coombes.mp@parliament.uk",
+      "phone": "020 7219 3445",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "phone": "0121 389 3982",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.sarahcoombes.co.uk/ "
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Sarah4WB"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/SarahCoombesWB"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5088
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5088,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Coombes",
+    "full_title": "Sarah Coombes MP",
+    "list_as": "Coombes, Sarah"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Assistant Whip",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Assistant Whip"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Bromwich",
+        "constituency_id": 4389,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sarah Coombes is the Labour MP for <a href='/constituency/4389/overview'>West Bromwich</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Assistant Whip.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5088/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 272,
+        "voting_participation_pct": 84.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 512,
+        "voting_participation_pct": 81.14
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 512,
+    "voting_participation_pct": 81.14
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

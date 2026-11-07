@@ -1,0 +1,55 @@
+{
+  "boundary": {
+    "area_hectares": 7839.9,
+    "bng": {
+      "easting": 496703,
+      "northing": 225441
+    },
+    "centroid": {
+      "latitude": 51.91911,
+      "longitude": -0.59529
+    },
+    "geojson": "constituencies/boundaries/dunstable-and-leighton-buzzard.geojson",
+    "ons_code": "E14001206",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5141.json",
+    "member_id": 5141,
+    "name": "Alex Mayer",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76742,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 667,
+      "result": "Lab Gain",
+      "turnout": 46045,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4021,
+  "is_current": true,
+  "name": "Dunstable and Leighton Buzzard",
+  "name_cy": null,
+  "ons_code": "E14001206",
+  "outcodes": [
+    "LU5",
+    "LU6",
+    "LU7"
+  ],
+  "schema_version": 1,
+  "slug": "dunstable-and-leighton-buzzard",
+  "start_date": "2024-05-31"
+}

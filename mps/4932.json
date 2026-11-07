@@ -1,0 +1,404 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "debate_contributions": 18,
+        "debates_participated": 14,
+        "oral_questions": 2,
+        "written_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 75,
+        "debates_participated": 58,
+        "oral_questions": 12,
+        "written_questions": 10
+      },
+      "2024": {
+        "debate_contributions": 41,
+        "debates_participated": 20,
+        "oral_questions": 6,
+        "written_questions": 32
+      },
+      "2025": {
+        "debate_contributions": 414,
+        "debates_participated": 64,
+        "oral_questions": 3,
+        "petitions_presented": 4,
+        "written_questions": 245
+      },
+      "2026": {
+        "debate_contributions": 75,
+        "debates_participated": 26,
+        "oral_questions": 1,
+        "written_questions": 90
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 623,
+    "debates_participated": 182,
+    "early_day_motions": 0,
+    "oral_questions": 24,
+    "petitions_presented": 4,
+    "written_questions": 378
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 623,
+    "voting_participation_pct": 80.03,
+    "written_questions": 378
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 78,
+      "meetings_available": 78
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-15"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/old-bexley-and-sidcup.json",
+    "id": 4229,
+    "name": "Old Bexley and Sidcup",
+    "ons_code": "E14001414",
+    "slug": "old-bexley-and-sidcup"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "louie.french.mp@parliament.uk",
+      "phone": "0207 219 5446",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.louiefrench.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/louiefrenchbexley"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/louie_french"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4932
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4932,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2021-12-02",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Louie French",
+    "full_title": "Mr Louie French MP",
+    "list_as": "French, Mr Louie"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Culture, Media and Sport)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3473,
+        "name": "Eltham",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2021-12-02"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Old Bexley and Sidcup",
+        "constituency_id": 4229,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Old Bexley and Sidcup",
+        "constituency_id": 3669,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2021-12-02"
+      }
+    ]
+  },
+  "synopsis": "Mr Louie French is the Conservative MP for <a href='/constituency/4229/overview'>Old Bexley and Sidcup</a>, and has been an MP continually since 2 December 2021. \r\nHe currently undertakes the role of Shadow Minister (Digital, Culture, Media and Sport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4932/Thumbnail",
+  "voting": {
+    "annual": {
+      "2021": {
+        "divisions_eligible": 22,
+        "divisions_voted": 18,
+        "voting_participation_pct": 81.82
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 216,
+        "voting_participation_pct": 86.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 249,
+        "voting_participation_pct": 97.27
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 153,
+        "voting_participation_pct": 76.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 224,
+        "voting_participation_pct": 69.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 170,
+        "voting_participation_pct": 72.03
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 656,
+        "divisions_voted": 593,
+        "voting_participation_pct": 90.4
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 437,
+        "voting_participation_pct": 69.26
+      }
+    },
+    "divisions_eligible": 1287,
+    "divisions_voted": 1030,
+    "voting_participation_pct": 80.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

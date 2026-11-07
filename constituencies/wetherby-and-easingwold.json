@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 94238.5,
+    "bng": {
+      "easting": 446740,
+      "northing": 454025
+    },
+    "centroid": {
+      "latitude": 53.98019,
+      "longitude": -1.2888
+    },
+    "geojson": "constituencies/boundaries/wetherby-and-easingwold.geojson",
+    "ons_code": "E14001582",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3997.json",
+    "member_id": 3997,
+    "name": "Sir Alec Shelbrooke",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74314,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4846,
+      "result": "Con Hold",
+      "turnout": 52259,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4397,
+  "is_current": true,
+  "name": "Wetherby and Easingwold",
+  "name_cy": null,
+  "ons_code": "E14001582",
+  "outcodes": [
+    "HG3",
+    "HG4",
+    "HG5",
+    "LS14",
+    "LS15",
+    "LS17",
+    "LS22",
+    "LS23",
+    "LS24",
+    "LS25",
+    "YO23",
+    "YO26",
+    "YO30",
+    "YO51",
+    "YO60",
+    "YO61",
+    "YO7"
+  ],
+  "schema_version": 1,
+  "slug": "wetherby-and-easingwold",
+  "start_date": "2024-05-31"
+}

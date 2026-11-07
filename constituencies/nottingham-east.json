@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 2134.6,
+    "bng": {
+      "easting": 458200,
+      "northing": 341416
+    },
+    "centroid": {
+      "latitude": 52.96697,
+      "longitude": -1.13489
+    },
+    "geojson": "constituencies/boundaries/nottingham-east.geojson",
+    "ons_code": "E14001410",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4869.json",
+    "member_id": 4869,
+    "name": "Nadia Whittome",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69395,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15162,
+      "result": "Lab Hold",
+      "turnout": 36401,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3664,
+      "end_date": "2024-05-30",
+      "member_id": 4869,
+      "name": "Nadia Whittome",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4225,
+  "is_current": true,
+  "name": "Nottingham East",
+  "name_cy": null,
+  "ons_code": "E14001410",
+  "outcodes": [
+    "NG1",
+    "NG2",
+    "NG3",
+    "NG5",
+    "NG7",
+    "NG8"
+  ],
+  "schema_version": 1,
+  "slug": "nottingham-east",
+  "start_date": "2024-05-31"
+}

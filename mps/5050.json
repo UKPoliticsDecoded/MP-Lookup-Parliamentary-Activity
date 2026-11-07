@@ -1,0 +1,373 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 33,
+        "debates_participated": 24,
+        "oral_questions": 3,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 233,
+        "debates_participated": 96,
+        "oral_questions": 13,
+        "written_questions": 184
+      },
+      "2026": {
+        "debate_contributions": 127,
+        "debates_participated": 64,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 69
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 393,
+    "debates_participated": 184,
+    "early_day_motions": 1,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 288
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 393,
+    "voting_participation_pct": 78.45,
+    "written_questions": 288
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "committee_id": 856,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 52,
+      "meetings_available": 52
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+      "committee_id": 749,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+        "committee_id": 856,
+        "file": "committees/building-safety-remediation-of-unsafe-cladding-etc-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-04"
+          }
+        ],
+        "slug": "building-safety-remediation-of-unsafe-cladding-etc-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+        "committee_id": 749,
+        "file": "committees/non-domestic-rating-multipliers-and-private-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "non-domestic-rating-multipliers-and-private-schools-bill"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/broxbourne.json",
+    "id": 3954,
+    "name": "Broxbourne",
+    "ons_code": "E14001139",
+    "slug": "broxbourne"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lewis.cocking.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.lewiscocking.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LewisCockingBroxbourne "
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/lewiscockingmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/_LewisCocking"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5050
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5050,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lewis Cocking",
+    "full_title": "Lewis Cocking MP",
+    "list_as": "Cocking, Lewis"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Housing, Communities and Local Government)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Broxbourne",
+        "constituency_id": 3954,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lewis Cocking is the Conservative MP for <a href='/constituency/3954/overview'>Broxbourne</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow Parliamentary Under Secretary (Housing, Communities and Local Government), and Opposition Assistant Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5050/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 238,
+        "voting_participation_pct": 73.91
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 198,
+        "voting_participation_pct": 83.9
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 495,
+        "voting_participation_pct": 78.45
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 495,
+    "voting_participation_pct": 78.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

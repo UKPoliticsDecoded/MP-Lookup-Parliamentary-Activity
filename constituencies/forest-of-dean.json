@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 58507.2,
+    "bng": {
+      "easting": 370366,
+      "northing": 223234
+    },
+    "centroid": {
+      "latitude": 51.90685,
+      "longitude": -2.43216
+    },
+    "geojson": "constituencies/boundaries/forest-of-dean.geojson",
+    "ons_code": "E14001240",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5323.json",
+    "member_id": 5323,
+    "name": "Matt Bishop",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72857,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 278,
+      "result": "Lab Gain",
+      "turnout": 48091,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4055,
+  "is_current": true,
+  "name": "Forest of Dean",
+  "name_cy": null,
+  "ons_code": "E14001240",
+  "outcodes": [
+    "GL14",
+    "GL15",
+    "GL16",
+    "GL17",
+    "GL18",
+    "GL19",
+    "GL2",
+    "HR8",
+    "HR9",
+    "NP16",
+    "NP25",
+    "WR13"
+  ],
+  "schema_version": 1,
+  "slug": "forest-of-dean",
+  "start_date": "2024-05-31"
+}

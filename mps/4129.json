@@ -1,0 +1,457 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 3,
+        "debates_participated": 2
+      },
+      "2020": {
+        "debate_contributions": 143,
+        "debates_participated": 82,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 40
+      },
+      "2021": {
+        "debate_contributions": 144,
+        "debates_participated": 80,
+        "oral_questions": 6,
+        "petitions_presented": 11,
+        "written_questions": 19
+      },
+      "2022": {
+        "bills_sponsored": 2,
+        "debate_contributions": 177,
+        "debates_participated": 78,
+        "early_day_motions": 1,
+        "oral_questions": 7,
+        "petitions_presented": 2,
+        "written_questions": 32
+      },
+      "2023": {
+        "debate_contributions": 157,
+        "debates_participated": 60,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "petitions_presented": 2,
+        "written_questions": 27
+      },
+      "2024": {
+        "debate_contributions": 59,
+        "debates_participated": 27,
+        "early_day_motions": 3,
+        "written_questions": 23
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 683,
+    "debates_participated": 329,
+    "early_day_motions": 7,
+    "oral_questions": 27,
+    "petitions_presented": 15,
+    "written_questions": 141
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 683,
+    "voting_participation_pct": 42.88,
+    "written_questions": 141
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Equipment Theft (Prevention) Bill",
+      "committee_id": 642,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 75,
+      "meetings_available": 75
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      },
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-23"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Equipment Theft (Prevention) Bill",
+        "committee_id": 642,
+        "file": "committees/equipment-theft-prevention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "equipment-theft-prevention-bill"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-26"
+          },
+          {
+            "end": "2016-12-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-06"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-01-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-10-11"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3634,
+    "name": "North Antrim"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4129
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4129,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ian Paisley",
+    "display": "Ian Paisley",
+    "full_title": "Ian Paisley",
+    "list_as": "Paisley, Ian"
+  },
+  "party": {
+    "abbreviation": "DUP",
+    "id": 7,
+    "name": "Democratic Unionist Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Communities and Local Government)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Culture, Media and Sport)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-08",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Energy and Climate Change)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2010-05-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Work and Pensions)",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4432,
+        "name": "North Antrim",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Democratic Unionist Party",
+        "start_date": "2018-09-18"
+      },
+      {
+        "end_date": "2018-09-18",
+        "party": "Independent",
+        "start_date": "2018-07-24"
+      },
+      {
+        "end_date": "2018-07-24",
+        "party": "Democratic Unionist Party",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Antrim",
+        "constituency_id": 3634,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Ian Paisley is no longer a Member, but was most recently the Democratic Unionist Party MP for <a href='/constituency/3634/overview'>North Antrim</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4129/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 90,
+        "voting_participation_pct": 47.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 161,
+        "voting_participation_pct": 66.53
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 95,
+        "voting_participation_pct": 37.85
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 79,
+        "voting_participation_pct": 30.86
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 31,
+        "voting_participation_pct": 24.41
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 458,
+        "voting_participation_pct": 42.88
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 458,
+    "voting_participation_pct": 42.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

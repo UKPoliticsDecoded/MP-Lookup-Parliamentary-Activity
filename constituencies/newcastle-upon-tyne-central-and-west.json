@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 3263.5,
+    "bng": {
+      "easting": 420882,
+      "northing": 565739
+    },
+    "centroid": {
+      "latitude": 54.98582,
+      "longitude": -1.67522
+    },
+    "geojson": "constituencies/boundaries/newcastle-upon-tyne-central-and-west.geojson",
+    "ons_code": "E14001377",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4124.json",
+    "member_id": 4124,
+    "name": "Dame Chi Onwurah",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76822,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11060,
+      "result": "Lab Hold",
+      "turnout": 41355,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4192,
+  "is_current": true,
+  "name": "Newcastle upon Tyne Central and West",
+  "name_cy": null,
+  "ons_code": "E14001377",
+  "outcodes": [
+    "NE1",
+    "NE15",
+    "NE2",
+    "NE3",
+    "NE4",
+    "NE5",
+    "NE99"
+  ],
+  "schema_version": 1,
+  "slug": "newcastle-upon-tyne-central-and-west",
+  "start_date": "2024-05-31"
+}

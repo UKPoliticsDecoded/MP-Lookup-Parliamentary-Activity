@@ -1,0 +1,381 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 46,
+        "debates_participated": 31,
+        "oral_questions": 4,
+        "written_questions": 121
+      },
+      "2021": {
+        "debate_contributions": 42,
+        "debates_participated": 25,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 283
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 134,
+        "debates_participated": 70,
+        "early_day_motions": 3,
+        "oral_questions": 11,
+        "written_questions": 118
+      },
+      "2023": {
+        "debate_contributions": 87,
+        "debates_participated": 52,
+        "oral_questions": 12,
+        "written_questions": 316
+      },
+      "2024": {
+        "debate_contributions": 97,
+        "debates_participated": 53,
+        "oral_questions": 6,
+        "written_questions": 133
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 184,
+        "debates_participated": 78,
+        "oral_questions": 10,
+        "written_questions": 95
+      },
+      "2026": {
+        "debate_contributions": 120,
+        "debates_participated": 59,
+        "oral_questions": 2,
+        "written_questions": 98
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 710,
+    "debates_participated": 368,
+    "early_day_motions": 4,
+    "oral_questions": 48,
+    "petitions_presented": 0,
+    "written_questions": 1164
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 710,
+    "voting_participation_pct": 55.21,
+    "written_questions": 1164
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Mental Health Bill (Joint Committee)",
+      "committee_id": 605,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Draft Mental Health Bill (Joint Committee)",
+        "committee_id": 605,
+        "file": "committees/draft-mental-health-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-11"
+          }
+        ],
+        "slug": "draft-mental-health-bill-joint-committee"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-15"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-10-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-18"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/battersea.json",
+    "id": 3896,
+    "name": "Battersea",
+    "ons_code": "E14001081",
+    "slug": "battersea"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "marsha.decordova.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://marshadecordova.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/marshadecordova1/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/marshadecordova_"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Marshadecordova"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4676
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4676,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Marsha De Cordova",
+    "display": "Marsha De Cordova",
+    "full_title": "Marsha De Cordova MP",
+    "list_as": "De Cordova, Marsha"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2021-09-15",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Women and Equalities",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions) (Disabled People)",
+        "start_date": "2017-10-09"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Second Church Estates Commissioner",
+        "start_date": "2024-10-07"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Battersea",
+        "constituency_id": 3896,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Battersea",
+        "constituency_id": 3310,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Marsha De Cordova is the Labour MP for <a href='/constituency/3896/overview'>Battersea</a>, and has been an MP continually since 8 June 2017. \r\nShe is Second Church Estates Commissioner.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4676/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 127,
+        "voting_participation_pct": 66.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 170,
+        "voting_participation_pct": 67.73
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 119,
+        "voting_participation_pct": 46.48
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 110,
+        "voting_participation_pct": 55.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 139,
+        "voting_participation_pct": 43.17
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 69,
+        "voting_participation_pct": 29.24
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 691,
+        "voting_participation_pct": 64.7
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 247,
+        "voting_participation_pct": 39.14
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 938,
+    "voting_participation_pct": 55.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

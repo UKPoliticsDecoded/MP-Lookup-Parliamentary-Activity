@@ -1,0 +1,461 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 78,
+        "debates_participated": 64,
+        "oral_questions": 14,
+        "written_questions": 14
+      },
+      "2021": {
+        "debate_contributions": 93,
+        "debates_participated": 63,
+        "oral_questions": 10,
+        "written_questions": 3
+      },
+      "2022": {
+        "debate_contributions": 50,
+        "debates_participated": 39,
+        "oral_questions": 11,
+        "written_questions": 10
+      },
+      "2023": {
+        "debate_contributions": 44,
+        "debates_participated": 35,
+        "oral_questions": 5,
+        "written_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 24,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 289,
+    "debates_participated": 216,
+    "early_day_motions": 0,
+    "oral_questions": 41,
+    "petitions_presented": 0,
+    "written_questions": 32
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 96.2,
+    "committee_memberships": 0,
+    "debate_contributions": 289,
+    "voting_participation_pct": 84.46,
+    "written_questions": 32
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commercial Rent (Coronavirus) Bill",
+      "committee_id": 561,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing (Regulation) Bill [HL]",
+      "committee_id": 628,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 44,
+      "meetings_available": 44
+    },
+    {
+      "attendance_pct": 88.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 22,
+      "meetings_available": 25
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commercial Rent (Coronavirus) Bill",
+        "committee_id": 561,
+        "file": "committees/commercial-rent-coronavirus-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "commercial-rent-coronavirus-bill"
+      },
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-17"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-21"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      },
+      {
+        "committee": "Social Housing (Regulation) Bill [HL]",
+        "committee_id": 628,
+        "file": "committees/social-housing-regulation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "social-housing-regulation-bill-hl"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-10"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-17"
+          }
+        ],
+        "slug": "transport"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "women-and-equalities"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3544,
+    "name": "Hyndburn"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4838
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4838,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sara Britcliffe",
+    "full_title": "Sara Britcliffe",
+    "list_as": "Britcliffe, Sara"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4114,
+        "name": "Hyndburn",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hyndburn",
+        "constituency_id": 3544,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Sara Britcliffe is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3544/overview'>Hyndburn</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4838/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 178,
+        "voting_participation_pct": 93.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 203,
+        "voting_participation_pct": 83.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 218,
+        "voting_participation_pct": 85.16
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 100,
+        "voting_participation_pct": 78.74
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 902,
+        "voting_participation_pct": 84.46
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 902,
+    "voting_participation_pct": 84.46
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

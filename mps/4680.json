@@ -1,0 +1,232 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 76,
+        "debates_participated": 25,
+        "oral_questions": 1,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 159,
+        "debates_participated": 34
+      },
+      "2022": {
+        "debate_contributions": 153,
+        "debates_participated": 41
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 337,
+        "debates_participated": 41
+      },
+      "2024": {
+        "debate_contributions": 78,
+        "debates_participated": 11
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 803,
+    "debates_participated": 152,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 3
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 803,
+    "voting_participation_pct": 85.49,
+    "written_questions": 3
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3409,
+    "name": "Chichester"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4680
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4680,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2017-06-08",
+    "status": null
+  },
+  "name": {
+    "address_as": "Gillian Keegan",
+    "display": "Gillian Keegan",
+    "full_title": "Gillian Keegan",
+    "list_as": "Keegan, Gillian"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Secretary of State for Education",
+        "start_date": "2022-10-25"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign, Commonwealth and Development Office)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2021-09-16"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2020-02-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3981,
+        "name": "Chichester",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3768,
+        "name": "St Helens South and Whiston",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chichester",
+        "constituency_id": 3409,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Gillian Keegan is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3409/overview'>Chichester</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4680/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 178,
+        "voting_participation_pct": 93.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 222,
+        "voting_participation_pct": 91.74
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 204,
+        "voting_participation_pct": 81.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 197,
+        "voting_participation_pct": 76.95
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 110,
+        "voting_participation_pct": 86.61
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 913,
+        "voting_participation_pct": 85.49
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 913,
+    "voting_participation_pct": 85.49
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

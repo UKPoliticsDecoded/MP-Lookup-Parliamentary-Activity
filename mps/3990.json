@@ -1,0 +1,246 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 207,
+        "debates_participated": 84,
+        "oral_questions": 10,
+        "written_questions": 5
+      },
+      "2021": {
+        "debate_contributions": 73,
+        "debates_participated": 48,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 160,
+        "debates_participated": 79,
+        "oral_questions": 6,
+        "written_questions": 3
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 111,
+        "debates_participated": 70,
+        "oral_questions": 6,
+        "written_questions": 16
+      },
+      "2024": {
+        "debate_contributions": 51,
+        "debates_participated": 32,
+        "oral_questions": 3,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 602,
+    "debates_participated": 313,
+    "early_day_motions": 0,
+    "oral_questions": 26,
+    "petitions_presented": 0,
+    "written_questions": 27
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 602,
+    "voting_participation_pct": 83.43,
+    "written_questions": 27
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+      "committee_id": 630,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 65,
+      "meetings_available": 65
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+      "committee_id": 619,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+        "committee_id": 630,
+        "file": "committees/co-operatives-mutuals-and-friendly-societies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "co-operatives-mutuals-and-friendly-societies-bill"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      },
+      {
+        "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+        "committee_id": 619,
+        "file": "committees/pension-dashboards-prohibition-of-indemnification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "pension-dashboards-prohibition-of-indemnification-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3497,
+    "name": "Gloucester"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3990
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3990,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Richard Graham",
+    "display": "Richard Graham",
+    "full_title": "Richard Graham",
+    "list_as": "Graham, Richard"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4063,
+        "name": "Gloucester",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Gloucester",
+        "constituency_id": 3497,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Richard Graham is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3497/overview'>Gloucester</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3990/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 186,
+        "voting_participation_pct": 74.1
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 218,
+        "voting_participation_pct": 85.16
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 104,
+        "voting_participation_pct": 81.89
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 891,
+        "voting_participation_pct": 83.43
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 891,
+    "voting_participation_pct": 83.43
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

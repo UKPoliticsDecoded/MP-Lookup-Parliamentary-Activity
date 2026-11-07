@@ -1,0 +1,349 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 46,
+        "debates_participated": 20,
+        "oral_questions": 1,
+        "written_questions": 29
+      },
+      "2021": {
+        "debate_contributions": 51,
+        "debates_participated": 30,
+        "oral_questions": 1,
+        "written_questions": 3
+      },
+      "2022": {
+        "debate_contributions": 84,
+        "debates_participated": 44,
+        "oral_questions": 1,
+        "written_questions": 7
+      },
+      "2023": {
+        "debate_contributions": 77,
+        "debates_participated": 41,
+        "oral_questions": 2,
+        "written_questions": 1
+      },
+      "2024": {
+        "debate_contributions": 61,
+        "debates_participated": 27,
+        "oral_questions": 2,
+        "written_questions": 5
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 319,
+    "debates_participated": 162,
+    "early_day_motions": 0,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 45
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.54,
+    "committee_memberships": 0,
+    "debate_contributions": 319,
+    "voting_participation_pct": 76.59,
+    "written_questions": 45
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 99.12,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 112,
+      "meetings_available": 113
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Special Rules for End of Life) Bill",
+      "committee_id": 718,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 91,
+      "meetings_available": 91
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-06-04"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-03-08"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-01-18"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-06-21"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Pensions (Special Rules for End of Life) Bill",
+        "committee_id": 718,
+        "file": "committees/pensions-special-rules-for-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "pensions-special-rules-for-end-of-life-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-26"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-20"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3659,
+    "name": "North Wiltshire"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 261
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 261,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "James Gray",
+    "display": "James Gray",
+    "full_title": "James Gray",
+    "list_as": "Gray, James"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2005-05-19",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Scotland",
+        "start_date": "2005-05-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4297,
+        "name": "South Cotswolds",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2454,
+        "name": "Ross, Cromarty and Skye",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Wiltshire",
+        "constituency_id": 3659,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "North Wiltshire",
+        "constituency_id": 2179,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "James Gray is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3659/overview'>North Wiltshire</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/261/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 96,
+        "voting_participation_pct": 50.53
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 205,
+        "voting_participation_pct": 81.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 219,
+        "voting_participation_pct": 85.55
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 94,
+        "voting_participation_pct": 74.02
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 818,
+        "voting_participation_pct": 76.59
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 818,
+    "voting_participation_pct": 76.59
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

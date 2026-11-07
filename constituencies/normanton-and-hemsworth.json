@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 15503.8,
+    "bng": {
+      "easting": 442193,
+      "northing": 416477
+    },
+    "centroid": {
+      "latitude": 53.64312,
+      "longitude": -1.36325
+    },
+    "geojson": "constituencies/boundaries/normanton-and-hemsworth.geojson",
+    "ons_code": "E14001383",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/410.json",
+    "member_id": 410,
+    "name": "Jon Trickett",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75645,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6662,
+      "result": "Lab Hold",
+      "turnout": 36349,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4198,
+  "is_current": true,
+  "name": "Normanton and Hemsworth",
+  "name_cy": null,
+  "ons_code": "E14001383",
+  "outcodes": [
+    "DN6",
+    "S71",
+    "S72",
+    "WF1",
+    "WF2",
+    "WF4",
+    "WF6",
+    "WF7",
+    "WF8",
+    "WF9"
+  ],
+  "schema_version": 1,
+  "slug": "normanton-and-hemsworth",
+  "start_date": "2024-05-31"
+}

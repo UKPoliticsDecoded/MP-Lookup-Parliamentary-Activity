@@ -1,0 +1,56 @@
+{
+  "boundary": {
+    "area_hectares": 2211.6,
+    "bng": {
+      "easting": 440306,
+      "northing": 114131
+    },
+    "centroid": {
+      "latitude": 50.92522,
+      "longitude": -1.42789
+    },
+    "geojson": "constituencies/boundaries/southampton-test.geojson",
+    "ons_code": "E14001500",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5271.json",
+    "member_id": 5271,
+    "name": "Satvir Kaur",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 65520,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9333,
+      "result": "Lab Hold",
+      "turnout": 35805,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4315,
+  "is_current": true,
+  "name": "Southampton Test",
+  "name_cy": null,
+  "ons_code": "E14001500",
+  "outcodes": [
+    "SO14",
+    "SO15",
+    "SO16",
+    "SO17"
+  ],
+  "schema_version": 1,
+  "slug": "southampton-test",
+  "start_date": "2024-05-31"
+}

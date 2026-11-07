@@ -1,0 +1,236 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 15,
+        "oral_questions": 7,
+        "written_questions": 103
+      },
+      "2025": {
+        "debate_contributions": 85,
+        "debates_participated": 44,
+        "oral_questions": 20,
+        "written_questions": 213
+      },
+      "2026": {
+        "debate_contributions": 65,
+        "debates_participated": 28,
+        "oral_questions": 11,
+        "written_questions": 43
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 171,
+    "debates_participated": 87,
+    "early_day_motions": 0,
+    "oral_questions": 38,
+    "petitions_presented": 0,
+    "written_questions": 359
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 171,
+    "voting_participation_pct": 94.29,
+    "written_questions": 359
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": true,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+      "committee_id": 790,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-31"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-06"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animal Welfare (Import of Dogs, Cats and Ferrets) Bill",
+        "committee_id": 790,
+        "file": "committees/animal-welfare-import-of-dogs-cats-and-ferrets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "animal-welfare-import-of-dogs-cats-and-ferrets-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/colne-valley.json",
+    "id": 3992,
+    "name": "Colne Valley",
+    "ons_code": "E14001177",
+    "slug": "colne-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "paul.davies.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01484 598600",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://pauldavies.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PaulDaviesForHVS"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/Paul.Davies.MP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5317
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5317,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Paul Davies",
+    "full_title": "Paul Davies MP",
+    "list_as": "Davies, Paul"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Colne Valley",
+        "constituency_id": 3992,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Paul Davies is the Labour MP for <a href='/constituency/3992/overview'>Colne Valley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5317/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 298,
+        "voting_participation_pct": 92.55
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 231,
+        "voting_participation_pct": 97.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 595,
+        "voting_participation_pct": 94.29
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 595,
+    "voting_participation_pct": 94.29
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

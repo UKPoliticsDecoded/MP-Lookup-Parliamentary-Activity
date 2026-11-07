@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 29040.2,
+    "bng": {
+      "easting": 484136,
+      "northing": 105461
+    },
+    "centroid": {
+      "latitude": 50.84255,
+      "longitude": -0.80636
+    },
+    "geojson": "constituencies/boundaries/chichester.geojson",
+    "ons_code": "E14001166",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5335.json",
+    "member_id": 5335,
+    "name": "Jess Brown-Fuller",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78374,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12172,
+      "result": "LD Gain",
+      "turnout": 51947,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3409,
+      "end_date": "2024-05-30",
+      "member_id": 4680,
+      "name": "Gillian Keegan",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 3981,
+  "is_current": true,
+  "name": "Chichester",
+  "name_cy": null,
+  "ons_code": "E14001166",
+  "outcodes": [
+    "PO10",
+    "PO18",
+    "PO19",
+    "PO20",
+    "PO21",
+    "PO22",
+    "PO9"
+  ],
+  "schema_version": 1,
+  "slug": "chichester",
+  "start_date": "2024-05-31"
+}

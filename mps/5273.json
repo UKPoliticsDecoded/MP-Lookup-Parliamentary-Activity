@@ -1,0 +1,253 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 32,
+        "debates_participated": 20,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 77,
+        "debates_participated": 35,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 84
+      },
+      "2026": {
+        "debate_contributions": 31,
+        "debates_participated": 26,
+        "early_day_motions": 5,
+        "oral_questions": 3,
+        "written_questions": 97
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 140,
+    "debates_participated": 81,
+    "early_day_motions": 7,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 190
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 140,
+    "voting_participation_pct": 79.71,
+    "written_questions": 190
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters’ Rights Bill",
+      "committee_id": 739,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      },
+      {
+        "committee": "Renters’ Rights Bill",
+        "committee_id": 739,
+        "file": "committees/renters-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "renters-rights-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/crewe-and-nantwich.json",
+    "id": 4000,
+    "name": "Crewe and Nantwich",
+    "ons_code": "E14001185",
+    "slug": "crewe-and-nantwich"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "connor.naismith.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/connornaismithlabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/connor_naismith"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5273
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5273,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Connor Naismith",
+    "full_title": "Connor Naismith MP",
+    "list_as": "Naismith, Connor"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Crewe and Nantwich",
+        "constituency_id": 4000,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Connor Naismith is the Labour MP for <a href='/constituency/4000/overview'>Crewe and Nantwich</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5273/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 264,
+        "voting_participation_pct": 81.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 503,
+        "voting_participation_pct": 79.71
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 503,
+    "voting_participation_pct": 79.71
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

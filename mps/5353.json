@@ -1,0 +1,227 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 11,
+        "debates_participated": 11,
+        "written_questions": 3
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 49,
+        "debates_participated": 37,
+        "oral_questions": 3,
+        "written_questions": 251
+      },
+      "2026": {
+        "debate_contributions": 48,
+        "debates_participated": 37,
+        "oral_questions": 2,
+        "written_questions": 74
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 108,
+    "debates_participated": 85,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 328
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 108,
+    "voting_participation_pct": 65.93,
+    "written_questions": 328
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 41,
+      "meetings_available": 41
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-east-cornwall.json",
+    "id": 4301,
+    "name": "South East Cornwall",
+    "ons_code": "E14001486",
+    "slug": "south-east-cornwall"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "anna.gelderd.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0778 3636 284",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.annagelderdmp.com/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5353
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5353,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Anna Gelderd",
+    "full_title": "Anna Gelderd MP",
+    "list_as": "Gelderd, Anna"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South East Cornwall",
+        "constituency_id": 4301,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Anna Gelderd is the Labour MP for <a href='/constituency/4301/overview'>South East Cornwall</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5353/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 222,
+        "voting_participation_pct": 68.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 132,
+        "voting_participation_pct": 55.93
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 416,
+        "voting_participation_pct": 65.93
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 416,
+    "voting_participation_pct": 65.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

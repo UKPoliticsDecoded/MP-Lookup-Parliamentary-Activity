@@ -1,0 +1,316 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 90,
+        "debates_participated": 28
+      },
+      "2021": {
+        "debate_contributions": 156,
+        "debates_participated": 38
+      },
+      "2022": {
+        "debate_contributions": 96,
+        "debates_participated": 30
+      },
+      "2023": {
+        "debate_contributions": 49,
+        "debates_participated": 9
+      },
+      "2024": {
+        "debate_contributions": 110,
+        "debates_participated": 32
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 501,
+    "debates_participated": 137,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 501,
+    "voting_participation_pct": 86.42,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "UK Infrastructure Bank Bill [Lords]",
+      "committee_id": 625,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-18"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "UK Infrastructure Bank Bill [Lords]",
+        "committee_id": 625,
+        "file": "committees/uk-infrastructure-bank-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "uk-infrastructure-bank-bill-lords"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3675,
+    "name": "Pendle"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4044
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4044,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Andrew Stephenson",
+    "display": "Andrew Stephenson",
+    "full_title": "Rt Hon Andrew Stephenson",
+    "list_as": "Stephenson, Andrew"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2023-11-13"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2022-09-20"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Minister without Portfolio (Cabinet Office)",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2022-07-07",
+        "is_current": false,
+        "name": "Minister of State (Department for Transport)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Minister of State (Foreign and Commonwealth Office) (Joint with the Department for International Development)",
+        "start_date": "2019-07-25"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2019-04-04"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2019-04-04",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2018-07-26"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-07-26",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2017-06-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4237,
+        "name": "Pendle and Clitheroe",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Pendle",
+        "constituency_id": 3675,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Andrew Stephenson is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3675/overview'>Pendle</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4044/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 164,
+        "voting_participation_pct": 86.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 211,
+        "voting_participation_pct": 87.19
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 204,
+        "voting_participation_pct": 81.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 241,
+        "voting_participation_pct": 94.14
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 101,
+        "voting_participation_pct": 79.53
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 923,
+        "voting_participation_pct": 86.42
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 923,
+    "voting_participation_pct": 86.42
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

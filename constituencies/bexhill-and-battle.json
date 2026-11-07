@@ -1,0 +1,77 @@
+{
+  "boundary": {
+    "area_hectares": 46690.0,
+    "bng": {
+      "easting": 577508,
+      "northing": 118444
+    },
+    "centroid": {
+      "latitude": 50.93811,
+      "longitude": 0.525092
+    },
+    "geojson": "constituencies/boundaries/bexhill-and-battle.geojson",
+    "ons_code": "E14001088",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4860.json",
+    "member_id": 4860,
+    "name": "Dr Kieran Mullan",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72198,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2657,
+      "result": "Con Hold",
+      "turnout": 47750,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3322,
+      "end_date": "2024-05-30",
+      "member_id": 4442,
+      "name": "Huw Merriman",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3903,
+  "is_current": true,
+  "name": "Bexhill and Battle",
+  "name_cy": null,
+  "ons_code": "E14001088",
+  "outcodes": [
+    "BN23",
+    "BN24",
+    "BN27",
+    "TN18",
+    "TN19",
+    "TN21",
+    "TN31",
+    "TN32",
+    "TN33",
+    "TN34",
+    "TN35",
+    "TN36",
+    "TN37",
+    "TN38",
+    "TN39",
+    "TN40",
+    "TN5"
+  ],
+  "schema_version": 1,
+  "slug": "bexhill-and-battle",
+  "start_date": "2024-05-31"
+}

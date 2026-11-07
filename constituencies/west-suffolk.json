@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 76187.9,
+    "bng": {
+      "easting": 574793,
+      "northing": 265203
+    },
+    "centroid": {
+      "latitude": 52.25724,
+      "longitude": 0.559576
+    },
+    "geojson": "constituencies/boundaries/west-suffolk.geojson",
+    "ons_code": "E14001578",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5062.json",
+    "member_id": 5062,
+    "name": "Nick Timothy",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77145,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3247,
+      "result": "Con Hold",
+      "turnout": 46161,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3846,
+      "end_date": "2024-05-30",
+      "member_id": 4070,
+      "name": "Matt Hancock",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4393,
+  "is_current": true,
+  "name": "West Suffolk",
+  "name_cy": null,
+  "ons_code": "E14001578",
+  "outcodes": [
+    "CB7",
+    "CB8",
+    "CB9",
+    "CO10",
+    "IP24",
+    "IP27",
+    "IP28",
+    "IP29",
+    "IP30",
+    "IP31",
+    "IP33"
+  ],
+  "schema_version": 1,
+  "slug": "west-suffolk",
+  "start_date": "2024-05-31"
+}

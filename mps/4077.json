@@ -1,0 +1,283 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 111,
+        "debates_participated": 26
+      },
+      "2025": {
+        "debate_contributions": 198,
+        "debates_participated": 37
+      },
+      "2026": {
+        "debate_contributions": 251,
+        "debates_participated": 25
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 560,
+    "debates_participated": 88,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 560,
+    "voting_participation_pct": 53.57,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 765,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 765,
+        "file": "committees/finance-bill-765.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-22"
+          }
+        ],
+        "slug": "finance-bill-765"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wycombe.json",
+    "id": 4415,
+    "name": "Wycombe",
+    "ons_code": "E14001600",
+    "slug": "wycombe"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "emma.reynolds.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "www.emmaforwycombe.org.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/emmaforwycombe"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4077
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4077,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Emma Reynolds",
+    "full_title": "Rt Hon Emma Reynolds MP",
+    "list_as": "Reynolds, Emma"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2025-09-05"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Economic Secretary (HM Treasury)",
+        "start_date": "2025-01-14"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2025-01-14",
+        "is_current": false,
+        "name": "Parliamentary Secretary (HM Treasury)",
+        "start_date": "2024-07-09"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2025-01-14",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Chief Secretary to the Treasury"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Communities and Local Government",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Shadow Minister (Housing)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2010-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3862,
+        "name": "Wolverhampton North East",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wycombe",
+        "constituency_id": 4415,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wolverhampton North East",
+        "constituency_id": 3862,
+        "end_date": "2019-11-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Emma Reynolds is the Labour MP for <a href='/constituency/4415/overview'>Wycombe</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Chief Secretary to the Treasury.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4077/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 53,
+        "voting_participation_pct": 72.6
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 151,
+        "voting_participation_pct": 46.89
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 134,
+        "voting_participation_pct": 56.78
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 338,
+        "voting_participation_pct": 53.57
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 338,
+    "voting_participation_pct": 53.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

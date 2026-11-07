@@ -1,0 +1,401 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 3,
+        "debates_participated": 2
+      },
+      "2020": {
+        "debate_contributions": 259,
+        "debates_participated": 110,
+        "early_day_motions": 1,
+        "oral_questions": 13,
+        "written_questions": 267
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 270,
+        "debates_participated": 102,
+        "early_day_motions": 5,
+        "oral_questions": 22,
+        "written_questions": 368
+      },
+      "2022": {
+        "debate_contributions": 288,
+        "debates_participated": 106,
+        "early_day_motions": 2,
+        "oral_questions": 17,
+        "written_questions": 175
+      },
+      "2023": {
+        "debate_contributions": 267,
+        "debates_participated": 94,
+        "early_day_motions": 8,
+        "oral_questions": 16,
+        "written_questions": 117
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 68,
+        "debates_participated": 33,
+        "early_day_motions": 4,
+        "oral_questions": 8,
+        "written_questions": 66
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 1155,
+    "debates_participated": 447,
+    "early_day_motions": 20,
+    "oral_questions": 76,
+    "petitions_presented": 0,
+    "written_questions": 993
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1155,
+    "voting_participation_pct": 65.82,
+    "written_questions": 993
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 119,
+      "meetings_available": 119
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nuclear Energy (Financing) Bill",
+      "committee_id": 553,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+      "committee_id": 619,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-28"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-17"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "Nuclear Energy (Financing) Bill",
+        "committee_id": 553,
+        "file": "committees/nuclear-energy-financing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "nuclear-energy-financing-bill"
+      },
+      {
+        "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+        "committee_id": 619,
+        "file": "committees/pension-dashboards-prohibition-of-indemnification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "pension-dashboards-prohibition-of-indemnification-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-18"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1624,
+    "name": "Kilmarnock and Loudoun"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4470
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4470,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Brown",
+    "display": "Alan Brown",
+    "full_title": "Alan Brown",
+    "list_as": "Brown, Alan"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Energy Security and Net Zero)",
+        "start_date": "2023-03-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-03-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Energy and Industrial Strategy)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Energy and Climate Change)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Energy)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Infrastructure and Energy)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Transport)",
+        "start_date": "2017-06-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4444,
+        "name": "Kilmarnock and Loudoun",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Kilmarnock and Loudoun",
+        "constituency_id": 1624,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Alan Brown is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1624/overview'>Kilmarnock and Loudoun</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4470/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 157,
+        "voting_participation_pct": 64.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 157,
+        "voting_participation_pct": 62.55
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 168,
+        "voting_participation_pct": 65.62
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 90,
+        "voting_participation_pct": 70.87
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 703,
+        "voting_participation_pct": 65.82
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 703,
+    "voting_participation_pct": 65.82
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

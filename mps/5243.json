@@ -1,0 +1,343 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 49,
+        "debates_participated": 32,
+        "oral_questions": 6,
+        "written_questions": 8
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 98,
+        "debates_participated": 70,
+        "oral_questions": 9,
+        "written_questions": 11
+      },
+      "2026": {
+        "debate_contributions": 62,
+        "debates_participated": 38,
+        "oral_questions": 5,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 209,
+    "debates_participated": 140,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 20
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 209,
+    "voting_participation_pct": 70.68,
+    "written_questions": 20
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": true,
+      "meetings_attended": 50,
+      "meetings_available": 50
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": true,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-10"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-10"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/peterborough.json",
+    "id": 4240,
+    "name": "Peterborough",
+    "ons_code": "E14001425",
+    "slug": "peterborough"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andrew.pakes.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01733 855157",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.andrewpakes.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Andrew4Pboro/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/andrewpakes_"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5243
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5243,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Andrew Pakes",
+    "full_title": "Andrew Pakes MP",
+    "list_as": "Pakes, Andrew"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3613,
+        "name": "Milton Keynes South",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Peterborough",
+        "constituency_id": 4240,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Andrew Pakes is the Labour (Co-op) MP for <a href='/constituency/4240/overview'>Peterborough</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5243/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 60,
+        "voting_participation_pct": 82.19
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 212,
+        "voting_participation_pct": 65.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 174,
+        "voting_participation_pct": 73.73
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 446,
+        "voting_participation_pct": 70.68
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 446,
+    "voting_participation_pct": 70.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

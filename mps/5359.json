@@ -1,0 +1,193 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 13,
+        "early_day_motions": 5,
+        "written_questions": 177
+      },
+      "2025": {
+        "debate_contributions": 101,
+        "debates_participated": 56,
+        "early_day_motions": 10,
+        "oral_questions": 9,
+        "written_questions": 639
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 78,
+        "debates_participated": 46,
+        "early_day_motions": 13,
+        "oral_questions": 3,
+        "written_questions": 567
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 192,
+    "debates_participated": 115,
+    "early_day_motions": 28,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 1383
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 192,
+    "voting_participation_pct": 85.26,
+    "written_questions": 1383
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cheltenham Borough Council (Markets) Bill",
+      "committee_id": 825,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cheltenham Borough Council (Markets) Bill",
+        "committee_id": 825,
+        "file": "committees/cheltenham-borough-council-markets-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-12"
+          }
+        ],
+        "slug": "cheltenham-borough-council-markets-bill"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/poole.json",
+    "id": 4244,
+    "name": "Poole",
+    "ons_code": "E14001429",
+    "slug": "poole"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "neil.duncanjordan.mp@parliament.uk",
+      "phone": "01202 160740",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "phone": "01202 160740",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "www.neilforpoole.co.uk"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5359
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5359,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Neil Duncan-Jordan",
+    "full_title": "Neil Duncan-Jordan MP",
+    "list_as": "Duncan-Jordan, Neil"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2025-11-07"
+      },
+      {
+        "end_date": "2025-11-07",
+        "party": "Independent",
+        "start_date": "2025-07-16"
+      },
+      {
+        "end_date": "2025-07-16",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Poole",
+        "constituency_id": 4244,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Neil Duncan-Jordan is the Labour MP for <a href='/constituency/4244/overview'>Poole</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5359/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 272,
+        "voting_participation_pct": 84.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 196,
+        "voting_participation_pct": 83.05
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 538,
+        "voting_participation_pct": 85.26
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 538,
+    "voting_participation_pct": 85.26
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

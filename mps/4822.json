@@ -1,0 +1,332 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 31,
+        "debates_participated": 26,
+        "oral_questions": 5,
+        "written_questions": 24
+      },
+      "2021": {
+        "debate_contributions": 27,
+        "debates_participated": 23,
+        "oral_questions": 2,
+        "written_questions": 279
+      },
+      "2022": {
+        "debate_contributions": 64,
+        "debates_participated": 49,
+        "oral_questions": 2,
+        "written_questions": 534
+      },
+      "2023": {
+        "debate_contributions": 32,
+        "debates_participated": 22,
+        "oral_questions": 4,
+        "written_questions": 566
+      },
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 20,
+        "oral_questions": 4,
+        "written_questions": 75
+      },
+      "2025": {
+        "debate_contributions": 62,
+        "debates_participated": 18,
+        "written_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 15,
+        "debates_participated": 11,
+        "oral_questions": 3,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 268,
+    "debates_participated": 169,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 1513
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 268,
+    "voting_participation_pct": 56.92,
+    "written_questions": 1513
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Draft Conversion Practices Bill (Joint Committee)",
+      "committee_id": 851,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Investigatory Powers (Amendment) Bill [HL]",
+      "committee_id": 709,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Draft Conversion Practices Bill (Joint Committee)",
+        "committee_id": 851,
+        "file": "committees/draft-conversion-practices-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-10"
+          }
+        ],
+        "slug": "draft-conversion-practices-bill-joint-committee"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Investigatory Powers (Amendment) Bill [HL]",
+        "committee_id": 709,
+        "file": "committees/investigatory-powers-amendment-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "investigatory-powers-amendment-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/enfield-north.json",
+    "id": 4040,
+    "name": "Enfield North",
+    "ons_code": "E14001225",
+    "slug": "enfield-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "feryal.clark.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "542 Hertford Rd, Enfield",
+      "email": "feryal.clark.mp@parliament.uk",
+      "phone": "0208 804 4543",
+      "postcode": "EN3 5ST",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.feryalclark.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/FeryalEnfieldNorth"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/FeryalClark"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4822
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4822,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Feryal Clark",
+    "full_title": "Feryal Clark MP",
+    "list_as": "Clark, Feryal"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Science, Innovation and Technology)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Crime Reduction)",
+        "start_date": "2023-11-28"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2023-11-28",
+        "is_current": false,
+        "name": "Shadow Minister (Health and Social Care)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2021-05-14"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Enfield North",
+        "constituency_id": 4040,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Enfield North",
+        "constituency_id": 3474,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Feryal Clark is the Labour MP for <a href='/constituency/4040/overview'>Enfield North</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4822/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 146,
+        "voting_participation_pct": 76.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 171,
+        "voting_participation_pct": 70.66
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 127,
+        "voting_participation_pct": 50.6
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 139,
+        "voting_participation_pct": 54.3
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 90,
+        "voting_participation_pct": 45.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 146,
+        "voting_participation_pct": 45.34
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 146,
+        "voting_participation_pct": 61.86
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 628,
+        "voting_participation_pct": 58.8
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 339,
+        "voting_participation_pct": 53.72
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 967,
+    "voting_participation_pct": 56.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 1140.8,
+    "bng": {
+      "easting": 535196,
+      "northing": 173315
+    },
+    "centroid": {
+      "latitude": 51.44269,
+      "longitude": -0.05606
+    },
+    "geojson": "constituencies/boundaries/lewisham-west-and-east-dulwich.geojson",
+    "ons_code": "E14001333",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4620.json",
+    "member_id": 4620,
+    "name": "Ellie Reeves",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69386,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 18397,
+      "result": "Lab Hold",
+      "turnout": 46414,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4148,
+  "is_current": true,
+  "name": "Lewisham West and East Dulwich",
+  "name_cy": null,
+  "ons_code": "E14001333",
+  "outcodes": [
+    "SE15",
+    "SE22",
+    "SE23",
+    "SE26",
+    "SE4",
+    "SE6"
+  ],
+  "schema_version": 1,
+  "slug": "lewisham-west-and-east-dulwich",
+  "start_date": "2024-05-31"
+}

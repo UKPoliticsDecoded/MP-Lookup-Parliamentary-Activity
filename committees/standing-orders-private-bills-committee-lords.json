@@ -1,0 +1,227 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 4,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 4
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede"
+    }
+  ],
+  "contact": {
+    "address": "Standing Order (Private Bills) Committee,Legislation Office, House of Lords, London SW1A 0PW",
+    "email": "prbohol@parliament.uk",
+    "phone": "020 7219 3103"
+  },
+  "end_date": null,
+  "house": "Lords",
+  "id": 198,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "file": null,
+      "member_id": 530,
+      "name": "The Rt Hon. the Lord Jones",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-02-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1251,
+      "name": "The Rt Hon. the Lord Naseby PC",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2002-12-09"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1892,
+      "name": "The Lord McColl of Dulwich CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2026-05-13"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3609,
+      "name": "The Baroness Finlay of Llandaff",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-02-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3785,
+      "name": "The Baroness Thomas of Winchester MBE",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-02-22"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 940,
+      "name": "The Rt Hon. the Lord Rodgers of Quarry Bank",
+      "party": null,
+      "roles": [
+        {
+          "end": "2022-02-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2012-07-25"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2473,
+      "name": "The Rt Hon. the Lord Fellowes GCB GCVO",
+      "party": null,
+      "roles": [
+        {
+          "end": "2022-02-10",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-06-27"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2595,
+      "name": "The Lord Geddes",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2003-12-10"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3128,
+      "name": "The Viscount Simon",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-08-15",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2004-12-06"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4148,
+      "name": "The Rt Hon. the Lord McFall of Alcluith",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-04-29",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2016-09-01"
+        },
+        {
+          "end": "2021-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-09-01"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4161,
+      "name": "The Lord Gardiner of Kimble",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-05-12",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2021-05-13"
+        },
+        {
+          "end": "2026-05-12",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-05-13"
+        }
+      ]
+    }
+  ],
+  "name": "Standing Orders (Private Bills) Committee (Lords)",
+  "parent_committee_id": null,
+  "purpose": "<p>The Standing Orders Committee is charged with deciding whether or not to dispense with any Standing Order, which the Examiners of Petitions for Private Bills consider has not been complied with</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "standing-orders-private-bills-committee-lords",
+  "start_date": "1991-12-05",
+  "sub_committee_ids": [],
+  "types": [
+    "(HL) Legislation Office",
+    "Legislative"
+  ]
+}

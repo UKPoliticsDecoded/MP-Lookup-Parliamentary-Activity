@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 105263.7,
+    "bng": {
+      "easting": 417744,
+      "northing": 160630
+    },
+    "centroid": {
+      "latitude": 51.34447,
+      "longitude": -1.74661
+    },
+    "geojson": "constituencies/boundaries/east-wiltshire.geojson",
+    "ons_code": "E14001217",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4858.json",
+    "member_id": 4858,
+    "name": "Danny Kruger",
+    "party": "Reform UK",
+    "party_abbreviation": "RUK",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74139,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4716,
+      "result": "Con Hold",
+      "turnout": 47193,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4032,
+  "is_current": true,
+  "name": "East Wiltshire",
+  "name_cy": null,
+  "ons_code": "E14001217",
+  "outcodes": [
+    "RG17",
+    "SN1",
+    "SN10",
+    "SN3",
+    "SN4",
+    "SN6",
+    "SN8",
+    "SN9",
+    "SP11",
+    "SP2",
+    "SP3",
+    "SP4",
+    "SP9"
+  ],
+  "schema_version": 1,
+  "slug": "east-wiltshire",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,402 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 76,
+        "debates_participated": 58,
+        "oral_questions": 4,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 206,
+        "debates_participated": 114,
+        "oral_questions": 4,
+        "written_questions": 45
+      },
+      "2026": {
+        "debate_contributions": 136,
+        "debates_participated": 101,
+        "oral_questions": 9,
+        "written_questions": 22
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 418,
+    "debates_participated": 273,
+    "early_day_motions": 0,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 75
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 418,
+    "voting_participation_pct": 83.2,
+    "written_questions": 75
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Court of Referees",
+      "committee_id": 780,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "General Cemetery Bill [HL]",
+      "committee_id": 811,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Norwich Livestock Market Bill [HL]",
+      "committee_id": 793,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 39,
+      "meetings_available": 39
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Court of Referees",
+        "committee_id": 780,
+        "file": "committees/court-of-referees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-27"
+          }
+        ],
+        "slug": "court-of-referees"
+      },
+      {
+        "committee": "General Cemetery Bill [HL]",
+        "committee_id": 811,
+        "file": "committees/general-cemetery-bill-hl.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-16"
+          }
+        ],
+        "slug": "general-cemetery-bill-hl"
+      },
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Norwich Livestock Market Bill [HL]",
+        "committee_id": 793,
+        "file": "committees/norwich-livestock-market-bill-hl.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "norwich-livestock-market-bill-hl"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      },
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/portsmouth-north.json",
+    "id": 4246,
+    "name": "Portsmouth North",
+    "ons_code": "E14001431",
+    "slug": "portsmouth-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "amanda.martin.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AmandaMartinMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5294
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5294,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Amanda Martin",
+    "full_title": "Amanda Martin MP",
+    "list_as": "Martin, Amanda"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3684,
+        "name": "Portsmouth North",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Portsmouth North",
+        "constituency_id": 4246,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Amanda Martin is the Labour MP for <a href='/constituency/4246/overview'>Portsmouth North</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5294/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 275,
+        "voting_participation_pct": 85.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 181,
+        "voting_participation_pct": 76.69
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 525,
+        "voting_participation_pct": 83.2
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 525,
+    "voting_participation_pct": 83.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 71,
+        "debates_participated": 52,
+        "oral_questions": 15,
+        "written_questions": 82
+      },
+      "2021": {
+        "debate_contributions": 83,
+        "debates_participated": 55,
+        "oral_questions": 15,
+        "written_questions": 79
+      },
+      "2022": {
+        "debate_contributions": 121,
+        "debates_participated": 62,
+        "oral_questions": 13,
+        "written_questions": 89
+      },
+      "2023": {
+        "debate_contributions": 54,
+        "debates_participated": 30,
+        "oral_questions": 3,
+        "written_questions": 45
+      },
+      "2024": {
+        "debate_contributions": 60,
+        "debates_participated": 37,
+        "oral_questions": 8,
+        "written_questions": 129
+      },
+      "2025": {
+        "debate_contributions": 107,
+        "debates_participated": 62,
+        "oral_questions": 9,
+        "written_questions": 800
+      },
+      "2026": {
+        "debate_contributions": 62,
+        "debates_participated": 28,
+        "oral_questions": 5,
+        "written_questions": 626
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 558,
+    "debates_participated": 326,
+    "early_day_motions": 0,
+    "oral_questions": 68,
+    "petitions_presented": 0,
+    "written_questions": 1850
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 558,
+    "voting_participation_pct": 75.28,
+    "written_questions": 1850
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 13,
+      "meetings_available": 13
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 719,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 49,
+      "meetings_available": 49
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 13,
+      "meetings_available": 13
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-10-05"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 719,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-15"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-08"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ashfield.json",
+    "id": 3883,
+    "name": "Ashfield",
+    "ons_code": "E14001068",
+    "slug": "ashfield"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lee.anderson.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Ashfield Hub, Outram Street, Sutton-in-Ashfield, Nottinghamshire",
+      "postcode": "NG17 4FU",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4743
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4743,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lee Anderson",
+    "full_title": "Lee Anderson MP",
+    "list_as": "Anderson, Lee"
+  },
+  "party": {
+    "abbreviation": "RUK",
+    "id": 1036,
+    "name": "Reform UK"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2024-01-16",
+        "is_current": false,
+        "name": "Deputy Chair, Conservative Party",
+        "start_date": "2023-02-07"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Reform UK",
+        "start_date": "2024-03-11"
+      },
+      {
+        "end_date": "2024-03-11",
+        "party": "Independent",
+        "start_date": "2024-02-24"
+      },
+      {
+        "end_date": "2024-02-24",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ashfield",
+        "constituency_id": 3883,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Ashfield",
+        "constituency_id": 3296,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Lee Anderson is the Reform UK MP for <a href='/constituency/3883/overview'>Ashfield</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4743/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 177,
+        "voting_participation_pct": 93.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 221,
+        "voting_participation_pct": 91.32
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 227,
+        "voting_participation_pct": 90.44
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 224,
+        "voting_participation_pct": 87.5
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 92,
+        "voting_participation_pct": 46.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 215,
+        "voting_participation_pct": 66.77
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 121,
+        "voting_participation_pct": 51.27
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 902,
+        "voting_participation_pct": 84.46
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 377,
+        "voting_participation_pct": 59.75
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1279,
+    "voting_participation_pct": 75.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

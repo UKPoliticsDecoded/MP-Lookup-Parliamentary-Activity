@@ -1,0 +1,268 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 15,
+        "debates_participated": 10,
+        "early_day_motions": 2,
+        "oral_questions": 7,
+        "written_questions": 34
+      },
+      "2021": {
+        "debate_contributions": 7,
+        "debates_participated": 5,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 23
+      },
+      "2022": {
+        "debate_contributions": 23,
+        "debates_participated": 17,
+        "oral_questions": 8,
+        "written_questions": 78
+      },
+      "2023": {
+        "debate_contributions": 24,
+        "debates_participated": 16,
+        "oral_questions": 10,
+        "written_questions": 39
+      },
+      "2024": {
+        "debate_contributions": 8,
+        "debates_participated": 5,
+        "oral_questions": 1,
+        "written_questions": 13
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 77,
+    "debates_participated": 53,
+    "early_day_motions": 3,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 187
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.32,
+    "committee_memberships": 0,
+    "debate_contributions": 77,
+    "voting_participation_pct": 56.37,
+    "written_questions": 187
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 99.25,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 133,
+      "meetings_available": 134
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Shark Fins Bill",
+      "committee_id": 624,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-20"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Shark Fins Bill",
+        "committee_id": 624,
+        "file": "committees/shark-fins-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "shark-fins-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1115,
+    "name": "Falkirk"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4424
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4424,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "John McNally",
+    "display": "John McNally",
+    "full_title": "John McNally",
+    "list_as": "McNally, John"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Environment)",
+        "start_date": "2017-10-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1115,
+        "name": "Falkirk",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Falkirk",
+        "constituency_id": 1115,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "John McNally is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1115/overview'>Falkirk</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4424/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 101,
+        "voting_participation_pct": 53.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 128,
+        "voting_participation_pct": 52.89
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 154,
+        "voting_participation_pct": 61.35
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 136,
+        "voting_participation_pct": 53.12
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 81,
+        "voting_participation_pct": 63.78
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 602,
+        "voting_participation_pct": 56.37
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 602,
+    "voting_participation_pct": 56.37
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

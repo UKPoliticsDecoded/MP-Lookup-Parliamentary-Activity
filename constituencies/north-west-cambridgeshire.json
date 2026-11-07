@@ -1,0 +1,78 @@
+{
+  "boundary": {
+    "area_hectares": 38914.4,
+    "bng": {
+      "easting": 515677,
+      "northing": 295334
+    },
+    "centroid": {
+      "latitude": 52.54359,
+      "longitude": -0.29565
+    },
+    "geojson": "constituencies/boundaries/north-west-cambridgeshire.geojson",
+    "ons_code": "E14001401",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5308.json",
+    "member_id": 5308,
+    "name": "Sam Carling",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75915,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 39,
+      "result": "Lab Gain",
+      "turnout": 44424,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3654,
+      "end_date": "2024-05-30",
+      "member_id": 1496,
+      "name": "Shailesh Vara",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2164,
+      "end_date": "2010-05-06",
+      "member_id": 1496,
+      "name": "Shailesh Vara",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4216,
+  "is_current": true,
+  "name": "North West Cambridgeshire",
+  "name_cy": null,
+  "ons_code": "E14001401",
+  "outcodes": [
+    "PE1",
+    "PE15",
+    "PE2",
+    "PE26",
+    "PE28",
+    "PE3",
+    "PE5",
+    "PE6",
+    "PE7",
+    "PE8",
+    "PE9"
+  ],
+  "schema_version": 1,
+  "slug": "north-west-cambridgeshire",
+  "start_date": "2024-05-31"
+}

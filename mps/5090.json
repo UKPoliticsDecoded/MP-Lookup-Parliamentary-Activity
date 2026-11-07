@@ -1,0 +1,308 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 10,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 16
+      },
+      "2025": {
+        "debate_contributions": 70,
+        "debates_participated": 39,
+        "early_day_motions": 14,
+        "oral_questions": 7,
+        "petitions_presented": 1,
+        "written_questions": 446
+      },
+      "2026": {
+        "debate_contributions": 22,
+        "debates_participated": 14,
+        "early_day_motions": 8,
+        "oral_questions": 2,
+        "written_questions": 212
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 104,
+    "debates_participated": 63,
+    "early_day_motions": 26,
+    "oral_questions": 12,
+    "petitions_presented": 1,
+    "written_questions": 674
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 104,
+    "voting_participation_pct": 54.68,
+    "written_questions": 674
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 47,
+      "meetings_available": 47
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          },
+          {
+            "end": "2026-09-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-28"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cheadle.json",
+    "id": 3973,
+    "name": "Cheadle",
+    "ons_code": "E14001158",
+    "slug": "cheadle"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tom.morrison.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/tommorrisonlibdem"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/thetommorrison/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/thomasmorrison"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5090
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5090,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Tom Morrison",
+    "full_title": "Tom Morrison MP",
+    "list_as": "Morrison, Tom"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-09-01",
+        "is_current": false,
+        "name": "Liberal Democrat Deputy Chief Whip",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3403,
+        "name": "Cheadle",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cheadle",
+        "constituency_id": 3973,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Tom Morrison is the Liberal Democrat MP for <a href='/constituency/3973/overview'>Cheadle</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5090/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 36,
+        "voting_participation_pct": 49.32
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 207,
+        "voting_participation_pct": 64.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 102,
+        "voting_participation_pct": 43.22
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 345,
+        "voting_participation_pct": 54.68
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 345,
+    "voting_participation_pct": 54.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

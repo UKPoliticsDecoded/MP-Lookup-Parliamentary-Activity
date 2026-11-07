@@ -1,0 +1,195 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 20,
+        "debates_participated": 15,
+        "oral_questions": 3,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 117,
+        "debates_participated": 48,
+        "oral_questions": 8,
+        "written_questions": 53
+      },
+      "2026": {
+        "debate_contributions": 85,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 59
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 222,
+    "debates_participated": 91,
+    "early_day_motions": 1,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 115
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 222,
+    "voting_participation_pct": 80.82,
+    "written_questions": 115
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/folkestone-and-hythe.json",
+    "id": 4054,
+    "name": "Folkestone and Hythe",
+    "ons_code": "E14001239",
+    "slug": "folkestone-and-hythe"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tony.vaughan.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5067
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5067,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Tony Vaughan",
+    "full_title": "Tony Vaughan KC MP",
+    "list_as": "Vaughan, Tony"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Folkestone and Hythe",
+        "constituency_id": 4054,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Tony Vaughan is the Labour MP for <a href='/constituency/4054/overview'>Folkestone and Hythe</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5067/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 63,
+        "voting_participation_pct": 86.3
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 281,
+        "voting_participation_pct": 87.27
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 166,
+        "voting_participation_pct": 70.34
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 510,
+        "voting_participation_pct": 80.82
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 510,
+    "voting_participation_pct": 80.82
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

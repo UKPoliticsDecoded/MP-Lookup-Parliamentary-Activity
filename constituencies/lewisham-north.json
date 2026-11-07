@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 1240.1,
+    "bng": {
+      "easting": 536527,
+      "northing": 176551
+    },
+    "centroid": {
+      "latitude": 51.47146,
+      "longitude": -0.03567
+    },
+    "geojson": "constituencies/boundaries/lewisham-north.geojson",
+    "ons_code": "E14001332",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4491.json",
+    "member_id": 4491,
+    "name": "Vicky Foxcroft",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74205,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15782,
+      "result": "Lab Hold",
+      "turnout": 44167,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4147,
+  "is_current": true,
+  "name": "Lewisham North",
+  "name_cy": null,
+  "ons_code": "E14001332",
+  "outcodes": [
+    "SE10",
+    "SE12",
+    "SE13",
+    "SE14",
+    "SE15",
+    "SE16",
+    "SE3",
+    "SE4",
+    "SE8"
+  ],
+  "schema_version": 1,
+  "slug": "lewisham-north",
+  "start_date": "2024-05-31"
+}

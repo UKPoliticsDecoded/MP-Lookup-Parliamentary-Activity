@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 28423.5,
+    "bng": {
+      "easting": 494491,
+      "northing": 402225
+    },
+    "centroid": {
+      "latitude": 53.50825,
+      "longitude": -0.57669
+    },
+    "geojson": "constituencies/boundaries/scunthorpe.geojson",
+    "ons_code": "E14001462",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4056.json",
+    "member_id": 4056,
+    "name": "Sir Nicholas Dakin",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73855,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3542,
+      "result": "Lab Gain",
+      "turnout": 39051,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3717,
+      "end_date": "2024-05-30",
+      "member_id": 4867,
+      "name": "Holly Mumby-Croft",
+      "start_date": "2019-12-12"
+    },
+    {
+      "constituency_version_id": 3717,
+      "end_date": "2019-11-06",
+      "member_id": 4056,
+      "name": "Sir Nicholas Dakin",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4277,
+  "is_current": true,
+  "name": "Scunthorpe",
+  "name_cy": null,
+  "ons_code": "E14001462",
+  "outcodes": [
+    "DN15",
+    "DN16",
+    "DN17",
+    "DN20",
+    "DN21",
+    "LN7"
+  ],
+  "schema_version": 1,
+  "slug": "scunthorpe",
+  "start_date": "2024-05-31"
+}

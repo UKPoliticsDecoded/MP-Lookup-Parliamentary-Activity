@@ -1,0 +1,476 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 75,
+        "debates_participated": 67,
+        "oral_questions": 6,
+        "written_questions": 12
+      },
+      "2021": {
+        "debate_contributions": 70,
+        "debates_participated": 59,
+        "oral_questions": 10,
+        "written_questions": 11
+      },
+      "2022": {
+        "debate_contributions": 81,
+        "debates_participated": 68,
+        "oral_questions": 7,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 103,
+        "debates_participated": 80,
+        "oral_questions": 8,
+        "written_questions": 9
+      },
+      "2024": {
+        "debate_contributions": 118,
+        "debates_participated": 90,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 19
+      },
+      "2025": {
+        "debate_contributions": 148,
+        "debates_participated": 115,
+        "oral_questions": 7,
+        "written_questions": 29
+      },
+      "2026": {
+        "debate_contributions": 107,
+        "debates_participated": 87,
+        "oral_questions": 4,
+        "written_questions": 13
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 702,
+    "debates_participated": 566,
+    "early_day_motions": 1,
+    "oral_questions": 52,
+    "petitions_presented": 0,
+    "written_questions": 98
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 702,
+    "voting_participation_pct": 81.17,
+    "written_questions": 98
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "High Speed Rail (Crewe - Manchester) Bill Select Committee (Commons)",
+      "committee_id": 597,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 97,
+      "meetings_available": 97
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-09"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-06-17"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-04"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "High Speed Rail (Crewe - Manchester) Bill Select Committee (Commons)",
+        "committee_id": 597,
+        "file": "committees/high-speed-rail-crewe-manchester-bill-select-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-13"
+          }
+        ],
+        "slug": "high-speed-rail-crewe-manchester-bill-select-committee-commons"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-15"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/brigg-and-immingham.json",
+    "id": 3943,
+    "name": "Brigg and Immingham",
+    "ons_code": "E14001128",
+    "slug": "brigg-and-immingham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "martin.vickers.mp@parliament.uk",
+      "phone": "020 7219 7212",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Civic Centre Hub, Pelham Road, Immingham",
+      "email": "mvickersmp@parliament.uk",
+      "phone": "01469 572777",
+      "postcode": "DN40 1QF",
+      "type": "Constituency office"
+    },
+    {
+      "address": "2 Morley's Yard, Brigg",
+      "phone": "01469 572777",
+      "postcode": "DN20 8JD",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.martinvickers.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/martinvickers"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 3957
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 3957,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Martin Vickers",
+    "display": "Martin Vickers",
+    "full_title": "Martin Vickers MP",
+    "list_as": "Vickers, Martin"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 449,
+        "name": "Brigg and Cleethorpes",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brigg and Immingham",
+        "constituency_id": 3943,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Cleethorpes",
+        "constituency_id": 3419,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Martin Vickers is the Conservative MP for <a href='/constituency/3943/overview'>Brigg and Immingham</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3957/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 174,
+        "voting_participation_pct": 91.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 225,
+        "voting_participation_pct": 92.98
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 178,
+        "voting_participation_pct": 70.92
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 237,
+        "voting_participation_pct": 92.58
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 169,
+        "voting_participation_pct": 84.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 212,
+        "voting_participation_pct": 65.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 182,
+        "voting_participation_pct": 77.12
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 930,
+        "voting_participation_pct": 87.08
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 449,
+        "voting_participation_pct": 71.16
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1379,
+    "voting_participation_pct": 81.17
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

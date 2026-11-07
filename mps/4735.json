@@ -1,0 +1,358 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 140,
+        "debates_participated": 69,
+        "early_day_motions": 3,
+        "oral_questions": 8,
+        "written_questions": 37
+      },
+      "2021": {
+        "debate_contributions": 140,
+        "debates_participated": 68,
+        "early_day_motions": 4,
+        "oral_questions": 6,
+        "written_questions": 9
+      },
+      "2022": {
+        "debate_contributions": 110,
+        "debates_participated": 67,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 7
+      },
+      "2023": {
+        "debate_contributions": 90,
+        "debates_participated": 37,
+        "early_day_motions": 2,
+        "written_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 106,
+        "debates_participated": 40,
+        "early_day_motions": 2,
+        "written_questions": 7
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 67,
+        "debates_participated": 54,
+        "early_day_motions": 5,
+        "written_questions": 15
+      },
+      "2026": {
+        "debate_contributions": 29,
+        "debates_participated": 16,
+        "early_day_motions": 1,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 682,
+    "debates_participated": 351,
+    "early_day_motions": 18,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 78
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 682,
+    "voting_participation_pct": 50.98,
+    "written_questions": 78
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "UK Infrastructure Bank Bill [Lords]",
+      "committee_id": 625,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "UK Infrastructure Bank Bill [Lords]",
+        "committee_id": 625,
+        "file": "committees/uk-infrastructure-bank-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "uk-infrastructure-bank-bill-lords"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/aberdeen-south.json",
+    "id": 4450,
+    "name": "Aberdeen South",
+    "ons_code": "S14000061",
+    "slug": "aberdeen-south"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4735
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4735,
+  "membership": {
+    "end_date": "2026-05-14",
+    "end_reason": "Resignation (Northstead)",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Stephen Flynn",
+    "full_title": "Rt Hon Stephen Flynn",
+    "list_as": "Flynn, Stephen"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-05-14",
+        "is_current": false,
+        "name": "SNP Westminster Leader",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "SNP Westminster Leader",
+        "start_date": "2022-12-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-06",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Business, Energy and Industrial Strategy)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Deputy Spokesperson (Treasury - Financial Secretary)",
+        "start_date": "2020-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2026-05-14",
+        "party": "Scottish National Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Aberdeen South",
+        "constituency_id": 4450,
+        "end_date": "2026-05-14",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Aberdeen South",
+        "constituency_id": 20,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Stephen Flynn is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/4450/overview'>Aberdeen South</a>, and left the Commons on 14 May 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4735/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 161,
+        "voting_participation_pct": 66.53
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 156,
+        "voting_participation_pct": 62.15
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 152,
+        "voting_participation_pct": 59.38
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 111,
+        "voting_participation_pct": 55.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 68,
+        "voting_participation_pct": 21.12
+      },
+      "2026": {
+        "divisions_eligible": 120,
+        "divisions_voted": 28,
+        "voting_participation_pct": 23.33
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 679,
+        "voting_participation_pct": 63.58
+      },
+      "59th": {
+        "divisions_eligible": 515,
+        "divisions_voted": 128,
+        "voting_participation_pct": 24.85
+      }
+    },
+    "divisions_eligible": 1583,
+    "divisions_voted": 807,
+    "voting_participation_pct": 50.98
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

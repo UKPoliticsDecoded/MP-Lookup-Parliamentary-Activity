@@ -1,0 +1,208 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 7,
+        "debates_participated": 7,
+        "oral_questions": 2,
+        "written_questions": 26
+      },
+      "2025": {
+        "debate_contributions": 7,
+        "debates_participated": 4,
+        "oral_questions": 3,
+        "written_questions": 53
+      },
+      "2026": {
+        "debate_contributions": 56,
+        "debates_participated": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 70,
+    "debates_participated": 31,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 79
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 70,
+    "voting_participation_pct": 80.03,
+    "written_questions": 79
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/southampton-test.json",
+    "id": 4315,
+    "name": "Southampton Test",
+    "ons_code": "E14001500",
+    "slug": "southampton-test"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "satvir.kaur.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://satvirkaur.info"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/laboursatvir"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/laboursatvir"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5271
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5271,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Satvir Kaur",
+    "full_title": "Satvir Kaur MP",
+    "list_as": "Kaur, Satvir"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government) (Minister for Equalities)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Home Office)",
+      "Parliamentary Under-Secretary (Housing, Communities and Local Government) (Minister for Equalities)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Southampton Test",
+        "constituency_id": 4315,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Satvir Kaur is the Labour MP for <a href='/constituency/4315/overview'>Southampton Test</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government posts of Parliamentary Under-Secretary (Housing, Communities and Local Government) (Minister for Equalities), and Parliamentary Under-Secretary (Home Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5271/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 300,
+        "voting_participation_pct": 93.17
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 136,
+        "voting_participation_pct": 57.63
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 505,
+        "voting_participation_pct": 80.03
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 505,
+    "voting_participation_pct": 80.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

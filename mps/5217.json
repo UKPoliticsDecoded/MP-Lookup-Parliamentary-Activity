@@ -1,0 +1,219 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 11,
+        "oral_questions": 5,
+        "written_questions": 15
+      },
+      "2025": {
+        "debate_contributions": 50,
+        "debates_participated": 32,
+        "oral_questions": 12,
+        "written_questions": 21
+      },
+      "2026": {
+        "debate_contributions": 78,
+        "debates_participated": 47,
+        "oral_questions": 13,
+        "written_questions": 29
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 142,
+    "debates_participated": 90,
+    "early_day_motions": 0,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 65
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 142,
+    "voting_participation_pct": 80.51,
+    "written_questions": 65
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 74,
+      "meetings_available": 74
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-dorset.json",
+    "id": 4300,
+    "name": "South Dorset",
+    "ons_code": "E14001485",
+    "slug": "south-dorset"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lloyd.hatton.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5217
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5217,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lloyd Hatton",
+    "full_title": "Lloyd Hatton MP",
+    "list_as": "Hatton, Lloyd"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Dorset",
+        "constituency_id": 4300,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lloyd Hatton is the Labour MP for <a href='/constituency/4300/overview'>South Dorset</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5217/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 180,
+        "voting_participation_pct": 76.27
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 508,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 508,
+    "voting_participation_pct": 80.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

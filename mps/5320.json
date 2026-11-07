@@ -1,0 +1,240 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 38,
+        "debates_participated": 26,
+        "oral_questions": 4,
+        "written_questions": 30
+      },
+      "2025": {
+        "debate_contributions": 75,
+        "debates_participated": 57,
+        "early_day_motions": 5,
+        "oral_questions": 5,
+        "written_questions": 76
+      },
+      "2026": {
+        "debate_contributions": 83,
+        "debates_participated": 51,
+        "early_day_motions": 6,
+        "oral_questions": 4,
+        "written_questions": 171
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 196,
+    "debates_participated": 134,
+    "early_day_motions": 11,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 277
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 196,
+    "voting_participation_pct": 60.86,
+    "written_questions": 277
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-08"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/waveney-valley.json",
+    "id": 4384,
+    "name": "Waveney Valley",
+    "ons_code": "E14001569",
+    "slug": "waveney-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "adrian.ramsay.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5320
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5320,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Adrian Ramsay",
+    "full_title": "Adrian Ramsay MP",
+    "list_as": "Ramsay, Adrian"
+  },
+  "party": {
+    "abbreviation": "Green",
+    "id": 44,
+    "name": "Green Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Dentistry)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Health)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Treasury)",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2025-09-02",
+        "is_current": false,
+        "name": "Co-Leader of the Green Party",
+        "start_date": "2021-10-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Green Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Waveney Valley",
+        "constituency_id": 4384,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Adrian Ramsay is the Green Party MP for <a href='/constituency/4384/overview'>Waveney Valley</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Green Spokesperson (Health), Green Spokesperson (Dentistry), and Green Spokesperson (Environment, Food and Rural Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5320/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 57,
+        "voting_participation_pct": 78.08
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 201,
+        "voting_participation_pct": 62.42
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 126,
+        "voting_participation_pct": 53.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 384,
+        "voting_participation_pct": 60.86
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 384,
+    "voting_participation_pct": 60.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

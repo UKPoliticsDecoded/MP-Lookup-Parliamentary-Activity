@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 16763.8,
+    "bng": {
+      "easting": 312653,
+      "northing": 206245
+    },
+    "centroid": {
+      "latitude": 51.74807,
+      "longitude": -3.26665
+    },
+    "geojson": "constituencies/boundaries/blaenau-gwent-and-rhymney.geojson",
+    "ons_code": "W07000084",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3928.json",
+    "member_id": 3928,
+    "name": "Nick Smith",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70153,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12183,
+      "result": "Lab Hold",
+      "turnout": 29922,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4499,
+  "is_current": true,
+  "name": "Blaenau Gwent and Rhymney",
+  "name_cy": "Blaenau Gwent a Rhymni",
+  "ons_code": "W07000084",
+  "outcodes": [
+    "CF48",
+    "CF81",
+    "NP11",
+    "NP12",
+    "NP13",
+    "NP22",
+    "NP23",
+    "NP24"
+  ],
+  "schema_version": 1,
+  "slug": "blaenau-gwent-and-rhymney",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 3653.7,
+    "bng": {
+      "easting": 380730,
+      "northing": 389917
+    },
+    "centroid": {
+      "latitude": 53.40573,
+      "longitude": -2.29132
+    },
+    "geojson": "constituencies/boundaries/wythenshawe-and-sale-east.geojson",
+    "ons_code": "E14001602",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4316.json",
+    "member_id": 4316,
+    "name": "Mike Kane",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77767,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 14610,
+      "result": "Lab Hold",
+      "turnout": 39132,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3873,
+      "end_date": "2024-05-30",
+      "member_id": 4316,
+      "name": "Mike Kane",
+      "start_date": "2014-02-13"
+    }
+  ],
+  "id": 4417,
+  "is_current": true,
+  "name": "Wythenshawe and Sale East",
+  "name_cy": null,
+  "ons_code": "E14001602",
+  "outcodes": [
+    "M22",
+    "M23",
+    "M32",
+    "M33",
+    "M90",
+    "WA15"
+  ],
+  "schema_version": 1,
+  "slug": "wythenshawe-and-sale-east",
+  "start_date": "2024-05-31"
+}

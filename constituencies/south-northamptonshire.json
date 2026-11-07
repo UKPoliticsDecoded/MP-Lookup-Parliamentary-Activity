@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 63369.8,
+    "bng": {
+      "easting": 464727,
+      "northing": 248230
+    },
+    "centroid": {
+      "latitude": 52.1286,
+      "longitude": -1.05585
+    },
+    "geojson": "constituencies/boundaries/south-northamptonshire.geojson",
+    "ons_code": "E14001490",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5355.json",
+    "member_id": 5355,
+    "name": "Sarah Bool",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78233,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3687,
+      "result": "Con Hold",
+      "turnout": 53697,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3747,
+      "end_date": "2024-05-30",
+      "member_id": 4117,
+      "name": "Andrea Leadsom",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4305,
+  "is_current": true,
+  "name": "South Northamptonshire",
+  "name_cy": null,
+  "ons_code": "E14001490",
+  "outcodes": [
+    "MK16",
+    "MK19",
+    "NN11",
+    "NN12",
+    "NN13",
+    "NN29",
+    "NN4",
+    "NN5",
+    "NN7",
+    "OX17",
+    "OX27"
+  ],
+  "schema_version": 1,
+  "slug": "south-northamptonshire",
+  "start_date": "2024-05-31"
+}

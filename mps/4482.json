@@ -1,0 +1,515 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "early_day_motions": 2,
+        "written_questions": 1
+      },
+      "2020": {
+        "debate_contributions": 126,
+        "debates_participated": 76,
+        "early_day_motions": 57,
+        "oral_questions": 22,
+        "written_questions": 291
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 99,
+        "debates_participated": 76,
+        "early_day_motions": 40,
+        "oral_questions": 11,
+        "written_questions": 235
+      },
+      "2022": {
+        "bills_sponsored": 4,
+        "debate_contributions": 84,
+        "debates_participated": 50,
+        "early_day_motions": 19,
+        "oral_questions": 16,
+        "written_questions": 271
+      },
+      "2023": {
+        "bills_sponsored": 3,
+        "debate_contributions": 57,
+        "debates_participated": 38,
+        "early_day_motions": 16,
+        "oral_questions": 10,
+        "written_questions": 36
+      },
+      "2024": {
+        "debate_contributions": 32,
+        "debates_participated": 24,
+        "early_day_motions": 32,
+        "oral_questions": 3,
+        "written_questions": 45
+      }
+    },
+    "bills_sponsored": 8,
+    "debate_contributions": 398,
+    "debates_participated": 264,
+    "early_day_motions": 166,
+    "oral_questions": 62,
+    "petitions_presented": 0,
+    "written_questions": 879
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 398,
+    "voting_participation_pct": 65.36,
+    "written_questions": 879
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Air Traffic Management and Unmanned Aircraft Bill [Lords]",
+      "committee_id": 507,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Consolidation, &c., Bills (Joint Committee)",
+      "committee_id": 171,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Investigatory Powers (Amendment) Bill [HL]",
+      "committee_id": 709,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 95,
+      "meetings_available": 95
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 41,
+      "meetings_available": 41
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+      "committee_id": 585,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Air Traffic Management and Unmanned Aircraft Bill [Lords]",
+        "committee_id": 507,
+        "file": "committees/air-traffic-management-and-unmanned-aircraft-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-04"
+          }
+        ],
+        "slug": "air-traffic-management-and-unmanned-aircraft-bill-lords"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Consolidation, &c., Bills (Joint Committee)",
+        "committee_id": 171,
+        "file": "committees/consolidation-and-c-bills-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "consolidation-and-c-bills-joint-committee"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-07"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      },
+      {
+        "committee": "Investigatory Powers (Amendment) Bill [HL]",
+        "committee_id": 709,
+        "file": "committees/investigatory-powers-amendment-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "investigatory-powers-amendment-bill-hl"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-21"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+        "committee_id": 585,
+        "file": "committees/taxis-and-private-hire-vehicles-disabled-persons-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-02"
+          }
+        ],
+        "slug": "taxis-and-private-hire-vehicles-disabled-persons-bill"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1977,
+    "name": "Midlothian"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4482
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4482,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Owen Thompson",
+    "full_title": "Rt Hon Owen Thompson",
+    "list_as": "Thompson, Owen"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "SNP Chief Whip",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-07",
+        "is_current": false,
+        "name": "SNP Chief Whip",
+        "start_date": "2021-03-09"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-03-09",
+        "is_current": false,
+        "name": "SNP Whip",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "SNP Whip",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4445,
+        "name": "Midlothian",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1977,
+        "name": "Midlothian",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Midlothian",
+        "constituency_id": 1977,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Owen Thompson is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1977/overview'>Midlothian</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4482/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 116,
+        "voting_participation_pct": 61.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 158,
+        "voting_participation_pct": 65.29
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 168,
+        "voting_participation_pct": 66.93
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 161,
+        "voting_participation_pct": 62.89
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 698,
+        "voting_participation_pct": 65.36
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 698,
+    "voting_participation_pct": 65.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 4,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 3
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Private Bill Office, House of Lords, London SW1A 0PW",
+    "email": "HLPrivateBills@parliament.uk"
+  },
+  "end_date": "2024-04-23",
+  "house": "Lords",
+  "id": 712,
+  "is_current": false,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 1251,
+      "name": "The Rt Hon. the Lord Naseby PC",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-04-23",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-11"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3652,
+      "name": "The Rt Hon. the Baroness Hale of Richmond DBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-04-23",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-03-11"
+        },
+        {
+          "end": "2024-04-23",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-11"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4159,
+      "name": "The Baroness Hayter of Kentish Town",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-04-23",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-11"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4163,
+      "name": "The Lord German OBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-04-23",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-11"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4690,
+      "name": "The Baroness Fairhead CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-04-23",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-03-11"
+        }
+      ]
+    }
+  ],
+  "name": "Royal Albert Hall Bill [HL] Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The select committee has been appointed to consider the <a href=\"https://bills.parliament.uk/bills/3381\">Royal Albert Hall Bill [HL]</a>, which has been committed to it. The Committee will hear from petitioners against the Bill, and the Bill’s promoters, before reporting the Bill, and any amendments, to the House.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "royal-albert-hall-bill-hl",
+  "start_date": "2024-03-11",
+  "sub_committee_ids": [],
+  "types": [
+    "(HL) Legislation Office",
+    "Private/hybrid bill committee"
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 11,
+        "debates_participated": 9,
+        "oral_questions": 2
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 45,
+        "debates_participated": 39,
+        "oral_questions": 3,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 56,
+    "debates_participated": 48,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 10
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 56,
+    "voting_participation_pct": 90.17,
+    "written_questions": 10
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bangor-aberconwy.json",
+    "id": 4498,
+    "name": "Bangor Aberconwy",
+    "ons_code": "W07000083",
+    "slug": "bangor-aberconwy"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "claire.hughes.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5113
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5113,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Claire Hughes",
+    "full_title": "Claire Hughes MP",
+    "list_as": "Hughes, Claire"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Wales Office)",
+        "start_date": "2025-09-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2025-09-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-09-16",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Government Whip, Lord Commissioner of HM Treasury",
+      "Parliamentary Under-Secretary (Wales Office)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bangor Aberconwy",
+        "constituency_id": 4498,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Claire Hughes is the Labour MP for <a href='/constituency/4498/overview'>Bangor Aberconwy</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government posts of Parliamentary Under-Secretary (Wales Office), and Government Whip, Lord Commissioner of HM Treasury.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5113/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 278,
+        "voting_participation_pct": 86.34
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 222,
+        "voting_participation_pct": 94.07
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 569,
+        "voting_participation_pct": 90.17
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 569,
+    "voting_participation_pct": 90.17
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

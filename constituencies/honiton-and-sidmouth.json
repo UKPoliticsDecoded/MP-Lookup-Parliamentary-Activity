@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 64703.9,
+    "bng": {
+      "easting": 321400,
+      "northing": 99616
+    },
+    "centroid": {
+      "latitude": 50.79075,
+      "longitude": -3.11649
+    },
+    "geojson": "constituencies/boundaries/honiton-and-sidmouth.geojson",
+    "ons_code": "E14001291",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4942.json",
+    "member_id": 4942,
+    "name": "Richard Foord",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75537,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6700,
+      "result": "LD Gain",
+      "turnout": 50655,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4106,
+  "is_current": true,
+  "name": "Honiton and Sidmouth",
+  "name_cy": null,
+  "ons_code": "E14001291",
+  "outcodes": [
+    "DT7",
+    "EX10",
+    "EX11",
+    "EX12",
+    "EX13",
+    "EX14",
+    "EX15",
+    "EX24",
+    "EX5",
+    "TA20",
+    "TA3"
+  ],
+  "schema_version": 1,
+  "slug": "honiton-and-sidmouth",
+  "start_date": "2024-05-31"
+}

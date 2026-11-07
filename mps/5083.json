@@ -1,0 +1,308 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 21,
+        "oral_questions": 8,
+        "written_questions": 11
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 106,
+        "debates_participated": 70,
+        "oral_questions": 9,
+        "petitions_presented": 1,
+        "written_questions": 101
+      },
+      "2026": {
+        "debate_contributions": 70,
+        "debates_participated": 53,
+        "oral_questions": 4,
+        "written_questions": 38
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 206,
+    "debates_participated": 144,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 1,
+    "written_questions": 150
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 5,
+    "debate_contributions": 206,
+    "voting_participation_pct": 67.83,
+    "written_questions": 150
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Committee",
+      "committee_id": 107,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Client Board",
+      "committee_id": 616,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": true,
+      "meetings_attended": 84,
+      "meetings_available": 84
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Members Estimate Committee",
+        "committee_id": 107,
+        "file": "committees/members-estimate.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "members-estimate"
+      },
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-15"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/carshalton-and-wallington.json",
+    "id": 3968,
+    "name": "Carshalton and Wallington",
+    "ons_code": "E14001153",
+    "slug": "carshalton-and-wallington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "bobby.dean.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/BobbyWDean"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/BobbyWDean"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Bobby_Dean"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5083
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5083,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Bobby Dean",
+    "full_title": "Bobby Dean MP",
+    "list_as": "Dean, Bobby"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Shadow Leader of the House of Commons",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3577,
+        "name": "Lewisham, Deptford",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3577,
+        "name": "Lewisham, Deptford",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Carshalton and Wallington",
+        "constituency_id": 3968,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Bobby Dean is the Liberal Democrat MP for <a href='/constituency/3968/overview'>Carshalton and Wallington</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Shadow Leader of the House of Commons.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5083/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 43,
+        "voting_participation_pct": 58.9
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 234,
+        "voting_participation_pct": 72.67
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 151,
+        "voting_participation_pct": 63.98
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 428,
+        "voting_participation_pct": 67.83
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 428,
+    "voting_participation_pct": 67.83
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

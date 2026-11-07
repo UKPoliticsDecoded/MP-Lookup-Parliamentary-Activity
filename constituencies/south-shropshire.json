@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 182181.2,
+    "bng": {
+      "easting": 355092,
+      "northing": 289840
+    },
+    "centroid": {
+      "latitude": 52.50461,
+      "longitude": -2.66303
+    },
+    "geojson": "constituencies/boundaries/south-shropshire.geojson",
+    "ons_code": "E14001493",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4742.json",
+    "member_id": 4742,
+    "name": "Stuart Anderson",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76677,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1624,
+      "result": "Con Hold",
+      "turnout": 51653,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4308,
+  "is_current": true,
+  "name": "South Shropshire",
+  "name_cy": null,
+  "ons_code": "E14001493",
+  "outcodes": [
+    "DY12",
+    "DY14",
+    "DY7",
+    "SY15",
+    "SY2",
+    "SY21",
+    "SY3",
+    "SY4",
+    "SY5",
+    "SY6",
+    "SY7",
+    "SY8",
+    "SY9",
+    "TF11",
+    "TF12",
+    "TF13",
+    "TF6",
+    "TF8",
+    "WR15",
+    "WV15",
+    "WV16",
+    "WV5",
+    "WV6"
+  ],
+  "schema_version": 1,
+  "slug": "south-shropshire",
+  "start_date": "2024-05-31"
+}

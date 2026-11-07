@@ -1,0 +1,535 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 39,
+        "debates_participated": 35,
+        "oral_questions": 5,
+        "written_questions": 81
+      },
+      "2021": {
+        "debate_contributions": 153,
+        "debates_participated": 49,
+        "oral_questions": 4,
+        "written_questions": 25
+      },
+      "2022": {
+        "debate_contributions": 123,
+        "debates_participated": 51,
+        "oral_questions": 2,
+        "written_questions": 80
+      },
+      "2023": {
+        "debate_contributions": 121,
+        "debates_participated": 39,
+        "oral_questions": 1,
+        "written_questions": 105
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 313,
+        "debates_participated": 55,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 578,
+        "debates_participated": 66
+      },
+      "2026": {
+        "debate_contributions": 265,
+        "debates_participated": 34
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 1592,
+    "debates_participated": 329,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 306
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1592,
+    "voting_participation_pct": 73.69,
+    "written_questions": 306
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+      "committee_id": 630,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 733,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 691,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 765,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Insurance Contributions Bill",
+      "committee_id": 526,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "UK Infrastructure Bank Bill [Lords]",
+      "committee_id": 625,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+        "committee_id": 630,
+        "file": "committees/co-operatives-mutuals-and-friendly-societies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "co-operatives-mutuals-and-friendly-societies-bill"
+      },
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 733,
+        "file": "committees/finance-no-2-bill-733.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-733"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 691,
+        "file": "committees/finance-bill-691.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "finance-bill-691"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 765,
+        "file": "committees/finance-bill-765.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-22"
+          }
+        ],
+        "slug": "finance-bill-765"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "National Insurance Contributions Bill",
+        "committee_id": 526,
+        "file": "committees/national-insurance-contributions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "national-insurance-contributions-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "UK Infrastructure Bank Bill [Lords]",
+        "committee_id": 625,
+        "file": "committees/uk-infrastructure-bank-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "uk-infrastructure-bank-bill-lords"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ealing-north.json",
+    "id": 4023,
+    "name": "Ealing North",
+    "ons_code": "E14001208",
+    "slug": "ealing-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "james.murray.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jamesmurray.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/james4ealing"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/jamesmurray_ldn"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4797
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4797,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James Murray",
+    "full_title": "Rt Hon James Murray MP",
+    "list_as": "Murray, James"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Financial Secretary to the Treasury and Paymaster General",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Secretary of State for Health and Social Care",
+        "start_date": "2026-05-14"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2026-05-14",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2025-09-01"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2025-09-01",
+        "is_current": false,
+        "name": "Exchequer Secretary (HM Treasury)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Financial Secretary to the Treasury and Paymaster General"
+    ],
+    "opposition": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Financial Secretary (Treasury)",
+        "start_date": "2020-10-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-10-16",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2020-04-14"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ealing North",
+        "constituency_id": 4023,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Ealing North",
+        "constituency_id": 3456,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon James Murray is the Labour (Co-op) MP for <a href='/constituency/4023/overview'>Ealing North</a>, and has been an MP continually since 12 December 2019. \r\nHe currently holds the Government post of Financial Secretary to the Treasury and Paymaster General.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4797/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 207,
+        "voting_participation_pct": 85.54
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 192,
+        "voting_participation_pct": 75.0
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 147,
+        "voting_participation_pct": 73.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 208,
+        "voting_participation_pct": 64.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 151,
+        "voting_participation_pct": 63.98
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 829,
+        "voting_participation_pct": 77.62
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 423,
+        "voting_participation_pct": 67.04
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1252,
+    "voting_participation_pct": 73.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 1167.2,
+    "bng": {
+      "easting": 525560,
+      "northing": 179903
+    },
+    "centroid": {
+      "latitude": 51.50412,
+      "longitude": -0.1923
+    },
+    "geojson": "constituencies/boundaries/kensington-and-bayswater.geojson",
+    "ons_code": "E14001310",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5229.json",
+    "member_id": 5229,
+    "name": "Joe Powell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77306,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2903,
+      "result": "Lab Hold",
+      "turnout": 41908,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4125,
+  "is_current": true,
+  "name": "Kensington and Bayswater",
+  "name_cy": null,
+  "ons_code": "E14001310",
+  "outcodes": [
+    "SW10",
+    "SW1X",
+    "SW3",
+    "SW5",
+    "SW7",
+    "W10",
+    "W11",
+    "W14",
+    "W2",
+    "W8",
+    "W9"
+  ],
+  "schema_version": 1,
+  "slug": "kensington-and-bayswater",
+  "start_date": "2024-05-31"
+}

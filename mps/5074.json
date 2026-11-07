@@ -1,0 +1,220 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 3,
+        "oral_questions": 2,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 27,
+        "debates_participated": 21,
+        "oral_questions": 3,
+        "written_questions": 23
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 50,
+        "debates_participated": 26,
+        "oral_questions": 3,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 80,
+    "debates_participated": 50,
+    "early_day_motions": 0,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 39
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 80,
+    "voting_participation_pct": 82.09,
+    "written_questions": 39
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/south-ribble.json",
+    "id": 4306,
+    "name": "South Ribble",
+    "ons_code": "E14001491",
+    "slug": "south-ribble"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "paul.foster.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 1a, Balfour Court, Leyland",
+      "email": "paul.foster.mp@parliament.uk",
+      "phone": "01772 364003",
+      "postcode": "PR25 2TF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.paulfostermp.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PaulFosterMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5074
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5074,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Paul Foster",
+    "full_title": "Mr Paul Foster MP",
+    "list_as": "Foster, Mr Paul"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3697,
+        "name": "Ribble Valley",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Ribble",
+        "constituency_id": 4306,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Paul Foster is the Labour MP for <a href='/constituency/4306/overview'>South Ribble</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5074/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 270,
+        "voting_participation_pct": 83.85
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 186,
+        "voting_participation_pct": 78.81
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 518,
+        "voting_participation_pct": 82.09
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 518,
+    "voting_participation_pct": 82.09
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

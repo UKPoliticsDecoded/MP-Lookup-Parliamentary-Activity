@@ -1,0 +1,268 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 7,
+        "debates_participated": 5,
+        "early_day_motions": 1,
+        "oral_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 91,
+        "debates_participated": 53,
+        "early_day_motions": 20,
+        "oral_questions": 10,
+        "written_questions": 26
+      },
+      "2026": {
+        "debate_contributions": 50,
+        "debates_participated": 38,
+        "early_day_motions": 20,
+        "oral_questions": 10,
+        "written_questions": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 148,
+    "debates_participated": 96,
+    "early_day_motions": 41,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 46
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 148,
+    "voting_participation_pct": 83.52,
+    "written_questions": 46
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      },
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/glasgow-north.json",
+    "id": 4474,
+    "name": "Glasgow North",
+    "ons_code": "S14000085",
+    "slug": "glasgow-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "martin.rhodes.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 1, 76 Firhill Road, Glasgow",
+      "email": "martin.rhodes.mp@parliament.uk",
+      "phone": "0141 321 3821",
+      "postcode": "G20 7BA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://martinrhodes.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/MartinRhodesGlasgow"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/martinrhodesforglasgownorth/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/MartinRhodes21"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5251
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5251,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Martin Rhodes",
+    "full_title": "Martin Rhodes MP",
+    "list_as": "Rhodes, Martin"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow North",
+        "constituency_id": 4474,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Martin Rhodes is the Labour MP for <a href='/constituency/4474/overview'>Glasgow North</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5251/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 273,
+        "voting_participation_pct": 84.78
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 183,
+        "voting_participation_pct": 77.54
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 527,
+        "voting_participation_pct": 83.52
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 527,
+    "voting_participation_pct": 83.52
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

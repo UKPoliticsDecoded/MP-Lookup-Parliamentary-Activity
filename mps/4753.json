@@ -1,0 +1,415 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 72,
+        "debates_participated": 54,
+        "oral_questions": 6,
+        "written_questions": 68
+      },
+      "2021": {
+        "debate_contributions": 73,
+        "debates_participated": 52,
+        "early_day_motions": 7,
+        "oral_questions": 9,
+        "written_questions": 73
+      },
+      "2022": {
+        "debate_contributions": 54,
+        "debates_participated": 41,
+        "early_day_motions": 6,
+        "oral_questions": 12,
+        "written_questions": 129
+      },
+      "2023": {
+        "debate_contributions": 82,
+        "debates_participated": 57,
+        "early_day_motions": 6,
+        "oral_questions": 16,
+        "petitions_presented": 2,
+        "written_questions": 111
+      },
+      "2024": {
+        "debate_contributions": 59,
+        "debates_participated": 36,
+        "early_day_motions": 25,
+        "oral_questions": 5,
+        "written_questions": 121
+      },
+      "2025": {
+        "debate_contributions": 63,
+        "debates_participated": 36,
+        "early_day_motions": 10,
+        "oral_questions": 4,
+        "written_questions": 99
+      },
+      "2026": {
+        "debate_contributions": 59,
+        "debates_participated": 34,
+        "early_day_motions": 8,
+        "oral_questions": 10,
+        "written_questions": 60
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 462,
+    "debates_participated": 310,
+    "early_day_motions": 62,
+    "oral_questions": 62,
+    "petitions_presented": 2,
+    "written_questions": 661
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 462,
+    "voting_participation_pct": 66.69,
+    "written_questions": 661
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bishop's Stortford Cemetery Bill",
+      "committee_id": 682,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 102,
+      "meetings_available": 102
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 720,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bishop's Stortford Cemetery Bill",
+        "committee_id": 682,
+        "file": "committees/bishop-s-stortford-cemetery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "bishop-s-stortford-cemetery-bill"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-08"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 720,
+        "file": "committees/tobacco-and-vapes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/city-of-durham.json",
+    "id": 3988,
+    "name": "City of Durham",
+    "ons_code": "E14001173",
+    "slug": "city-of-durham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mary.foy.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Office of Mary Foy MP for City of Durham",
+      "phone": "0191 374 1915",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4753
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4753,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mary Kelly Foy",
+    "full_title": "Mary Kelly Foy MP",
+    "list_as": "Foy, Mary Kelly"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "City of Durham",
+        "constituency_id": 3988,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "City of Durham",
+        "constituency_id": 3417,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Mary Kelly Foy is the Labour MP for <a href='/constituency/3988/overview'>City of Durham</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4753/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 141,
+        "voting_participation_pct": 56.18
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 169,
+        "voting_participation_pct": 66.02
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 62,
+        "voting_participation_pct": 31.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 225,
+        "voting_participation_pct": 69.88
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 203,
+        "voting_participation_pct": 86.02
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 672,
+        "voting_participation_pct": 62.92
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 461,
+        "voting_participation_pct": 73.06
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1133,
+    "voting_participation_pct": 66.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

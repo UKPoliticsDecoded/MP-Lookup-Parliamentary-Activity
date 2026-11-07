@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 2563.5,
+    "bng": {
+      "easting": 411609,
+      "northing": 93659
+    },
+    "centroid": {
+      "latitude": 50.74241,
+      "longitude": -1.83682
+    },
+    "geojson": "constituencies/boundaries/bournemouth-east.geojson",
+    "ons_code": "E14001115",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5210.json",
+    "member_id": 5210,
+    "name": "Tom Hayes",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72354,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5479,
+      "result": "Lab Gain",
+      "turnout": 44910,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3350,
+      "end_date": "2024-05-30",
+      "member_id": 1487,
+      "name": "Mr Tobias Ellwood",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 385,
+      "end_date": "2010-05-06",
+      "member_id": 1487,
+      "name": "Mr Tobias Ellwood",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 3930,
+  "is_current": true,
+  "name": "Bournemouth East",
+  "name_cy": null,
+  "ons_code": "E14001115",
+  "outcodes": [
+    "BH1",
+    "BH10",
+    "BH5",
+    "BH6",
+    "BH7",
+    "BH8",
+    "BH9"
+  ],
+  "schema_version": 1,
+  "slug": "bournemouth-east",
+  "start_date": "2024-05-31"
+}

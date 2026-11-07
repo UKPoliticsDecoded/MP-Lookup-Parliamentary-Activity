@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 131044.6,
+    "bng": {
+      "easting": 96556,
+      "northing": 543818
+    },
+    "centroid": {
+      "latitude": 54.69708,
+      "longitude": -6.70999
+    },
+    "geojson": "constituencies/boundaries/mid-ulster.geojson",
+    "ons_code": "N05000010",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5153.json",
+    "member_id": 5153,
+    "name": "Mr Cathal Mallaghan",
+    "party": "Sinn Féin",
+    "party_abbreviation": "SF",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74000,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 14923,
+      "result": "SF Hold",
+      "turnout": 45445,
+      "winning_party": "Sinn Féin",
+      "winning_party_id": 30
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3608,
+      "end_date": "2024-05-30",
+      "member_id": 4274,
+      "name": "Francie Molloy",
+      "start_date": "2013-03-07"
+    }
+  ],
+  "id": 4430,
+  "is_current": true,
+  "name": "Mid Ulster",
+  "name_cy": null,
+  "ons_code": "N05000010",
+  "outcodes": [
+    "BT41",
+    "BT44",
+    "BT45",
+    "BT46",
+    "BT51",
+    "BT62",
+    "BT70",
+    "BT71",
+    "BT79",
+    "BT80"
+  ],
+  "schema_version": 1,
+  "slug": "mid-ulster",
+  "start_date": "2024-05-31"
+}

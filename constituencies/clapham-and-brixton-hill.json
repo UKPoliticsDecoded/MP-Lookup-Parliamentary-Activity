@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 733.7,
+    "bng": {
+      "easting": 530046,
+      "northing": 174947
+    },
+    "centroid": {
+      "latitude": 51.45857,
+      "longitude": -0.12952
+    },
+    "geojson": "constituencies/boundaries/clapham-and-brixton-hill.geojson",
+    "ons_code": "E14001175",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4764.json",
+    "member_id": 4764,
+    "name": "Bell Ribeiro-Addy",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 83114,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 18005,
+      "result": "Lab Hold",
+      "turnout": 42741,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3990,
+  "is_current": true,
+  "name": "Clapham and Brixton Hill",
+  "name_cy": null,
+  "ons_code": "E14001175",
+  "outcodes": [
+    "SW12",
+    "SW2",
+    "SW3",
+    "SW4",
+    "SW8",
+    "SW9"
+  ],
+  "schema_version": 1,
+  "slug": "clapham-and-brixton-hill",
+  "start_date": "2024-05-31"
+}

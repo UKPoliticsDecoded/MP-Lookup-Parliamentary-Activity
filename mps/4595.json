@@ -1,0 +1,317 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 125,
+        "debates_participated": 49,
+        "oral_questions": 5,
+        "written_questions": 41
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 262,
+        "debates_participated": 124,
+        "oral_questions": 16,
+        "written_questions": 131
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 170,
+        "debates_participated": 90,
+        "oral_questions": 3,
+        "written_questions": 221
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 557,
+    "debates_participated": 263,
+    "early_day_motions": 0,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 393
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 557,
+    "voting_participation_pct": 87.16,
+    "written_questions": 393
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": true,
+      "meetings_attended": 50,
+      "meetings_available": 50
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": true,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 809,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-10"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-10"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 809,
+        "file": "committees/secure-16-to-19-academies-bill-809.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill-809"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stoke-on-trent-central.json",
+    "id": 4335,
+    "name": "Stoke-on-Trent Central",
+    "ons_code": "E14001520",
+    "slug": "stoke-on-trent-central"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "gareth.snell.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01782 971949",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4595
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4595,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Gareth Snell",
+    "full_title": "Gareth Snell MP",
+    "list_as": "Snell, Gareth"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3777,
+        "name": "Stoke-on-Trent Central",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-02-23"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stoke-on-Trent Central",
+        "constituency_id": 4335,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Stoke-on-Trent Central",
+        "constituency_id": 3777,
+        "end_date": "2019-11-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-02-23"
+      }
+    ]
+  },
+  "synopsis": "Gareth Snell is the Labour (Co-op) MP for <a href='/constituency/4335/overview'>Stoke-on-Trent Central</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4595/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 277,
+        "voting_participation_pct": 86.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 208,
+        "voting_participation_pct": 88.14
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 550,
+        "voting_participation_pct": 87.16
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 550,
+    "voting_participation_pct": 87.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

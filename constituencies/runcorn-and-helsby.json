@@ -1,0 +1,83 @@
+{
+  "boundary": {
+    "area_hectares": 18859.7,
+    "bng": {
+      "easting": 348875,
+      "northing": 376066
+    },
+    "centroid": {
+      "latitude": 53.2791,
+      "longitude": -2.7682
+    },
+    "geojson": "constituencies/boundaries/runcorn-and-helsby.geojson",
+    "ons_code": "E14001455",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5403.json",
+    "member_id": 5403,
+    "name": "Sarah Pochin",
+    "party": "Reform UK",
+    "party_abbreviation": "RUK",
+    "representing_since": "2025-05-01"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2025-05-01",
+      "election": "2025-05-01 Runcorn and Helsby By-election",
+      "election_id": 423,
+      "electorate": 70666,
+      "is_general_election": false,
+      "is_notional": false,
+      "majority": 6,
+      "result": "RUK Gain",
+      "turnout": 32655,
+      "winning_party": "Reform UK",
+      "winning_party_id": 1036
+    },
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70801,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 14696,
+      "result": "Lab Hold",
+      "turnout": 42235,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 4270,
+      "end_date": "2025-03-17",
+      "member_id": 4667,
+      "name": "Mike Amesbury",
+      "start_date": "2024-07-04"
+    }
+  ],
+  "id": 4270,
+  "is_current": true,
+  "name": "Runcorn and Helsby",
+  "name_cy": null,
+  "ons_code": "E14001455",
+  "outcodes": [
+    "CH1",
+    "CH2",
+    "CH3",
+    "CH65",
+    "CH66",
+    "CW6",
+    "WA4",
+    "WA6",
+    "WA7"
+  ],
+  "schema_version": 1,
+  "slug": "runcorn-and-helsby",
+  "start_date": "2024-05-31"
+}

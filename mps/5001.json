@@ -1,0 +1,299 @@
+{
+  "activity": {
+    "annual": {
+      "2023": {
+        "debate_contributions": 7,
+        "debates_participated": 6,
+        "oral_questions": 1,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 38,
+        "debates_participated": 30,
+        "early_day_motions": 2,
+        "oral_questions": 6,
+        "written_questions": 24
+      },
+      "2025": {
+        "debate_contributions": 69,
+        "debates_participated": 36,
+        "oral_questions": 9,
+        "written_questions": 60
+      },
+      "2026": {
+        "debate_contributions": 41,
+        "debates_participated": 28,
+        "oral_questions": 7,
+        "written_questions": 37
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 155,
+    "debates_participated": 100,
+    "early_day_motions": 2,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 128
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 155,
+    "voting_participation_pct": 62.75,
+    "written_questions": 128
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": true,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-06"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/tamworth.json",
+    "id": 4353,
+    "name": "Tamworth",
+    "ons_code": "E14001538",
+    "slug": "tamworth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.edwards.mp@parliament.uk",
+      "phone": "01827 794 475",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 2, Victoria Court, Victoria Road, Tamworth, Staffordshire",
+      "phone": "01827 794 475",
+      "postcode": "B79 7HL",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5001
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5001,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2023-10-19",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Edwards",
+    "full_title": "Sarah Edwards MP",
+    "list_as": "Edwards, Sarah"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2023-10-19"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tamworth",
+        "constituency_id": 4353,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Tamworth",
+        "constituency_id": 3794,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2023-10-19"
+      }
+    ]
+  },
+  "synopsis": "Sarah Edwards is the Labour MP for <a href='/constituency/4353/overview'>Tamworth</a>, and has been an MP continually since 19 October 2023.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5001/Thumbnail",
+  "voting": {
+    "annual": {
+      "2023": {
+        "divisions_eligible": 42,
+        "divisions_voted": 33,
+        "voting_participation_pct": 78.57
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 125,
+        "voting_participation_pct": 62.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 179,
+        "voting_participation_pct": 55.59
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 165,
+        "voting_participation_pct": 69.92
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 169,
+        "divisions_voted": 98,
+        "voting_participation_pct": 57.99
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 404,
+        "voting_participation_pct": 64.03
+      }
+    },
+    "divisions_eligible": 800,
+    "divisions_voted": 502,
+    "voting_participation_pct": 62.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

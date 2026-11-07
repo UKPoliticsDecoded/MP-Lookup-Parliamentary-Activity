@@ -1,0 +1,222 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 11,
+        "debates_participated": 10,
+        "written_questions": 50
+      },
+      "2025": {
+        "debate_contributions": 97,
+        "debates_participated": 53,
+        "early_day_motions": 5,
+        "oral_questions": 10,
+        "written_questions": 142
+      },
+      "2026": {
+        "debate_contributions": 66,
+        "debates_participated": 48,
+        "early_day_motions": 4,
+        "oral_questions": 8,
+        "written_questions": 154
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 174,
+    "debates_participated": 111,
+    "early_day_motions": 9,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 346
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 174,
+    "voting_participation_pct": 72.9,
+    "written_questions": 346
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-06"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/st-neots-and-mid-cambridgeshire.json",
+    "id": 4327,
+    "name": "St Neots and Mid Cambridgeshire",
+    "ons_code": "E14001512",
+    "slug": "st-neots-and-mid-cambridgeshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ian.sollom.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/IanFSollom"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/iansollom"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5096
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5096,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ian Sollom",
+    "full_title": "Ian Sollom MP",
+    "list_as": "Sollom, Ian"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Universities and Skills)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3738,
+        "name": "South Cambridgeshire",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "St Neots and Mid Cambridgeshire",
+        "constituency_id": 4327,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ian Sollom is the Liberal Democrat MP for <a href='/constituency/4327/overview'>St Neots and Mid Cambridgeshire</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Universities and Skills).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5096/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 246,
+        "voting_participation_pct": 76.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 460,
+        "voting_participation_pct": 72.9
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 460,
+    "voting_participation_pct": 72.9
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

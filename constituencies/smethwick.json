@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 2184.0,
+    "bng": {
+      "easting": 400433,
+      "northing": 287646
+    },
+    "centroid": {
+      "latitude": 52.48674,
+      "longitude": -1.99504
+    },
+    "geojson": "constituencies/boundaries/smethwick.geojson",
+    "ons_code": "E14001478",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5059.json",
+    "member_id": 5059,
+    "name": "Gurinder Singh Josan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72863,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11188,
+      "result": "Lab Hold",
+      "turnout": 35115,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4293,
+  "is_current": true,
+  "name": "Smethwick",
+  "name_cy": null,
+  "ons_code": "E14001478",
+  "outcodes": [
+    "B16",
+    "B18",
+    "B64",
+    "B65",
+    "B66",
+    "B67",
+    "B68",
+    "B69",
+    "B71"
+  ],
+  "schema_version": 1,
+  "slug": "smethwick",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,203 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 23,
+        "debates_participated": 16,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 71,
+        "debates_participated": 55,
+        "oral_questions": 2,
+        "written_questions": 158
+      },
+      "2026": {
+        "debate_contributions": 62,
+        "debates_participated": 44,
+        "oral_questions": 1,
+        "written_questions": 23
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 156,
+    "debates_participated": 115,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 183
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 156,
+    "voting_participation_pct": 66.88,
+    "written_questions": 183
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 23,
+      "meetings_available": 23
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-west-norfolk.json",
+    "id": 4312,
+    "name": "South West Norfolk",
+    "ons_code": "E14001497",
+    "slug": "south-west-norfolk"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "terry.jermy.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/p/Terry-Jermy-for-South-West-Norfolk-61556134682527/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/cllrterryjermy"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5338
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5338,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Terry Jermy",
+    "full_title": "Terry Jermy MP",
+    "list_as": "Jermy, Terry"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South West Norfolk",
+        "constituency_id": 4312,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Terry Jermy is the Labour MP for <a href='/constituency/4312/overview'>South West Norfolk</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5338/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 63,
+        "voting_participation_pct": 86.3
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 235,
+        "voting_participation_pct": 72.98
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 124,
+        "voting_participation_pct": 52.54
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 422,
+        "voting_participation_pct": 66.88
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 422,
+    "voting_participation_pct": 66.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

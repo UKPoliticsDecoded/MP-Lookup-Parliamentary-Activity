@@ -1,0 +1,335 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 18,
+        "debates_participated": 10,
+        "oral_questions": 4,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 121,
+        "debates_participated": 55,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "petitions_presented": 2,
+        "written_questions": 8
+      },
+      "2026": {
+        "debate_contributions": 47,
+        "debates_participated": 35,
+        "oral_questions": 9,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 186,
+    "debates_participated": 100,
+    "early_day_motions": 1,
+    "oral_questions": 19,
+    "petitions_presented": 2,
+    "written_questions": 43
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 186,
+    "voting_participation_pct": 83.99,
+    "written_questions": 43
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 75,
+      "meetings_available": 75
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-09"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/glasgow-east.json",
+    "id": 4473,
+    "name": "Glasgow East",
+    "ons_code": "S14000084",
+    "slug": "glasgow-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.grady.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0141 737 1115",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.johngrady.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JohnGradyLabour/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/johnadgrady"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5170
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5170,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "John Grady",
+    "full_title": "John Grady MP",
+    "list_as": "Grady, John"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow East",
+        "constituency_id": 4473,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "John Grady is the Labour MP for <a href='/constituency/4473/overview'>Glasgow East</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5170/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 267,
+        "voting_participation_pct": 82.92
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 193,
+        "voting_participation_pct": 81.78
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 530,
+        "voting_participation_pct": 83.99
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 530,
+    "voting_participation_pct": 83.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

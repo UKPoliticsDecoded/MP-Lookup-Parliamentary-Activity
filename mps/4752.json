@@ -1,0 +1,607 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 51,
+        "debates_participated": 32,
+        "oral_questions": 22,
+        "written_questions": 4
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 48,
+        "debates_participated": 26,
+        "oral_questions": 3,
+        "written_questions": 28
+      },
+      "2022": {
+        "debate_contributions": 44,
+        "debates_participated": 31,
+        "oral_questions": 3,
+        "written_questions": 19
+      },
+      "2023": {
+        "debate_contributions": 41,
+        "debates_participated": 20,
+        "written_questions": 16
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 184,
+    "debates_participated": 109,
+    "early_day_motions": 0,
+    "oral_questions": 28,
+    "petitions_presented": 0,
+    "written_questions": 67
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 184,
+    "voting_participation_pct": 87.92,
+    "written_questions": 67
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 110,
+      "meetings_available": 110
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support (Enforcement) Bill",
+      "committee_id": 654,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nuclear Energy (Financing) Bill",
+      "committee_id": 553,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Offenders (Day of Release from Detention) Bill",
+      "committee_id": 651,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+      "committee_id": 550,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Child Support (Enforcement) Bill",
+        "committee_id": 654,
+        "file": "committees/child-support-enforcement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "child-support-enforcement-bill"
+      },
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-17"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Nuclear Energy (Financing) Bill",
+        "committee_id": 553,
+        "file": "committees/nuclear-energy-financing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "nuclear-energy-financing-bill"
+      },
+      {
+        "committee": "Offenders (Day of Release from Detention) Bill",
+        "committee_id": 651,
+        "file": "committees/offenders-day-of-release-from-detention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-01"
+          }
+        ],
+        "slug": "offenders-day-of-release-from-detention-bill"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-01"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      },
+      {
+        "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+        "committee_id": 550,
+        "file": "committees/taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-04"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3866,
+    "name": "Workington"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4752
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4752,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mark Jenkinson",
+    "full_title": "Mark Jenkinson",
+    "list_as": "Jenkinson, Mark"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2023-11-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-09-20"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4239,
+        "name": "Penrith and Solway",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3866,
+        "name": "Workington",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Workington",
+        "constituency_id": 3866,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Mark Jenkinson is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3866/overview'>Workington</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4752/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 195,
+        "voting_participation_pct": 77.69
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 234,
+        "voting_participation_pct": 91.41
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 120,
+        "voting_participation_pct": 94.49
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 939,
+        "voting_participation_pct": 87.92
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 939,
+    "voting_participation_pct": 87.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

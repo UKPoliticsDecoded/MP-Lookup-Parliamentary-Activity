@@ -1,0 +1,242 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 16,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 77,
+        "debates_participated": 40,
+        "early_day_motions": 1,
+        "oral_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 142,
+        "debates_participated": 43,
+        "early_day_motions": 13,
+        "oral_questions": 2,
+        "written_questions": 29
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 240,
+    "debates_participated": 99,
+    "early_day_motions": 14,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 30
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 240,
+    "voting_participation_pct": 72.27,
+    "written_questions": 30
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": true,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/glasgow-south-west.json",
+    "id": 4477,
+    "name": "Glasgow South West",
+    "ons_code": "S14000088",
+    "slug": "glasgow-south-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "zubir.ahmed.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0141 266 0233",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/drzubirahmed/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/zubirahmed"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5213
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5213,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Zubir Ahmed",
+    "full_title": "Dr Zubir Ahmed MP",
+    "list_as": "Ahmed, Dr Zubir"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-05-12",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+        "start_date": "2025-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow South West",
+        "constituency_id": 4477,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Zubir Ahmed is the Labour MP for <a href='/constituency/4477/overview'>Glasgow South West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5213/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 236,
+        "voting_participation_pct": 73.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 154,
+        "voting_participation_pct": 65.25
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 456,
+        "voting_participation_pct": 72.27
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 456,
+    "voting_participation_pct": 72.27
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

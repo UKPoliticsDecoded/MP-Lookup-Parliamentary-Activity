@@ -1,0 +1,309 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 33,
+        "debates_participated": 27,
+        "oral_questions": 7,
+        "written_questions": 12
+      },
+      "2025": {
+        "debate_contributions": 145,
+        "debates_participated": 76,
+        "oral_questions": 21,
+        "written_questions": 127
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 283,
+        "debates_participated": 119,
+        "early_day_motions": 3,
+        "oral_questions": 20,
+        "written_questions": 191
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 461,
+    "debates_participated": 222,
+    "early_day_motions": 3,
+    "oral_questions": 48,
+    "petitions_presented": 0,
+    "written_questions": 330
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 461,
+    "voting_participation_pct": 66.72,
+    "written_questions": 330
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 133,
+      "meetings_available": 133
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/didcot-and-wantage.json",
+    "id": 4012,
+    "name": "Didcot and Wantage",
+    "ons_code": "E14001197",
+    "slug": "didcot-and-wantage"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "olly.glover.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "olly.glover.mp@parliament.uk",
+      "phone": "0207 219 7657",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://ollyglover.co.uk"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/ollyglover.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/OllyGloverLD"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/ollyglover_lib_dem"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://tiktok.com/@lib.dem.olly"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/OllyGloverLD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5318
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5318,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Olly Glover",
+    "full_title": "Olly Glover MP",
+    "list_as": "Glover, Olly"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Transport)",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Didcot and Wantage",
+        "constituency_id": 4012,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Olly Glover is the Liberal Democrat MP for <a href='/constituency/4012/overview'>Didcot and Wantage</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Transport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5318/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 41,
+        "voting_participation_pct": 56.16
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 211,
+        "voting_participation_pct": 65.53
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 421,
+        "voting_participation_pct": 66.72
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 421,
+    "voting_participation_pct": 66.72
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

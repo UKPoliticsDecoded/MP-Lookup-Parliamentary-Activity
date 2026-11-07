@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 2511.9,
+    "bng": {
+      "easting": 516761,
+      "northing": 191589
+    },
+    "centroid": {
+      "latitude": 51.61103,
+      "longitude": -0.31514
+    },
+    "geojson": "constituencies/boundaries/harrow-east.geojson",
+    "ons_code": "E14001270",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4005.json",
+    "member_id": 4005,
+    "name": "Bob Blackman",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76513,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11680,
+      "result": "Con Hold",
+      "turnout": 47777,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3517,
+      "end_date": "2024-05-30",
+      "member_id": 4005,
+      "name": "Bob Blackman",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4085,
+  "is_current": true,
+  "name": "Harrow East",
+  "name_cy": null,
+  "ons_code": "E14001270",
+  "outcodes": [
+    "HA3",
+    "HA5",
+    "HA7",
+    "HA8",
+    "NW9",
+    "WD23"
+  ],
+  "schema_version": 1,
+  "slug": "harrow-east",
+  "start_date": "2024-05-31"
+}

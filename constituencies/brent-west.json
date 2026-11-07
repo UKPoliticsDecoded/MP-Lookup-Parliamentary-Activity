@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 1873.8,
+    "bng": {
+      "easting": 518047,
+      "northing": 185943
+    },
+    "centroid": {
+      "latitude": 51.56002,
+      "longitude": -0.29847
+    },
+    "geojson": "constituencies/boundaries/brent-west.geojson",
+    "ons_code": "E14001123",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/146.json",
+    "member_id": 146,
+    "name": "Barry Gardiner",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80027,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3793,
+      "result": "Lab Hold",
+      "turnout": 41376,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3938,
+  "is_current": true,
+  "name": "Brent West",
+  "name_cy": null,
+  "ons_code": "E14001123",
+  "outcodes": [
+    "HA0",
+    "HA1",
+    "HA3",
+    "HA9",
+    "NW10",
+    "NW9"
+  ],
+  "schema_version": 1,
+  "slug": "brent-west",
+  "start_date": "2024-05-31"
+}

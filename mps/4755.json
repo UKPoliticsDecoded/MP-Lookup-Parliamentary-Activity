@@ -1,0 +1,503 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 29,
+        "debates_participated": 24,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 86
+      },
+      "2021": {
+        "debate_contributions": 79,
+        "debates_participated": 67,
+        "early_day_motions": 7,
+        "oral_questions": 7,
+        "written_questions": 117
+      },
+      "2022": {
+        "debate_contributions": 77,
+        "debates_participated": 50,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 74
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 73,
+        "debates_participated": 51,
+        "early_day_motions": 2,
+        "oral_questions": 13,
+        "written_questions": 34
+      },
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 7,
+        "early_day_motions": 2,
+        "oral_questions": 3,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 270,
+    "debates_participated": 199,
+    "early_day_motions": 14,
+    "oral_questions": 32,
+    "petitions_presented": 0,
+    "written_questions": 320
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 270,
+    "voting_participation_pct": 67.42,
+    "written_questions": 320
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Automated Vehicles Bill [HL]",
+      "committee_id": 714,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commercial Rent (Coronavirus) Bill",
+      "committee_id": 561,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Highgate Cemetery Bill Committee",
+      "committee_id": 521,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 97,
+      "meetings_available": 97
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nuclear Energy (Financing) Bill",
+      "committee_id": 553,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 34,
+      "meetings_available": 34
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Automated Vehicles Bill [HL]",
+        "committee_id": 714,
+        "file": "committees/automated-vehicles-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "automated-vehicles-bill-hl"
+      },
+      {
+        "committee": "Commercial Rent (Coronavirus) Bill",
+        "committee_id": 561,
+        "file": "committees/commercial-rent-coronavirus-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "commercial-rent-coronavirus-bill"
+      },
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-20"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Highgate Cemetery Bill Committee",
+        "committee_id": 521,
+        "file": "committees/highgate-cemetery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-21"
+          }
+        ],
+        "slug": "highgate-cemetery-bill"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Monken Hadley Common Bill Unopposed Bill Committee",
+        "committee_id": 486,
+        "file": "committees/monken-hadley-common-bill-unopposed-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "monken-hadley-common-bill-unopposed-bill"
+      },
+      {
+        "committee": "Nuclear Energy (Financing) Bill",
+        "committee_id": 553,
+        "file": "committees/nuclear-energy-financing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "nuclear-energy-financing-bill"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-01"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-20"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3324,
+    "name": "Birkenhead"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4755
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4755,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mick Whitley",
+    "full_title": "Mick Whitley",
+    "list_as": "Whitley, Mick"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birkenhead",
+        "constituency_id": 3324,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Mick Whitley is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3324/overview'>Birkenhead</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4755/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 138,
+        "voting_participation_pct": 72.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 163,
+        "voting_participation_pct": 64.94
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 165,
+        "voting_participation_pct": 64.45
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 42,
+        "voting_participation_pct": 33.07
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 720,
+        "voting_participation_pct": 67.42
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 720,
+    "voting_participation_pct": 67.42
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

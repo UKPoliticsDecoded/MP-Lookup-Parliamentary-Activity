@@ -1,0 +1,78 @@
+{
+  "boundary": {
+    "area_hectares": 14091.3,
+    "bng": {
+      "easting": 315843,
+      "northing": 191594
+    },
+    "centroid": {
+      "latitude": 51.61685,
+      "longitude": -3.21691
+    },
+    "geojson": "constituencies/boundaries/caerphilly.geojson",
+    "ons_code": "W07000088",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4040.json",
+    "member_id": 4040,
+    "name": "Chris Evans",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72648,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6419,
+      "result": "Lab Hold",
+      "turnout": 38234,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3382,
+      "end_date": "2024-05-30",
+      "member_id": 1398,
+      "name": "Wayne David",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 537,
+      "end_date": "2010-05-06",
+      "member_id": 1398,
+      "name": "Wayne David",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4503,
+  "is_current": true,
+  "name": "Caerphilly",
+  "name_cy": "Caerffili",
+  "ons_code": "W07000088",
+  "outcodes": [
+    "CF14",
+    "CF15",
+    "CF3",
+    "CF37",
+    "CF46",
+    "CF81",
+    "CF82",
+    "CF83",
+    "NP10",
+    "NP11",
+    "NP12"
+  ],
+  "schema_version": 1,
+  "slug": "caerphilly",
+  "start_date": "2024-05-31"
+}

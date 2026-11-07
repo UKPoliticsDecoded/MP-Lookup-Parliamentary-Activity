@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 79517.0,
+    "bng": {
+      "easting": 130247,
+      "northing": 538471
+    },
+    "centroid": {
+      "latitude": 54.66833,
+      "longitude": -6.18376
+    },
+    "geojson": "constituencies/boundaries/south-antrim.geojson",
+    "ons_code": "N05000014",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5319.json",
+    "member_id": 5319,
+    "name": "Robin Swann",
+    "party": "Ulster Unionist Party",
+    "party_abbreviation": "UUP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77058,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7512,
+      "result": "UUP Gain",
+      "turnout": 42908,
+      "winning_party": "Ulster Unionist Party",
+      "winning_party_id": 38
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3736,
+      "end_date": "2024-05-30",
+      "member_id": 4633,
+      "name": "Paul Girvan",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4434,
+  "is_current": true,
+  "name": "South Antrim",
+  "name_cy": null,
+  "ons_code": "N05000014",
+  "outcodes": [
+    "BT14",
+    "BT17",
+    "BT28",
+    "BT29",
+    "BT36",
+    "BT37",
+    "BT38",
+    "BT39",
+    "BT41",
+    "BT42"
+  ],
+  "schema_version": 1,
+  "slug": "south-antrim",
+  "start_date": "2024-05-31"
+}

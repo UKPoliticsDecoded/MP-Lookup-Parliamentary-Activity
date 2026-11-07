@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 70249.2,
+    "bng": {
+      "easting": 255398,
+      "northing": 633167
+    },
+    "centroid": {
+      "latitude": 55.57064,
+      "longitude": -4.29487
+    },
+    "geojson": "constituencies/boundaries/kilmarnock-and-loudoun.geojson",
+    "ons_code": "S14000110",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5043.json",
+    "member_id": 5043,
+    "name": "Lillian Jones",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74628,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5119,
+      "result": "Lab Gain",
+      "turnout": 42478,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1624,
+      "end_date": "2024-05-30",
+      "member_id": 4470,
+      "name": "Alan Brown",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4444,
+  "is_current": true,
+  "name": "Kilmarnock and Loudoun",
+  "name_cy": null,
+  "ons_code": "S14000110",
+  "outcodes": [
+    "G77",
+    "G78",
+    "KA1",
+    "KA11",
+    "KA13",
+    "KA16",
+    "KA17",
+    "KA18",
+    "KA2",
+    "KA3",
+    "KA4",
+    "KA5"
+  ],
+  "schema_version": 1,
+  "slug": "kilmarnock-and-loudoun",
+  "start_date": "2024-05-31"
+}

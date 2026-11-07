@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 4,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 4
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Private Bills Office, House of Lords, London SW1A 0PW",
+    "email": "hlprivatebills@parliament.uk"
+  },
+  "end_date": "2023-07-07",
+  "house": "Lords",
+  "id": 678,
+  "is_current": false,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 4558,
+      "name": "The Baroness Thornhill MBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-07-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-06-08"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4713,
+      "name": "The Lord Reay",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-07-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-06-08"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4902,
+      "name": "The Rt Hon. the Lord Etherton GBE KC",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-07-07",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2023-06-08"
+        },
+        {
+          "end": "2023-07-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-06-08"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4925,
+      "name": "The Viscount Stansgate",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-07-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-06-08"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4945,
+      "name": "The Baroness Willis of Summertown CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-07-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-06-08"
+        }
+      ]
+    }
+  ],
+  "name": "Bishop's Stortford Cemetery Bill [HL]",
+  "parent_committee_id": null,
+  "purpose": "<p>The select committee has been appointed to consider the <a href=\"https://bills.parliament.uk/bills/3380\">Bishop's Stortford Cemetery Bill [HL]</a>, which has been committed to it.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "bishop-s-stortford-cemetery-bill-hl",
+  "start_date": "2023-06-08",
+  "sub_committee_ids": [],
+  "types": [
+    "(HL) Legislation Office",
+    "Private/hybrid bill committee"
+  ]
+}

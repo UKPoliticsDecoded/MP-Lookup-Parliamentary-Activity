@@ -1,0 +1,633 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 43,
+        "debates_participated": 33,
+        "oral_questions": 12,
+        "written_questions": 17
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 36,
+        "debates_participated": 21,
+        "oral_questions": 3,
+        "written_questions": 6
+      },
+      "2022": {
+        "debate_contributions": 40,
+        "debates_participated": 19,
+        "oral_questions": 10,
+        "written_questions": 59
+      },
+      "2023": {
+        "debate_contributions": 52,
+        "debates_participated": 27,
+        "oral_questions": 9,
+        "written_questions": 28
+      },
+      "2024": {
+        "debate_contributions": 73,
+        "debates_participated": 36,
+        "oral_questions": 1,
+        "written_questions": 51
+      },
+      "2025": {
+        "debate_contributions": 55,
+        "debates_participated": 32,
+        "oral_questions": 2,
+        "written_questions": 25
+      },
+      "2026": {
+        "debate_contributions": 141,
+        "debates_participated": 41,
+        "oral_questions": 6,
+        "written_questions": 38
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 440,
+    "debates_participated": 209,
+    "early_day_motions": 0,
+    "oral_questions": 43,
+    "petitions_presented": 0,
+    "written_questions": 224
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 440,
+    "voting_participation_pct": 87.52,
+    "written_questions": 224
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "committee_id": 856,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "British Sign Language Bill",
+      "committee_id": 588,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill",
+      "committee_id": 613,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Firearms Bill",
+      "committee_id": 661,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Glue Traps (Offences) Bill",
+      "committee_id": 573,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Insurance Contributions Bill",
+      "committee_id": 526,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Offenders (Day of Release from Detention) Bill",
+      "committee_id": 651,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 140,
+      "meetings_available": 140
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+        "committee_id": 856,
+        "file": "committees/building-safety-remediation-of-unsafe-cladding-etc-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-04"
+          }
+        ],
+        "slug": "building-safety-remediation-of-unsafe-cladding-etc-bill"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-20"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "British Sign Language Bill",
+        "committee_id": 588,
+        "file": "committees/british-sign-language-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "british-sign-language-bill"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-14"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Financial Services and Markets Bill",
+        "committee_id": 613,
+        "file": "committees/financial-services-and-markets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill"
+      },
+      {
+        "committee": "Firearms Bill",
+        "committee_id": 661,
+        "file": "committees/firearms-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "firearms-bill"
+      },
+      {
+        "committee": "Glue Traps (Offences) Bill",
+        "committee_id": 573,
+        "file": "committees/glue-traps-offences-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "glue-traps-offences-bill"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "National Insurance Contributions Bill",
+        "committee_id": 526,
+        "file": "committees/national-insurance-contributions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "national-insurance-contributions-bill"
+      },
+      {
+        "committee": "Offenders (Day of Release from Detention) Bill",
+        "committee_id": 651,
+        "file": "committees/offenders-day-of-release-from-detention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-01"
+          }
+        ],
+        "slug": "offenders-day-of-release-from-detention-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/orpington.json",
+    "id": 4232,
+    "name": "Orpington",
+    "ons_code": "E14001417",
+    "slug": "orpington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "gareth.bacon.mp@parliament.uk",
+      "phone": "0207 219 8538",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.garethbacon.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/GarethBaconMP/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/garethbaconmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4798
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4798,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Gareth Bacon",
+    "display": "Gareth Bacon",
+    "full_title": "Gareth Bacon MP",
+    "list_as": "Bacon, Gareth"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Justice)",
+        "start_date": "2023-11-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Housing and Planning)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Minister (Business and Trade)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Minister (London)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Orpington",
+        "constituency_id": 4232,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Orpington",
+        "constituency_id": 3672,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Gareth Bacon is the Conservative MP for <a href='/constituency/4232/overview'>Orpington</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Housing and Planning).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4798/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 188,
+        "voting_participation_pct": 98.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 224,
+        "voting_participation_pct": 92.56
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 223,
+        "voting_participation_pct": 88.84
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 245,
+        "voting_participation_pct": 95.7
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 172,
+        "voting_participation_pct": 86.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 237,
+        "voting_participation_pct": 73.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 196,
+        "voting_participation_pct": 83.05
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 1000,
+        "voting_participation_pct": 93.63
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 487,
+        "voting_participation_pct": 77.18
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1487,
+    "voting_participation_pct": 87.52
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

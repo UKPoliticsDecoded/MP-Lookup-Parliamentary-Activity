@@ -1,0 +1,261 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 24,
+        "debates_participated": 20,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 72,
+        "debates_participated": 45,
+        "oral_questions": 4,
+        "written_questions": 18
+      },
+      "2026": {
+        "debate_contributions": 71,
+        "debates_participated": 33,
+        "oral_questions": 6,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 167,
+    "debates_participated": 98,
+    "early_day_motions": 0,
+    "oral_questions": 10,
+    "petitions_presented": 0,
+    "written_questions": 38
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 167,
+    "voting_participation_pct": 89.7,
+    "written_questions": 38
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 31,
+      "meetings_available": 31
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-06-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-07"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/welwyn-hatfield.json",
+    "id": 4388,
+    "name": "Welwyn Hatfield",
+    "ons_code": "E14001573",
+    "slug": "welwyn-hatfield"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andrew.lewin.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01707 912 213",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.andrewlewin.co.uk"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5061
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5061,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Andrew Lewin",
+    "full_title": "Andrew Lewin MP",
+    "list_as": "Lewin, Andrew"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3530,
+        "name": "Hertford and Stortford",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Welwyn Hatfield",
+        "constituency_id": 4388,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Andrew Lewin is the Labour MP for <a href='/constituency/4388/overview'>Welwyn Hatfield</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5061/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 289,
+        "voting_participation_pct": 89.75
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 212,
+        "voting_participation_pct": 89.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 566,
+        "voting_participation_pct": 89.7
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 566,
+    "voting_participation_pct": 89.7
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

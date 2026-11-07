@@ -1,0 +1,212 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 20,
+        "debates_participated": 13,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 16
+      },
+      "2025": {
+        "debate_contributions": 49,
+        "debates_participated": 41,
+        "early_day_motions": 5,
+        "oral_questions": 7,
+        "written_questions": 182
+      },
+      "2026": {
+        "debate_contributions": 97,
+        "debates_participated": 59,
+        "early_day_motions": 5,
+        "oral_questions": 8,
+        "written_questions": 164
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 166,
+    "debates_participated": 113,
+    "early_day_motions": 12,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 362
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 166,
+    "voting_participation_pct": 54.83,
+    "written_questions": 362
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/north-devon.json",
+    "id": 4202,
+    "name": "North Devon",
+    "ons_code": "E14001387",
+    "slug": "north-devon"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ian.roome.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "The Castle Centre, 25 Castle Street, Barnstaple, North Devon",
+      "email": "ian.roome.mp@parliament.uk",
+      "phone": "01271 410470",
+      "postcode": "EX31 1DR",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Ianbarum/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/IanRoomeMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5138
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5138,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ian Roome",
+    "full_title": "Ian Roome MP",
+    "list_as": "Roome, Ian"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Devon",
+        "constituency_id": 4202,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ian Roome is the Liberal Democrat MP for <a href='/constituency/4202/overview'>North Devon</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5138/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 44,
+        "voting_participation_pct": 60.27
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 169,
+        "voting_participation_pct": 52.48
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 133,
+        "voting_participation_pct": 56.36
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 346,
+        "voting_participation_pct": 54.83
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 346,
+    "voting_participation_pct": 54.83
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

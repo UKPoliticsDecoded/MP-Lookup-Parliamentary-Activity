@@ -1,0 +1,519 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 79,
+        "debates_participated": 31,
+        "written_questions": 74
+      },
+      "2021": {
+        "debate_contributions": 102,
+        "debates_participated": 39,
+        "written_questions": 83
+      },
+      "2022": {
+        "debate_contributions": 69,
+        "debates_participated": 23,
+        "oral_questions": 1,
+        "written_questions": 28
+      },
+      "2023": {
+        "debate_contributions": 67,
+        "debates_participated": 22,
+        "written_questions": 17
+      },
+      "2024": {
+        "debate_contributions": 50,
+        "debates_participated": 20,
+        "written_questions": 15
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 367,
+    "debates_participated": 135,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 217
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 367,
+    "voting_participation_pct": 74.25,
+    "written_questions": 217
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Administration Estimate Audit and Risk Assurance Committee",
+      "committee_id": 502,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Mental Health Bill (Joint Committee)",
+      "committee_id": 605,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Audit Committee",
+      "committee_id": 501,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Committee",
+      "committee_id": 107,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Client Board",
+      "committee_id": 616,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-03-18"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Administration Estimate Audit and Risk Assurance Committee",
+        "committee_id": 502,
+        "file": "committees/administration-estimate-audit-and-risk-assurance.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-19"
+          }
+        ],
+        "slug": "administration-estimate-audit-and-risk-assurance"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-11"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-11"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Draft Mental Health Bill (Joint Committee)",
+        "committee_id": 605,
+        "file": "committees/draft-mental-health-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-11"
+          }
+        ],
+        "slug": "draft-mental-health-bill-joint-committee"
+      },
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-18"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2012-10-17"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-09-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Members Estimate Audit Committee",
+        "committee_id": 501,
+        "file": "committees/members-estimate-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-19"
+          }
+        ],
+        "slug": "members-estimate-audit"
+      },
+      {
+        "committee": "Members Estimate Committee",
+        "committee_id": 107,
+        "file": "committees/members-estimate.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-18"
+          }
+        ],
+        "slug": "members-estimate"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-06-21"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-17"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-06-23"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-11-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-31"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-16"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3374,
+    "name": "Broxbourne"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1493
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1493,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Charles Walker",
+    "display": "Sir Charles Walker",
+    "full_title": "Sir Charles Walker",
+    "list_as": "Walker, Sir Charles"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 943,
+        "name": "Ealing North",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Broxbourne",
+        "constituency_id": 3374,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Broxbourne",
+        "constituency_id": 491,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Sir Charles Walker is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3374/overview'>Broxbourne</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1493/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 135,
+        "voting_participation_pct": 71.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 171,
+        "voting_participation_pct": 70.66
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 150,
+        "voting_participation_pct": 59.76
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 224,
+        "voting_participation_pct": 87.5
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 111,
+        "voting_participation_pct": 87.4
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 793,
+        "voting_participation_pct": 74.25
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 793,
+    "voting_participation_pct": 74.25
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

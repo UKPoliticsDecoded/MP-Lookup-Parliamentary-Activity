@@ -1,0 +1,243 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 31,
+        "debates_participated": 23,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 46
+      },
+      "2025": {
+        "debate_contributions": 75,
+        "debates_participated": 58,
+        "oral_questions": 12,
+        "written_questions": 59
+      },
+      "2026": {
+        "debate_contributions": 68,
+        "debates_participated": 51,
+        "early_day_motions": 1,
+        "oral_questions": 9,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 174,
+    "debates_participated": 132,
+    "early_day_motions": 2,
+    "oral_questions": 27,
+    "petitions_presented": 0,
+    "written_questions": 107
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 174,
+    "voting_participation_pct": 84.63,
+    "written_questions": 107
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/exeter.json",
+    "id": 4046,
+    "name": "Exeter",
+    "ons_code": "E14001231",
+    "slug": "exeter"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "steve.race.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/SteveRaceMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/SteveRaceMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/SteveRaceMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5064
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5064,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Steve Race",
+    "full_title": "Steve Race MP",
+    "list_as": "Race, Steve"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3460,
+        "name": "East Devon",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Exeter",
+        "constituency_id": 4046,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Steve Race is the Labour MP for <a href='/constituency/4046/overview'>Exeter</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5064/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 272,
+        "voting_participation_pct": 84.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 196,
+        "voting_participation_pct": 83.05
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 534,
+        "voting_participation_pct": 84.63
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 534,
+    "voting_participation_pct": 84.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

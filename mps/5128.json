@@ -1,0 +1,305 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 50,
+        "debates_participated": 32,
+        "oral_questions": 7,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 132,
+        "debates_participated": 91,
+        "oral_questions": 9,
+        "written_questions": 110
+      },
+      "2026": {
+        "debate_contributions": 96,
+        "debates_participated": 65,
+        "oral_questions": 4,
+        "written_questions": 61
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 278,
+    "debates_participated": 188,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 206
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 278,
+    "voting_participation_pct": 79.56,
+    "written_questions": 206
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 59,
+      "meetings_available": 59
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-17"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-18"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-16"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bolton-west.json",
+    "id": 3927,
+    "name": "Bolton West",
+    "ons_code": "E14001112",
+    "slug": "bolton-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "phil.brickell.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "112 Winter Hey Lane, Horwich",
+      "phone": "01204 958436",
+      "postcode": "BL6 7PJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/philbrickellmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PhilBrickellforBoltonWest/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5128
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5128,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Phil Brickell",
+    "full_title": "Phil Brickell MP",
+    "list_as": "Brickell, Phil"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bolton West",
+        "constituency_id": 3927,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Phil Brickell is the Labour MP for <a href='/constituency/3927/overview'>Bolton West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5128/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 239,
+        "voting_participation_pct": 74.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 196,
+        "voting_participation_pct": 83.05
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 502,
+        "voting_participation_pct": 79.56
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 502,
+    "voting_participation_pct": 79.56
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

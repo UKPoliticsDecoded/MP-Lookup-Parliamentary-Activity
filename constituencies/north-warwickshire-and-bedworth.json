@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 26649.4,
+    "bng": {
+      "easting": 424687,
+      "northing": 296012
+    },
+    "centroid": {
+      "latitude": 52.5614,
+      "longitude": -1.63725
+    },
+    "geojson": "constituencies/boundaries/north-warwickshire-and-bedworth.geojson",
+    "ons_code": "E14001400",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5065.json",
+    "member_id": 5065,
+    "name": "Rachel Taylor",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69752,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2198,
+      "result": "Lab Gain",
+      "turnout": 40940,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4215,
+  "is_current": true,
+  "name": "North Warwickshire and Bedworth",
+  "name_cy": null,
+  "ons_code": "E14001400",
+  "outcodes": [
+    "B46",
+    "B75",
+    "B76",
+    "B77",
+    "B78",
+    "B79",
+    "CV10",
+    "CV12",
+    "CV6",
+    "CV7",
+    "CV9"
+  ],
+  "schema_version": 1,
+  "slug": "north-warwickshire-and-bedworth",
+  "start_date": "2024-05-31"
+}

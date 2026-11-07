@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 9980.3,
+    "bng": {
+      "easting": 316926,
+      "northing": 673574
+    },
+    "centroid": {
+      "latitude": 55.94798,
+      "longitude": -3.33179
+    },
+    "geojson": "constituencies/boundaries/edinburgh-west.geojson",
+    "ons_code": "S14000082",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4634.json",
+    "member_id": 4634,
+    "name": "Christine Jardine",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76490,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16470,
+      "result": "LD Hold",
+      "turnout": 52471,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1054,
+      "end_date": "2024-05-30",
+      "member_id": 4634,
+      "name": "Christine Jardine",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4471,
+  "is_current": true,
+  "name": "Edinburgh West",
+  "name_cy": null,
+  "ons_code": "S14000082",
+  "outcodes": [
+    "EH1",
+    "EH11",
+    "EH12",
+    "EH2",
+    "EH27",
+    "EH28",
+    "EH29",
+    "EH3",
+    "EH30",
+    "EH4",
+    "EH52",
+    "EH53",
+    "EH7",
+    "EH91",
+    "EH99"
+  ],
+  "schema_version": 1,
+  "slug": "edinburgh-west",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 22680.3,
+    "bng": {
+      "easting": 611218,
+      "northing": 142572
+    },
+    "centroid": {
+      "latitude": 51.14343,
+      "longitude": 1.018285
+    },
+    "geojson": "constituencies/boundaries/ashford.geojson",
+    "ons_code": "E14001069",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5247.json",
+    "member_id": 5247,
+    "name": "Sojan Joseph",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76233,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1779,
+      "result": "Lab Gain",
+      "turnout": 46975,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3297,
+      "end_date": "2024-05-30",
+      "member_id": 76,
+      "name": "Damian Green",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 83,
+      "end_date": "2010-05-06",
+      "member_id": 76,
+      "name": "Damian Green",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 3884,
+  "is_current": true,
+  "name": "Ashford",
+  "name_cy": null,
+  "ons_code": "E14001069",
+  "outcodes": [
+    "CT15",
+    "CT18",
+    "CT21",
+    "CT4",
+    "TN23",
+    "TN24",
+    "TN25"
+  ],
+  "schema_version": 1,
+  "slug": "ashford",
+  "start_date": "2024-05-31"
+}

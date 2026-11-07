@@ -1,0 +1,428 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 111,
+        "debates_participated": 59,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 152
+      },
+      "2021": {
+        "debate_contributions": 94,
+        "debates_participated": 44,
+        "oral_questions": 3,
+        "written_questions": 66
+      },
+      "2022": {
+        "debate_contributions": 110,
+        "debates_participated": 44,
+        "oral_questions": 5,
+        "written_questions": 137
+      },
+      "2023": {
+        "debate_contributions": 102,
+        "debates_participated": 51,
+        "oral_questions": 1,
+        "written_questions": 127
+      },
+      "2024": {
+        "debate_contributions": 76,
+        "debates_participated": 18,
+        "written_questions": 16
+      },
+      "2025": {
+        "debate_contributions": 27,
+        "debates_participated": 9
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 24,
+        "debates_participated": 18,
+        "oral_questions": 1,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 544,
+    "debates_participated": 243,
+    "early_day_motions": 1,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 507
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 544,
+    "voting_participation_pct": 76.28,
+    "written_questions": 507
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 35,
+      "meetings_available": 35
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "UK Infrastructure Bank Bill [Lords]",
+      "committee_id": 625,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2026-09-14"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-14"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-14"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-14"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-14"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "UK Infrastructure Bank Bill [Lords]",
+        "committee_id": 625,
+        "file": "committees/uk-infrastructure-bank-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "uk-infrastructure-bank-bill-lords"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/erith-and-thamesmead.json",
+    "id": 4044,
+    "name": "Erith and Thamesmead",
+    "ons_code": "E14001229",
+    "slug": "erith-and-thamesmead"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "phone": "0207 219 4892",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "email": "abena.oppongasare.mp@parliament.uk",
+      "phone": "01322 342991",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.abenaoppongasare.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/abenaopp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4820
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4820,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ms Abena Oppong-Asare",
+    "full_title": "Ms Abena Oppong-Asare MP",
+    "list_as": "Oppong-Asare, Ms Abena"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Women's Health and Mental Health)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Exchequer Secretary (Treasury)",
+        "start_date": "2020-10-16"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Erith and Thamesmead",
+        "constituency_id": 4044,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Erith and Thamesmead",
+        "constituency_id": 3479,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Ms Abena Oppong-Asare is the Labour MP for <a href='/constituency/4044/overview'>Erith and Thamesmead</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4820/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 1,
+        "voting_participation_pct": 50.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 146,
+        "voting_participation_pct": 76.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 204,
+        "voting_participation_pct": 84.3
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 164,
+        "voting_participation_pct": 65.34
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 195,
+        "voting_participation_pct": 76.17
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 264,
+        "voting_participation_pct": 81.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 193,
+        "voting_participation_pct": 81.78
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 783,
+        "voting_participation_pct": 73.31
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 513,
+        "voting_participation_pct": 81.3
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1296,
+    "voting_participation_pct": 76.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

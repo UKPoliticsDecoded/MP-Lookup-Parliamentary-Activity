@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 95998.2,
+    "bng": {
+      "easting": 497925,
+      "northing": 312272
+    },
+    "centroid": {
+      "latitude": 52.69929,
+      "longitude": -0.55231
+    },
+    "geojson": "constituencies/boundaries/rutland-and-stamford.geojson",
+    "ons_code": "E14001458",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4805.json",
+    "member_id": 4805,
+    "name": "Alicia Kearns",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71763,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10394,
+      "result": "Con Hold",
+      "turnout": 48577,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4273,
+  "is_current": true,
+  "name": "Rutland and Stamford",
+  "name_cy": null,
+  "ons_code": "E14001458",
+  "outcodes": [
+    "LE14",
+    "LE15",
+    "LE16",
+    "LE2",
+    "LE5",
+    "LE7",
+    "NG31",
+    "NG33",
+    "PE10",
+    "PE6",
+    "PE9"
+  ],
+  "schema_version": 1,
+  "slug": "rutland-and-stamford",
+  "start_date": "2024-05-31"
+}

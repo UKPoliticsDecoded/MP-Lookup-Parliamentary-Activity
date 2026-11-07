@@ -1,0 +1,293 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 13,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 149,
+        "debates_participated": 80,
+        "early_day_motions": 3,
+        "oral_questions": 14,
+        "written_questions": 59
+      },
+      "2026": {
+        "debate_contributions": 70,
+        "debates_participated": 43,
+        "early_day_motions": 3,
+        "oral_questions": 2,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 235,
+    "debates_participated": 136,
+    "early_day_motions": 7,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 128
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 235,
+    "voting_participation_pct": 90.02,
+    "written_questions": 128
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-05"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ashford.json",
+    "id": 3884,
+    "name": "Ashford",
+    "ons_code": "E14001069",
+    "slug": "ashford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sojan.joseph.mp@parliament.uk",
+      "phone": "020 7219 4535",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Sojan Joseph MP, Ashford Volunteer Centre, Berwick House, 8 Elwick Road, Ashford",
+      "phone": "01233 564740",
+      "postcode": "TN23 1PF",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.sojanjosephmp.com"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/sojanjosephmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/sojan.joseph.792"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/sojanuk"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5247
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5247,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sojan Joseph",
+    "full_title": "Sojan Joseph MP",
+    "list_as": "Joseph, Sojan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ashford",
+        "constituency_id": 3884,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sojan Joseph is the Labour MP for <a href='/constituency/3884/overview'>Ashford</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5247/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 291,
+        "voting_participation_pct": 90.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 206,
+        "voting_participation_pct": 87.29
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 568,
+        "voting_participation_pct": 90.02
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 568,
+    "voting_participation_pct": 90.02
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

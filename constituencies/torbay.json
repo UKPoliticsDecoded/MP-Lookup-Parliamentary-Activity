@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 3651.9,
+    "bng": {
+      "easting": 290880,
+      "northing": 63942
+    },
+    "centroid": {
+      "latitude": 50.4651,
+      "longitude": -3.53884
+    },
+    "geojson": "constituencies/boundaries/torbay.geojson",
+    "ons_code": "E14001551",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5066.json",
+    "member_id": 5066,
+    "name": "Steve Darling",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76185,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5349,
+      "result": "LD Gain",
+      "turnout": 46115,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3807,
+      "end_date": "2024-05-30",
+      "member_id": 4451,
+      "name": "Kevin Foster",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4366,
+  "is_current": true,
+  "name": "Torbay",
+  "name_cy": null,
+  "ons_code": "E14001551",
+  "outcodes": [
+    "TQ1",
+    "TQ12",
+    "TQ2",
+    "TQ3",
+    "TQ4"
+  ],
+  "schema_version": 1,
+  "slug": "torbay",
+  "start_date": "2024-05-31"
+}

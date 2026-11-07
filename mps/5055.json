@@ -1,0 +1,280 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 62,
+        "debates_participated": 42,
+        "early_day_motions": 10,
+        "oral_questions": 1,
+        "written_questions": 44
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 230,
+        "debates_participated": 103,
+        "early_day_motions": 15,
+        "oral_questions": 8,
+        "written_questions": 295
+      },
+      "2026": {
+        "debate_contributions": 106,
+        "debates_participated": 59,
+        "early_day_motions": 10,
+        "oral_questions": 4,
+        "written_questions": 232
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 398,
+    "debates_participated": 204,
+    "early_day_motions": 35,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 571
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 398,
+    "voting_participation_pct": 67.99,
+    "written_questions": 571
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cheltenham.json",
+    "id": 3976,
+    "name": "Cheltenham",
+    "ons_code": "E14001161",
+    "slug": "cheltenham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "max.wilkinson.mp@parliament.uk",
+      "phone": "01242 383282",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.maxwilkinson.org"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.cheltlibdems.org.uk/get-involved/sign-up-for-email-updates"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/maxwilkinsoncheltenham"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/maxwilkinsoncheltenham"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/mpmwilko"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5055
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5055,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Max Wilkinson",
+    "full_title": "Max Wilkinson MP",
+    "list_as": "Wilkinson, Max"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Home Affairs)",
+        "start_date": "2025-10-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Culture, Media and Sport)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3406,
+        "name": "Cheltenham",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3786,
+        "name": "Stroud",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cheltenham",
+        "constituency_id": 3976,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Max Wilkinson is the Liberal Democrat MP for <a href='/constituency/3976/overview'>Cheltenham</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Home Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5055/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 44,
+        "voting_participation_pct": 60.27
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 234,
+        "voting_participation_pct": 72.67
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 151,
+        "voting_participation_pct": 63.98
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 429,
+        "voting_participation_pct": 67.99
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 429,
+    "voting_participation_pct": 67.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

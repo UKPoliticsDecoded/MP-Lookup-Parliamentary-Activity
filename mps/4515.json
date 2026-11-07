@@ -1,0 +1,389 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 30,
+        "debates_participated": 20,
+        "oral_questions": 9,
+        "written_questions": 193
+      },
+      "2021": {
+        "debate_contributions": 53,
+        "debates_participated": 39,
+        "oral_questions": 22,
+        "written_questions": 160
+      },
+      "2022": {
+        "debate_contributions": 47,
+        "debates_participated": 27,
+        "oral_questions": 17,
+        "written_questions": 300
+      },
+      "2023": {
+        "debate_contributions": 33,
+        "debates_participated": 21,
+        "oral_questions": 12,
+        "written_questions": 175
+      },
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 7,
+        "oral_questions": 2,
+        "written_questions": 57
+      },
+      "2025": {
+        "debate_contributions": 24,
+        "debates_participated": 14,
+        "oral_questions": 12,
+        "written_questions": 105
+      },
+      "2026": {
+        "debate_contributions": 11,
+        "debates_participated": 6,
+        "oral_questions": 6,
+        "written_questions": 67
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 207,
+    "debates_participated": 134,
+    "early_day_motions": 0,
+    "oral_questions": 80,
+    "petitions_presented": 0,
+    "written_questions": 1057
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 207,
+    "voting_participation_pct": 61.57,
+    "written_questions": 1057
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 91,
+      "meetings_available": 91
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+      "committee_id": 347,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+      "committee_id": 570,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-10-05"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+        "committee_id": 347,
+        "file": "committees/international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact"
+      },
+      {
+        "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+        "committee_id": 570,
+        "file": "committees/marriage-and-civil-partnership-minimum-age-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "marriage-and-civil-partnership-minimum-age-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-13"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/edmonton-and-winchmore-hill.json",
+    "id": 4036,
+    "name": "Edmonton and Winchmore Hill",
+    "ons_code": "E14001221",
+    "slug": "edmonton-and-winchmore-hill"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kate.osamor.mp@parliament.uk",
+      "phone": "020 7219 6602",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.kateosamor.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/kateosamor"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4515
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4515,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Kate Osamor",
+    "display": "Kate Osamor",
+    "full_title": "Kate Osamor MP",
+    "list_as": "Osamor, Kate"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2018-12-01",
+        "is_current": false,
+        "name": "Shadow Secretary of State for International Development",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Junior Shadow Minister for Women and Equalities",
+        "start_date": "2016-01-14"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-05-08"
+      },
+      {
+        "end_date": "2024-05-08",
+        "party": "Independent",
+        "start_date": "2024-01-28"
+      },
+      {
+        "end_date": "2024-01-28",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edmonton and Winchmore Hill",
+        "constituency_id": 4036,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Edmonton",
+        "constituency_id": 3470,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Kate Osamor is the Labour (Co-op) MP for <a href='/constituency/4036/overview'>Edmonton and Winchmore Hill</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4515/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 156,
+        "voting_participation_pct": 60.94
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 87,
+        "voting_participation_pct": 43.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 197,
+        "voting_participation_pct": 61.18
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 81,
+        "voting_participation_pct": 34.32
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 709,
+        "voting_participation_pct": 66.39
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 337,
+        "voting_participation_pct": 53.41
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1046,
+    "voting_participation_pct": 61.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,565 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 243,
+        "debates_participated": 49
+      },
+      "2021": {
+        "debate_contributions": 702,
+        "debates_participated": 67
+      },
+      "2022": {
+        "debate_contributions": 277,
+        "debates_participated": 48,
+        "written_questions": 4
+      },
+      "2023": {
+        "debate_contributions": 349,
+        "debates_participated": 43
+      },
+      "2024": {
+        "debate_contributions": 135,
+        "debates_participated": 39,
+        "written_questions": 34
+      },
+      "2025": {
+        "debate_contributions": 57,
+        "debates_participated": 30,
+        "written_questions": 50
+      },
+      "2026": {
+        "debate_contributions": 129,
+        "debates_participated": 59,
+        "oral_questions": 1,
+        "written_questions": 19
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1892,
+    "debates_participated": 335,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 107
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 1892,
+    "voting_participation_pct": 87.93,
+    "written_questions": 107
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cheltenham Borough Council (Markets) Bill",
+      "committee_id": 825,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "City of London (Markets) Bill",
+      "committee_id": 760,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Neonatal Care (Leave and Pay) Bill",
+      "committee_id": 610,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Prisoners Bill",
+      "committee_id": 674,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cheltenham Borough Council (Markets) Bill",
+        "committee_id": 825,
+        "file": "committees/cheltenham-borough-council-markets-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-12"
+          }
+        ],
+        "slug": "cheltenham-borough-council-markets-bill"
+      },
+      {
+        "committee": "City of London (Markets) Bill",
+        "committee_id": 760,
+        "file": "committees/city-of-london-markets-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "city-of-london-markets-bill"
+      },
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Neonatal Care (Leave and Pay) Bill",
+        "committee_id": 610,
+        "file": "committees/neonatal-care-leave-and-pay-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-20"
+          }
+        ],
+        "slug": "neonatal-care-leave-and-pay-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Victims and Prisoners Bill",
+        "committee_id": 674,
+        "file": "committees/victims-and-prisoners-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "victims-and-prisoners-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/melton-and-syston.json",
+    "id": 4172,
+    "name": "Melton and Syston",
+    "ons_code": "E14001357",
+    "slug": "melton-and-syston"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "edward.argar.mp@parliament.uk",
+      "phone": "020 7219 8140",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4362
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4362,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Edward Argar",
+    "full_title": "Rt Hon Edward Argar MP",
+    "list_as": "Argar, Edward"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2022-10-14"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2022-10-14",
+        "is_current": false,
+        "name": "Minister of State (Cabinet Office) (Attends Cabinet)",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-10-14",
+        "is_current": false,
+        "name": "Paymaster General",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2019-09-10"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2019-09-10",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Justice)",
+        "start_date": "2018-06-14"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health and Social Care",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-11-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Justice",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3673,
+        "name": "Oxford East",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Melton and Syston",
+        "constituency_id": 4172,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Charnwood",
+        "constituency_id": 3401,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Edward Argar is the Conservative MP for <a href='/constituency/4172/overview'>Melton and Syston</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4362/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 184,
+        "voting_participation_pct": 96.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 233,
+        "voting_participation_pct": 92.83
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 251,
+        "voting_participation_pct": 98.05
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 172,
+        "voting_participation_pct": 86.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 245,
+        "voting_participation_pct": 76.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 1005,
+        "voting_participation_pct": 94.1
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 489,
+        "voting_participation_pct": 77.5
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1494,
+    "voting_participation_pct": 87.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

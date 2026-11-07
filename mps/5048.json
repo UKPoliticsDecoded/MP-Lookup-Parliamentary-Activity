@@ -1,0 +1,222 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 25,
+        "debates_participated": 16,
+        "oral_questions": 4,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 106,
+        "debates_participated": 47,
+        "oral_questions": 5,
+        "written_questions": 31
+      },
+      "2026": {
+        "debate_contributions": 29,
+        "debates_participated": 19,
+        "oral_questions": 4,
+        "written_questions": 27
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 160,
+    "debates_participated": 82,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 64
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 160,
+    "voting_participation_pct": 71.95,
+    "written_questions": 64
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": true,
+      "meetings_attended": 60,
+      "meetings_available": 60
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": true,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/tipton-and-wednesbury.json",
+    "id": 4362,
+    "name": "Tipton and Wednesbury",
+    "ons_code": "E14001547",
+    "slug": "tipton-and-wednesbury"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "antonia.bance.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 3 Talbot House, Spring Head, Wednesbury",
+      "phone": "0121 716 5233",
+      "postcode": "WS10 9AD",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/antoniabance.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/AntoniaBanceTW"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/antoniabance"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5048
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5048,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Antonia Bance",
+    "full_title": "Antonia Bance MP",
+    "list_as": "Bance, Antonia"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2276,
+        "name": "Oxford West and Abingdon",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tipton and Wednesbury",
+        "constituency_id": 4362,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Antonia Bance is the Labour MP for <a href='/constituency/4362/overview'>Tipton and Wednesbury</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5048/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 45,
+        "voting_participation_pct": 61.64
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 238,
+        "voting_participation_pct": 73.91
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 454,
+        "voting_participation_pct": 71.95
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 454,
+    "voting_participation_pct": 71.95
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

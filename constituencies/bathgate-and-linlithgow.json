@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 21219.3,
+    "bng": {
+      "easting": 298385,
+      "northing": 670856
+    },
+    "centroid": {
+      "latitude": 55.92001,
+      "longitude": -3.62753
+    },
+    "geojson": "constituencies/boundaries/bathgate-and-linlithgow.geojson",
+    "ons_code": "S14000068",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5179.json",
+    "member_id": 5179,
+    "name": "Kirsteen Sullivan",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72185,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8323,
+      "result": "Lab Gain",
+      "turnout": 42065,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4457,
+  "is_current": true,
+  "name": "Bathgate and Linlithgow",
+  "name_cy": null,
+  "ons_code": "S14000068",
+  "outcodes": [
+    "EH28",
+    "EH29",
+    "EH30",
+    "EH47",
+    "EH48",
+    "EH49",
+    "EH51",
+    "EH52",
+    "EH54",
+    "EH55",
+    "FK1",
+    "FK2",
+    "FK3",
+    "ML7"
+  ],
+  "schema_version": 1,
+  "slug": "bathgate-and-linlithgow",
+  "start_date": "2024-05-31"
+}

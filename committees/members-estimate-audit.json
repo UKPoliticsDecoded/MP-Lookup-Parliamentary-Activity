@@ -1,0 +1,124 @@
+{
+  "activity": {
+    "current_members": 1,
+    "formal_meetings_held": 0,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Other",
+  "chairs": [],
+  "contact": {
+    "email": "CommonsPressOffice@parliament.uk",
+    "phone": "020 7219 0969"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 501,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/3928.json",
+      "member_id": 3928,
+      "name": "Nick Smith",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-04"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/394.json",
+      "member_id": 394,
+      "name": "Mr Clive Betts",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-03-20"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/1493.json",
+      "member_id": 1493,
+      "name": "Sir Charles Walker",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-19"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4107.json",
+      "member_id": 4107,
+      "name": "Dame Harriett Baldwin",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2023-03-20",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-19"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4529,
+      "name": "Craig Mackinlay",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-03-20"
+        }
+      ]
+    }
+  ],
+  "name": "Members Estimate Audit Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The Members Estimate Audit Committee supports the House of Commons Accounting Officer in discharging his responsibilities under the Members Estimate, particularly in maintaining an effective system of internal control. It is one of the Estimate Audit Committees alongside the Administration Estimate Audit and Risk Assurance Committee.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "members-estimate-audit",
+  "start_date": "2021-01-07",
+  "sub_committee_ids": [],
+  "types": [
+    "Other"
+  ]
+}

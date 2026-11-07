@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 108697.0,
+    "bng": {
+      "easting": 265112,
+      "northing": 132533
+    },
+    "centroid": {
+      "latitude": 51.07621,
+      "longitude": -3.92688
+    },
+    "geojson": "constituencies/boundaries/north-devon.geojson",
+    "ons_code": "E14001387",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5138.json",
+    "member_id": 5138,
+    "name": "Ian Roome",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79079,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6744,
+      "result": "LD Gain",
+      "turnout": 51417,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3636,
+      "end_date": "2024-05-30",
+      "member_id": 4863,
+      "name": "Selaine Saxby",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4202,
+  "is_current": true,
+  "name": "North Devon",
+  "name_cy": null,
+  "ons_code": "E14001387",
+  "outcodes": [
+    "EX16",
+    "EX17",
+    "EX18",
+    "EX31",
+    "EX32",
+    "EX33",
+    "EX34",
+    "EX35",
+    "EX36",
+    "EX37",
+    "EX39",
+    "TA22"
+  ],
+  "schema_version": 1,
+  "slug": "north-devon",
+  "start_date": "2024-05-31"
+}

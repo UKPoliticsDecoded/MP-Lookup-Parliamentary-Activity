@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 6144.2,
+    "bng": {
+      "easting": 394980,
+      "northing": 389162
+    },
+    "centroid": {
+      "latitude": 53.39927,
+      "longitude": -2.07696
+    },
+    "geojson": "constituencies/boundaries/hazel-grove.geojson",
+    "ons_code": "E14001277",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5070.json",
+    "member_id": 5070,
+    "name": "Lisa Smart",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72846,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6500,
+      "result": "LD Gain",
+      "turnout": 45998,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3524,
+      "end_date": "2024-05-30",
+      "member_id": 4429,
+      "name": "Mr William Wragg",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4092,
+  "is_current": true,
+  "name": "Hazel Grove",
+  "name_cy": null,
+  "ons_code": "E14001277",
+  "outcodes": [
+    "SK1",
+    "SK12",
+    "SK14",
+    "SK2",
+    "SK22",
+    "SK6",
+    "SK7"
+  ],
+  "schema_version": 1,
+  "slug": "hazel-grove",
+  "start_date": "2024-05-31"
+}

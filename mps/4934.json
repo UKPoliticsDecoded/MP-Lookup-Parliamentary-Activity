@@ -1,0 +1,348 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 88,
+        "debates_participated": 68,
+        "early_day_motions": 7,
+        "oral_questions": 15,
+        "written_questions": 104
+      },
+      "2023": {
+        "bills_sponsored": 5,
+        "debate_contributions": 157,
+        "debates_participated": 91,
+        "early_day_motions": 8,
+        "oral_questions": 16,
+        "written_questions": 209
+      },
+      "2024": {
+        "bills_sponsored": 3,
+        "debate_contributions": 130,
+        "debates_participated": 85,
+        "early_day_motions": 10,
+        "oral_questions": 24,
+        "written_questions": 304
+      },
+      "2025": {
+        "debate_contributions": 166,
+        "debates_participated": 107,
+        "early_day_motions": 11,
+        "oral_questions": 12,
+        "written_questions": 562
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 239,
+        "debates_participated": 101,
+        "early_day_motions": 23,
+        "oral_questions": 10,
+        "written_questions": 477
+      }
+    },
+    "bills_sponsored": 10,
+    "debate_contributions": 780,
+    "debates_participated": 452,
+    "early_day_motions": 59,
+    "oral_questions": 77,
+    "petitions_presented": 0,
+    "written_questions": 1656
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 780,
+    "voting_participation_pct": 75.26,
+    "written_questions": 1656
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Supported Housing (Regulatory Oversight) Bill",
+      "committee_id": 637,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      },
+      {
+        "committee": "Supported Housing (Regulatory Oversight) Bill",
+        "committee_id": 637,
+        "file": "committees/supported-housing-regulatory-oversight-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-14"
+          }
+        ],
+        "slug": "supported-housing-regulatory-oversight-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-shropshire.json",
+    "id": 4213,
+    "name": "North Shropshire",
+    "ons_code": "E14001398",
+    "slug": "north-shropshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "helen.morgan.mp@parliament.uk",
+      "phone": "020 7219 6104",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "1st Floor Offices,, Maypole Court,, Wem",
+      "phone": "01939 809387",
+      "postcode": "SY4 5AA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/HelenMorganMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/helenmorganld"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/helenmorganmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4934
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4934,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2021-12-16",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Helen Morgan",
+    "full_title": "Helen Morgan MP",
+    "list_as": "Morgan, Helen"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Health and Social Care)",
+        "start_date": "2024-09-18"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Housing, Communities and Local Government)",
+        "start_date": "2024-07-05"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Levelling up, Housing and Communities)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Local Government)",
+        "start_date": "2022-07-11"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3648,
+        "name": "North Shropshire",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2021-12-16"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Shropshire",
+        "constituency_id": 4213,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "North Shropshire",
+        "constituency_id": 3648,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2021-12-16"
+      }
+    ]
+  },
+  "synopsis": "Helen Morgan is the Liberal Democrat MP for <a href='/constituency/4213/overview'>North Shropshire</a>, and has been an MP continually since 16 December 2021. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Health and Social Care).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4934/Thumbnail",
+  "voting": {
+    "annual": {
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 208,
+        "voting_participation_pct": 82.87
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 203,
+        "voting_participation_pct": 79.3
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 123,
+        "voting_participation_pct": 61.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 247,
+        "voting_participation_pct": 76.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 634,
+        "divisions_voted": 492,
+        "voting_participation_pct": 77.6
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 460,
+        "voting_participation_pct": 72.9
+      }
+    },
+    "divisions_eligible": 1265,
+    "divisions_voted": 952,
+    "voting_participation_pct": 75.26
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

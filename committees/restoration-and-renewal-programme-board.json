@@ -1,0 +1,379 @@
+{
+  "activity": {
+    "current_members": 6,
+    "formal_meetings_held": 40,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 26
+  },
+  "category": "Other",
+  "chairs": [
+    {
+      "member_id": 4391,
+      "name": "Judith Cummins"
+    }
+  ],
+  "contact": {
+    "email": "rrprogrammeboard@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Joint",
+  "id": 652,
+  "is_current": true,
+  "lead_house": {
+    "isCommons": true,
+    "isLords": false
+  },
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 12,
+        "meetings_available": 12
+      },
+      "file": "mps/529.json",
+      "member_id": 529,
+      "name": "Sir Alan Campbell",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 26,
+        "meetings_available": 26
+      },
+      "file": "mps/1383.json",
+      "member_id": 1383,
+      "name": "Sir Mark Tami",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-23"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 18,
+        "meetings_available": 18
+      },
+      "file": "mps/3991.json",
+      "member_id": 3991,
+      "name": "Jesse Norman",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-05"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4222,
+      "name": "The Lord Collins of Highbury",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 18,
+        "meetings_available": 18
+      },
+      "file": "mps/4391.json",
+      "member_id": 4391,
+      "name": "Judith Cummins",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-11-18"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-18"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4529,
+      "name": "The Lord Mackinlay of Richborough",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-01-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 12,
+        "meetings_available": 12
+      },
+      "file": "mps/4608.json",
+      "member_id": 4608,
+      "name": "John Lamont",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4687,
+      "name": "The Lord Vaux of Harrowden",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-31"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 18,
+        "meetings_available": 18
+      },
+      "file": "mps/5073.json",
+      "member_id": 5073,
+      "name": "Marie Goldman",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-18"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 4,
+        "meetings_available": 4
+      },
+      "file": "mps/249.json",
+      "member_id": 249,
+      "name": "Sir Geoffrey Clifton-Brown",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-01-11",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-23"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/345.json",
+      "member_id": 345,
+      "name": "Sir Edward Leigh",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-23"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/474.json",
+      "member_id": 474,
+      "name": "Mr Nigel Evans",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2023-02-07"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4017.json",
+      "member_id": 4017,
+      "name": "Penny Mordaunt",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 11,
+        "meetings_available": 11
+      },
+      "file": "mps/4263.json",
+      "member_id": 4263,
+      "name": "Lucy Powell",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2025-09-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-09-04"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4287,
+      "name": "The Lord Sherbourne of Didsbury CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-11-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4433,
+      "name": "Thangam Debbonaire",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-09-04",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/4602.json",
+      "member_id": 4602,
+      "name": "Wera Hobhouse",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-07"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4877,
+      "name": "The Lord Greenhalgh",
+      "party": null,
+      "roles": [
+        {
+          "end": "2025-01-20",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-21"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4914,
+      "name": "The Lord Morse KCB",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-22"
+        }
+      ]
+    }
+  ],
+  "name": "Restoration and Renewal Programme Board",
+  "parent_committee_id": null,
+  "purpose": "<p>The R&amp;R Programme Board has day to day oversight, and is responsible for making critical strategic choices and recommendations, relating to the restoration and renewal of the Palace of Westminster to the R&amp;R Client Board.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "restoration-and-renewal-programme-board",
+  "start_date": "2023-02-07",
+  "sub_committee_ids": [],
+  "types": [
+    "Other"
+  ]
+}

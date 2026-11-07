@@ -1,0 +1,81 @@
+{
+  "boundary": {
+    "area_hectares": 20033.5,
+    "bng": {
+      "easting": 617020,
+      "northing": 222082
+    },
+    "centroid": {
+      "latitude": 51.85512,
+      "longitude": 1.149974
+    },
+    "geojson": "constituencies/boundaries/clacton.geojson",
+    "ons_code": "E14001174",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5091.json",
+    "member_id": 5091,
+    "name": "Nigel Farage",
+    "party": "Reform UK",
+    "party_abbreviation": "RUK",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2026-08-13",
+      "election": "2026-08-13 Clacton By-election",
+      "election_id": 559,
+      "electorate": 79785,
+      "is_general_election": false,
+      "is_notional": false,
+      "majority": 12784,
+      "result": "RUK Hold",
+      "turnout": 35111,
+      "winning_party": "Reform UK",
+      "winning_party_id": 1036
+    },
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78245,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8405,
+      "result": "RUK Gain",
+      "turnout": 45958,
+      "winning_party": "Reform UK",
+      "winning_party_id": 1036
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3418,
+      "end_date": "2024-05-30",
+      "member_id": 4677,
+      "name": "Giles Watling",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 3989,
+  "is_current": true,
+  "name": "Clacton",
+  "name_cy": null,
+  "ons_code": "E14001174",
+  "outcodes": [
+    "CO11",
+    "CO12",
+    "CO13",
+    "CO14",
+    "CO15",
+    "CO16",
+    "CO7"
+  ],
+  "schema_version": 1,
+  "slug": "clacton",
+  "start_date": "2024-05-31"
+}

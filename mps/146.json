@@ -1,0 +1,536 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 67,
+        "debates_participated": 37,
+        "early_day_motions": 3,
+        "oral_questions": 6,
+        "written_questions": 42
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 84,
+        "debates_participated": 27,
+        "early_day_motions": 2,
+        "written_questions": 26
+      },
+      "2022": {
+        "debate_contributions": 101,
+        "debates_participated": 66,
+        "oral_questions": 1,
+        "written_questions": 6
+      },
+      "2023": {
+        "debate_contributions": 60,
+        "debates_participated": 28,
+        "early_day_motions": 2,
+        "written_questions": 11
+      },
+      "2024": {
+        "debate_contributions": 294,
+        "debates_participated": 43,
+        "early_day_motions": 1,
+        "written_questions": 25
+      },
+      "2025": {
+        "debate_contributions": 89,
+        "debates_participated": 58,
+        "early_day_motions": 3,
+        "written_questions": 59
+      },
+      "2026": {
+        "debate_contributions": 52,
+        "debates_participated": 25,
+        "early_day_motions": 1,
+        "written_questions": 112
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 747,
+    "debates_participated": 284,
+    "early_day_motions": 12,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 281
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 747,
+    "voting_participation_pct": 63.39,
+    "written_questions": 281
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 196,
+      "meetings_available": 196
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 30,
+      "meetings_available": 30
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 96,
+      "meetings_available": 96
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Special Rules for End of Life) Bill",
+      "committee_id": 718,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 100,
+      "meetings_available": 100
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Zoological Society of London (Leases) Bill",
+      "committee_id": 707,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-08"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2013-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-12-20"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-08"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      },
+      {
+        "committee": "Pensions (Special Rules for End of Life) Bill",
+        "committee_id": 718,
+        "file": "committees/pensions-special-rules-for-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "pensions-special-rules-for-end-of-life-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2002-10-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "1999-06-10"
+          },
+          {
+            "end": "2022-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-09-21"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Zoological Society of London (Leases) Bill",
+        "committee_id": 707,
+        "file": "committees/zoological-society-of-london-leases-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-22"
+          }
+        ],
+        "slug": "zoological-society-of-london-leases-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/brent-west.json",
+    "id": 3938,
+    "name": "Brent West",
+    "ons_code": "E14001123",
+    "slug": "brent-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "barry.gardiner.mp@parliament.uk",
+      "phone": "020 7219 4046",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.barrygardiner.com"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/BarryGardiner"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 146
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 146,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Barry Gardiner",
+    "display": "Barry Gardiner",
+    "full_title": "Barry Gardiner MP",
+    "list_as": "Gardiner, Barry"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "No Department",
+        "department_url": "",
+        "end_date": "2008-09-15",
+        "is_current": false,
+        "name": "Special Envoy for Forestry",
+        "start_date": "2007-06-28"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs) (Biodiversity, Landscape and Rural Affairs)",
+        "start_date": "2006-05-05"
+      },
+      {
+        "department": "Department of Trade and Industry",
+        "department_url": "http://www.dti.gov.uk",
+        "end_date": "2006-05-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Trade and Industry) (Delivery and Efficiency)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Northern Ireland Office)",
+        "start_date": "2004-04-02"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Minister (Department for Business, Energy and Industrial Strategy) (Energy and Climate Change)",
+        "start_date": "2016-07-14"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for International Trade",
+        "start_date": "2016-07-14"
+      },
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2016-07-14",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Energy and Climate Change",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Energy and Climate Change)",
+        "start_date": "2015-09-18"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "start_date": "2013-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brent West",
+        "constituency_id": 3938,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Brent North",
+        "constituency_id": 3359,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Brent North",
+        "constituency_id": 425,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Barry Gardiner is the Labour MP for <a href='/constituency/3938/overview'>Brent West</a>, and has been an MP continually since 1 May 1997.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/146/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 122,
+        "voting_participation_pct": 64.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 193,
+        "voting_participation_pct": 79.75
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 169,
+        "voting_participation_pct": 67.33
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 139,
+        "voting_participation_pct": 54.3
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 144,
+        "voting_participation_pct": 72.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 201,
+        "voting_participation_pct": 62.42
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 107,
+        "voting_participation_pct": 45.34
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 710,
+        "voting_participation_pct": 66.48
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 367,
+        "voting_participation_pct": 58.16
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1077,
+    "voting_participation_pct": 63.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

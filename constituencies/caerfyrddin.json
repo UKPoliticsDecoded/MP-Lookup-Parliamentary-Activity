@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 201950.8,
+    "bng": {
+      "easting": 250837,
+      "northing": 228760
+    },
+    "centroid": {
+      "latitude": 51.9373,
+      "longitude": -4.17124
+    },
+    "geojson": "constituencies/boundaries/caerfyrddin.geojson",
+    "ons_code": "W07000087",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5177.json",
+    "member_id": 5177,
+    "name": "Ann Davies",
+    "party": "Plaid Cymru",
+    "party_abbreviation": "PC",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74005,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4535,
+      "result": "PC Gain",
+      "turnout": 45604,
+      "winning_party": "Plaid Cymru",
+      "winning_party_id": 22
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4502,
+  "is_current": true,
+  "name": "Caerfyrddin",
+  "name_cy": "Caerfyrddin",
+  "ons_code": "W07000087",
+  "outcodes": [
+    "SA14",
+    "SA15",
+    "SA18",
+    "SA19",
+    "SA31",
+    "SA32",
+    "SA33",
+    "SA34",
+    "SA38",
+    "SA39",
+    "SA40",
+    "SA44",
+    "SA48",
+    "SA66",
+    "SA67",
+    "SA9"
+  ],
+  "schema_version": 1,
+  "slug": "caerfyrddin",
+  "start_date": "2024-05-31"
+}

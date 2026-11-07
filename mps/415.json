@@ -1,0 +1,351 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 23,
+        "debates_participated": 14,
+        "written_questions": 34
+      },
+      "2021": {
+        "debate_contributions": 10,
+        "debates_participated": 9,
+        "oral_questions": 2,
+        "written_questions": 71
+      },
+      "2022": {
+        "debate_contributions": 44,
+        "debates_participated": 25,
+        "oral_questions": 3,
+        "written_questions": 213
+      },
+      "2023": {
+        "debate_contributions": 29,
+        "debates_participated": 19,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 138
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 23,
+        "debates_participated": 13,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 156
+      },
+      "2025": {
+        "debate_contributions": 12,
+        "debates_participated": 6,
+        "oral_questions": 1,
+        "written_questions": 137
+      },
+      "2026": {
+        "debate_contributions": 10,
+        "debates_participated": 3,
+        "oral_questions": 2,
+        "written_questions": 37
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 151,
+    "debates_participated": 89,
+    "early_day_motions": 2,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 786
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 151,
+    "voting_participation_pct": 58.8,
+    "written_questions": 786
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+      "committee_id": 686,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 34,
+      "meetings_available": 34
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2010-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2001-07-16"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-28"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+        "committee_id": 686,
+        "file": "committees/foreign-affairs-sub-committee-on-the-overseas-territories.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-05"
+          }
+        ],
+        "slug": "foreign-affairs-sub-committee-on-the-overseas-territories"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-20"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/leeds-north-east.json",
+    "id": 4136,
+    "name": "Leeds North East",
+    "ons_code": "E14001321",
+    "slug": "leeds-north-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "fabian.hamilton.mp@parliament.uk",
+      "phone": "020 7219 3493",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "147a Easterly Road, Leeds",
+      "email": "fabian.hamilton.mp@parliament.uk",
+      "phone": "0113 249 6600",
+      "postcode": "LS8 2RY",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://fabianhamilton.laboursites.org/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 415
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 415,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Fabian Hamilton",
+    "display": "Fabian Hamilton",
+    "full_title": "Fabian Hamilton MP",
+    "list_as": "Hamilton, Fabian"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2020-09-02"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2016-10-10"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-09-02",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2016-10-10"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2016-07-04",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2016-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1698,
+        "name": "Leeds North East",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leeds North East",
+        "constituency_id": 4136,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Leeds North East",
+        "constituency_id": 3567,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Leeds North East",
+        "constituency_id": 1699,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Fabian Hamilton is the Labour MP for <a href='/constituency/4136/overview'>Leeds North East</a>, and has been an MP continually since 1 May 1997.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/415/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 207,
+        "voting_participation_pct": 85.54
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 138,
+        "voting_participation_pct": 54.98
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 130,
+        "voting_participation_pct": 50.78
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 117,
+        "voting_participation_pct": 58.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 197,
+        "voting_participation_pct": 61.18
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 64,
+        "voting_participation_pct": 27.12
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 685,
+        "voting_participation_pct": 64.14
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 314,
+        "voting_participation_pct": 49.76
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 999,
+    "voting_participation_pct": 58.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

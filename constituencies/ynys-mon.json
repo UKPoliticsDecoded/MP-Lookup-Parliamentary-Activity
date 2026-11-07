@@ -1,0 +1,81 @@
+{
+  "boundary": {
+    "area_hectares": 71344.9,
+    "bng": {
+      "easting": 245217,
+      "northing": 378331
+    },
+    "centroid": {
+      "latitude": 53.27931,
+      "longitude": -4.32298
+    },
+    "geojson": "constituencies/boundaries/ynys-mon.geojson",
+    "ons_code": "W07000112",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5085.json",
+    "member_id": 5085,
+    "name": "Llinos Medi",
+    "party": "Plaid Cymru",
+    "party_abbreviation": "PC",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 53141,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 637,
+      "result": "PC Gain",
+      "turnout": 32628,
+      "winning_party": "Plaid Cymru",
+      "winning_party_id": 22
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3875,
+      "end_date": "2024-05-30",
+      "member_id": 4859,
+      "name": "Virginia Crosbie",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4527,
+  "is_current": true,
+  "name": "Ynys Môn",
+  "name_cy": "Ynys Môn",
+  "ons_code": "W07000112",
+  "outcodes": [
+    "LL58",
+    "LL59",
+    "LL60",
+    "LL61",
+    "LL62",
+    "LL63",
+    "LL64",
+    "LL65",
+    "LL66",
+    "LL67",
+    "LL68",
+    "LL69",
+    "LL70",
+    "LL71",
+    "LL72",
+    "LL73",
+    "LL74",
+    "LL75",
+    "LL76",
+    "LL77",
+    "LL78"
+  ],
+  "schema_version": 1,
+  "slug": "ynys-mon",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,197 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 23,
+        "debates_participated": 11,
+        "written_questions": 52
+      },
+      "2025": {
+        "debate_contributions": 127,
+        "debates_participated": 100,
+        "early_day_motions": 3,
+        "oral_questions": 5,
+        "written_questions": 159
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 85,
+        "debates_participated": 63,
+        "early_day_motions": 4,
+        "oral_questions": 4,
+        "written_questions": 83
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 235,
+    "debates_participated": 174,
+    "early_day_motions": 7,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 294
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 235,
+    "voting_participation_pct": 42.95,
+    "written_questions": 294
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 74,
+      "meetings_available": 74
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/tiverton-and-minehead.json",
+    "id": 4363,
+    "name": "Tiverton and Minehead",
+    "ons_code": "E14001548",
+    "slug": "tiverton-and-minehead"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rachel.gilmour.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5252
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5252,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Rachel Gilmour",
+    "full_title": "Rachel Gilmour MP",
+    "list_as": "Gilmour, Rachel"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tiverton and Minehead",
+        "constituency_id": 4363,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Rachel Gilmour is the Liberal Democrat MP for <a href='/constituency/4363/overview'>Tiverton and Minehead</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5252/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 32,
+        "voting_participation_pct": 43.84
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 145,
+        "voting_participation_pct": 45.03
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 94,
+        "voting_participation_pct": 39.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 271,
+        "voting_participation_pct": 42.95
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 271,
+    "voting_participation_pct": 42.95
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

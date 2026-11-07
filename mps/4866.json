@@ -1,0 +1,396 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 5
+      },
+      "2020": {
+        "debate_contributions": 153,
+        "debates_participated": 85,
+        "early_day_motions": 2,
+        "oral_questions": 18,
+        "written_questions": 438
+      },
+      "2021": {
+        "debate_contributions": 138,
+        "debates_participated": 84,
+        "early_day_motions": 1,
+        "oral_questions": 24,
+        "written_questions": 384
+      },
+      "2022": {
+        "debate_contributions": 145,
+        "debates_participated": 75,
+        "oral_questions": 26,
+        "written_questions": 311
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 119,
+        "debates_participated": 71,
+        "early_day_motions": 1,
+        "oral_questions": 23,
+        "written_questions": 271
+      },
+      "2024": {
+        "debate_contributions": 78,
+        "debates_participated": 43,
+        "oral_questions": 8,
+        "written_questions": 146
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 633,
+    "debates_participated": 358,
+    "early_day_motions": 4,
+    "oral_questions": 99,
+    "petitions_presented": 0,
+    "written_questions": 1555
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 633,
+    "voting_participation_pct": 88.48,
+    "written_questions": 1555
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 30,
+      "meetings_available": 30
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+      "committee_id": 491,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+      "committee_id": 705,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-28"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+        "committee_id": 491,
+        "file": "committees/joint-committee-on-the-fixed-term-parliaments-act.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-11-10"
+          }
+        ],
+        "slug": "joint-committee-on-the-fixed-term-parliaments-act"
+      },
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+        "committee_id": 705,
+        "file": "committees/trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3706,
+    "name": "Rother Valley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4866
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4866,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alexander Stafford",
+    "full_title": "Alexander Stafford",
+    "list_as": "Stafford, Alexander"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4266,
+        "name": "Rother Valley",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rother Valley",
+        "constituency_id": 3706,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Alexander Stafford is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3706/overview'>Rother Valley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4866/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 216,
+        "voting_participation_pct": 86.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 222,
+        "voting_participation_pct": 86.72
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 111,
+        "voting_participation_pct": 87.4
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 945,
+        "voting_participation_pct": 88.48
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 945,
+    "voting_participation_pct": 88.48
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 9
+      },
+      "2020": {
+        "debate_contributions": 162,
+        "debates_participated": 122,
+        "oral_questions": 15,
+        "written_questions": 663
+      },
+      "2021": {
+        "debate_contributions": 244,
+        "debates_participated": 182,
+        "oral_questions": 28,
+        "written_questions": 1900
+      },
+      "2022": {
+        "bills_sponsored": 3,
+        "debate_contributions": 525,
+        "debates_participated": 230,
+        "early_day_motions": 6,
+        "oral_questions": 30,
+        "petitions_presented": 1,
+        "written_questions": 2685
+      },
+      "2023": {
+        "bills_sponsored": 2,
+        "debate_contributions": 214,
+        "debates_participated": 144,
+        "early_day_motions": 4,
+        "oral_questions": 15,
+        "written_questions": 2119
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 204,
+        "debates_participated": 124,
+        "early_day_motions": 5,
+        "oral_questions": 20,
+        "written_questions": 1105
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 244,
+        "debates_participated": 185,
+        "early_day_motions": 6,
+        "oral_questions": 13,
+        "written_questions": 238
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 176,
+        "debates_participated": 131,
+        "early_day_motions": 8,
+        "oral_questions": 12,
+        "written_questions": 208
+      }
+    },
+    "bills_sponsored": 9,
+    "debate_contributions": 1769,
+    "debates_participated": 1118,
+    "early_day_motions": 29,
+    "oral_questions": 133,
+    "petitions_presented": 1,
+    "written_questions": 8927
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 1769,
+    "voting_participation_pct": 84.11,
+    "written_questions": 8927
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL]",
+      "committee_id": 576,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL] Second Reading Committee",
+      "committee_id": 574,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 53,
+      "meetings_available": 53
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Hunting Trophies (Import Prohibition) Bill",
+      "committee_id": 640,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+      "committee_id": 570,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 720,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Charities Bill [HL]",
+        "committee_id": 576,
+        "file": "committees/charities-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "charities-bill-hl"
+      },
+      {
+        "committee": "Charities Bill [HL] Second Reading Committee",
+        "committee_id": 574,
+        "file": "committees/charities-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "charities-bill-hl-second-reading"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-10-28"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-31"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-04"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-08"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-04"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Hunting Trophies (Import Prohibition) Bill",
+        "committee_id": 640,
+        "file": "committees/hunting-trophies-import-prohibition-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "hunting-trophies-import-prohibition-bill"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-15"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      },
+      {
+        "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+        "committee_id": 570,
+        "file": "committees/marriage-and-civil-partnership-minimum-age-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "marriage-and-civil-partnership-minimum-age-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 720,
+        "file": "committees/tobacco-and-vapes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/york-central.json",
+    "id": 4419,
+    "name": "York Central",
+    "ons_code": "E14001604",
+    "slug": "york-central"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rachael.maskell.mp@parliament.uk",
+      "phone": "020 7219 4525",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.rachaelmaskell.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/rachaelmaskell4york"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/rachael_maskell/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/rachaelmaskell"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4471
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4471,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Rachael Maskell",
+    "display": "Rachael Maskell",
+    "full_title": "Rachael Maskell MP",
+    "list_as": "Maskell, Rachael"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2021-12-14",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Employment Rights",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2017-02-01",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2025-11-07"
+      },
+      {
+        "end_date": "2025-11-07",
+        "party": "Independent",
+        "start_date": "2025-07-16"
+      },
+      {
+        "end_date": "2025-07-16",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "York Central",
+        "constituency_id": 4419,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "York Central",
+        "constituency_id": 3876,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Rachael Maskell is the Labour (Co-op) MP for <a href='/constituency/4419/overview'>York Central</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4471/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 145,
+        "voting_participation_pct": 76.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 210,
+        "voting_participation_pct": 83.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 194,
+        "voting_participation_pct": 75.78
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 158,
+        "voting_participation_pct": 79.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 293,
+        "voting_participation_pct": 90.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 211,
+        "voting_participation_pct": 89.41
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 855,
+        "voting_participation_pct": 80.06
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 574,
+        "voting_participation_pct": 90.97
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1429,
+    "voting_participation_pct": 84.11
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

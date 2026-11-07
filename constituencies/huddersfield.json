@@ -1,0 +1,82 @@
+{
+  "boundary": {
+    "area_hectares": 4854.6,
+    "bng": {
+      "easting": 415339,
+      "northing": 417385
+    },
+    "centroid": {
+      "latitude": 53.65275,
+      "longitude": -1.7694
+    },
+    "geojson": "constituencies/boundaries/huddersfield.geojson",
+    "ons_code": "E14001297",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5289.json",
+    "member_id": 5289,
+    "name": "Harpreet Uppal",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77795,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4533,
+      "result": "Lab Hold",
+      "turnout": 40165,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3542,
+      "end_date": "2024-05-30",
+      "member_id": 411,
+      "name": "Mr Barry Sheerman",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1524,
+      "end_date": "2010-05-06",
+      "member_id": 411,
+      "name": "Mr Barry Sheerman",
+      "start_date": "1997-05-01"
+    },
+    {
+      "constituency_version_id": 1523,
+      "end_date": "1997-05-01",
+      "member_id": 411,
+      "name": "Mr Barry Sheerman",
+      "start_date": "1983-06-09"
+    }
+  ],
+  "id": 4112,
+  "is_current": true,
+  "name": "Huddersfield",
+  "name_cy": null,
+  "ons_code": "E14001297",
+  "outcodes": [
+    "HD1",
+    "HD2",
+    "HD3",
+    "HD4",
+    "HD5",
+    "HD6",
+    "HD8",
+    "HD9"
+  ],
+  "schema_version": 1,
+  "slug": "huddersfield",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,202 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 24,
+        "debates_participated": 16,
+        "oral_questions": 5,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 105,
+        "debates_participated": 41,
+        "oral_questions": 8,
+        "written_questions": 7
+      },
+      "2026": {
+        "debate_contributions": 100,
+        "debates_participated": 24,
+        "written_questions": 5
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 229,
+    "debates_participated": 81,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 15
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 229,
+    "voting_participation_pct": 75.91,
+    "written_questions": 15
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "justice"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dover-and-deal.json",
+    "id": 4017,
+    "name": "Dover and Deal",
+    "ons_code": "E14001202",
+    "slug": "dover-and-deal"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mike.tapp.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5266
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5266,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mike Tapp",
+    "full_title": "Mike Tapp MP",
+    "list_as": "Tapp, Mike"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2025-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dover and Deal",
+        "constituency_id": 4017,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mike Tapp is the Labour MP for <a href='/constituency/4017/overview'>Dover and Deal</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5266/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 263,
+        "voting_participation_pct": 81.68
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 148,
+        "voting_participation_pct": 62.71
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 479,
+        "voting_participation_pct": 75.91
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 479,
+    "voting_participation_pct": 75.91
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

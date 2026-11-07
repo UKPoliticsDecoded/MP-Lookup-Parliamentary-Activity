@@ -1,0 +1,326 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 104,
+        "debates_participated": 74,
+        "oral_questions": 10,
+        "written_questions": 15
+      },
+      "2021": {
+        "debate_contributions": 60,
+        "debates_participated": 47,
+        "oral_questions": 7,
+        "written_questions": 45
+      },
+      "2022": {
+        "debate_contributions": 46,
+        "debates_participated": 22,
+        "written_questions": 64
+      },
+      "2023": {
+        "debate_contributions": 40,
+        "debates_participated": 22,
+        "written_questions": 66
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 250,
+    "debates_participated": 165,
+    "early_day_motions": 0,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 190
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 250,
+    "voting_participation_pct": 79.12,
+    "written_questions": 190
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+      "committee_id": 657,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 48,
+      "meetings_available": 48
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Disqualification) Bill",
+      "committee_id": 556,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Shark Fins Bill",
+      "committee_id": 624,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+        "committee_id": 657,
+        "file": "committees/animals-low-welfare-activities-abroad-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "animals-low-welfare-activities-abroad-bill"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-03-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2014-09-08"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-06"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-06-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Local Government (Disqualification) Bill",
+        "committee_id": 556,
+        "file": "committees/local-government-disqualification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "local-government-disqualification-bill"
+      },
+      {
+        "committee": "Shark Fins Bill",
+        "committee_id": 624,
+        "file": "committees/shark-fins-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "shark-fins-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3528,
+    "name": "Henley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1606
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1606,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2008-06-26",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "John Howell",
+    "display": "John Howell",
+    "full_title": "John Howell",
+    "list_as": "Howell, John"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2008-06-26"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Henley",
+        "constituency_id": 3528,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Henley",
+        "constituency_id": 1441,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2008-06-26"
+      }
+    ]
+  },
+  "synopsis": "John Howell is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3528/overview'>Henley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1606/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 179,
+        "voting_participation_pct": 94.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 223,
+        "voting_participation_pct": 92.15
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 152,
+        "voting_participation_pct": 60.56
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 174,
+        "voting_participation_pct": 67.97
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 115,
+        "voting_participation_pct": 90.55
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 845,
+        "voting_participation_pct": 79.12
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 845,
+    "voting_participation_pct": 79.12
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

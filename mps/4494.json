@@ -1,0 +1,521 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 3,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 53,
+        "debates_participated": 27,
+        "written_questions": 48
+      },
+      "2021": {
+        "debate_contributions": 44,
+        "debates_participated": 32,
+        "early_day_motions": 1,
+        "petitions_presented": 6,
+        "written_questions": 25
+      },
+      "2022": {
+        "debate_contributions": 117,
+        "debates_participated": 39,
+        "petitions_presented": 2,
+        "written_questions": 7
+      },
+      "2023": {
+        "debate_contributions": 104,
+        "debates_participated": 42,
+        "oral_questions": 1
+      },
+      "2024": {
+        "debate_contributions": 182,
+        "debates_participated": 58,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 143,
+        "debates_participated": 68,
+        "oral_questions": 4,
+        "written_questions": 36
+      },
+      "2026": {
+        "debate_contributions": 111,
+        "debates_participated": 53,
+        "early_day_motions": 1,
+        "written_questions": 21
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 757,
+    "debates_participated": 320,
+    "early_day_motions": 2,
+    "oral_questions": 6,
+    "petitions_presented": 8,
+    "written_questions": 138
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 6,
+    "debate_contributions": 757,
+    "voting_participation_pct": 69.04,
+    "written_questions": 138
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 100,
+      "meetings_available": 100
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": true,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": true,
+      "meetings_attended": 30,
+      "meetings_available": 30
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-06-12"
+          },
+          {
+            "end": "2023-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2025-06-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-11"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2019-06-12"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-06-12"
+          },
+          {
+            "end": "2023-11-14",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2023-11-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-16"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-16"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2018-11-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-16"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-13"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-dorset.json",
+    "id": 4203,
+    "name": "North Dorset",
+    "ons_code": "E14001388",
+    "slug": "north-dorset"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "simon.hoare.mp@parliament.uk",
+      "phone": "020 7219 5697",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/simon4ndorset"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4494
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4494,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Simon Hoare",
+    "display": "Simon Hoare",
+    "full_title": "Simon Hoare MP",
+    "list_as": "Hoare, Simon"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under Secretary of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2023-11-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3391,
+        "name": "Cardiff South and Penarth",
+        "startDate": "2010-05-06T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 586,
+        "name": "Cardiff West",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Dorset",
+        "constituency_id": 4203,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "North Dorset",
+        "constituency_id": 3637,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Simon Hoare is the Conservative MP for <a href='/constituency/4203/overview'>North Dorset</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4494/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 158,
+        "voting_participation_pct": 83.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 195,
+        "voting_participation_pct": 80.58
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 164,
+        "voting_participation_pct": 65.34
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 140,
+        "voting_participation_pct": 54.69
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 164,
+        "voting_participation_pct": 82.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 210,
+        "voting_participation_pct": 65.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 140,
+        "voting_participation_pct": 59.32
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 770,
+        "voting_participation_pct": 72.1
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 403,
+        "voting_participation_pct": 63.87
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1173,
+    "voting_participation_pct": 69.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

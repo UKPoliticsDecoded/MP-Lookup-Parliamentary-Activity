@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 23148.9,
+    "bng": {
+      "easting": 602920,
+      "northing": 127674
+    },
+    "centroid": {
+      "latitude": 51.01263,
+      "longitude": 0.891467
+    },
+    "geojson": "constituencies/boundaries/folkestone-and-hythe.geojson",
+    "ons_code": "E14001239",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5067.json",
+    "member_id": 5067,
+    "name": "Tony Vaughan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70056,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3729,
+      "result": "Lab Gain",
+      "turnout": 43246,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3488,
+      "end_date": "2024-05-30",
+      "member_id": 3986,
+      "name": "Damian Collins",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4054,
+  "is_current": true,
+  "name": "Folkestone and Hythe",
+  "name_cy": null,
+  "ons_code": "E14001239",
+  "outcodes": [
+    "CT18",
+    "CT19",
+    "CT20",
+    "CT21",
+    "CT50",
+    "TN25",
+    "TN26",
+    "TN28",
+    "TN29",
+    "TN31"
+  ],
+  "schema_version": 1,
+  "slug": "folkestone-and-hythe",
+  "start_date": "2024-05-31"
+}

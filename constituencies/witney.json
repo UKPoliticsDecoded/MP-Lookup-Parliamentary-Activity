@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 55772.6,
+    "bng": {
+      "easting": 434290,
+      "northing": 201412
+    },
+    "centroid": {
+      "latitude": 51.7104,
+      "longitude": -1.5051
+    },
+    "geojson": "constituencies/boundaries/witney.geojson",
+    "ons_code": "E14001591",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5325.json",
+    "member_id": 5325,
+    "name": "Charlie Maynard",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75448,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4339,
+      "result": "LD Gain",
+      "turnout": 50584,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3859,
+      "end_date": "2024-05-30",
+      "member_id": 4589,
+      "name": "Robert Courts",
+      "start_date": "2016-10-20"
+    }
+  ],
+  "id": 4406,
+  "is_current": true,
+  "name": "Witney",
+  "name_cy": null,
+  "ons_code": "E14001591",
+  "outcodes": [
+    "GL7",
+    "OX12",
+    "OX13",
+    "OX18",
+    "OX28",
+    "OX29",
+    "OX7",
+    "RG17",
+    "SN6",
+    "SN7"
+  ],
+  "schema_version": 1,
+  "slug": "witney",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 6538.3,
+    "bng": {
+      "easting": 486814,
+      "northing": 236383
+    },
+    "centroid": {
+      "latitude": 52.01909,
+      "longitude": -0.73628
+    },
+    "geojson": "constituencies/boundaries/milton-keynes-central.geojson",
+    "ons_code": "E14001369",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5139.json",
+    "member_id": 5139,
+    "name": "Emily Darlington",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 81078,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7291,
+      "result": "Lab Gain",
+      "turnout": 47729,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4184,
+  "is_current": true,
+  "name": "Milton Keynes Central",
+  "name_cy": null,
+  "ons_code": "E14001369",
+  "outcodes": [
+    "MK10",
+    "MK13",
+    "MK14",
+    "MK15",
+    "MK16",
+    "MK17",
+    "MK4",
+    "MK5",
+    "MK6",
+    "MK7",
+    "MK8",
+    "MK9"
+  ],
+  "schema_version": 1,
+  "slug": "milton-keynes-central",
+  "start_date": "2024-05-31"
+}

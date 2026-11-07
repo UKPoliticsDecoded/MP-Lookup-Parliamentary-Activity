@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 8515.6,
+    "bng": {
+      "easting": 421082,
+      "northing": 441886
+    },
+    "centroid": {
+      "latitude": 53.87277,
+      "longitude": -1.68085
+    },
+    "geojson": "constituencies/boundaries/leeds-north-west.geojson",
+    "ons_code": "E14001322",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5260.json",
+    "member_id": 5260,
+    "name": "Katie White",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71592,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11896,
+      "result": "Lab Gain",
+      "turnout": 49777,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3568,
+      "end_date": "2024-05-30",
+      "member_id": 4658,
+      "name": "Alex Sobel",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4137,
+  "is_current": true,
+  "name": "Leeds North West",
+  "name_cy": null,
+  "ons_code": "E14001322",
+  "outcodes": [
+    "BD10",
+    "LS13",
+    "LS16",
+    "LS18",
+    "LS19",
+    "LS20",
+    "LS21",
+    "LS29"
+  ],
+  "schema_version": 1,
+  "slug": "leeds-north-west",
+  "start_date": "2024-05-31"
+}

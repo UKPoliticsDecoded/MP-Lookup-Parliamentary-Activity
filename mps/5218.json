@@ -1,0 +1,240 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 24,
+        "debates_participated": 17,
+        "oral_questions": 4,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 88,
+        "debates_participated": 45,
+        "oral_questions": 4,
+        "written_questions": 100
+      },
+      "2026": {
+        "debate_contributions": 81,
+        "debates_participated": 41,
+        "oral_questions": 3,
+        "written_questions": 61
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 193,
+    "debates_participated": 103,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 175
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 193,
+    "voting_participation_pct": 71.32,
+    "written_questions": 175
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/north-northumberland.json",
+    "id": 4212,
+    "name": "North Northumberland",
+    "ons_code": "E14001397",
+    "slug": "north-northumberland"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "david.smith.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Morpeth Office, 13 Telford Court, Morpeth",
+      "postcode": "NE61 2DB",
+      "type": "Constituency office"
+    },
+    {
+      "address": "Berwick Office, Berwick Workspace, 90 Marygate, Berwick upon Tweed",
+      "postcode": "TD15 1BN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://davidsmithnorth.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DavidSmithNorthNorthumberland "
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/dsnorthnorth"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5218
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5218,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "David Smith",
+    "full_title": "David Smith MP",
+    "list_as": "Smith, David"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Northumberland",
+        "constituency_id": 4212,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "David Smith is the Labour MP for <a href='/constituency/4212/overview'>North Northumberland</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5218/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 229,
+        "voting_participation_pct": 71.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 155,
+        "voting_participation_pct": 65.68
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 450,
+        "voting_participation_pct": 71.32
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 450,
+    "voting_participation_pct": 71.32
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 8720.6,
+    "bng": {
+      "easting": 446317,
+      "northing": 523647
+    },
+    "centroid": {
+      "latitude": 54.60588,
+      "longitude": -1.28449
+    },
+    "geojson": "constituencies/boundaries/stockton-north.geojson",
+    "ons_code": "E14001518",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5116.json",
+    "member_id": 5116,
+    "name": "Chris McDonald",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70242,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7939,
+      "result": "Lab Hold",
+      "turnout": 37401,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3775,
+      "end_date": "2024-05-30",
+      "member_id": 4122,
+      "name": "Alex Cunningham",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4333,
+  "is_current": true,
+  "name": "Stockton North",
+  "name_cy": null,
+  "ons_code": "E14001518",
+  "outcodes": [
+    "TS17",
+    "TS18",
+    "TS19",
+    "TS2",
+    "TS20",
+    "TS21",
+    "TS22",
+    "TS23"
+  ],
+  "schema_version": 1,
+  "slug": "stockton-north",
+  "start_date": "2024-05-31"
+}

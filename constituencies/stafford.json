@@ -1,0 +1,77 @@
+{
+  "boundary": {
+    "area_hectares": 41624.8,
+    "bng": {
+      "easting": 382011,
+      "northing": 326772
+    },
+    "centroid": {
+      "latitude": 52.83817,
+      "longitude": -2.26848
+    },
+    "geojson": "constituencies/boundaries/stafford.geojson",
+    "ons_code": "E14001513",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5290.json",
+    "member_id": 5290,
+    "name": "Leigh Ingham",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70608,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4595,
+      "result": "Lab Gain",
+      "turnout": 46009,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3770,
+      "end_date": "2024-05-30",
+      "member_id": 4819,
+      "name": "Theo Clarke",
+      "start_date": "2019-12-12"
+    },
+    {
+      "constituency_version_id": 2767,
+      "end_date": "1997-05-01",
+      "member_id": 288,
+      "name": "Sir William Cash",
+      "start_date": "1984-05-03"
+    }
+  ],
+  "id": 4328,
+  "is_current": true,
+  "name": "Stafford",
+  "name_cy": null,
+  "ons_code": "E14001513",
+  "outcodes": [
+    "CW3",
+    "ST15",
+    "ST16",
+    "ST17",
+    "ST18",
+    "ST20",
+    "ST21",
+    "ST5",
+    "TF10",
+    "TF9"
+  ],
+  "schema_version": 1,
+  "slug": "stafford",
+  "start_date": "2024-05-31"
+}

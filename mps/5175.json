@@ -1,0 +1,335 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 19,
+        "oral_questions": 5,
+        "written_questions": 6
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 85,
+        "debates_participated": 54,
+        "oral_questions": 8,
+        "petitions_presented": 1,
+        "written_questions": 15
+      },
+      "2026": {
+        "debate_contributions": 63,
+        "debates_participated": 37,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 41
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 170,
+    "debates_participated": 110,
+    "early_day_motions": 1,
+    "oral_questions": 23,
+    "petitions_presented": 1,
+    "written_questions": 62
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 96.15,
+    "committee_memberships": 4,
+    "debate_contributions": 170,
+    "voting_participation_pct": 84.15,
+    "written_questions": 62
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 0.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "City of London (Markets) Bill",
+      "committee_id": 760,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Conversion Practices Bill (Joint Committee)",
+      "committee_id": 851,
+      "is_current": true,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 42,
+      "meetings_available": 42
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crime and Policing Bill",
+      "committee_id": 786,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "City of London (Markets) Bill",
+        "committee_id": 760,
+        "file": "committees/city-of-london-markets-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-17"
+          }
+        ],
+        "slug": "city-of-london-markets-bill"
+      },
+      {
+        "committee": "Draft Conversion Practices Bill (Joint Committee)",
+        "committee_id": 851,
+        "file": "committees/draft-conversion-practices-bill-joint-committee.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-10"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2026-10-12"
+          }
+        ],
+        "slug": "draft-conversion-practices-bill-joint-committee"
+      },
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "modernisation"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Crime and Policing Bill",
+        "committee_id": 786,
+        "file": "committees/crime-and-policing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-20"
+          }
+        ],
+        "slug": "crime-and-policing-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cardiff-west.json",
+    "id": 4507,
+    "name": "Cardiff West",
+    "ons_code": "W07000092",
+    "slug": "cardiff-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.barroscurtis.mp@parliament.uk",
+      "phone": "0207 219 6387",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Transport House, 1 Cathedral Road, Cardiff",
+      "phone": "029 2297 3518",
+      "postcode": "CF11 9HA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.alexbarros-curtis.com/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5175
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5175,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Alex Barros-Curtis",
+    "full_title": "Mr Alex Barros-Curtis MP",
+    "list_as": "Barros-Curtis, Mr Alex"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cardiff West",
+        "constituency_id": 4507,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Alex Barros-Curtis is the Labour MP for <a href='/constituency/4507/overview'>Cardiff West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5175/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 203,
+        "voting_participation_pct": 86.02
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 531,
+        "voting_participation_pct": 84.15
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 531,
+    "voting_participation_pct": 84.15
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

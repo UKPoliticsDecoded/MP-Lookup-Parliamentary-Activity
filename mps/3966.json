@@ -1,0 +1,337 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 18,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 60
+      },
+      "2021": {
+        "debate_contributions": 43,
+        "debates_participated": 16,
+        "written_questions": 105
+      },
+      "2022": {
+        "debate_contributions": 95,
+        "debates_participated": 16,
+        "written_questions": 58
+      },
+      "2023": {
+        "debate_contributions": 48,
+        "debates_participated": 12,
+        "written_questions": 38
+      },
+      "2024": {
+        "debate_contributions": 78,
+        "debates_participated": 19,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 235,
+        "debates_participated": 41,
+        "petitions_presented": 4
+      },
+      "2026": {
+        "debate_contributions": 143,
+        "debates_participated": 41
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 660,
+    "debates_participated": 157,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 4,
+    "written_questions": 267
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 660,
+    "voting_participation_pct": 69.33,
+    "written_questions": 267
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-10-31"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/edinburgh-south.json",
+    "id": 4469,
+    "name": "Edinburgh South",
+    "ons_code": "S14000080",
+    "slug": "edinburgh-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ian.murray.mp@parliament.uk",
+      "phone": "020 7219 7064",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "31 Minto Street, Edinburgh",
+      "email": "ian.murray.mp@parliament.uk",
+      "phone": "0131 662 4520",
+      "postcode": "EH9 2BT",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.ianmurraymp.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/IanMurrayMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 3966
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 3966,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ian Murray",
+    "display": "Ian Murray",
+    "full_title": "Rt Hon Ian Murray MP",
+    "list_as": "Murray, Ian"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Minister of State (Department for Culture, Media and Sport)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Minister of State (Department for Science, Innovation and Technology)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Secretary of State for Scotland",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department for Digital, Culture, Media and Sport)"
+    ],
+    "opposition": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Scotland",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2016-06-26",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Scotland",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2011-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edinburgh South",
+        "constituency_id": 4469,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Edinburgh South",
+        "constituency_id": 1047,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Ian Murray is the Labour MP for <a href='/constituency/4469/overview'>Edinburgh South</a>, and has been an MP continually since 6 May 2010. \r\nHe currently holds the Government post of Minister of State (Department for Digital, Culture, Media and Sport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3966/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 162,
+        "voting_participation_pct": 64.54
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 190,
+        "voting_participation_pct": 74.22
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 106,
+        "voting_participation_pct": 53.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 228,
+        "voting_participation_pct": 70.81
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 144,
+        "voting_participation_pct": 61.02
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 774,
+        "voting_participation_pct": 72.47
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 404,
+        "voting_participation_pct": 64.03
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1178,
+    "voting_participation_pct": 69.33
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

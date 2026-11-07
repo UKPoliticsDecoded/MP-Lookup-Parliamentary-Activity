@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 17348.8,
+    "bng": {
+      "easting": 251930,
+      "northing": 653115
+    },
+    "centroid": {
+      "latitude": 55.74868,
+      "longitude": -4.36058
+    },
+    "geojson": "constituencies/boundaries/east-renfrewshire.geojson",
+    "ons_code": "S14000021",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5076.json",
+    "member_id": 5076,
+    "name": "Blair McDougall",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74626,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8421,
+      "result": "Lab Gain",
+      "turnout": 50227,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 994,
+      "end_date": "2024-05-30",
+      "member_id": 4413,
+      "name": "Kirsten Oswald",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4442,
+  "is_current": true,
+  "name": "East Renfrewshire",
+  "name_cy": null,
+  "ons_code": "S14000021",
+  "outcodes": [
+    "G44",
+    "G46",
+    "G53",
+    "G76",
+    "G77",
+    "G78"
+  ],
+  "schema_version": 1,
+  "slug": "east-renfrewshire",
+  "start_date": "2024-05-31"
+}

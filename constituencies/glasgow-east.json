@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 2847.0,
+    "bng": {
+      "easting": 265815,
+      "northing": 663227
+    },
+    "centroid": {
+      "latitude": 55.84353,
+      "longitude": -4.14454
+    },
+    "geojson": "constituencies/boundaries/glasgow-east.geojson",
+    "ons_code": "S14000084",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5170.json",
+    "member_id": 5170,
+    "name": "John Grady",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68987,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3784,
+      "result": "Lab Gain",
+      "turnout": 35445,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1204,
+      "end_date": "2024-05-30",
+      "member_id": 4640,
+      "name": "David Linden",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4473,
+  "is_current": true,
+  "name": "Glasgow East",
+  "name_cy": null,
+  "ons_code": "S14000084",
+  "outcodes": [
+    "G1",
+    "G2",
+    "G31",
+    "G32",
+    "G4",
+    "G40",
+    "G41",
+    "G42",
+    "G5",
+    "G69",
+    "G71",
+    "G72",
+    "G73"
+  ],
+  "schema_version": 1,
+  "slug": "glasgow-east",
+  "start_date": "2024-05-31"
+}

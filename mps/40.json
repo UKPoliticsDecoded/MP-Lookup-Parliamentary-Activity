@@ -1,0 +1,580 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 5,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 79,
+        "debates_participated": 52,
+        "oral_questions": 1,
+        "written_questions": 4
+      },
+      "2021": {
+        "debate_contributions": 83,
+        "debates_participated": 46,
+        "oral_questions": 1,
+        "written_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 113,
+        "debates_participated": 41,
+        "written_questions": 4
+      },
+      "2023": {
+        "debate_contributions": 67,
+        "debates_participated": 30,
+        "oral_questions": 2,
+        "written_questions": 16
+      },
+      "2024": {
+        "debate_contributions": 90,
+        "debates_participated": 49,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 165,
+        "debates_participated": 82,
+        "oral_questions": 1,
+        "written_questions": 10
+      },
+      "2026": {
+        "debate_contributions": 134,
+        "debates_participated": 56,
+        "oral_questions": 1,
+        "written_questions": 16
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 736,
+    "debates_participated": 357,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 61
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 5,
+    "debate_contributions": 736,
+    "voting_participation_pct": 76.75,
+    "written_questions": 61
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": true,
+      "meetings_attended": 66,
+      "meetings_available": 66
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 88,
+      "meetings_available": 88
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-19"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-09-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-05-20"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2021-09-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-11"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/harwich-and-north-essex.json",
+    "id": 4088,
+    "name": "Harwich and North Essex",
+    "ons_code": "E14001273",
+    "slug": "harwich-and-north-essex"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "bernard.jenkin.mp@parliament.uk",
+      "phone": "020 7219 4029",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.bernardjenkin.com"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/bernardjenkin"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 40
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 40,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1992-04-09",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Bernard",
+    "display": "Sir Bernard Jenkin",
+    "full_title": "Sir Bernard Jenkin MP",
+    "list_as": "Jenkin, Sir Bernard"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2005-12-08",
+        "is_current": false,
+        "name": "Shadow Minister (Energy and Climate Change)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Shadow Secretary of State (The Regions)",
+        "start_date": "2003-10-01"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2003-10-01",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Defence",
+        "start_date": "2001-09-01"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2001-09-01",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "1998-06-19"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "1998-06-19",
+        "is_current": false,
+        "name": "Opposition Spokesperson (Environment, Transport and the Regions)",
+        "start_date": "1998-01-01"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "1998-07-01",
+        "is_current": false,
+        "name": "Opposition Spokesperson (Constitutional Affairs, Scotland and Wales)",
+        "start_date": "1997-07-01"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2006-11-07",
+        "is_current": false,
+        "name": "Deputy Chair, Conservative Party",
+        "start_date": "2005-12-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1202,
+        "name": "Glasgow Central",
+        "startDate": "1987-06-11T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "1992-04-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Harwich and North Essex",
+        "constituency_id": 4088,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Harwich and North Essex",
+        "constituency_id": 3520,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "North Essex",
+        "constituency_id": 2140,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "North Colchester",
+        "constituency_id": 2107,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "1992-04-09"
+      }
+    ]
+  },
+  "synopsis": "Sir Bernard Jenkin is the Conservative MP for <a href='/constituency/4088/overview'>Harwich and North Essex</a>, and has been an MP continually since 9 April 1992.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/40/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 174,
+        "voting_participation_pct": 91.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 170,
+        "voting_participation_pct": 67.73
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 223,
+        "voting_participation_pct": 87.11
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 146,
+        "voting_participation_pct": 73.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 217,
+        "voting_participation_pct": 67.39
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 162,
+        "voting_participation_pct": 68.64
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 880,
+        "voting_participation_pct": 82.4
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 424,
+        "voting_participation_pct": 67.19
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1304,
+    "voting_participation_pct": 76.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 16,
+        "oral_questions": 6,
+        "written_questions": 153
+      },
+      "2025": {
+        "debate_contributions": 48,
+        "debates_participated": 38,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 102
+      },
+      "2026": {
+        "debate_contributions": 36,
+        "debates_participated": 22,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 58
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 105,
+    "debates_participated": 76,
+    "early_day_motions": 4,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 313
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 105,
+    "voting_participation_pct": 67.67,
+    "written_questions": 313
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": true,
+      "meetings_attended": 88,
+      "meetings_available": 88
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "foreign-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/sheffield-central.json",
+    "id": 4282,
+    "name": "Sheffield Central",
+    "ons_code": "E14001467",
+    "slug": "sheffield-central"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "abtisam.mohamed.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5142
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5142,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Abtisam Mohamed",
+    "full_title": "Abtisam Mohamed MP",
+    "list_as": "Mohamed, Abtisam"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sheffield Central",
+        "constituency_id": 4282,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Abtisam Mohamed is the Labour MP for <a href='/constituency/4282/overview'>Sheffield Central</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5142/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 206,
+        "voting_participation_pct": 63.98
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 427,
+        "voting_participation_pct": 67.67
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 427,
+    "voting_participation_pct": 67.67
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

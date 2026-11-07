@@ -1,0 +1,272 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 5,
+        "debates_participated": 3,
+        "early_day_motions": 1,
+        "written_questions": 2
+      },
+      "2020": {
+        "bills_sponsored": 3,
+        "debate_contributions": 118,
+        "debates_participated": 65,
+        "early_day_motions": 20,
+        "oral_questions": 4,
+        "written_questions": 630
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 102,
+        "debates_participated": 67,
+        "early_day_motions": 13,
+        "oral_questions": 3,
+        "written_questions": 647
+      },
+      "2022": {
+        "bills_sponsored": 3,
+        "debate_contributions": 175,
+        "debates_participated": 105,
+        "early_day_motions": 9,
+        "oral_questions": 7,
+        "written_questions": 547
+      },
+      "2023": {
+        "debate_contributions": 198,
+        "debates_participated": 79,
+        "early_day_motions": 10,
+        "oral_questions": 4,
+        "petitions_presented": 1,
+        "written_questions": 497
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 70,
+        "debates_participated": 30,
+        "early_day_motions": 10,
+        "oral_questions": 2,
+        "written_questions": 203
+      }
+    },
+    "bills_sponsored": 9,
+    "debate_contributions": 668,
+    "debates_participated": 349,
+    "early_day_motions": 63,
+    "oral_questions": 20,
+    "petitions_presented": 1,
+    "written_questions": 2526
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.32,
+    "committee_memberships": 0,
+    "debate_contributions": 668,
+    "voting_participation_pct": 81.27,
+    "written_questions": 2526
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 99.25,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 133,
+      "meetings_available": 134
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-26"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-20"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3366,
+    "name": "Brighton, Pavilion"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3930
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 3930,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Caroline Lucas",
+    "display": "Caroline Lucas",
+    "full_title": "Caroline Lucas",
+    "list_as": "Lucas, Caroline"
+  },
+  "party": {
+    "abbreviation": "Green",
+    "id": 44,
+    "name": "Green Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2018-09-15",
+        "is_current": false,
+        "name": "Co-Leader of the Green Party",
+        "start_date": "2016-09-02"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2012-09-05",
+        "is_current": false,
+        "name": "Leader of the Green Party",
+        "start_date": "2008-09-05"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2272,
+        "name": "Oxford East",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Green Party",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brighton, Pavilion",
+        "constituency_id": 3366,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Caroline Lucas is no longer a Member, but was most recently the Green Party MP for <a href='/constituency/3366/overview'>Brighton, Pavilion</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3930/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 192,
+        "voting_participation_pct": 76.49
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 226,
+        "voting_participation_pct": 88.28
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 868,
+        "voting_participation_pct": 81.27
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 868,
+    "voting_participation_pct": 81.27
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

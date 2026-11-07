@@ -1,0 +1,249 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 3,
+        "oral_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 56,
+        "debates_participated": 46,
+        "oral_questions": 5,
+        "written_questions": 74
+      },
+      "2026": {
+        "debate_contributions": 37,
+        "debates_participated": 23,
+        "oral_questions": 1,
+        "written_questions": 66
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 102,
+    "debates_participated": 72,
+    "early_day_motions": 0,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 140
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 102,
+    "voting_participation_pct": 61.65,
+    "written_questions": 140
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ribble-valley.json",
+    "id": 4258,
+    "name": "Ribble Valley",
+    "ons_code": "E14001443",
+    "slug": "ribble-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "maya.ellis.mp@parliament.uk",
+      "phone": "01254 964055",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "maya.ellis.casework@parliament.uk",
+      "phone": "01254 964055",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5228
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5228,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Maya Ellis",
+    "full_title": "Maya Ellis MP",
+    "list_as": "Ellis, Maya"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ribble Valley",
+        "constituency_id": 4258,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Maya Ellis is the Labour MP for <a href='/constituency/4258/overview'>Ribble Valley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5228/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 195,
+        "voting_participation_pct": 60.56
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 129,
+        "voting_participation_pct": 54.66
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 389,
+        "voting_participation_pct": 61.65
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 389,
+    "voting_participation_pct": 61.65
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

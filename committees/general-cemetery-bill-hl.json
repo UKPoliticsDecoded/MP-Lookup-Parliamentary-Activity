@@ -1,0 +1,160 @@
+{
+  "activity": {
+    "current_members": 6,
+    "formal_meetings_held": 1,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 4460,
+      "name": "Ms Nusrat Ghani"
+    }
+  ],
+  "contact": {
+    "address": "Private Bill Office, House of Commons, London SW1A 0AA",
+    "email": "PrBOHOC@parliament.uk",
+    "phone": "020 7219 3250"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 811,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4048.json",
+      "member_id": 4048,
+      "name": "Caroline Nokes",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-13"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4460.json",
+      "member_id": 4460,
+      "name": "Ms Nusrat Ghani",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2025-09-16"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5110.json",
+      "member_id": 5110,
+      "name": "Euan Stainbank",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5165.json",
+      "member_id": 5165,
+      "name": "Peter Swallow",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5237.json",
+      "member_id": 5237,
+      "name": "Chris Vince",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5294.json",
+      "member_id": 5294,
+      "name": "Amanda Martin",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-16"
+        }
+      ]
+    }
+  ],
+  "membership_history": [],
+  "name": "General Cemetery Bill [HL]",
+  "parent_committee_id": null,
+  "purpose": "<p>The Committee on the General Cemetery Bill [HL] was set up to oversee the Bill’s petitioning period. The Committee provides individuals and bodies directly and specially affected by the Bill with the opportunity to object to the Bill’s specific provisions and to seek its amendment.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "general-cemetery-bill-hl",
+  "start_date": "2025-07-08",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Private Bill Standing Orders or Private/Hybrid Bill proceedings",
+    "(HL) Legislation Office"
+  ]
+}

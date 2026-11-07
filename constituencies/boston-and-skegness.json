@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 81791.5,
+    "bng": {
+      "easting": 539400,
+      "northing": 354144
+    },
+    "centroid": {
+      "latitude": 53.06638,
+      "longitude": 0.078987
+    },
+    "geojson": "constituencies/boundaries/boston-and-skegness.geojson",
+    "ons_code": "E14001114",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5161.json",
+    "member_id": 5161,
+    "name": "Richard Tice",
+    "party": "Reform UK",
+    "party_abbreviation": "RUK",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75811,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2010,
+      "result": "RUK Gain",
+      "turnout": 40455,
+      "winning_party": "Reform UK",
+      "winning_party_id": 1036
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3348,
+      "end_date": "2024-05-30",
+      "member_id": 4361,
+      "name": "Matt Warman",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3929,
+  "is_current": true,
+  "name": "Boston and Skegness",
+  "name_cy": null,
+  "ons_code": "E14001114",
+  "outcodes": [
+    "LN13",
+    "LN4",
+    "PE12",
+    "PE20",
+    "PE21",
+    "PE22",
+    "PE23",
+    "PE24",
+    "PE25"
+  ],
+  "schema_version": 1,
+  "slug": "boston-and-skegness",
+  "start_date": "2024-05-31"
+}

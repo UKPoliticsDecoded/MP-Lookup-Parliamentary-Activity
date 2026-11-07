@@ -1,0 +1,208 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 2,
+        "oral_questions": 1,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 28,
+        "debates_participated": 24,
+        "oral_questions": 1,
+        "written_questions": 59
+      },
+      "2026": {
+        "debate_contributions": 38,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 26
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 69,
+    "debates_participated": 41,
+    "early_day_motions": 0,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 93
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 69,
+    "voting_participation_pct": 63.39,
+    "written_questions": 93
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Courts Bill",
+      "committee_id": 801,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Victims and Courts Bill",
+        "committee_id": 801,
+        "file": "committees/victims-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-17"
+          }
+        ],
+        "slug": "victims-and-courts-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bolsover.json",
+    "id": 3924,
+    "name": "Bolsover",
+    "ons_code": "E14001109",
+    "slug": "bolsover"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "natalie.fleet.mp@parliament.uk",
+      "phone": "0207 219 5665",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.nataliefleetbolsover.com/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5053
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5053,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Natalie Fleet",
+    "full_title": "Natalie Fleet MP",
+    "list_as": "Fleet, Natalie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2026-05-12"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bolsover",
+        "constituency_id": 3924,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Natalie Fleet is the Labour MP for <a href='/constituency/3924/overview'>Bolsover</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5053/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 211,
+        "voting_participation_pct": 65.53
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 123,
+        "voting_participation_pct": 52.12
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 400,
+        "voting_participation_pct": 63.39
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 400,
+    "voting_participation_pct": 63.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

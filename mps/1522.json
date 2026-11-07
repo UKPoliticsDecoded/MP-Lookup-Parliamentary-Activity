@@ -1,0 +1,269 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 25,
+        "debates_participated": 9,
+        "oral_questions": 1,
+        "written_questions": 45
+      },
+      "2021": {
+        "debate_contributions": 26,
+        "debates_participated": 19,
+        "oral_questions": 1,
+        "written_questions": 22
+      },
+      "2022": {
+        "debate_contributions": 16,
+        "debates_participated": 4,
+        "oral_questions": 2,
+        "written_questions": 15
+      },
+      "2023": {
+        "debate_contributions": 13,
+        "debates_participated": 7,
+        "oral_questions": 1,
+        "written_questions": 20
+      },
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 8,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 92,
+    "debates_participated": 47,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 113
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 92,
+    "voting_participation_pct": 72.28,
+    "written_questions": 113
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 134,
+      "meetings_available": 134
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 726,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-04"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 726,
+        "file": "committees/space-industry-indemnities-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3501,
+    "name": "Gravesham"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1522
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1522,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Adam Holloway",
+    "display": "Adam Holloway",
+    "full_title": "Adam Holloway",
+    "list_as": "Holloway, Adam"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2022-09-20"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-09-20",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-07-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4069,
+        "name": "Gravesham",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Gravesham",
+        "constituency_id": 3501,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Gravesham",
+        "constituency_id": 1303,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Adam Holloway is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3501/overview'>Gravesham</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1522/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 174,
+        "voting_participation_pct": 91.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 190,
+        "voting_participation_pct": 78.51
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 166,
+        "voting_participation_pct": 66.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 171,
+        "voting_participation_pct": 66.8
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 69,
+        "voting_participation_pct": 54.33
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 772,
+        "voting_participation_pct": 72.28
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 772,
+    "voting_participation_pct": 72.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

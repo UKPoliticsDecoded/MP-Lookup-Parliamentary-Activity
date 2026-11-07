@@ -1,0 +1,364 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 87,
+        "debates_participated": 59,
+        "oral_questions": 13,
+        "written_questions": 39
+      },
+      "2021": {
+        "debate_contributions": 82,
+        "debates_participated": 51,
+        "oral_questions": 10,
+        "written_questions": 9
+      },
+      "2022": {
+        "debate_contributions": 72,
+        "debates_participated": 35,
+        "oral_questions": 9,
+        "written_questions": 22
+      },
+      "2023": {
+        "debate_contributions": 28,
+        "debates_participated": 18,
+        "oral_questions": 2,
+        "written_questions": 53
+      },
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 11,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 290,
+    "debates_participated": 174,
+    "early_day_motions": 0,
+    "oral_questions": 34,
+    "petitions_presented": 0,
+    "written_questions": 127
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 290,
+    "voting_participation_pct": 88.3,
+    "written_questions": 127
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Equipment Theft (Prevention) Bill",
+      "committee_id": 642,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 118,
+      "meetings_available": 118
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Investigatory Powers (Amendment) Bill [HL]",
+      "committee_id": 709,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Security Bill",
+      "committee_id": 607,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Supported Housing (Regulatory Oversight) Bill",
+      "committee_id": 637,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Equipment Theft (Prevention) Bill",
+        "committee_id": 642,
+        "file": "committees/equipment-theft-prevention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "equipment-theft-prevention-bill"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Investigatory Powers (Amendment) Bill [HL]",
+        "committee_id": 709,
+        "file": "committees/investigatory-powers-amendment-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "investigatory-powers-amendment-bill-hl"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      },
+      {
+        "committee": "National Security Bill",
+        "committee_id": 607,
+        "file": "committees/national-security-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-29"
+          }
+        ],
+        "slug": "national-security-bill"
+      },
+      {
+        "committee": "Supported Housing (Regulatory Oversight) Bill",
+        "committee_id": 637,
+        "file": "committees/supported-housing-regulatory-oversight-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-14"
+          }
+        ],
+        "slug": "supported-housing-regulatory-oversight-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3612,
+    "name": "Milton Keynes North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4836
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4836,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ben Everitt",
+    "full_title": "Ben Everitt",
+    "list_as": "Everitt, Ben"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4185,
+        "name": "Milton Keynes North",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Milton Keynes North",
+        "constituency_id": 3612,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Ben Everitt is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3612/overview'>Milton Keynes North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4836/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 186,
+        "voting_participation_pct": 97.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 220,
+        "voting_participation_pct": 87.65
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 212,
+        "voting_participation_pct": 82.81
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 108,
+        "voting_participation_pct": 85.04
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 943,
+        "voting_participation_pct": 88.3
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 943,
+    "voting_participation_pct": 88.3
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

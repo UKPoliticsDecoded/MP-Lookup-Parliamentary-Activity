@@ -1,0 +1,192 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 11
+      },
+      "2025": {
+        "debate_contributions": 233,
+        "debates_participated": 44
+      },
+      "2026": {
+        "debate_contributions": 195,
+        "debates_participated": 44
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 465,
+    "debates_participated": 99,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 465,
+    "voting_participation_pct": 59.11,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-13"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/queen-s-park-and-maida-vale.json",
+    "id": 4250,
+    "name": "Queen's Park and Maida Vale",
+    "ons_code": "E14001435",
+    "slug": "queen-s-park-and-maida-vale"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "georgia.gould.mp@parliament.uk",
+      "phone": "020 8968 7999",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/georgia__gould/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/georgia_gould"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5305
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5305,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Georgia Gould",
+    "full_title": "Georgia Gould MP",
+    "list_as": "Gould, Georgia"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Education)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Education)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Queen's Park and Maida Vale",
+        "constituency_id": 4250,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Georgia Gould is the Labour MP for <a href='/constituency/4250/overview'>Queen's Park and Maida Vale</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Minister of State (Education).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5305/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 58,
+        "voting_participation_pct": 79.45
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 202,
+        "voting_participation_pct": 62.73
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 113,
+        "voting_participation_pct": 47.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 373,
+        "voting_participation_pct": 59.11
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 373,
+    "voting_participation_pct": 59.11
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 2177.5,
+    "bng": {
+      "easting": 361940,
+      "northing": 170971
+    },
+    "centroid": {
+      "latitude": 51.43644,
+      "longitude": -2.54893
+    },
+    "geojson": "constituencies/boundaries/bristol-east.geojson",
+    "ons_code": "E14001132",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1491.json",
+    "member_id": 1491,
+    "name": "Kerry McCarthy",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75917,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6606,
+      "result": "Lab Hold",
+      "turnout": 46109,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3367,
+      "end_date": "2024-05-30",
+      "member_id": 1491,
+      "name": "Kerry McCarthy",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 464,
+      "end_date": "2010-05-06",
+      "member_id": 1491,
+      "name": "Kerry McCarthy",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 3947,
+  "is_current": true,
+  "name": "Bristol East",
+  "name_cy": null,
+  "ons_code": "E14001132",
+  "outcodes": [
+    "BS1",
+    "BS14",
+    "BS15",
+    "BS2",
+    "BS3",
+    "BS31",
+    "BS4",
+    "BS5",
+    "BS99"
+  ],
+  "schema_version": 1,
+  "slug": "bristol-east",
+  "start_date": "2024-05-31"
+}

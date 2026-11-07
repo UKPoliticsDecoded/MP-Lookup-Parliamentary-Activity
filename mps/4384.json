@@ -1,0 +1,585 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 117,
+        "debates_participated": 79,
+        "oral_questions": 6,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 68,
+        "debates_participated": 55,
+        "oral_questions": 4,
+        "written_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 59,
+        "debates_participated": 44,
+        "oral_questions": 5,
+        "written_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 1,
+        "debates_participated": 1,
+        "petitions_presented": 1
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 33,
+        "debates_participated": 25,
+        "written_questions": 30
+      },
+      "2025": {
+        "debate_contributions": 257,
+        "debates_participated": 84,
+        "oral_questions": 6,
+        "written_questions": 1185
+      },
+      "2026": {
+        "bills_sponsored": 3,
+        "debate_contributions": 148,
+        "debates_participated": 66,
+        "oral_questions": 2,
+        "written_questions": 3105
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 684,
+    "debates_participated": 355,
+    "early_day_motions": 0,
+    "oral_questions": 23,
+    "petitions_presented": 1,
+    "written_questions": 4327
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 684,
+    "voting_participation_pct": 88.11,
+    "written_questions": 4327
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 34,
+      "meetings_available": 34
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 809,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+      "committee_id": 705,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Courts Bill",
+      "committee_id": 801,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-09-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-18"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-14"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 809,
+        "file": "committees/secure-16-to-19-academies-bill-809.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill-809"
+      },
+      {
+        "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+        "committee_id": 705,
+        "file": "committees/trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl"
+      },
+      {
+        "committee": "Victims and Courts Bill",
+        "committee_id": 801,
+        "file": "committees/victims-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-17"
+          }
+        ],
+        "slug": "victims-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/kingswinford-and-south-staffordshire.json",
+    "id": 4131,
+    "name": "Kingswinford and South Staffordshire",
+    "ons_code": "E14001316",
+    "slug": "kingswinford-and-south-staffordshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mike.wood.mp@parliament.uk",
+      "phone": "020 7219 6982",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Office of Mike Wood MP, The Cottage, High Street, Wombourne",
+      "phone": "01384 913123",
+      "postcode": "WV5 9DN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.mikewood.mp/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/mike4dudleysouth"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/mikejwood"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4384
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4384,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mike Wood",
+    "display": "Mike Wood",
+    "full_title": "Mike Wood MP",
+    "list_as": "Wood, Mike"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2023-11-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-11-14",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-10-28"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2024-11-06"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Business and Trade)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Kingswinford and South Staffordshire",
+        "constituency_id": 4131,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Dudley South",
+        "constituency_id": 3452,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Mike Wood is the Conservative MP for <a href='/constituency/4131/overview'>Kingswinford and South Staffordshire</a>, and has been an MP continually since 7 May 2015. \r\nHe currently undertakes the role of Shadow Minister (Cabinet Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4384/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 185,
+        "voting_participation_pct": 97.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 226,
+        "voting_participation_pct": 93.39
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 222,
+        "voting_participation_pct": 88.45
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 244,
+        "voting_participation_pct": 95.31
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 178,
+        "voting_participation_pct": 89.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 245,
+        "voting_participation_pct": 76.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 195,
+        "voting_participation_pct": 82.63
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 1000,
+        "voting_participation_pct": 93.63
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 497,
+        "voting_participation_pct": 78.76
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1497,
+    "voting_participation_pct": 88.11
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

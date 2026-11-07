@@ -1,0 +1,447 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 7
+      },
+      "2020": {
+        "debate_contributions": 117,
+        "debates_participated": 79,
+        "oral_questions": 13,
+        "written_questions": 339
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 294,
+        "debates_participated": 78,
+        "early_day_motions": 4,
+        "oral_questions": 11,
+        "written_questions": 286
+      },
+      "2022": {
+        "debate_contributions": 192,
+        "debates_participated": 70,
+        "early_day_motions": 2,
+        "oral_questions": 6,
+        "written_questions": 228
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 97,
+        "debates_participated": 59,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 222
+      },
+      "2024": {
+        "bills_sponsored": 3,
+        "debate_contributions": 126,
+        "debates_participated": 56,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 82
+      },
+      "2025": {
+        "debate_contributions": 335,
+        "debates_participated": 53
+      },
+      "2026": {
+        "debate_contributions": 244,
+        "debates_participated": 43
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 1405,
+    "debates_participated": 438,
+    "early_day_motions": 10,
+    "oral_questions": 37,
+    "petitions_presented": 0,
+    "written_questions": 1164
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1405,
+    "voting_participation_pct": 68.1,
+    "written_questions": 1164
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill",
+      "committee_id": 613,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Disqualification) Bill",
+      "committee_id": 556,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Skills and Post-16 Education [HL] Bill",
+      "committee_id": 557,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 169,
+      "meetings_available": 169
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Financial Services and Markets Bill",
+        "committee_id": 613,
+        "file": "committees/financial-services-and-markets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "Local Government (Disqualification) Bill",
+        "committee_id": 556,
+        "file": "committees/local-government-disqualification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "local-government-disqualification-bill"
+      },
+      {
+        "committee": "Skills and Post-16 Education [HL] Bill",
+        "committee_id": 557,
+        "file": "committees/skills-and-post-16-education-hl-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-29"
+          }
+        ],
+        "slug": "skills-and-post-16-education-hl-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-04-20"
+          }
+        ],
+        "slug": "treasury"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-20"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/kingston-upon-hull-west-and-haltemprice.json",
+    "id": 4130,
+    "name": "Kingston upon Hull West and Haltemprice",
+    "ons_code": "E14001315",
+    "slug": "kingston-upon-hull-west-and-haltemprice"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "emma.hardy.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01482 219211",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4645
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4645,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Emma Hardy",
+    "display": "Emma Hardy",
+    "full_title": "Emma Hardy MP",
+    "list_as": "Hardy, Emma"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department for Environment, Food and Rural Affairs)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Flooding, Oceans and Coastal Communities)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2021-03-08",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Kingston upon Hull West and Haltemprice",
+        "constituency_id": 4130,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Kingston upon Hull West and Hessle",
+        "constituency_id": 3560,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Emma Hardy is the Labour MP for <a href='/constituency/4130/overview'>Kingston upon Hull West and Haltemprice</a>, and has been an MP continually since 8 June 2017. \r\nShe currently holds the Government post of Minister of State (Department for Environment, Food and Rural Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4645/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 195,
+        "voting_participation_pct": 80.58
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 171,
+        "voting_participation_pct": 68.13
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 182,
+        "voting_participation_pct": 71.09
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 130,
+        "voting_participation_pct": 65.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 222,
+        "voting_participation_pct": 68.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 115,
+        "voting_participation_pct": 48.73
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 766,
+        "voting_participation_pct": 71.72
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 391,
+        "voting_participation_pct": 61.97
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1157,
+    "voting_participation_pct": 68.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

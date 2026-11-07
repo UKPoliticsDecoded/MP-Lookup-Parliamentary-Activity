@@ -1,0 +1,209 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 18,
+        "debates_participated": 15,
+        "oral_questions": 2,
+        "written_questions": 31
+      },
+      "2025": {
+        "debate_contributions": 86,
+        "debates_participated": 61,
+        "oral_questions": 18,
+        "written_questions": 87
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 71,
+        "debates_participated": 54,
+        "oral_questions": 10,
+        "written_questions": 30
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 175,
+    "debates_participated": 130,
+    "early_day_motions": 0,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 148
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 175,
+    "voting_participation_pct": 78.45,
+    "written_questions": 148
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": true,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "foreign-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/bournemouth-west.json",
+    "id": 3931,
+    "name": "Bournemouth West",
+    "ons_code": "E14001116",
+    "slug": "bournemouth-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jessica.toale.mp@parliament.uk",
+      "phone": "0207 219 2928",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "07300 218002",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JessicaToaleLabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JessicaToale"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5202
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5202,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jessica Toale",
+    "full_title": "Jessica Toale MP",
+    "list_as": "Toale, Jessica"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bournemouth West",
+        "constituency_id": 3931,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jessica Toale is the Labour MP for <a href='/constituency/3931/overview'>Bournemouth West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5202/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 168,
+        "voting_participation_pct": 71.19
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 495,
+        "voting_participation_pct": 78.45
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 495,
+    "voting_participation_pct": 78.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

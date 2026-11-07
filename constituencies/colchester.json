@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 4227.2,
+    "bng": {
+      "easting": 599674,
+      "northing": 224891
+    },
+    "centroid": {
+      "latitude": 51.88681,
+      "longitude": 0.900077
+    },
+    "geojson": "constituencies/boundaries/colchester.geojson",
+    "ons_code": "E14001176",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5042.json",
+    "member_id": 5042,
+    "name": "Pam Cox",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78662,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8250,
+      "result": "Lab Gain",
+      "turnout": 44903,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3422,
+      "end_date": "2024-05-30",
+      "member_id": 4423,
+      "name": "Will Quince",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3991,
+  "is_current": true,
+  "name": "Colchester",
+  "name_cy": null,
+  "ons_code": "E14001176",
+  "outcodes": [
+    "CO1",
+    "CO2",
+    "CO3",
+    "CO4",
+    "CO6",
+    "CO7"
+  ],
+  "schema_version": 1,
+  "slug": "colchester",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 7417.0,
+    "bng": {
+      "easting": 446977,
+      "northing": 422144
+    },
+    "centroid": {
+      "latitude": 53.69365,
+      "longitude": -1.29004
+    },
+    "geojson": "constituencies/boundaries/pontefract-castleford-and-knottingley.geojson",
+    "ons_code": "E14001428",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/420.json",
+    "member_id": 420,
+    "name": "Yvette Cooper",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74618,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6630,
+      "result": "Lab Hold",
+      "turnout": 35957,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4243,
+  "is_current": true,
+  "name": "Pontefract, Castleford and Knottingley",
+  "name_cy": null,
+  "ons_code": "E14001428",
+  "outcodes": [
+    "WF10",
+    "WF11",
+    "WF6",
+    "WF7",
+    "WF8"
+  ],
+  "schema_version": 1,
+  "slug": "pontefract-castleford-and-knottingley",
+  "start_date": "2024-05-31"
+}

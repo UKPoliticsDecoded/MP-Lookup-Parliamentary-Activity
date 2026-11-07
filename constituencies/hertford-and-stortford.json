@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 12151.3,
+    "bng": {
+      "easting": 544102,
+      "northing": 217300
+    },
+    "centroid": {
+      "latitude": 51.83573,
+      "longitude": 0.090088
+    },
+    "geojson": "constituencies/boundaries/hertford-and-stortford.geojson",
+    "ons_code": "E14001283",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5187.json",
+    "member_id": 5187,
+    "name": "Josh Dean",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78915,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4748,
+      "result": "Lab Gain",
+      "turnout": 54009,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3530,
+      "end_date": "2024-05-30",
+      "member_id": 4768,
+      "name": "Julie Marson",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4098,
+  "is_current": true,
+  "name": "Hertford and Stortford",
+  "name_cy": null,
+  "ons_code": "E14001283",
+  "outcodes": [
+    "CM20",
+    "CM21",
+    "CM22",
+    "CM23",
+    "SG10",
+    "SG11",
+    "SG12",
+    "SG13",
+    "SG14",
+    "SG9"
+  ],
+  "schema_version": 1,
+  "slug": "hertford-and-stortford",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 2626.4,
+    "bng": {
+      "easting": 332817,
+      "northing": 435015
+    },
+    "centroid": {
+      "latitude": 53.80708,
+      "longitude": -3.02167
+    },
+    "geojson": "constituencies/boundaries/blackpool-south.geojson",
+    "ons_code": "E14001105",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5025.json",
+    "member_id": 5025,
+    "name": "Chris Webb",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77460,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6848,
+      "result": "Lab Gain",
+      "turnout": 35180,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3338,
+      "end_date": "2024-05-30",
+      "member_id": 5025,
+      "name": "Chris Webb",
+      "start_date": "2024-05-02"
+    },
+    {
+      "constituency_version_id": 3338,
+      "end_date": "2024-03-25",
+      "member_id": 4793,
+      "name": "Scott Benton",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3920,
+  "is_current": true,
+  "name": "Blackpool South",
+  "name_cy": null,
+  "ons_code": "E14001105",
+  "outcodes": [
+    "FY1",
+    "FY2",
+    "FY3",
+    "FY4"
+  ],
+  "schema_version": 1,
+  "slug": "blackpool-south",
+  "start_date": "2024-05-31"
+}

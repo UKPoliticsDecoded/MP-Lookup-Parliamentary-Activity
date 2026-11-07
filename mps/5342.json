@@ -1,0 +1,195 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 4,
+        "debates_participated": 4,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 49,
+        "debates_participated": 34,
+        "oral_questions": 6,
+        "written_questions": 74
+      },
+      "2026": {
+        "debate_contributions": 45,
+        "debates_participated": 35,
+        "early_day_motions": 1,
+        "oral_questions": 15,
+        "written_questions": 31
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 98,
+    "debates_participated": 73,
+    "early_day_motions": 1,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 108
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 98,
+    "voting_participation_pct": 86.37,
+    "written_questions": 108
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-06"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/derbyshire-dales.json",
+    "id": 4010,
+    "name": "Derbyshire Dales",
+    "ons_code": "E14001195",
+    "slug": "derbyshire-dales"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.whitby.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5342
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5342,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "John Whitby",
+    "full_title": "John Whitby MP",
+    "list_as": "Whitby, John"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Derbyshire Dales",
+        "constituency_id": 4010,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "John Whitby is the Labour MP for <a href='/constituency/4010/overview'>Derbyshire Dales</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5342/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 276,
+        "voting_participation_pct": 85.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 198,
+        "voting_participation_pct": 83.9
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 545,
+        "voting_participation_pct": 86.37
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 545,
+    "voting_participation_pct": 86.37
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

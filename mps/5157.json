@@ -1,0 +1,270 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 6,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 28
+      },
+      "2025": {
+        "debate_contributions": 83,
+        "debates_participated": 54,
+        "early_day_motions": 6,
+        "oral_questions": 12,
+        "written_questions": 79
+      },
+      "2026": {
+        "debate_contributions": 74,
+        "debates_participated": 49,
+        "early_day_motions": 9,
+        "oral_questions": 6,
+        "written_questions": 85
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 166,
+    "debates_participated": 109,
+    "early_day_motions": 17,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 192
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 166,
+    "voting_participation_pct": 61.65,
+    "written_questions": 192
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Royal Albert Hall Bill [HL]",
+      "committee_id": 764,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Royal Albert Hall Bill [HL]",
+        "committee_id": 764,
+        "file": "committees/royal-albert-hall-bill-hl-764.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-17"
+          }
+        ],
+        "slug": "royal-albert-hall-bill-hl-764"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-06"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/mid-dunbartonshire.json",
+    "id": 4486,
+    "name": "Mid Dunbartonshire",
+    "ons_code": "S14000097",
+    "slug": "mid-dunbartonshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "susan.murray.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0141 237 1221",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5157
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5157,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Susan Murray",
+    "full_title": "Susan Murray MP",
+    "list_as": "Murray, Susan"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Scotland)",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 804,
+        "name": "Cumbernauld, Kilsyth and Kirkintilloch East",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Dunbartonshire",
+        "constituency_id": 4486,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Susan Murray is the Liberal Democrat MP for <a href='/constituency/4486/overview'>Mid Dunbartonshire</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Scotland).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5157/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 33,
+        "voting_participation_pct": 45.21
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 227,
+        "voting_participation_pct": 70.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 129,
+        "voting_participation_pct": 54.66
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 389,
+        "voting_participation_pct": 61.65
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 389,
+    "voting_participation_pct": 61.65
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

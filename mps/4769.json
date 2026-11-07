@@ -1,0 +1,353 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 82,
+        "debates_participated": 59,
+        "early_day_motions": 8,
+        "oral_questions": 4,
+        "written_questions": 359
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 133,
+        "debates_participated": 62,
+        "early_day_motions": 9,
+        "oral_questions": 4,
+        "written_questions": 515
+      },
+      "2022": {
+        "bills_sponsored": 4,
+        "debate_contributions": 95,
+        "debates_participated": 63,
+        "early_day_motions": 7,
+        "oral_questions": 3,
+        "written_questions": 610
+      },
+      "2023": {
+        "bills_sponsored": 3,
+        "debate_contributions": 64,
+        "debates_participated": 50,
+        "early_day_motions": 16,
+        "oral_questions": 4,
+        "written_questions": 410
+      },
+      "2024": {
+        "debate_contributions": 86,
+        "debates_participated": 51,
+        "early_day_motions": 5,
+        "oral_questions": 4,
+        "written_questions": 300
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 170,
+        "debates_participated": 80,
+        "early_day_motions": 8,
+        "oral_questions": 1,
+        "written_questions": 291
+      },
+      "2026": {
+        "bills_sponsored": 6,
+        "debate_contributions": 99,
+        "debates_participated": 49,
+        "early_day_motions": 5,
+        "oral_questions": 3,
+        "written_questions": 208
+      }
+    },
+    "bills_sponsored": 18,
+    "debate_contributions": 729,
+    "debates_participated": 414,
+    "early_day_motions": 58,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 2693
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 729,
+    "voting_participation_pct": 72.22,
+    "written_questions": 2693
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety Bill",
+      "committee_id": 535,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 704,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Building Safety Bill",
+        "committee_id": 535,
+        "file": "committees/building-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "building-safety-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 704,
+        "file": "committees/licensing-hours-extensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/st-albans.json",
+    "id": 4322,
+    "name": "St Albans",
+    "ons_code": "E14001507",
+    "slug": "st-albans"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "daisy.cooper.mp@parliament.uk",
+      "phone": "020 7219 8568",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01727 519900",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4769
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4769,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Daisy Cooper",
+    "full_title": "Daisy Cooper MP",
+    "list_as": "Cooper, Daisy"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Treasury)",
+        "start_date": "2024-09-18"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Health and Social Care)",
+        "start_date": "2021-10-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-10-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Education)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Digital, Culture, Media and Sport)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2020-01-06"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Deputy Leader, Liberal Democrats",
+        "start_date": "2020-09-13"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3765,
+        "name": "St Albans",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3607,
+        "name": "Mid Sussex",
+        "startDate": "2015-05-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3787,
+        "name": "Suffolk Coastal",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "St Albans",
+        "constituency_id": 4322,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "St Albans",
+        "constituency_id": 3765,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Daisy Cooper is the Liberal Democrat MP for <a href='/constituency/4322/overview'>St Albans</a>, and has been an MP continually since 12 December 2019. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Treasury). \r\nIn addition, she is Deputy Leader, Liberal Democrats.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4769/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 156,
+        "voting_participation_pct": 82.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 180,
+        "voting_participation_pct": 71.71
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 154,
+        "voting_participation_pct": 60.16
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 118,
+        "voting_participation_pct": 59.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 233,
+        "voting_participation_pct": 72.36
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 777,
+        "voting_participation_pct": 72.75
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 450,
+        "voting_participation_pct": 71.32
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1227,
+    "voting_participation_pct": 72.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

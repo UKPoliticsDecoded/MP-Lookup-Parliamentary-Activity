@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 14638.7,
+    "bng": {
+      "easting": 578207,
+      "northing": 175198
+    },
+    "centroid": {
+      "latitude": 51.44772,
+      "longitude": 0.563174
+    },
+    "geojson": "constituencies/boundaries/rochester-and-strood.geojson",
+    "ons_code": "E14001447",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5298.json",
+    "member_id": 5298,
+    "name": "Lauren Edwards",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74257,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2930,
+      "result": "Lab Gain",
+      "turnout": 42598,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3701,
+      "end_date": "2024-05-30",
+      "member_id": 4487,
+      "name": "Kelly Tolhurst",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4262,
+  "is_current": true,
+  "name": "Rochester and Strood",
+  "name_cy": null,
+  "ons_code": "E14001447",
+  "outcodes": [
+    "ME1",
+    "ME2",
+    "ME3",
+    "ME4",
+    "ME5",
+    "ME7"
+  ],
+  "schema_version": 1,
+  "slug": "rochester-and-strood",
+  "start_date": "2024-05-31"
+}

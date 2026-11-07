@@ -1,0 +1,339 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 3
+      },
+      "2020": {
+        "debate_contributions": 52,
+        "debates_participated": 16,
+        "written_questions": 62
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 50,
+        "debates_participated": 25,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 80
+      },
+      "2022": {
+        "debate_contributions": 90,
+        "debates_participated": 55,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 28
+      },
+      "2023": {
+        "debate_contributions": 119,
+        "debates_participated": 58,
+        "early_day_motions": 3,
+        "oral_questions": 6,
+        "written_questions": 19
+      },
+      "2024": {
+        "debate_contributions": 54,
+        "debates_participated": 38,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 116
+      },
+      "2025": {
+        "debate_contributions": 129,
+        "debates_participated": 74,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 197
+      },
+      "2026": {
+        "debate_contributions": 91,
+        "debates_participated": 56,
+        "early_day_motions": 7,
+        "oral_questions": 6,
+        "written_questions": 112
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 585,
+    "debates_participated": 322,
+    "early_day_motions": 17,
+    "oral_questions": 33,
+    "petitions_presented": 0,
+    "written_questions": 617
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 585,
+    "voting_participation_pct": 75.99,
+    "written_questions": 617
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 73,
+      "meetings_available": 73
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+      "committee_id": 662,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-28"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+        "committee_id": 662,
+        "file": "committees/lifelong-learning-higher-education-fee-limits-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-15"
+          }
+        ],
+        "slug": "lifelong-learning-higher-education-fee-limits-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/middlesbrough-and-thornaby-east.json",
+    "id": 4182,
+    "name": "Middlesbrough and Thornaby East",
+    "ons_code": "E14001367",
+    "slug": "middlesbrough-and-thornaby-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andy.mcdonald.2nd@parliament.uk",
+      "phone": "020 7219 4995",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "1st Floor Offices, Unite House, Fry Street",
+      "phone": "01642 246574",
+      "postcode": "TS1 1HA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.andymcdonaldmp.org"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/AndyMcDonaldMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4269
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4269,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2012-11-29",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Andy McDonald",
+    "display": "Andy McDonald",
+    "full_title": "Andy McDonald MP",
+    "list_as": "McDonald, Andy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2021-09-27",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Employment Rights",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2016-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-03-11"
+      },
+      {
+        "end_date": "2024-03-11",
+        "party": "Independent",
+        "start_date": "2023-10-30"
+      },
+      {
+        "end_date": "2023-10-30",
+        "party": "Labour",
+        "start_date": "2012-11-29"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Middlesbrough and Thornaby East",
+        "constituency_id": 4182,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Middlesbrough",
+        "constituency_id": 3610,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2012-11-29"
+      }
+    ]
+  },
+  "synopsis": "Andy McDonald is the Labour MP for <a href='/constituency/4182/overview'>Middlesbrough and Thornaby East</a>, and has been an MP continually since 29 November 2012.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4269/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 140,
+        "voting_participation_pct": 55.78
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 191,
+        "voting_participation_pct": 74.61
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 272,
+        "voting_participation_pct": 84.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 207,
+        "voting_participation_pct": 87.71
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 752,
+        "voting_participation_pct": 70.41
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 539,
+        "voting_participation_pct": 85.42
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1291,
+    "voting_participation_pct": 75.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

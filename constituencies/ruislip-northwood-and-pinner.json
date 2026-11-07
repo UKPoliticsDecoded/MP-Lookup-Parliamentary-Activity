@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 4047.9,
+    "bng": {
+      "easting": 508528,
+      "northing": 189995
+    },
+    "centroid": {
+      "latitude": 51.59835,
+      "longitude": -0.43448
+    },
+    "geojson": "constituencies/boundaries/ruislip-northwood-and-pinner.geojson",
+    "ons_code": "E14001454",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4872.json",
+    "member_id": 4872,
+    "name": "David Simmonds",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71683,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7581,
+      "result": "Con Hold",
+      "turnout": 47091,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3709,
+      "end_date": "2024-05-30",
+      "member_id": 4872,
+      "name": "David Simmonds",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4269,
+  "is_current": true,
+  "name": "Ruislip, Northwood and Pinner",
+  "name_cy": null,
+  "ons_code": "E14001454",
+  "outcodes": [
+    "HA2",
+    "HA3",
+    "HA4",
+    "HA5",
+    "HA6",
+    "UB9",
+    "WD3"
+  ],
+  "schema_version": 1,
+  "slug": "ruislip-northwood-and-pinner",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,295 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 179,
+        "debates_participated": 69,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 129
+      },
+      "2021": {
+        "debate_contributions": 78,
+        "debates_participated": 32,
+        "oral_questions": 6,
+        "written_questions": 113
+      },
+      "2022": {
+        "debate_contributions": 103,
+        "debates_participated": 28,
+        "written_questions": 272
+      },
+      "2023": {
+        "debate_contributions": 76,
+        "debates_participated": 25,
+        "written_questions": 286
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 303,
+        "debates_participated": 30,
+        "written_questions": 61
+      },
+      "2025": {
+        "debate_contributions": 589,
+        "debates_participated": 55
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 227,
+        "debates_participated": 33,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 1555,
+    "debates_participated": 272,
+    "early_day_motions": 1,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 861
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1555,
+    "voting_participation_pct": 51.44,
+    "written_questions": 861
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ilford-north.json",
+    "id": 4115,
+    "name": "Ilford North",
+    "ons_code": "E14001300",
+    "slug": "ilford-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "wes.streeting.mp@parliament.uk",
+      "phone": "020 7219 6132",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0203 475 7901",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.wesstreeting.org/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/wesstreeting"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4504
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4504,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Wes Streeting",
+    "display": "Wes Streeting",
+    "full_title": "Rt Hon Wes Streeting MP",
+    "list_as": "Streeting, Wes"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": null,
+        "is_current": true,
+        "name": "Secretary of State for Defence",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-05-14",
+        "is_current": false,
+        "name": "Secretary of State for Health and Social Care",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "Secretary of State for Defence"
+    ],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health and Social Care",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Child Poverty",
+        "start_date": "2021-05-09"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2021-05-09",
+        "is_current": false,
+        "name": "Shadow Minister (Education) (Schools)",
+        "start_date": "2020-10-16"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2020-10-16",
+        "is_current": false,
+        "name": "Shadow Exchequer Secretary (Treasury)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ilford North",
+        "constituency_id": 4115,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Ilford North",
+        "constituency_id": 3545,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Wes Streeting is the Labour MP for <a href='/constituency/4115/overview'>Ilford North</a>, and has been an MP continually since 7 May 2015. \r\nHe currently holds the Government post of Secretary of State for Defence.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4504/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 131,
+        "voting_participation_pct": 68.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 145,
+        "voting_participation_pct": 57.77
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 112,
+        "voting_participation_pct": 43.75
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 78,
+        "voting_participation_pct": 39.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 113,
+        "voting_participation_pct": 35.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 93,
+        "voting_participation_pct": 39.41
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 631,
+        "voting_participation_pct": 59.08
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 243,
+        "voting_participation_pct": 38.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 874,
+    "voting_participation_pct": 51.44
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

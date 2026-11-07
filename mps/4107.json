@@ -1,0 +1,570 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 7
+      },
+      "2020": {
+        "debate_contributions": 114,
+        "debates_participated": 85,
+        "oral_questions": 17,
+        "written_questions": 104
+      },
+      "2021": {
+        "debate_contributions": 41,
+        "debates_participated": 29,
+        "oral_questions": 14,
+        "written_questions": 58
+      },
+      "2022": {
+        "bills_sponsored": 2,
+        "debate_contributions": 59,
+        "debates_participated": 46,
+        "oral_questions": 15,
+        "written_questions": 47
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 66,
+        "debates_participated": 45,
+        "oral_questions": 6,
+        "written_questions": 28
+      },
+      "2024": {
+        "debate_contributions": 103,
+        "debates_participated": 65,
+        "oral_questions": 5,
+        "written_questions": 81
+      },
+      "2025": {
+        "debate_contributions": 182,
+        "debates_participated": 93,
+        "written_questions": 224
+      },
+      "2026": {
+        "debate_contributions": 104,
+        "debates_participated": 59,
+        "oral_questions": 4,
+        "written_questions": 177
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 669,
+    "debates_participated": 422,
+    "early_day_motions": 0,
+    "oral_questions": 61,
+    "petitions_presented": 0,
+    "written_questions": 726
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 669,
+    "voting_participation_pct": 78.28,
+    "written_questions": 726
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": true,
+      "meetings_attended": 337,
+      "meetings_available": 337
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Administration Estimate Audit and Risk Assurance Committee",
+      "committee_id": 502,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 37,
+      "meetings_available": 37
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill",
+      "committee_id": 613,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Audit Committee",
+      "committee_id": 501,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-11-09"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Administration Estimate Audit and Risk Assurance Committee",
+        "committee_id": 502,
+        "file": "committees/administration-estimate-audit-and-risk-assurance.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-19"
+          }
+        ],
+        "slug": "administration-estimate-audit-and-risk-assurance"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Financial Services and Markets Bill",
+        "committee_id": 613,
+        "file": "committees/financial-services-and-markets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-31"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Members Estimate Audit Committee",
+        "committee_id": 501,
+        "file": "committees/members-estimate-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-19"
+          }
+        ],
+        "slug": "members-estimate-audit"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-20"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/west-worcestershire.json",
+    "id": 4394,
+    "name": "West Worcestershire",
+    "ons_code": "E14001579",
+    "slug": "west-worcestershire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "harriett.baldwin.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Malvern Hills Science Park, Geraldine Road, Malvern",
+      "phone": "01684 585165",
+      "postcode": "WR14 3SZ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.harriettbaldwin.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/hbaldwin"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4107
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4107,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dame Harriett Baldwin",
+    "display": "Dame Harriett Baldwin",
+    "full_title": "Dame Harriett Baldwin MP",
+    "list_as": "Baldwin, Dame Harriett"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Minister of State (Department for International Development) (Joint with the Foreign and Commonwealth Office)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Minister of State (Foreign and Commonwealth Office) (Joint with the Department for International Development)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence)",
+        "start_date": "2016-07-17"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2016-07-17",
+        "is_current": false,
+        "name": "Economic Secretary (HM Treasury)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2014-07-15"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2014-07-15",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2014-02-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Paymaster General",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Minister (Business and Trade)",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Minister (Development)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2799,
+        "name": "Stockton North",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Worcestershire",
+        "constituency_id": 4394,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "West Worcestershire",
+        "constituency_id": 3848,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Dame Harriett Baldwin is the Conservative MP for <a href='/constituency/4394/overview'>West Worcestershire</a>, and has been an MP continually since 6 May 2010. \r\nShe currently undertakes the role of Shadow Paymaster General.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4107/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 172,
+        "voting_participation_pct": 90.53
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 198,
+        "voting_participation_pct": 81.82
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 169,
+        "voting_participation_pct": 67.33
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 217,
+        "voting_participation_pct": 84.77
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 163,
+        "voting_participation_pct": 81.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 222,
+        "voting_participation_pct": 68.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 187,
+        "voting_participation_pct": 79.24
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 872,
+        "voting_participation_pct": 81.65
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 458,
+        "voting_participation_pct": 72.58
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1330,
+    "voting_participation_pct": 78.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

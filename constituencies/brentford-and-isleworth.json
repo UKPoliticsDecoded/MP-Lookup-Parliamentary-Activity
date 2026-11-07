@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 2273.0,
+    "bng": {
+      "easting": 515124,
+      "northing": 176509
+    },
+    "centroid": {
+      "latitude": 51.47583,
+      "longitude": -0.3437
+    },
+    "geojson": "constituencies/boundaries/brentford-and-isleworth.geojson",
+    "ons_code": "E14001124",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4389.json",
+    "member_id": 4389,
+    "name": "Ruth Cadbury",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79423,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9824,
+      "result": "Lab Hold",
+      "turnout": 45254,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3360,
+      "end_date": "2024-05-30",
+      "member_id": 4389,
+      "name": "Ruth Cadbury",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3939,
+  "is_current": true,
+  "name": "Brentford and Isleworth",
+  "name_cy": null,
+  "ons_code": "E14001124",
+  "outcodes": [
+    "TW1",
+    "TW14",
+    "TW2",
+    "TW3",
+    "TW4",
+    "TW5",
+    "TW6",
+    "TW7",
+    "TW8",
+    "UB2",
+    "W5"
+  ],
+  "schema_version": 1,
+  "slug": "brentford-and-isleworth",
+  "start_date": "2024-05-31"
+}

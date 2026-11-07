@@ -1,0 +1,179 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 93,
+        "debates_participated": 84,
+        "oral_questions": 12,
+        "written_questions": 8
+      },
+      "2021": {
+        "debate_contributions": 72,
+        "debates_participated": 54,
+        "oral_questions": 24,
+        "written_questions": 13
+      },
+      "2022": {
+        "debate_contributions": 55,
+        "debates_participated": 47,
+        "oral_questions": 16,
+        "written_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 44,
+        "debates_participated": 38,
+        "oral_questions": 13
+      },
+      "2024": {
+        "debate_contributions": 15,
+        "debates_participated": 14,
+        "oral_questions": 2,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 279,
+    "debates_participated": 237,
+    "early_day_motions": 0,
+    "oral_questions": 67,
+    "petitions_presented": 0,
+    "written_questions": 32
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 279,
+    "voting_participation_pct": 79.21,
+    "written_questions": 32
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3423,
+    "name": "Colne Valley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3953
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3953,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jason McCartney",
+    "full_title": "Jason McCartney",
+    "list_as": "McCartney, Jason"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3992,
+        "name": "Colne Valley",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3423,
+        "name": "Colne Valley",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Colne Valley",
+        "constituency_id": 3423,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Jason McCartney is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3423/overview'>Colne Valley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3953/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 205,
+        "voting_participation_pct": 81.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 169,
+        "voting_participation_pct": 66.02
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 846,
+        "voting_participation_pct": 79.21
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 846,
+    "voting_participation_pct": 79.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

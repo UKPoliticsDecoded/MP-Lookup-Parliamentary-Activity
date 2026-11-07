@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 24426.3,
+    "bng": {
+      "easting": 306817,
+      "northing": 664330
+    },
+    "centroid": {
+      "latitude": 55.8631,
+      "longitude": -3.49041
+    },
+    "geojson": "constituencies/boundaries/livingston.geojson",
+    "ons_code": "S14000095",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5167.json",
+    "member_id": 5167,
+    "name": "Gregor Poynton",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78043,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3528,
+      "result": "Lab Gain",
+      "turnout": 44840,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1826,
+      "end_date": "2024-05-30",
+      "member_id": 4486,
+      "name": "Hannah Bardell",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4484,
+  "is_current": true,
+  "name": "Livingston",
+  "name_cy": null,
+  "ons_code": "S14000095",
+  "outcodes": [
+    "EH14",
+    "EH27",
+    "EH47",
+    "EH52",
+    "EH53",
+    "EH54",
+    "EH55",
+    "ML11"
+  ],
+  "schema_version": 1,
+  "slug": "livingston",
+  "start_date": "2024-05-31"
+}

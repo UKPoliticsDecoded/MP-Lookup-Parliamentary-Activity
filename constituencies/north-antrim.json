@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 113859.8,
+    "bng": {
+      "easting": 124768,
+      "northing": 589527
+    },
+    "centroid": {
+      "latitude": 55.1229,
+      "longitude": -6.31722
+    },
+    "geojson": "constituencies/boundaries/north-antrim.geojson",
+    "ons_code": "N05000012",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5356.json",
+    "member_id": 5356,
+    "name": "Jim Allister",
+    "party": "Traditional Unionist Voice",
+    "party_abbreviation": "TUV",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74697,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 450,
+      "result": "TUV Gain",
+      "turnout": 41185,
+      "winning_party": "Traditional Unionist Voice",
+      "winning_party_id": 158
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3634,
+      "end_date": "2024-05-30",
+      "member_id": 4129,
+      "name": "Ian Paisley",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4432,
+  "is_current": true,
+  "name": "North Antrim",
+  "name_cy": null,
+  "ons_code": "N05000012",
+  "outcodes": [
+    "BT41",
+    "BT42",
+    "BT43",
+    "BT44",
+    "BT51",
+    "BT53",
+    "BT54",
+    "BT57"
+  ],
+  "schema_version": 1,
+  "slug": "north-antrim",
+  "start_date": "2024-05-31"
+}

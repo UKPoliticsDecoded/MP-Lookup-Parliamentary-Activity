@@ -1,0 +1,312 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 29,
+        "debates_participated": 18,
+        "oral_questions": 5,
+        "written_questions": 121
+      },
+      "2021": {
+        "debate_contributions": 13,
+        "debates_participated": 11,
+        "oral_questions": 2,
+        "written_questions": 148
+      },
+      "2022": {
+        "debate_contributions": 35,
+        "debates_participated": 10,
+        "oral_questions": 2,
+        "written_questions": 85
+      },
+      "2023": {
+        "debate_contributions": 9,
+        "debates_participated": 7,
+        "written_questions": 33
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 152,
+        "debates_participated": 21,
+        "written_questions": 6
+      },
+      "2025": {
+        "bills_sponsored": 3,
+        "debate_contributions": 535,
+        "debates_participated": 45
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 457,
+        "debates_participated": 34
+      }
+    },
+    "bills_sponsored": 7,
+    "debate_contributions": 1230,
+    "debates_participated": 146,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 393
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1230,
+    "voting_participation_pct": 48.62,
+    "written_questions": 393
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 80,
+      "meetings_available": 80
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-04-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/birmingham-ladywood.json",
+    "id": 3911,
+    "name": "Birmingham Ladywood",
+    "ons_code": "E14001096",
+    "slug": "birmingham-ladywood"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "shabana.mahmood.mp@parliament.uk",
+      "phone": "0121 661 9440",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.shabanamahmood.org"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/ShabanaMahmood"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 3914
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 3914,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Shabana Mahmood",
+    "display": "Shabana Mahmood",
+    "full_title": "Rt Hon Shabana Mahmood KC MP",
+    "list_as": "Mahmood, Shabana"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Home Secretary",
+        "start_date": "2025-09-05"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Lord Chancellor and Secretary of State for Justice",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "Home Secretary"
+    ],
+    "opposition": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Justice",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "National campaign co-ordinator",
+        "start_date": "2021-05-09"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Chief Secretary to the Treasury",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Shadow Minister (Treasury)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Home Affairs)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham Ladywood",
+        "constituency_id": 3911,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Birmingham, Ladywood",
+        "constituency_id": 3329,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Shabana Mahmood is the Labour MP for <a href='/constituency/3911/overview'>Birmingham Ladywood</a>, and has been an MP continually since 6 May 2010. \r\nShe currently holds the Government post of Home Secretary.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3914/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 126,
+        "voting_participation_pct": 66.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 193,
+        "voting_participation_pct": 79.75
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 152,
+        "voting_participation_pct": 60.56
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 130,
+        "voting_participation_pct": 50.78
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 90,
+        "voting_participation_pct": 45.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 78,
+        "voting_participation_pct": 24.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 55,
+        "voting_participation_pct": 23.31
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 658,
+        "voting_participation_pct": 61.61
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 168,
+        "voting_participation_pct": 26.62
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 826,
+    "voting_participation_pct": 48.62
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

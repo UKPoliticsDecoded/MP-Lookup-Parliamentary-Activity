@@ -1,0 +1,538 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 116,
+        "debates_participated": 45,
+        "written_questions": 50
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 33,
+        "debates_participated": 25,
+        "oral_questions": 1,
+        "written_questions": 10
+      },
+      "2022": {
+        "debate_contributions": 23,
+        "debates_participated": 10,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 35,
+        "debates_participated": 18,
+        "written_questions": 6
+      },
+      "2024": {
+        "debate_contributions": 62,
+        "debates_participated": 33,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 56,
+        "debates_participated": 39,
+        "written_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 56,
+        "debates_participated": 34
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 381,
+    "debates_participated": 204,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 74
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 381,
+    "voting_participation_pct": 60.62,
+    "written_questions": 74
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": true,
+      "meetings_attended": 38,
+      "meetings_available": 38
+    },
+    {
+      "attendance_pct": null,
+      "committee": "British Citizenship (Northern Ireland) Bill",
+      "committee_id": 716,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Sex-based Harassment in Public Bill",
+      "committee_id": 653,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-25"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "British Citizenship (Northern Ireland) Bill",
+        "committee_id": 716,
+        "file": "committees/british-citizenship-northern-ireland-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-20"
+          }
+        ],
+        "slug": "british-citizenship-northern-ireland-bill"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2012-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2011-10-31"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Protection from Sex-based Harassment in Public Bill",
+        "committee_id": 653,
+        "file": "committees/protection-from-sex-based-harassment-in-public-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-08"
+          }
+        ],
+        "slug": "protection-from-sex-based-harassment-in-public-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/staffordshire-moorlands.json",
+    "id": 4329,
+    "name": "Staffordshire Moorlands",
+    "ons_code": "E14001514",
+    "slug": "staffordshire-moorlands"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "karen.bradley.mp@parliament.uk",
+      "phone": "020 7219 7215",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 24, The Smithfield Centre, Haywood Street, Leek",
+      "phone": "01538 382421",
+      "postcode": "ST13 5JW",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.karenbradley.co.uk/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4110
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4110,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dame Karen Bradley",
+    "display": "Dame Karen Bradley",
+    "full_title": "Rt Hon Dame Karen Bradley MP",
+    "list_as": "Bradley, Dame Karen"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Secretary of State for Northern Ireland",
+        "start_date": "2018-01-08"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2018-01-08",
+        "is_current": false,
+        "name": "Secretary of State for Digital, Culture, Media and Sport",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2017-07-03",
+        "is_current": false,
+        "name": "Secretary of State for Culture, Media and Sport",
+        "start_date": "2016-07-14"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2016-07-14",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2014-02-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2014-02-08",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2012-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1912,
+        "name": "Manchester, Withington",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Staffordshire Moorlands",
+        "constituency_id": 4329,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Staffordshire Moorlands",
+        "constituency_id": 3771,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Dame Karen Bradley is the Conservative MP for <a href='/constituency/4329/overview'>Staffordshire Moorlands</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4110/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 152,
+        "voting_participation_pct": 80.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 183,
+        "voting_participation_pct": 75.62
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 130,
+        "voting_participation_pct": 51.79
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 141,
+        "voting_participation_pct": 55.08
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 147,
+        "voting_participation_pct": 73.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 170,
+        "voting_participation_pct": 52.8
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 105,
+        "voting_participation_pct": 44.49
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 717,
+        "voting_participation_pct": 67.13
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 313,
+        "voting_participation_pct": 49.6
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1030,
+    "voting_participation_pct": 60.62
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

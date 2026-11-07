@@ -1,0 +1,134 @@
+{
+  "activity": {
+    "annual": {
+      "2026": {
+        "debate_contributions": 20,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 40
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 20,
+    "debates_participated": 15,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 40
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 20,
+    "voting_participation_pct": 25.0,
+    "written_questions": 40
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/arbroath-and-broughty-ferry.json",
+    "id": 4455,
+    "name": "Arbroath and Broughty Ferry",
+    "ons_code": "S14000066",
+    "slug": "arbroath-and-broughty-ferry"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lara.bird.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/larabirdsnp"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/larabirdsnp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/larabirdsnp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5449
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5449,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2026-06-18",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lara Bird",
+    "full_title": "Lara Bird MP",
+    "list_as": "Bird, Lara"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2026-06-18"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Arbroath and Broughty Ferry",
+        "constituency_id": 4455,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2026-06-18"
+      }
+    ]
+  },
+  "synopsis": "Lara Bird is the Scottish National Party MP for <a href='/constituency/4455/overview'>Arbroath and Broughty Ferry</a>, and has been an MP continually since 18 June 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5449/Thumbnail",
+  "voting": {
+    "annual": {
+      "2026": {
+        "divisions_eligible": 84,
+        "divisions_voted": 21,
+        "voting_participation_pct": 25.0
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 84,
+        "divisions_voted": 21,
+        "voting_participation_pct": 25.0
+      }
+    },
+    "divisions_eligible": 84,
+    "divisions_voted": 21,
+    "voting_participation_pct": 25.0
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 52
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 316,
+        "debates_participated": 131,
+        "oral_questions": 17,
+        "written_questions": 626
+      },
+      "2026": {
+        "debate_contributions": 279,
+        "debates_participated": 109,
+        "oral_questions": 11,
+        "written_questions": 392
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 617,
+    "debates_participated": 255,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 1070
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 617,
+    "voting_participation_pct": 75.28,
+    "written_questions": 1070
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Court of Referees",
+      "committee_id": 780,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crime and Policing Bill",
+      "committee_id": 786,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Court of Referees",
+        "committee_id": 780,
+        "file": "committees/court-of-referees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-27"
+          }
+        ],
+        "slug": "court-of-referees"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      },
+      {
+        "committee": "Crime and Policing Bill",
+        "committee_id": 786,
+        "file": "committees/crime-and-policing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-20"
+          }
+        ],
+        "slug": "crime-and-policing-bill"
+      },
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/isle-of-wight-east.json",
+    "id": 4118,
+    "name": "Isle of Wight East",
+    "ons_code": "E14001303",
+    "slug": "isle-of-wight-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "joe.robertson.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5255
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5255,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Joe Robertson",
+    "full_title": "Joe Robertson MP",
+    "list_as": "Robertson, Joe"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Parliamentary Under Secretary (Work and Pensions)",
+        "start_date": "2026-08-31"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Isle of Wight East",
+        "constituency_id": 4118,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Joe Robertson is the Conservative MP for <a href='/constituency/4118/overview'>Isle of Wight East</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow Parliamentary Under Secretary (Work and Pensions), and Opposition Assistant Whip (Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5255/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 57,
+        "voting_participation_pct": 78.08
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 192,
+        "voting_participation_pct": 81.36
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 475,
+        "voting_participation_pct": 75.28
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 475,
+    "voting_participation_pct": 75.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

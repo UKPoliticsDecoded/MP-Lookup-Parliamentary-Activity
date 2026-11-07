@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 36144.8,
+    "bng": {
+      "easting": 372512,
+      "northing": 376433
+    },
+    "centroid": {
+      "latitude": 53.28416,
+      "longitude": -2.41375
+    },
+    "geojson": "constituencies/boundaries/tatton.geojson",
+    "ons_code": "E14001539",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4084.json",
+    "member_id": 4084,
+    "name": "Esther McVey",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75978,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1136,
+      "result": "Con Hold",
+      "turnout": 51909,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3795,
+      "end_date": "2024-05-30",
+      "member_id": 4084,
+      "name": "Esther McVey",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4354,
+  "is_current": true,
+  "name": "Tatton",
+  "name_cy": null,
+  "ons_code": "E14001539",
+  "outcodes": [
+    "CW10",
+    "CW4",
+    "CW8",
+    "CW9",
+    "M22",
+    "SK10",
+    "SK11",
+    "SK7",
+    "SK8",
+    "SK9",
+    "WA13",
+    "WA14",
+    "WA15",
+    "WA16",
+    "WA4",
+    "WA7"
+  ],
+  "schema_version": 1,
+  "slug": "tatton",
+  "start_date": "2024-05-31"
+}

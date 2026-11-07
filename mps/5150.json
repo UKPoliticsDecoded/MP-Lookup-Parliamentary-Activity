@@ -1,0 +1,231 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 13,
+        "debates_participated": 10,
+        "oral_questions": 4,
+        "written_questions": 61
+      },
+      "2025": {
+        "debate_contributions": 74,
+        "debates_participated": 57,
+        "oral_questions": 3,
+        "written_questions": 152
+      },
+      "2026": {
+        "debate_contributions": 76,
+        "debates_participated": 59,
+        "oral_questions": 2,
+        "written_questions": 233
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 163,
+    "debates_participated": 126,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 446
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 163,
+    "voting_participation_pct": 81.93,
+    "written_questions": 446
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-derbyshire.json",
+    "id": 4298,
+    "name": "South Derbyshire",
+    "ons_code": "E14001483",
+    "slug": "south-derbyshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "samantha.niblett.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/SamanthaNiblettLabour/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/samantha_niblett/"
+    },
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/in/samantha-niblett-mp-a2a78213"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5150
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5150,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Samantha Niblett",
+    "full_title": "Samantha Niblett MP",
+    "list_as": "Niblett, Samantha"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Derbyshire",
+        "constituency_id": 4298,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Samantha Niblett is the Labour MP for <a href='/constituency/4298/overview'>South Derbyshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5150/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 251,
+        "voting_participation_pct": 77.95
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 194,
+        "voting_participation_pct": 82.2
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 517,
+        "voting_participation_pct": 81.93
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 517,
+    "voting_participation_pct": 81.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

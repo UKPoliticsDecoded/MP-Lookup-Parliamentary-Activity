@@ -1,0 +1,381 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 63,
+        "debates_participated": 43,
+        "oral_questions": 7,
+        "written_questions": 45
+      },
+      "2021": {
+        "debate_contributions": 50,
+        "debates_participated": 36,
+        "written_questions": 48
+      },
+      "2022": {
+        "debate_contributions": 42,
+        "debates_participated": 37,
+        "oral_questions": 3,
+        "written_questions": 45
+      },
+      "2023": {
+        "debate_contributions": 28,
+        "debates_participated": 16,
+        "oral_questions": 1,
+        "written_questions": 32
+      },
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 16,
+        "oral_questions": 2,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 478,
+        "debates_participated": 47,
+        "written_questions": 4
+      },
+      "2026": {
+        "debate_contributions": 20,
+        "debates_participated": 13,
+        "oral_questions": 3,
+        "written_questions": 15
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 703,
+    "debates_participated": 208,
+    "early_day_motions": 0,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 197
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 703,
+    "voting_participation_pct": 65.39,
+    "written_questions": 197
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Conversion Practices Bill (Joint Committee)",
+      "committee_id": 851,
+      "is_current": true,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+      "committee_id": 660,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "Draft Conversion Practices Bill (Joint Committee)",
+        "committee_id": 851,
+        "file": "committees/draft-conversion-practices-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-14"
+          }
+        ],
+        "slug": "draft-conversion-practices-bill-joint-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      },
+      {
+        "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+        "committee_id": 660,
+        "file": "committees/pensions-extension-of-automatic-enrolment-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "pensions-extension-of-automatic-enrolment-no-2-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bradford-west.json",
+    "id": 3935,
+    "name": "Bradford West",
+    "ons_code": "E14001120",
+    "slug": "bradford-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "naz.shah.mp@parliament.uk",
+      "phone": "020 7219 8603",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Grove Business Centre, 41 Great Horton Road, Bradford",
+      "phone": "01274 725171",
+      "postcode": "BD7 1AH",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/nazshahbfd"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4409
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4409,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Naz Shah",
+    "display": "Naz Shah",
+    "full_title": "Naz Shah MP",
+    "list_as": "Shah, Naz"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2023-11-15",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office) (Women and Equalities)",
+        "start_date": "2018-07-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2016-07-05"
+      },
+      {
+        "end_date": "2016-07-05",
+        "party": "Independent",
+        "start_date": "2016-04-27"
+      },
+      {
+        "end_date": "2016-04-27",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bradford West",
+        "constituency_id": 3935,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Bradford West",
+        "constituency_id": 3355,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Naz Shah is the Labour MP for <a href='/constituency/3935/overview'>Bradford West</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4409/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 113,
+        "voting_participation_pct": 59.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 195,
+        "voting_participation_pct": 80.58
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 172,
+        "voting_participation_pct": 68.53
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 139,
+        "voting_participation_pct": 54.3
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 122,
+        "voting_participation_pct": 61.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 229,
+        "voting_participation_pct": 71.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 139,
+        "voting_participation_pct": 58.9
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 699,
+        "voting_participation_pct": 65.45
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 412,
+        "voting_participation_pct": 65.29
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1111,
+    "voting_participation_pct": 65.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 2990.6,
+    "bng": {
+      "easting": 551410,
+      "northing": 190669
+    },
+    "centroid": {
+      "latitude": 51.59452,
+      "longitude": 0.184512
+    },
+    "geojson": "constituencies/boundaries/romford.geojson",
+    "ons_code": "E14001448",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1447.json",
+    "member_id": 1447,
+    "name": "Andrew Rosindell",
+    "party": "Reform UK",
+    "party_abbreviation": "RUK",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72928,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1463,
+      "result": "Con Hold",
+      "turnout": 44047,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3703,
+      "end_date": "2024-05-30",
+      "member_id": 1447,
+      "name": "Andrew Rosindell",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2448,
+      "end_date": "2010-05-06",
+      "member_id": 1447,
+      "name": "Andrew Rosindell",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4263,
+  "is_current": true,
+  "name": "Romford",
+  "name_cy": null,
+  "ons_code": "E14001448",
+  "outcodes": [
+    "RM1",
+    "RM11",
+    "RM12",
+    "RM2",
+    "RM4",
+    "RM5",
+    "RM7"
+  ],
+  "schema_version": 1,
+  "slug": "romford",
+  "start_date": "2024-05-31"
+}

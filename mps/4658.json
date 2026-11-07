@@ -1,0 +1,467 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 82,
+        "debates_participated": 53,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 365
+      },
+      "2021": {
+        "debate_contributions": 81,
+        "debates_participated": 61,
+        "oral_questions": 2,
+        "written_questions": 263
+      },
+      "2022": {
+        "debate_contributions": 111,
+        "debates_participated": 67,
+        "oral_questions": 3,
+        "written_questions": 259
+      },
+      "2023": {
+        "debate_contributions": 96,
+        "debates_participated": 65,
+        "oral_questions": 8,
+        "written_questions": 217
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 67,
+        "debates_participated": 54,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 160
+      },
+      "2025": {
+        "debate_contributions": 102,
+        "debates_participated": 77,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 66
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 86,
+        "debates_participated": 61,
+        "written_questions": 163
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 625,
+    "debates_participated": 438,
+    "early_day_motions": 5,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 1493
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 625,
+    "voting_participation_pct": 70.28,
+    "written_questions": 1493
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": true,
+      "meetings_attended": 57,
+      "meetings_available": 57
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Highgate Cemetery Bill Committee",
+      "committee_id": 521,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Shark Fins Bill",
+      "committee_id": 624,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-15"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-15"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Highgate Cemetery Bill Committee",
+        "committee_id": 521,
+        "file": "committees/highgate-cemetery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-21"
+          }
+        ],
+        "slug": "highgate-cemetery-bill"
+      },
+      {
+        "committee": "Monken Hadley Common Bill Unopposed Bill Committee",
+        "committee_id": 486,
+        "file": "committees/monken-hadley-common-bill-unopposed-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-16"
+          }
+        ],
+        "slug": "monken-hadley-common-bill-unopposed-bill"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      },
+      {
+        "committee": "Shark Fins Bill",
+        "committee_id": 624,
+        "file": "committees/shark-fins-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "shark-fins-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/leeds-central-and-headingley.json",
+    "id": 4134,
+    "name": "Leeds Central and Headingley",
+    "ons_code": "E14001319",
+    "slug": "leeds-central-and-headingley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.sobel.mp@parliament.uk",
+      "phone": "0207 219 8295",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "alex@alexsobel.co.uk ",
+      "phone": "0113 898 0969",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/alexsobel"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4658
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4658,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Alex Sobel",
+    "display": "Alex Sobel",
+    "full_title": "Alex Sobel MP",
+    "list_as": "Sobel, Alex"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leeds Central and Headingley",
+        "constituency_id": 4134,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Leeds North West",
+        "constituency_id": 3568,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Alex Sobel is the Labour (Co-op) MP for <a href='/constituency/4134/overview'>Leeds Central and Headingley</a>, and has been an MP continually since 8 June 2017.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4658/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 170,
+        "voting_participation_pct": 67.73
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 171,
+        "voting_participation_pct": 66.8
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 200,
+        "voting_participation_pct": 62.11
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 176,
+        "voting_participation_pct": 74.58
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 768,
+        "voting_participation_pct": 71.91
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 426,
+        "voting_participation_pct": 67.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1194,
+    "voting_participation_pct": 70.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

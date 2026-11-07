@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 137399.1,
+    "bng": {
+      "easting": 273369,
+      "northing": 91743
+    },
+    "centroid": {
+      "latitude": 50.71147,
+      "longitude": -3.79492
+    },
+    "geojson": "constituencies/boundaries/central-devon.geojson",
+    "ons_code": "E14001155",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3935.json",
+    "member_id": 3935,
+    "name": "Sir Mel Stride",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75385,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 61,
+      "result": "Con Hold",
+      "turnout": 53432,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3398,
+      "end_date": "2024-05-30",
+      "member_id": 3935,
+      "name": "Sir Mel Stride",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3970,
+  "is_current": true,
+  "name": "Central Devon",
+  "name_cy": null,
+  "ons_code": "E14001155",
+  "outcodes": [
+    "EX15",
+    "EX16",
+    "EX17",
+    "EX18",
+    "EX19",
+    "EX2",
+    "EX20",
+    "EX21",
+    "EX4",
+    "EX5",
+    "EX6",
+    "PL20",
+    "TQ11",
+    "TQ12",
+    "TQ13"
+  ],
+  "schema_version": 1,
+  "slug": "central-devon",
+  "start_date": "2024-05-31"
+}

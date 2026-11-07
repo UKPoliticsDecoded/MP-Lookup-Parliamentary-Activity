@@ -1,0 +1,276 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 89,
+        "debates_participated": 47,
+        "oral_questions": 18,
+        "written_questions": 11
+      },
+      "2021": {
+        "debate_contributions": 51,
+        "debates_participated": 36,
+        "oral_questions": 18,
+        "written_questions": 19
+      },
+      "2022": {
+        "debate_contributions": 39,
+        "debates_participated": 21,
+        "oral_questions": 14,
+        "written_questions": 45
+      },
+      "2023": {
+        "bills_sponsored": 4,
+        "debate_contributions": 77,
+        "debates_participated": 30,
+        "early_day_motions": 1,
+        "oral_questions": 16,
+        "written_questions": 28
+      },
+      "2024": {
+        "debate_contributions": 18,
+        "debates_participated": 7,
+        "oral_questions": 4,
+        "written_questions": 6
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 274,
+    "debates_participated": 141,
+    "early_day_motions": 1,
+    "oral_questions": 70,
+    "petitions_presented": 0,
+    "written_questions": 109
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 274,
+    "voting_participation_pct": 59.18,
+    "written_questions": 109
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 29,
+      "meetings_available": 29
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": false,
+      "meetings_attended": 126,
+      "meetings_available": 126
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "welsh-affairs"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3440,
+    "name": "Delyn"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4810
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4810,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Roberts",
+    "display": "Mr Rob Roberts",
+    "full_title": "Mr Rob Roberts",
+    "list_as": "Roberts, Mr Rob"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4509,
+        "name": "Clwyd East",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Independent",
+        "start_date": "2021-05-25"
+      },
+      {
+        "end_date": "2021-05-25",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Delyn",
+        "constituency_id": 3440,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Mr Rob Roberts is no longer a Member, but was most recently the Independent MP for <a href='/constituency/3440/overview'>Delyn</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4810/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 174,
+        "voting_participation_pct": 91.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 171,
+        "voting_participation_pct": 70.66
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 115,
+        "voting_participation_pct": 45.82
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 115,
+        "voting_participation_pct": 44.92
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 55,
+        "voting_participation_pct": 43.31
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 632,
+        "voting_participation_pct": 59.18
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 632,
+    "voting_participation_pct": 59.18
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

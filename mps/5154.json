@@ -1,0 +1,237 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 5,
+        "debates_participated": 5,
+        "written_questions": 44
+      },
+      "2025": {
+        "debate_contributions": 58,
+        "debates_participated": 32,
+        "oral_questions": 10,
+        "written_questions": 184
+      },
+      "2026": {
+        "debate_contributions": 37,
+        "debates_participated": 19,
+        "oral_questions": 4,
+        "written_questions": 69
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 100,
+    "debates_participated": 56,
+    "early_day_motions": 0,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 297
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 100,
+    "voting_participation_pct": 75.28,
+    "written_questions": 297
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 74,
+      "meetings_available": 74
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/warrington-south.json",
+    "id": 4380,
+    "name": "Warrington South",
+    "ons_code": "E14001565",
+    "slug": "warrington-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.hall.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "The Old Coroner’s Court, Warrington Town Hall, Sankey Street",
+      "phone": "01925 249744",
+      "postcode": "WA1 1UH ",
+      "type": "Constituency office",
+      "website": "https://sarahhall.co.uk/contact/"
+    },
+    {
+      "type": "Website",
+      "url": "https://sarahhall.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/SarahHallLabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/sarah_hall81"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5154
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5154,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Hall",
+    "full_title": "Sarah Hall MP",
+    "list_as": "Hall, Sarah"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Warrington South",
+        "constituency_id": 4380,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sarah Hall is the Labour (Co-op) MP for <a href='/constituency/4380/overview'>Warrington South</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5154/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 261,
+        "voting_participation_pct": 81.06
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 148,
+        "voting_participation_pct": 62.71
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 475,
+        "voting_participation_pct": 75.28
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 475,
+    "voting_participation_pct": 75.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

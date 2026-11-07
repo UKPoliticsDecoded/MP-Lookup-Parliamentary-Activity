@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 1739.1,
+    "bng": {
+      "easting": 539894,
+      "northing": 188087
+    },
+    "centroid": {
+      "latitude": 51.5743,
+      "longitude": 0.017345
+    },
+    "geojson": "constituencies/boundaries/leyton-and-wanstead.geojson",
+    "ons_code": "E14001334",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5054.json",
+    "member_id": 5054,
+    "name": "Mr Calvin Bailey",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71491,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13964,
+      "result": "Lab Hold",
+      "turnout": 43732,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4149,
+  "is_current": true,
+  "name": "Leyton and Wanstead",
+  "name_cy": null,
+  "ons_code": "E14001334",
+  "outcodes": [
+    "E10",
+    "E11",
+    "E12",
+    "E15",
+    "E17",
+    "E18",
+    "E20",
+    "E7",
+    "IG1",
+    "IG4"
+  ],
+  "schema_version": 1,
+  "slug": "leyton-and-wanstead",
+  "start_date": "2024-05-31"
+}

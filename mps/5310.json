@@ -1,0 +1,312 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 33,
+        "debates_participated": 26,
+        "early_day_motions": 5,
+        "oral_questions": 3,
+        "written_questions": 78
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 85,
+        "debates_participated": 46,
+        "early_day_motions": 36,
+        "oral_questions": 5,
+        "written_questions": 287
+      },
+      "2026": {
+        "debate_contributions": 76,
+        "debates_participated": 29,
+        "early_day_motions": 26,
+        "oral_questions": 6,
+        "written_questions": 466
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 194,
+    "debates_participated": 101,
+    "early_day_motions": 67,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 831
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 194,
+    "voting_participation_pct": 60.86,
+    "written_questions": 831
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 52,
+      "meetings_available": 52
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-13"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newbury.json",
+    "id": 4191,
+    "name": "Newbury",
+    "ons_code": "E14001376",
+    "slug": "newbury"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lee.dillon.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Park Street Offices, Northbrook Court, Park Street, Newbury",
+      "phone": "01635 243510",
+      "postcode": "RG14 1EA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.leedillon.co.uk"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/leedillonmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LeeDillonNewbury/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/lrjdillon/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5310
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5310,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Lee Dillon",
+    "full_title": "Mr Lee Dillon MP",
+    "list_as": "Dillon, Mr Lee"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3624,
+        "name": "Newbury",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1591,
+        "name": "Islwyn",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newbury",
+        "constituency_id": 4191,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Lee Dillon is the Liberal Democrat MP for <a href='/constituency/4191/overview'>Newbury</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5310/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 38,
+        "voting_participation_pct": 52.05
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 208,
+        "voting_participation_pct": 64.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 138,
+        "voting_participation_pct": 58.47
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 384,
+        "voting_participation_pct": 60.86
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 384,
+    "voting_participation_pct": 60.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

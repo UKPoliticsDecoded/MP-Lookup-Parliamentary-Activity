@@ -1,0 +1,213 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 11,
+        "debates_participated": 9,
+        "oral_questions": 2,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 48,
+        "debates_participated": 26,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 6
+      },
+      "2026": {
+        "debate_contributions": 7,
+        "debates_participated": 4,
+        "oral_questions": 2,
+        "written_questions": 15
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 66,
+    "debates_participated": 39,
+    "early_day_motions": 3,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 28
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 66,
+    "voting_participation_pct": 53.88,
+    "written_questions": 28
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "home-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/east-kilbride-and-strathaven.json",
+    "id": 4466,
+    "name": "East Kilbride and Strathaven",
+    "ons_code": "S14000077",
+    "slug": "east-kilbride-and-strathaven"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "joani.reid.mp@parliament.uk",
+      "phone": "020 7219 1433",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 9, Jacobean House, 1A Glebe Street, East Kilbride",
+      "phone": "01355 200970",
+      "postcode": "G74 4LY",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5079
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5079,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Joani Reid",
+    "full_title": "Joani Reid MP",
+    "list_as": "Reid, Joani"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2026-07-30"
+      },
+      {
+        "end_date": "2026-07-30",
+        "party": "Independent",
+        "start_date": "2026-03-04"
+      },
+      {
+        "end_date": "2026-03-04",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "East Kilbride and Strathaven",
+        "constituency_id": 4466,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Joani Reid is the Labour MP for <a href='/constituency/4466/overview'>East Kilbride and Strathaven</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5079/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 224,
+        "voting_participation_pct": 69.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 54,
+        "voting_participation_pct": 22.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 340,
+        "voting_participation_pct": 53.88
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 340,
+    "voting_participation_pct": 53.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

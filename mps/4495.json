@@ -1,0 +1,392 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 285,
+        "debates_participated": 52
+      },
+      "2021": {
+        "debate_contributions": 373,
+        "debates_participated": 74
+      },
+      "2022": {
+        "debate_contributions": 545,
+        "debates_participated": 68
+      },
+      "2023": {
+        "debate_contributions": 114,
+        "debates_participated": 55,
+        "oral_questions": 3
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 75,
+        "debates_participated": 56,
+        "oral_questions": 1,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 319,
+        "debates_participated": 89,
+        "oral_questions": 1,
+        "written_questions": 14
+      },
+      "2026": {
+        "debate_contributions": 79,
+        "debates_participated": 46,
+        "written_questions": 15
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 1790,
+    "debates_participated": 440,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 64
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 1790,
+    "voting_participation_pct": 83.76,
+    "written_questions": 64
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 719,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 719,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-west-hampshire.json",
+    "id": 4218,
+    "name": "North West Hampshire",
+    "ons_code": "E14001403",
+    "slug": "north-west-hampshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kit.malthouse.mp@parliament.uk",
+      "phone": "020 7219 5605",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://kitmalthouse.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/kit.malthouse"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/kitmalthouse"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4495
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4495,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Kit Malthouse",
+    "display": "Kit Malthouse",
+    "full_title": "Rt Hon Kit Malthouse MP",
+    "list_as": "Malthouse, Kit"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Secretary of State for Education",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Chancellor of the Duchy of Lancaster",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2022-07-07",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice) (jointly with Home Office)",
+        "start_date": "2021-09-15"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2021-09-15",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice) (jointly with Home Office)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Minister of State (Home Office)",
+        "start_date": "2019-07-25"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Minister of State (Housing, Communities and Local Government)",
+        "start_date": "2018-07-09"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2018-07-09",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2018-01-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North West Hampshire",
+        "constituency_id": 4218,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "North West Hampshire",
+        "constituency_id": 3656,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Kit Malthouse is the Conservative MP for <a href='/constituency/4218/overview'>North West Hampshire</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4495/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 180,
+        "voting_participation_pct": 94.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 221,
+        "voting_participation_pct": 91.32
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 203,
+        "voting_participation_pct": 80.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 230,
+        "voting_participation_pct": 89.84
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 160,
+        "voting_participation_pct": 80.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 229,
+        "voting_participation_pct": 71.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 198,
+        "voting_participation_pct": 83.9
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 947,
+        "voting_participation_pct": 88.67
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 476,
+        "voting_participation_pct": 75.44
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1423,
+    "voting_participation_pct": 83.76
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

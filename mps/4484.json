@@ -1,0 +1,425 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 27,
+        "debates_participated": 18,
+        "oral_questions": 13
+      },
+      "2021": {
+        "debate_contributions": 4,
+        "debates_participated": 3,
+        "oral_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 10,
+        "debates_participated": 5
+      },
+      "2023": {
+        "debate_contributions": 11,
+        "debates_participated": 8
+      },
+      "2024": {
+        "debate_contributions": 27,
+        "debates_participated": 15
+      },
+      "2025": {
+        "debate_contributions": 30,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 41
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 21,
+        "debates_participated": 15,
+        "oral_questions": 4,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 130,
+    "debates_participated": 79,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 42
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 130,
+    "voting_participation_pct": 83.34,
+    "written_questions": 42
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Bill",
+      "committee_id": 524,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 691,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill",
+      "committee_id": 613,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+      "committee_id": 491,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Bill",
+        "committee_id": 524,
+        "file": "committees/compensation-london-capital-and-finance-plc-and-fraud-compensation-fund-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-08"
+          }
+        ],
+        "slug": "compensation-london-capital-and-finance-plc-and-fraud-compensation-fund-bill"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 691,
+        "file": "committees/finance-bill-691.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "finance-bill-691"
+      },
+      {
+        "committee": "Financial Services and Markets Bill",
+        "committee_id": 613,
+        "file": "committees/financial-services-and-markets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill"
+      },
+      {
+        "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+        "committee_id": 491,
+        "file": "committees/joint-committee-on-the-fixed-term-parliaments-act.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-11-10"
+          }
+        ],
+        "slug": "joint-committee-on-the-fixed-term-parliaments-act"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-18"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/havant.json",
+    "id": 4090,
+    "name": "Havant",
+    "ons_code": "E14001275",
+    "slug": "havant"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alan.mak.mp@parliament.uk",
+      "phone": "020 7219 6266",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.alanmak.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AlanMakHavant"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/AlanMakMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4484
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4484,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Alan Mak",
+    "display": "Alan Mak",
+    "full_title": "Alan Mak MP",
+    "list_as": "Mak, Alan"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Business and Trade) (jointly with the Cabinet Office)",
+        "start_date": "2024-03-26"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Exchequer Secretary (HM Treasury)",
+        "start_date": "2022-07-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-07-08",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2021-04-21"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Science, Innovation and Technology",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Economic Secretary (Treasury)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Havant",
+        "constituency_id": 4090,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Havant",
+        "constituency_id": 3522,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Alan Mak is the Conservative MP for <a href='/constituency/4090/overview'>Havant</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4484/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 179,
+        "voting_participation_pct": 94.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 207,
+        "voting_participation_pct": 82.47
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 233,
+        "voting_participation_pct": 91.02
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 171,
+        "voting_participation_pct": 85.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 181,
+        "voting_participation_pct": 76.69
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 954,
+        "voting_participation_pct": 89.33
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 462,
+        "voting_participation_pct": 73.22
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1416,
+    "voting_participation_pct": 83.34
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

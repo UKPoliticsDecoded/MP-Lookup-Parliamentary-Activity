@@ -1,0 +1,426 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 47,
+        "debates_participated": 18,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 88
+      },
+      "2021": {
+        "debate_contributions": 45,
+        "debates_participated": 39,
+        "early_day_motions": 3,
+        "oral_questions": 7,
+        "written_questions": 61
+      },
+      "2022": {
+        "debate_contributions": 51,
+        "debates_participated": 42,
+        "early_day_motions": 1,
+        "oral_questions": 7,
+        "written_questions": 70
+      },
+      "2023": {
+        "debate_contributions": 49,
+        "debates_participated": 29,
+        "early_day_motions": 8,
+        "oral_questions": 7,
+        "petitions_presented": 3,
+        "written_questions": 63
+      },
+      "2024": {
+        "debate_contributions": 36,
+        "debates_participated": 25,
+        "early_day_motions": 6,
+        "oral_questions": 8,
+        "written_questions": 54
+      },
+      "2025": {
+        "debate_contributions": 49,
+        "debates_participated": 31,
+        "early_day_motions": 9,
+        "oral_questions": 2,
+        "written_questions": 65
+      },
+      "2026": {
+        "debate_contributions": 33,
+        "debates_participated": 26,
+        "early_day_motions": 10,
+        "oral_questions": 1,
+        "written_questions": 49
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 310,
+    "debates_participated": 210,
+    "early_day_motions": 38,
+    "oral_questions": 34,
+    "petitions_presented": 3,
+    "written_questions": 450
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 310,
+    "voting_participation_pct": 77.46,
+    "written_questions": 450
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 30,
+      "meetings_available": 30
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing (Regulation) Bill [HL]",
+      "committee_id": 628,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Zoological Society of London (Leases) Bill",
+      "committee_id": 707,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      },
+      {
+        "committee": "Social Housing (Regulation) Bill [HL]",
+        "committee_id": 628,
+        "file": "committees/social-housing-regulation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "social-housing-regulation-bill-hl"
+      },
+      {
+        "committee": "Zoological Society of London (Leases) Bill",
+        "committee_id": 707,
+        "file": "committees/zoological-society-of-london-leases-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-21"
+          }
+        ],
+        "slug": "zoological-society-of-london-leases-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/salford.json",
+    "id": 4274,
+    "name": "Salford",
+    "ons_code": "E14001459",
+    "slug": "salford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rebecca.longbailey.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "191 Langworthy Road, Salford",
+      "phone": "0161 425 3738",
+      "postcode": "M6 5PW",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.rebeccalongbailey.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/rlong_bailey"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4396
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4396,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ms Long Bailey",
+    "display": "Rebecca Long Bailey",
+    "full_title": "Rebecca Long Bailey MP",
+    "list_as": "Long Bailey, Rebecca"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2020-06-25",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Education",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Business, Energy and Industrial Strategy",
+        "start_date": "2017-02-09"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2017-02-09",
+        "is_current": false,
+        "name": "Shadow Chief Secretary to the Treasury",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Treasury)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2019-11-06",
+        "is_current": false,
+        "name": "Member, Labour Party National Executive Committee",
+        "start_date": "2015-09-27"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2025-02-05"
+      },
+      {
+        "end_date": "2025-02-05",
+        "party": "Independent",
+        "start_date": "2024-07-23"
+      },
+      {
+        "end_date": "2024-07-23",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Salford",
+        "constituency_id": 4274,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Salford and Eccles",
+        "constituency_id": 3714,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Rebecca Long Bailey is the Labour MP for <a href='/constituency/4274/overview'>Salford</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4396/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 126,
+        "voting_participation_pct": 66.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 205,
+        "voting_participation_pct": 84.71
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 205,
+        "voting_participation_pct": 81.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 188,
+        "voting_participation_pct": 73.44
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 131,
+        "voting_participation_pct": 65.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 273,
+        "voting_participation_pct": 84.78
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 186,
+        "voting_participation_pct": 78.81
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 806,
+        "voting_participation_pct": 75.47
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 510,
+        "voting_participation_pct": 80.82
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1316,
+    "voting_participation_pct": 77.46
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 86,
+        "debates_participated": 65,
+        "oral_questions": 4,
+        "written_questions": 13
+      },
+      "2021": {
+        "debate_contributions": 88,
+        "debates_participated": 55,
+        "oral_questions": 1,
+        "written_questions": 35
+      },
+      "2022": {
+        "debate_contributions": 65,
+        "debates_participated": 43,
+        "written_questions": 173
+      },
+      "2023": {
+        "debate_contributions": 68,
+        "debates_participated": 51,
+        "oral_questions": 2,
+        "written_questions": 72
+      },
+      "2024": {
+        "debate_contributions": 52,
+        "debates_participated": 38,
+        "oral_questions": 4,
+        "written_questions": 94
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 361,
+    "debates_participated": 253,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 387
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 361,
+    "voting_participation_pct": 68.54,
+    "written_questions": 387
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 108,
+      "meetings_available": 108
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Investigatory Powers (Amendment) Bill [HL]",
+      "committee_id": 709,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 57,
+      "meetings_available": 57
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-03-05"
+          },
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-05"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "Investigatory Powers (Amendment) Bill [HL]",
+        "committee_id": 709,
+        "file": "committees/investigatory-powers-amendment-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "investigatory-powers-amendment-bill-hl"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3350,
+    "name": "Bournemouth East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1487
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1487,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Ellwood",
+    "display": "Mr Tobias Ellwood",
+    "full_title": "Rt Hon Tobias Ellwood",
+    "list_as": "Ellwood, Mr Tobias"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2019-07-27",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence)",
+        "start_date": "2017-06-14"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2017-06-14",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign and Commonwealth Office)",
+        "start_date": "2014-07-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2007-07-02"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2007-07-02",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3930,
+        "name": "Bournemouth East",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3254,
+        "name": "Worsley",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2022-10-15"
+      },
+      {
+        "end_date": "2022-10-14",
+        "party": "Independent",
+        "start_date": "2022-07-19"
+      },
+      {
+        "end_date": "2022-07-18",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bournemouth East",
+        "constituency_id": 3350,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Bournemouth East",
+        "constituency_id": 385,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mr Tobias Ellwood is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3350/overview'>Bournemouth East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1487/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 160,
+        "voting_participation_pct": 84.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 192,
+        "voting_participation_pct": 79.34
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 137,
+        "voting_participation_pct": 54.58
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 144,
+        "voting_participation_pct": 56.25
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 97,
+        "voting_participation_pct": 76.38
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 732,
+        "voting_participation_pct": 68.54
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 732,
+    "voting_participation_pct": 68.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

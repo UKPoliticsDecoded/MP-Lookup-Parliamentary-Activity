@@ -1,0 +1,251 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 80,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 36
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 102,
+        "debates_participated": 59,
+        "early_day_motions": 5,
+        "oral_questions": 4,
+        "written_questions": 85
+      },
+      "2026": {
+        "debate_contributions": 37,
+        "debates_participated": 22,
+        "early_day_motions": 6,
+        "oral_questions": 4,
+        "written_questions": 84
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 219,
+    "debates_participated": 109,
+    "early_day_motions": 12,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 205
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 219,
+    "voting_participation_pct": 74.64,
+    "written_questions": 205
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters’ Rights Bill",
+      "committee_id": 739,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-06-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-21"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Renters’ Rights Bill",
+        "committee_id": 739,
+        "file": "committees/renters-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-16"
+          }
+        ],
+        "slug": "renters-rights-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bristol-central.json",
+    "id": 3946,
+    "name": "Bristol Central",
+    "ons_code": "E14001131",
+    "slug": "bristol-central"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "carla.denyer.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5102
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5102,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Carla Denyer",
+    "full_title": "Carla Denyer MP",
+    "list_as": "Denyer, Carla"
+  },
+  "party": {
+    "abbreviation": "Green",
+    "id": 44,
+    "name": "Green Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Energy and Net Zero)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Women and Equalities)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Immigration)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Green Spokesperson (Science, Innovation and Technology)",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2025-09-02",
+        "is_current": false,
+        "name": "Co-Leader of the Green Party",
+        "start_date": "2021-10-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3370,
+        "name": "Bristol West",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Green Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bristol Central",
+        "constituency_id": 3946,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Carla Denyer is the Green Party MP for <a href='/constituency/3946/overview'>Bristol Central</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the roles of Green Spokesperson (Energy and Net Zero), and Green Spokesperson (Women and Equalities).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5102/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 249,
+        "voting_participation_pct": 77.33
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 163,
+        "voting_participation_pct": 69.07
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 471,
+        "voting_participation_pct": 74.64
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 471,
+    "voting_participation_pct": 74.64
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 17,
+        "debates_participated": 9,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 62,
+        "debates_participated": 44,
+        "oral_questions": 4,
+        "written_questions": 9
+      },
+      "2026": {
+        "debate_contributions": 44,
+        "debates_participated": 28,
+        "oral_questions": 2,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 123,
+    "debates_participated": 81,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 14
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 123,
+    "voting_participation_pct": 86.85,
+    "written_questions": 14
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "justice"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/colchester.json",
+    "id": 3991,
+    "name": "Colchester",
+    "ons_code": "E14001176",
+    "slug": "colchester"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "pam.cox.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.pamcox.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/pamcoxlabour"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/PamCoxForColchester"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5042
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5042,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Pam Cox",
+    "full_title": "Pam Cox MP",
+    "list_as": "Cox, Pam"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Colchester",
+        "constituency_id": 3991,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Pam Cox is the Labour MP for <a href='/constituency/3991/overview'>Colchester</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5042/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 288,
+        "voting_participation_pct": 89.44
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 193,
+        "voting_participation_pct": 81.78
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 548,
+        "voting_participation_pct": 86.85
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 548,
+    "voting_participation_pct": 86.85
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 2335.1,
+    "bng": {
+      "easting": 586133,
+      "northing": 187496
+    },
+    "centroid": {
+      "latitude": 51.55564,
+      "longitude": 0.683588
+    },
+    "geojson": "constituencies/boundaries/southend-west-and-leigh.geojson",
+    "ons_code": "E14001502",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5106.json",
+    "member_id": 5106,
+    "name": "David Burton-Sampson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75154,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1949,
+      "result": "Lab Gain",
+      "turnout": 46968,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4317,
+  "is_current": true,
+  "name": "Southend West and Leigh",
+  "name_cy": null,
+  "ons_code": "E14001502",
+  "outcodes": [
+    "SS0",
+    "SS2",
+    "SS22",
+    "SS9",
+    "SS99"
+  ],
+  "schema_version": 1,
+  "slug": "southend-west-and-leigh",
+  "start_date": "2024-05-31"
+}

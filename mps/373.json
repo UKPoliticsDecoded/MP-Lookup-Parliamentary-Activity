@@ -1,0 +1,316 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 134,
+        "debates_participated": 54,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 109
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 119,
+        "debates_participated": 58,
+        "oral_questions": 14,
+        "written_questions": 78
+      },
+      "2022": {
+        "debate_contributions": 110,
+        "debates_participated": 41,
+        "oral_questions": 4,
+        "written_questions": 122
+      },
+      "2023": {
+        "debate_contributions": 93,
+        "debates_participated": 56,
+        "oral_questions": 9,
+        "written_questions": 54
+      },
+      "2024": {
+        "debate_contributions": 97,
+        "debates_participated": 43,
+        "oral_questions": 8,
+        "written_questions": 33
+      },
+      "2025": {
+        "debate_contributions": 132,
+        "debates_participated": 57,
+        "oral_questions": 16,
+        "written_questions": 36
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 93,
+        "debates_participated": 39,
+        "oral_questions": 4,
+        "written_questions": 84
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 778,
+    "debates_participated": 348,
+    "early_day_motions": 1,
+    "oral_questions": 61,
+    "petitions_presented": 0,
+    "written_questions": 516
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 778,
+    "voting_participation_pct": 62.68,
+    "written_questions": 516
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Strategic Litigation Against Public Participation Bill",
+      "committee_id": 724,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Strategic Litigation Against Public Participation Bill",
+        "committee_id": 724,
+        "file": "committees/strategic-litigation-against-public-participation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "strategic-litigation-against-public-participation-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/goole-and-pocklington.json",
+    "id": 4065,
+    "name": "Goole and Pocklington",
+    "ons_code": "E14001250",
+    "slug": "goole-and-pocklington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "david.davis.mp@parliament.uk",
+      "phone": "020 7219 5900",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "83 Pasture Road, Goole, East Riding of Yorkshire",
+      "phone": "01405 767969",
+      "postcode": "DN14 6BP",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 373
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 373,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2008-07-10",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "David Davis",
+    "full_title": "Rt Hon David Davis MP",
+    "list_as": "Davis, David"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Exiting the European Union ",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union",
+        "end_date": "2018-07-08",
+        "is_current": false,
+        "name": "Secretary of State for Exiting the European Union",
+        "start_date": "2016-07-13"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "1997-05-02",
+        "is_current": false,
+        "name": "Minister of State (Foreign and Commonwealth Office)",
+        "start_date": "1994-07-20"
+      },
+      {
+        "department": "Duchy of Lancaster Office",
+        "department_url": null,
+        "end_date": "1994-07-19",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Duchy of Lancaster Office)",
+        "start_date": "1993-05-27"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "1993-05-27",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "1990-12-03"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2008-06-12",
+        "is_current": false,
+        "name": "Shadow Secretary of State (Home Office)",
+        "start_date": "2003-11-10"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2003-11-10",
+        "is_current": false,
+        "name": "Shadow Lord Chancellor and Shadow Secretary of State for Justice (also Shadow Minister for London)",
+        "start_date": "2002-07-23"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2002-07-23",
+        "is_current": false,
+        "name": "Shadow Minister without Portfolio",
+        "start_date": "2001-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "1987-06-11"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Goole and Pocklington",
+        "constituency_id": 4065,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Haltemprice and Howden",
+        "constituency_id": 3510,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Haltemprice and Howden",
+        "constituency_id": 1349,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Boothferry",
+        "constituency_id": 367,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "1987-06-11"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon David Davis is the Conservative MP for <a href='/constituency/4065/overview'>Goole and Pocklington</a>, and has been an MP continually since 10 July 2008.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/373/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 167,
+        "voting_participation_pct": 87.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 108,
+        "voting_participation_pct": 43.03
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 192,
+        "voting_participation_pct": 75.0
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 127,
+        "voting_participation_pct": 63.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 132,
+        "voting_participation_pct": 40.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 141,
+        "voting_participation_pct": 59.75
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 758,
+        "voting_participation_pct": 70.97
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 307,
+        "voting_participation_pct": 48.65
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1065,
+    "voting_participation_pct": 62.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

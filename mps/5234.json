@@ -1,0 +1,353 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 98,
+        "debates_participated": 37,
+        "oral_questions": 3,
+        "written_questions": 111
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 198,
+        "debates_participated": 106,
+        "oral_questions": 4,
+        "written_questions": 196
+      },
+      "2026": {
+        "debate_contributions": 106,
+        "debates_participated": 42,
+        "oral_questions": 4,
+        "written_questions": 49
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 402,
+    "debates_participated": 185,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 356
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 402,
+    "voting_participation_pct": 87.32,
+    "written_questions": 356
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+      "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Railways Bill",
+      "committee_id": 823,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 131,
+      "meetings_available": 131
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
+        "committee_id": 847,
+        "file": "committees/civil-aviation-consumer-protection-and-regulatory-reform-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Railways Bill",
+        "committee_id": 823,
+        "file": "committees/railways-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "railways-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "transport"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/birmingham-northfield.json",
+    "id": 3912,
+    "name": "Birmingham Northfield",
+    "ons_code": "E14001097",
+    "slug": "birmingham-northfield"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "laurence.turner.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "The Factory Young People's Centre, 5 Devon Way, Longbridge, Birmingham",
+      "phone": "0121 516 5770",
+      "postcode": "B31 2TS",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://laurence4northfield.com/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/larry-turner.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Laurence4Northfield/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/laurence4northfield/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/larry_turner"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5234
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5234,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Laurence Turner",
+    "full_title": "Laurence Turner MP",
+    "list_as": "Turner, Laurence"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Assistant Whip",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Assistant Whip"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham Northfield",
+        "constituency_id": 3912,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Laurence Turner is the Labour MP for <a href='/constituency/3912/overview'>Birmingham Northfield</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Assistant Whip.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5234/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 289,
+        "voting_participation_pct": 89.75
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 195,
+        "voting_participation_pct": 82.63
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 551,
+        "voting_participation_pct": 87.32
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 551,
+    "voting_participation_pct": 87.32
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

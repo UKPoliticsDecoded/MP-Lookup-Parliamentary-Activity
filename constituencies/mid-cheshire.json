@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 10499.1,
+    "bng": {
+      "easting": 365660,
+      "northing": 368705
+    },
+    "centroid": {
+      "latitude": 53.2143,
+      "longitude": -2.51568
+    },
+    "geojson": "constituencies/boundaries/mid-cheshire.geojson",
+    "ons_code": "E14001361",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5195.json",
+    "member_id": 5195,
+    "name": "Andrew Cooper",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70384,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8927,
+      "result": "Lab Gain",
+      "turnout": 41509,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4176,
+  "is_current": true,
+  "name": "Mid Cheshire",
+  "name_cy": null,
+  "ons_code": "E14001361",
+  "outcodes": [
+    "CW10",
+    "CW6",
+    "CW7",
+    "CW8",
+    "CW9"
+  ],
+  "schema_version": 1,
+  "slug": "mid-cheshire",
+  "start_date": "2024-05-31"
+}

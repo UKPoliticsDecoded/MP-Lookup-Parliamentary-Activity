@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 805.3,
+    "bng": {
+      "easting": 533980,
+      "northing": 179401
+    },
+    "centroid": {
+      "latitude": 51.49768,
+      "longitude": -0.07124
+    },
+    "geojson": "constituencies/boundaries/bermondsey-and-old-southwark.geojson",
+    "ons_code": "E14001085",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4368.json",
+    "member_id": 4368,
+    "name": "Neil Coyle",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69482,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7787,
+      "result": "Lab Hold",
+      "turnout": 37603,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3318,
+      "end_date": "2024-05-30",
+      "member_id": 4368,
+      "name": "Neil Coyle",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3900,
+  "is_current": true,
+  "name": "Bermondsey and Old Southwark",
+  "name_cy": null,
+  "ons_code": "E14001085",
+  "outcodes": [
+    "SE1",
+    "SE11",
+    "SE16",
+    "SE1P",
+    "SE8"
+  ],
+  "schema_version": 1,
+  "slug": "bermondsey-and-old-southwark",
+  "start_date": "2024-05-31"
+}

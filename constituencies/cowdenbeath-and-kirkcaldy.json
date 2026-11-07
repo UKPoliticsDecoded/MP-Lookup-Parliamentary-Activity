@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 14799.5,
+    "bng": {
+      "easting": 320590,
+      "northing": 688187
+    },
+    "centroid": {
+      "latitude": 56.07986,
+      "longitude": -3.27747
+    },
+    "geojson": "constituencies/boundaries/cowdenbeath-and-kirkcaldy.geojson",
+    "ons_code": "S14000071",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5240.json",
+    "member_id": 5240,
+    "name": "Melanie Ward",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71845,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7248,
+      "result": "Lab Gain",
+      "turnout": 40814,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4460,
+  "is_current": true,
+  "name": "Cowdenbeath and Kirkcaldy",
+  "name_cy": null,
+  "ons_code": "S14000071",
+  "outcodes": [
+    "KY1",
+    "KY11",
+    "KY12",
+    "KY2",
+    "KY3",
+    "KY4",
+    "KY5"
+  ],
+  "schema_version": 1,
+  "slug": "cowdenbeath-and-kirkcaldy",
+  "start_date": "2024-05-31"
+}

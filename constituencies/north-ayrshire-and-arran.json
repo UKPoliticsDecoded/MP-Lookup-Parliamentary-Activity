@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 81500.1,
+    "bng": {
+      "easting": 195921,
+      "northing": 636366
+    },
+    "centroid": {
+      "latitude": 55.57807,
+      "longitude": -5.23906
+    },
+    "geojson": "constituencies/boundaries/north-ayrshire-and-arran.geojson",
+    "ons_code": "S14000048",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5145.json",
+    "member_id": 5145,
+    "name": "Irene Campbell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72176,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3551,
+      "result": "Lab Gain",
+      "turnout": 42262,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 2104,
+      "end_date": "2024-05-30",
+      "member_id": 4435,
+      "name": "Patricia Gibson",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4446,
+  "is_current": true,
+  "name": "North Ayrshire and Arran",
+  "name_cy": null,
+  "ons_code": "S14000048",
+  "outcodes": [
+    "G78",
+    "KA13",
+    "KA14",
+    "KA15",
+    "KA20",
+    "KA21",
+    "KA22",
+    "KA23",
+    "KA24",
+    "KA25",
+    "KA27",
+    "KA28",
+    "KA29",
+    "KA3",
+    "KA30",
+    "PA17"
+  ],
+  "schema_version": 1,
+  "slug": "north-ayrshire-and-arran",
+  "start_date": "2024-05-31"
+}

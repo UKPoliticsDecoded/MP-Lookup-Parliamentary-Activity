@@ -1,0 +1,396 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 10,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 155,
+        "debates_participated": 91,
+        "early_day_motions": 48,
+        "oral_questions": 13,
+        "written_questions": 196
+      },
+      "2026": {
+        "debate_contributions": 95,
+        "debates_participated": 74,
+        "early_day_motions": 38,
+        "oral_questions": 14,
+        "written_questions": 189
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 264,
+    "debates_participated": 175,
+    "early_day_motions": 89,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 387
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 6,
+    "debate_contributions": 264,
+    "voting_participation_pct": 88.91,
+    "written_questions": 387
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Court of Referees",
+      "committee_id": 780,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "General Cemetery Bill [HL]",
+      "committee_id": 811,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Norwich Livestock Market Bill [HL]",
+      "committee_id": 793,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Royal Albert Hall Bill [HL]",
+      "committee_id": 764,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Court of Referees",
+        "committee_id": 780,
+        "file": "committees/court-of-referees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-27"
+          }
+        ],
+        "slug": "court-of-referees"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-01"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "General Cemetery Bill [HL]",
+        "committee_id": 811,
+        "file": "committees/general-cemetery-bill-hl.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-16"
+          }
+        ],
+        "slug": "general-cemetery-bill-hl"
+      },
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-05-18"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Norwich Livestock Market Bill [HL]",
+        "committee_id": 793,
+        "file": "committees/norwich-livestock-market-bill-hl.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "norwich-livestock-market-bill-hl"
+      },
+      {
+        "committee": "Royal Albert Hall Bill [HL]",
+        "committee_id": 764,
+        "file": "committees/royal-albert-hall-bill-hl-764.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-17"
+          }
+        ],
+        "slug": "royal-albert-hall-bill-hl-764"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      },
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/falkirk.json",
+    "id": 4472,
+    "name": "Falkirk",
+    "ons_code": "S14000083",
+    "slug": "falkirk"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "euan.stainbank.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "16-18 Newmarket Street, Falkirk",
+      "phone": "01324 868 715",
+      "postcode": "FK1 1JQ",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5110
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5110,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Euan Stainbank",
+    "full_title": "Euan Stainbank MP",
+    "list_as": "Stainbank, Euan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Falkirk",
+        "constituency_id": 4472,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Euan Stainbank is the Labour MP for <a href='/constituency/4472/overview'>Falkirk</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5110/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 291,
+        "voting_participation_pct": 90.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 202,
+        "voting_participation_pct": 85.59
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 561,
+        "voting_participation_pct": 88.91
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 561,
+    "voting_participation_pct": 88.91
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

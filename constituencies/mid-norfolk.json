@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 83837.8,
+    "bng": {
+      "easting": 596334,
+      "northing": 308514
+    },
+    "centroid": {
+      "latitude": 52.63886,
+      "longitude": 0.900213
+    },
+    "geojson": "constituencies/boundaries/mid-norfolk.geojson",
+    "ons_code": "E14001365",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4020.json",
+    "member_id": 4020,
+    "name": "George Freeman",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75238,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3054,
+      "result": "Con Hold",
+      "turnout": 45897,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3606,
+      "end_date": "2024-05-30",
+      "member_id": 4020,
+      "name": "George Freeman",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4180,
+  "is_current": true,
+  "name": "Mid Norfolk",
+  "name_cy": null,
+  "ons_code": "E14001365",
+  "outcodes": [
+    "IP24",
+    "IP25",
+    "NR16",
+    "NR17",
+    "NR18",
+    "NR19",
+    "NR20",
+    "NR21",
+    "NR9",
+    "PE32",
+    "PE37"
+  ],
+  "schema_version": 1,
+  "slug": "mid-norfolk",
+  "start_date": "2024-05-31"
+}

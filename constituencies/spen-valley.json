@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 6203.6,
+    "bng": {
+      "easting": 419827,
+      "northing": 423734
+    },
+    "centroid": {
+      "latitude": 53.70967,
+      "longitude": -1.7011
+    },
+    "geojson": "constituencies/boundaries/spen-valley.geojson",
+    "ons_code": "E14001506",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4923.json",
+    "member_id": 4923,
+    "name": "Kim Leadbeater",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72642,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6188,
+      "result": "Lab Gain",
+      "turnout": 41058,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4321,
+  "is_current": true,
+  "name": "Spen Valley",
+  "name_cy": null,
+  "ons_code": "E14001506",
+  "outcodes": [
+    "BD11",
+    "BD12",
+    "BD19",
+    "BD4",
+    "HD5",
+    "WF13",
+    "WF14",
+    "WF15",
+    "WF16",
+    "WF17"
+  ],
+  "schema_version": 1,
+  "slug": "spen-valley",
+  "start_date": "2024-05-31"
+}

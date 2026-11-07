@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 3130.5,
+    "bng": {
+      "easting": 436265,
+      "northing": 333095
+    },
+    "centroid": {
+      "latitude": 52.8941,
+      "longitude": -1.46239
+    },
+    "geojson": "constituencies/boundaries/derby-south.geojson",
+    "ons_code": "E14001194",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5176.json",
+    "member_id": 5176,
+    "name": "Baggy Shanker",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72944,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6002,
+      "result": "Lab Hold",
+      "turnout": 37399,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4009,
+  "is_current": true,
+  "name": "Derby South",
+  "name_cy": null,
+  "ons_code": "E14001194",
+  "outcodes": [
+    "DE1",
+    "DE21",
+    "DE22",
+    "DE23",
+    "DE24",
+    "DE72",
+    "DE73",
+    "DE74",
+    "DE99"
+  ],
+  "schema_version": 1,
+  "slug": "derby-south",
+  "start_date": "2024-05-31"
+}

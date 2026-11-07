@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 3077.2,
+    "bng": {
+      "easting": 395594,
+      "northing": 297005
+    },
+    "centroid": {
+      "latitude": 52.57086,
+      "longitude": -2.06643
+    },
+    "geojson": "constituencies/boundaries/wolverhampton-south-east.geojson",
+    "ons_code": "E14001595",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1587.json",
+    "member_id": 1587,
+    "name": "Pat McFadden",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77473,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9188,
+      "result": "Lab Hold",
+      "turnout": 33382,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3863,
+      "end_date": "2024-05-30",
+      "member_id": 1587,
+      "name": "Pat McFadden",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 3222,
+      "end_date": "2010-05-06",
+      "member_id": 1587,
+      "name": "Pat McFadden",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4410,
+  "is_current": true,
+  "name": "Wolverhampton South East",
+  "name_cy": null,
+  "ons_code": "E14001595",
+  "outcodes": [
+    "DY3",
+    "WS10",
+    "WS2",
+    "WV1",
+    "WV11",
+    "WV13",
+    "WV14",
+    "WV2",
+    "WV4"
+  ],
+  "schema_version": 1,
+  "slug": "wolverhampton-south-east",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,214 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 28,
+        "oral_questions": 6,
+        "written_questions": 34
+      },
+      "2025": {
+        "debate_contributions": 124,
+        "debates_participated": 80,
+        "oral_questions": 7,
+        "written_questions": 33
+      },
+      "2026": {
+        "debate_contributions": 74,
+        "debates_participated": 40,
+        "oral_questions": 2,
+        "written_questions": 13
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 235,
+    "debates_participated": 148,
+    "early_day_motions": 0,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 80
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 235,
+    "voting_participation_pct": 76.39,
+    "written_questions": 80
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-03"
+          }
+        ],
+        "slug": "ecclesiastical"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cowdenbeath-and-kirkcaldy.json",
+    "id": 4460,
+    "name": "Cowdenbeath and Kirkcaldy",
+    "ons_code": "S14000071",
+    "slug": "cowdenbeath-and-kirkcaldy"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "melanie.ward.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "287-289 High Street, Kirkcaldy, Fife",
+      "postcode": "KY1 1JH",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/MelanieWardMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5240
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5240,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Melanie Ward",
+    "full_title": "Melanie Ward MP",
+    "list_as": "Ward, Melanie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Scotland Office)",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Scotland Office)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cowdenbeath and Kirkcaldy",
+        "constituency_id": 4460,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Melanie Ward is the Labour MP for <a href='/constituency/4460/overview'>Cowdenbeath and Kirkcaldy</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Parliamentary Under-Secretary (Scotland Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5240/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 240,
+        "voting_participation_pct": 74.53
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 482,
+        "voting_participation_pct": 76.39
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 482,
+    "voting_participation_pct": 76.39
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

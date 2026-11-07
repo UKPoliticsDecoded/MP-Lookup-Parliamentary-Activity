@@ -1,0 +1,85 @@
+{
+  "boundary": {
+    "area_hectares": 753.7,
+    "bng": {
+      "easting": 530597,
+      "northing": 186352
+    },
+    "centroid": {
+      "latitude": 51.56093,
+      "longitude": -0.11737
+    },
+    "geojson": "constituencies/boundaries/islington-north.geojson",
+    "ons_code": "E14001305",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/185.json",
+    "member_id": 185,
+    "name": "Jeremy Corbyn",
+    "party": "Your Party",
+    "party_abbreviation": "YP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72852,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7247,
+      "result": "Ind Gain",
+      "turnout": 49006,
+      "winning_party": "Independent",
+      "winning_party_id": 8
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3549,
+      "end_date": "2024-05-30",
+      "member_id": 185,
+      "name": "Jeremy Corbyn",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1583,
+      "end_date": "2010-05-06",
+      "member_id": 185,
+      "name": "Jeremy Corbyn",
+      "start_date": "1997-05-01"
+    },
+    {
+      "constituency_version_id": 1582,
+      "end_date": "1997-05-01",
+      "member_id": 185,
+      "name": "Jeremy Corbyn",
+      "start_date": "1983-06-09"
+    }
+  ],
+  "id": 4120,
+  "is_current": true,
+  "name": "Islington North",
+  "name_cy": null,
+  "ons_code": "E14001305",
+  "outcodes": [
+    "E8",
+    "N1",
+    "N15",
+    "N16",
+    "N19",
+    "N4",
+    "N5",
+    "N6",
+    "N7",
+    "N8",
+    "NW5"
+  ],
+  "schema_version": 1,
+  "slug": "islington-north",
+  "start_date": "2024-05-31"
+}

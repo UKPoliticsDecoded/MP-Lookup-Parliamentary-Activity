@@ -1,0 +1,390 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 93,
+        "debates_participated": 65,
+        "oral_questions": 27,
+        "written_questions": 2
+      },
+      "2021": {
+        "debate_contributions": 83,
+        "debates_participated": 61,
+        "oral_questions": 25,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 79,
+        "debates_participated": 63,
+        "oral_questions": 15,
+        "written_questions": 3
+      },
+      "2023": {
+        "debate_contributions": 77,
+        "debates_participated": 57,
+        "oral_questions": 23,
+        "written_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 35,
+        "debates_participated": 26,
+        "oral_questions": 13,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 367,
+    "debates_participated": 272,
+    "early_day_motions": 0,
+    "oral_questions": 103,
+    "petitions_presented": 0,
+    "written_questions": 12
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 367,
+    "voting_participation_pct": 92.13,
+    "written_questions": 12
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Conference (2022)",
+      "committee_id": 609,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "UK Infrastructure Bank Bill [Lords]",
+      "committee_id": 625,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-02-25"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Speaker's Conference (2022)",
+        "committee_id": 609,
+        "file": "committees/speaker-s-conference-2022.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "speaker-s-conference-2022"
+      },
+      {
+        "committee": "UK Infrastructure Bank Bill [Lords]",
+        "committee_id": 625,
+        "file": "committees/uk-infrastructure-bank-bill-lords.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "uk-infrastructure-bank-bill-lords"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3516,
+    "name": "Harrogate and Knaresborough"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3996
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3996,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Andrew Jones",
+    "display": "Andrew Jones",
+    "full_title": "Andrew Jones",
+    "list_as": "Jones, Andrew"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2019-07-26",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2018-11-13"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2018-01-08",
+        "is_current": false,
+        "name": "Exchequer Secretary (HM Treasury)",
+        "start_date": "2017-06-15"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2017-06-15",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2015-05-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2018-11-13",
+        "is_current": false,
+        "name": "Vice-Chair, Conservative Party",
+        "start_date": "2018-01-08"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4084,
+        "name": "Harrogate and Knaresborough",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1381,
+        "name": "Harrogate and Knaresborough",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Harrogate and Knaresborough",
+        "constituency_id": 3516,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Andrew Jones is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3516/overview'>Harrogate and Knaresborough</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3996/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 185,
+        "voting_participation_pct": 97.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 226,
+        "voting_participation_pct": 90.04
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 233,
+        "voting_participation_pct": 91.02
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 119,
+        "voting_participation_pct": 93.7
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 984,
+        "voting_participation_pct": 92.13
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 984,
+    "voting_participation_pct": 92.13
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

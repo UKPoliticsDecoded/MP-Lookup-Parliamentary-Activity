@@ -1,0 +1,86 @@
+{
+  "boundary": {
+    "area_hectares": 26263.5,
+    "bng": {
+      "easting": 342047,
+      "northing": 408082
+    },
+    "centroid": {
+      "latitude": 53.56614,
+      "longitude": -2.87649
+    },
+    "geojson": "constituencies/boundaries/west-lancashire.geojson",
+    "ons_code": "E14001577",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4981.json",
+    "member_id": 4981,
+    "name": "Ashley Dalton",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74081,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13625,
+      "result": "Lab Hold",
+      "turnout": 44200,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3845,
+      "end_date": "2024-05-30",
+      "member_id": 4981,
+      "name": "Ashley Dalton",
+      "start_date": "2023-02-09"
+    },
+    {
+      "constituency_version_id": 3845,
+      "end_date": "2022-12-01",
+      "member_id": 1538,
+      "name": "Rosie Cooper",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 3129,
+      "end_date": "2010-05-06",
+      "member_id": 1538,
+      "name": "Rosie Cooper",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4392,
+  "is_current": true,
+  "name": "West Lancashire",
+  "name_cy": null,
+  "ons_code": "E14001577",
+  "outcodes": [
+    "L31",
+    "L33",
+    "L37",
+    "L39",
+    "L40",
+    "PR7",
+    "PR8",
+    "PR9",
+    "WA11",
+    "WN5",
+    "WN6",
+    "WN8"
+  ],
+  "schema_version": 1,
+  "slug": "west-lancashire",
+  "start_date": "2024-05-31"
+}

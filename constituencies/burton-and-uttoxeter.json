@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 24273.5,
+    "bng": {
+      "easting": 404371,
+      "northing": 334742
+    },
+    "centroid": {
+      "latitude": 52.9101,
+      "longitude": -1.93644
+    },
+    "geojson": "constituencies/boundaries/burton-and-uttoxeter.geojson",
+    "ons_code": "E14001143",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5077.json",
+    "member_id": 5077,
+    "name": "Jacob Collier",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77994,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2266,
+      "result": "Lab Gain",
+      "turnout": 45627,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3958,
+  "is_current": true,
+  "name": "Burton and Uttoxeter",
+  "name_cy": null,
+  "ons_code": "E14001143",
+  "outcodes": [
+    "DE13",
+    "DE14",
+    "DE15",
+    "DE6",
+    "ST10",
+    "ST14",
+    "ST18"
+  ],
+  "schema_version": 1,
+  "slug": "burton-and-uttoxeter",
+  "start_date": "2024-05-31"
+}

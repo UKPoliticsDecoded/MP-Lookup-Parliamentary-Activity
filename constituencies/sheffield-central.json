@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 1253.0,
+    "bng": {
+      "easting": 434326,
+      "northing": 386259
+    },
+    "centroid": {
+      "latitude": 53.3721,
+      "longitude": -1.48554
+    },
+    "geojson": "constituencies/boundaries/sheffield-central.geojson",
+    "ons_code": "E14001467",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5142.json",
+    "member_id": 5142,
+    "name": "Abtisam Mohamed",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 60594,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8286,
+      "result": "Lab Hold",
+      "turnout": 31803,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3722,
+      "end_date": "2024-05-30",
+      "member_id": 4058,
+      "name": "Paul Blomfield",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4282,
+  "is_current": true,
+  "name": "Sheffield Central",
+  "name_cy": null,
+  "ons_code": "E14001467",
+  "outcodes": [
+    "S1",
+    "S10",
+    "S11",
+    "S2",
+    "S3",
+    "S4",
+    "S6",
+    "S7",
+    "S8",
+    "S9",
+    "S98"
+  ],
+  "schema_version": 1,
+  "slug": "sheffield-central",
+  "start_date": "2024-05-31"
+}

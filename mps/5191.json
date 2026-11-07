@@ -1,0 +1,148 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 10,
+        "debates_participated": 8,
+        "early_day_motions": 10,
+        "written_questions": 25
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 72,
+        "debates_participated": 45,
+        "early_day_motions": 12,
+        "oral_questions": 1,
+        "written_questions": 283
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 147,
+        "debates_participated": 101,
+        "early_day_motions": 22,
+        "oral_questions": 3,
+        "written_questions": 415
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 229,
+    "debates_participated": 154,
+    "early_day_motions": 44,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 723
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 229,
+    "voting_participation_pct": 70.84,
+    "written_questions": 723
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/yeovil.json",
+    "id": 4418,
+    "name": "Yeovil",
+    "ons_code": "E14001603",
+    "slug": "yeovil"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "adam.dance.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5191
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5191,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Adam Dance",
+    "full_title": "Adam Dance MP",
+    "list_as": "Dance, Adam"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Yeovil",
+        "constituency_id": 4418,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Adam Dance is the Liberal Democrat MP for <a href='/constituency/4418/overview'>Yeovil</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5191/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 41,
+        "voting_participation_pct": 56.16
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 237,
+        "voting_participation_pct": 73.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 447,
+        "voting_participation_pct": 70.84
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 447,
+    "voting_participation_pct": 70.84
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 103381.8,
+    "bng": {
+      "easting": 400859,
+      "northing": 214079
+    },
+    "centroid": {
+      "latitude": 51.82533,
+      "longitude": -1.98893
+    },
+    "geojson": "constituencies/boundaries/north-cotswolds.geojson",
+    "ons_code": "E14001386",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/249.json",
+    "member_id": 249,
+    "name": "Sir Geoffrey Clifton-Brown",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73203,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3357,
+      "result": "Con Hold",
+      "turnout": 50229,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4201,
+  "is_current": true,
+  "name": "North Cotswolds",
+  "name_cy": null,
+  "ons_code": "E14001386",
+  "outcodes": [
+    "GL10",
+    "GL2",
+    "GL3",
+    "GL4",
+    "GL5",
+    "GL51",
+    "GL53",
+    "GL54",
+    "GL55",
+    "GL56",
+    "GL6",
+    "GL7",
+    "OX18",
+    "OX7",
+    "WR11",
+    "WR12"
+  ],
+  "schema_version": 1,
+  "slug": "north-cotswolds",
+  "start_date": "2024-05-31"
+}

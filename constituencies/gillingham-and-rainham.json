@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 2970.5,
+    "bng": {
+      "easting": 580021,
+      "northing": 165777
+    },
+    "centroid": {
+      "latitude": 51.36253,
+      "longitude": 0.584473
+    },
+    "geojson": "constituencies/boundaries/gillingham-and-rainham.geojson",
+    "ons_code": "E14001246",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5215.json",
+    "member_id": 5215,
+    "name": "Naushabah Khan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73523,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3972,
+      "result": "Lab Gain",
+      "turnout": 41140,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3496,
+      "end_date": "2024-05-30",
+      "member_id": 3987,
+      "name": "Rehman Chishti",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4061,
+  "is_current": true,
+  "name": "Gillingham and Rainham",
+  "name_cy": null,
+  "ons_code": "E14001246",
+  "outcodes": [
+    "ME5",
+    "ME7",
+    "ME8",
+    "ME9"
+  ],
+  "schema_version": 1,
+  "slug": "gillingham-and-rainham",
+  "start_date": "2024-05-31"
+}

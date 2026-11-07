@@ -1,0 +1,200 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 5,
+        "debates_participated": 5
+      },
+      "2025": {
+        "debate_contributions": 53,
+        "debates_participated": 38,
+        "oral_questions": 12,
+        "written_questions": 6
+      },
+      "2026": {
+        "debate_contributions": 30,
+        "debates_participated": 18,
+        "oral_questions": 6,
+        "written_questions": 23
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 88,
+    "debates_participated": 61,
+    "early_day_motions": 0,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 29
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 88,
+    "voting_participation_pct": 84.63,
+    "written_questions": 29
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/smethwick.json",
+    "id": 4293,
+    "name": "Smethwick",
+    "ons_code": "E14001478",
+    "slug": "smethwick"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "gurinder.josan.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Brandhall Labour Club, Tame Road, Oldbury",
+      "email": "cs@gsjosan.co.uk",
+      "phone": "0121 423 2933",
+      "postcode": "B68 0JT",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5059
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5059,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Gurinder Singh Josan",
+    "display": "Gurinder Singh Josan",
+    "full_title": "Gurinder Singh Josan MP",
+    "list_as": "Josan, Gurinder Singh"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Smethwick",
+        "constituency_id": 4293,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Gurinder Singh Josan is the Labour MP for <a href='/constituency/4293/overview'>Smethwick</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5059/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 283,
+        "voting_participation_pct": 87.89
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 183,
+        "voting_participation_pct": 77.54
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 534,
+        "voting_participation_pct": 84.63
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 534,
+    "voting_participation_pct": 84.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

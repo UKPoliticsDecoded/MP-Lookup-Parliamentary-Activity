@@ -1,0 +1,269 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 15,
+        "debates_participated": 12,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 11
+      },
+      "2025": {
+        "debate_contributions": 49,
+        "debates_participated": 28,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 24
+      },
+      "2026": {
+        "debate_contributions": 52,
+        "debates_participated": 32,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 23
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 116,
+    "debates_participated": 72,
+    "early_day_motions": 4,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 58
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 116,
+    "voting_participation_pct": 82.09,
+    "written_questions": 58
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+      "committee_id": 749,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-17"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+        "committee_id": 749,
+        "file": "committees/non-domestic-rating-multipliers-and-private-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "non-domestic-rating-multipliers-and-private-schools-bill"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/sherwood-forest.json",
+    "id": 4286,
+    "name": "Sherwood Forest",
+    "ons_code": "E14001471",
+    "slug": "sherwood-forest"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "michelle.welsh.mp@parliament.uk",
+      "phone": "020 7219 7704",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Under One Roof , 3A Vine Terrace, Hucknall",
+      "phone": "0115 646 6219",
+      "postcode": "NG15 7HN ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.michellewelshmp.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/MichelleWelshMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/michellewelshmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/MichelleWelshMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5226
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5226,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Michelle Welsh",
+    "full_title": "Michelle Welsh MP",
+    "list_as": "Welsh, Michelle"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sherwood Forest",
+        "constituency_id": 4286,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Michelle Welsh is the Labour MP for <a href='/constituency/4286/overview'>Sherwood Forest</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5226/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 258,
+        "voting_participation_pct": 80.12
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 192,
+        "voting_participation_pct": 81.36
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 518,
+        "voting_participation_pct": 82.09
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 518,
+    "voting_participation_pct": 82.09
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

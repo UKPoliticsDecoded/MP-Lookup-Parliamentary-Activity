@@ -1,0 +1,206 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 45,
+        "debates_participated": 9,
+        "written_questions": 9
+      },
+      "2021": {
+        "debate_contributions": 28,
+        "debates_participated": 13,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2022": {
+        "debate_contributions": 29,
+        "debates_participated": 17
+      },
+      "2023": {
+        "debate_contributions": 24,
+        "debates_participated": 19,
+        "written_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 17,
+        "debates_participated": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 143,
+    "debates_participated": 67,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 27
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 143,
+    "voting_participation_pct": 64.7,
+    "written_questions": 27
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3705,
+    "name": "Rossendale and Darwen"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4060
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4060,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sir Jake Berry",
+    "full_title": "Sir Jake Berry",
+    "list_as": "Berry, Sir Jake"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Minister without Portfolio (Cabinet Office)",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Minister of State (Cabinet Office) (jointly with the Ministry of Housing, Communities and Local Government)",
+        "start_date": "2019-07-25"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2019-06-07"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2019-07-25",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2018-01-08"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Communities and Local Government)",
+        "start_date": "2017-06-14"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4265,
+        "name": "Rossendale and Darwen",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rossendale and Darwen",
+        "constituency_id": 3705,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Sir Jake Berry is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3705/overview'>Rossendale and Darwen</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4060/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 172,
+        "voting_participation_pct": 90.53
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 179,
+        "voting_participation_pct": 73.97
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 139,
+        "voting_participation_pct": 55.38
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 124,
+        "voting_participation_pct": 48.44
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 75,
+        "voting_participation_pct": 59.06
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 691,
+        "voting_participation_pct": 64.7
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 691,
+    "voting_participation_pct": 64.7
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

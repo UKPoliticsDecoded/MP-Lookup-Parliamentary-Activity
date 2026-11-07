@@ -1,0 +1,581 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "bills_sponsored": 4,
+        "debate_contributions": 203,
+        "debates_participated": 116,
+        "early_day_motions": 19,
+        "oral_questions": 16,
+        "written_questions": 85
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 132,
+        "debates_participated": 84,
+        "early_day_motions": 5,
+        "oral_questions": 17,
+        "written_questions": 30
+      },
+      "2022": {
+        "bills_sponsored": 3,
+        "debate_contributions": 134,
+        "debates_participated": 97,
+        "early_day_motions": 14,
+        "oral_questions": 13,
+        "written_questions": 52
+      },
+      "2023": {
+        "bills_sponsored": 2,
+        "debate_contributions": 164,
+        "debates_participated": 99,
+        "early_day_motions": 16,
+        "oral_questions": 25,
+        "written_questions": 43
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 160,
+        "debates_participated": 126,
+        "early_day_motions": 33,
+        "oral_questions": 19,
+        "written_questions": 29
+      },
+      "2025": {
+        "debate_contributions": 213,
+        "debates_participated": 136,
+        "early_day_motions": 25,
+        "oral_questions": 21,
+        "written_questions": 43
+      },
+      "2026": {
+        "debate_contributions": 111,
+        "debates_participated": 80,
+        "early_day_motions": 39,
+        "oral_questions": 12,
+        "written_questions": 45
+      }
+    },
+    "bills_sponsored": 13,
+    "debate_contributions": 1118,
+    "debates_participated": 739,
+    "early_day_motions": 151,
+    "oral_questions": 123,
+    "petitions_presented": 0,
+    "written_questions": 327
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 1118,
+    "voting_participation_pct": 62.45,
+    "written_questions": 327
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+      "committee_id": 630,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Special Rules for End of Life) Bill",
+      "committee_id": 718,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Sex-based Harassment in Public Bill",
+      "committee_id": 653,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 37,
+      "meetings_available": 37
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-27"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+        "committee_id": 630,
+        "file": "committees/co-operatives-mutuals-and-friendly-societies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "co-operatives-mutuals-and-friendly-societies-bill"
+      },
+      {
+        "committee": "Pensions (Special Rules for End of Life) Bill",
+        "committee_id": 718,
+        "file": "committees/pensions-special-rules-for-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "pensions-special-rules-for-end-of-life-bill"
+      },
+      {
+        "committee": "Protection from Sex-based Harassment in Public Bill",
+        "committee_id": 653,
+        "file": "committees/protection-from-sex-based-harassment-in-public-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-08"
+          }
+        ],
+        "slug": "protection-from-sex-based-harassment-in-public-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-10-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-21"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/edinburgh-west.json",
+    "id": 4471,
+    "name": "Edinburgh West",
+    "ons_code": "S14000082",
+    "slug": "edinburgh-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "christine.jardine.mp@parliament.uk",
+      "phone": "0207 219 1701",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "125A St John’s Road, Edinburgh",
+      "phone": "0131 285 5972",
+      "postcode": "EH12 7SB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/cajardinemp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CJLibDem/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/christine.jardine.westedin"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4634
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4634,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Christine Jardine",
+    "display": "Christine Jardine",
+    "full_title": "Christine Jardine MP",
+    "list_as": "Jardine, Christine"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Cabinet Office)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-07-09",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Scotland)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-07-09",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Women and Equalities)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Exiting the European Union)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (International Trade)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Treasury)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-06",
+        "is_current": false,
+        "name": "Liberal Democrat Deputy Chief Whip",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Home Affairs)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-10-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Women and Equalities)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-08-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Work and Pensions)",
+        "start_date": "2019-02-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-02-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Scotland)",
+        "start_date": "2017-10-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-10-12",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Culture, Media and Sport)",
+        "start_date": "2017-06-16"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1284,
+        "name": "Gordon",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edinburgh West",
+        "constituency_id": 4471,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Edinburgh West",
+        "constituency_id": 1054,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Christine Jardine is the Liberal Democrat MP for <a href='/constituency/4471/overview'>Edinburgh West</a>, and has been an MP continually since 8 June 2017.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4634/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 149,
+        "voting_participation_pct": 59.36
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 157,
+        "voting_participation_pct": 61.33
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 125,
+        "voting_participation_pct": 62.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 177,
+        "voting_participation_pct": 54.97
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 101,
+        "voting_participation_pct": 42.8
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 747,
+        "voting_participation_pct": 69.94
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 314,
+        "voting_participation_pct": 49.76
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1061,
+    "voting_participation_pct": 62.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

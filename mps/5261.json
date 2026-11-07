@@ -1,0 +1,139 @@
+{
+  "activity": {
+    "annual": {},
+    "bills_sponsored": 0,
+    "debate_contributions": 0,
+    "debates_participated": 0,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 0,
+    "voting_participation_pct": 0.0,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/fermanagh-and-south-tyrone.json",
+    "id": 4427,
+    "name": "Fermanagh and South Tyrone",
+    "ons_code": "N05000007",
+    "slug": "fermanagh-and-south-tyrone"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "pat.cullen.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "028 8556 9250 ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PatCullenSF"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/pat__cullen/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5261
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5261,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Pat Cullen",
+    "full_title": "Pat Cullen MP",
+    "list_as": "Cullen, Pat"
+  },
+  "party": {
+    "abbreviation": "SF",
+    "id": 30,
+    "name": "Sinn Féin"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Sinn Féin",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Fermanagh and South Tyrone",
+        "constituency_id": 4427,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Pat Cullen is the Sinn Féin MP for <a href='/constituency/4427/overview'>Fermanagh and South Tyrone</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5261/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 0,
+    "note": "No recorded votes: typical of the Speaker/Deputy Speakers, abstentionist parties or members with a non-voting role.",
+    "voting_participation_pct": 0.0
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

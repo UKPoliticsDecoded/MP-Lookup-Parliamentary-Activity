@@ -1,0 +1,201 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 32,
+        "debates_participated": 19,
+        "oral_questions": 5,
+        "written_questions": 15
+      },
+      "2025": {
+        "debate_contributions": 73,
+        "debates_participated": 27,
+        "oral_questions": 7
+      },
+      "2026": {
+        "debate_contributions": 46,
+        "debates_participated": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 151,
+    "debates_participated": 50,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 15
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 151,
+    "voting_participation_pct": 65.44,
+    "written_questions": 15
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/makerfield.json",
+    "id": 4165,
+    "name": "Makerfield",
+    "ons_code": "E14001350",
+    "slug": "makerfield"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 5060
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 5060,
+  "membership": {
+    "end_date": "2026-05-18",
+    "end_reason": "Resignation (Chiltern)",
+    "start_date": "2024-07-04",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Josh Simons",
+    "full_title": "Josh Simons",
+    "list_as": "Simons, Josh"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2026-02-28",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Science, Innovation and Technology)",
+        "start_date": "2026-01-09"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2026-02-28",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2026-05-18",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Makerfield",
+        "constituency_id": 4165,
+        "end_date": "2026-05-18",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Josh Simons is no longer a Member, but was most recently the Labour MP for <a href='/constituency/4165/overview'>Makerfield</a>, and left the Commons on 18 May 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5060/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 61,
+        "voting_participation_pct": 83.56
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 120,
+        "divisions_voted": 50,
+        "voting_participation_pct": 41.67
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 515,
+        "divisions_voted": 337,
+        "voting_participation_pct": 65.44
+      }
+    },
+    "divisions_eligible": 515,
+    "divisions_voted": 337,
+    "voting_participation_pct": 65.44
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

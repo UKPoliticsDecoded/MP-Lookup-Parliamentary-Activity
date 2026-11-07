@@ -1,0 +1,394 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 16,
+        "debates_participated": 11,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 52
+      },
+      "2021": {
+        "debate_contributions": 29,
+        "debates_participated": 20,
+        "early_day_motions": 3,
+        "oral_questions": 5,
+        "written_questions": 88
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 68,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "written_questions": 39
+      },
+      "2023": {
+        "debate_contributions": 23,
+        "debates_participated": 14,
+        "early_day_motions": 2,
+        "oral_questions": 3,
+        "written_questions": 48
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 27,
+        "debates_participated": 16,
+        "early_day_motions": 3,
+        "oral_questions": 2,
+        "written_questions": 131
+      },
+      "2025": {
+        "debate_contributions": 66,
+        "debates_participated": 18,
+        "early_day_motions": 4,
+        "written_questions": 106
+      },
+      "2026": {
+        "debate_contributions": 16,
+        "debates_participated": 11,
+        "early_day_motions": 7,
+        "written_questions": 62
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 245,
+    "debates_participated": 118,
+    "early_day_motions": 24,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 526
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 245,
+    "voting_participation_pct": 68.16,
+    "written_questions": 526
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 80,
+      "meetings_available": 80
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-27"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/norwich-south.json",
+    "id": 4224,
+    "name": "Norwich South",
+    "ons_code": "E14001409",
+    "slug": "norwich-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "clive.lewis.mp@parliament.uk",
+      "phone": "0207 219 2700",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "email": "casework@clivelewis.org",
+      "phone": "0207 219 2700",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.clivelewis.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/labourclivelewis"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/labourlewis/"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@labourlewis"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/labourlewis"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4500
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4500,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Clive Lewis",
+    "full_title": "Clive Lewis MP",
+    "list_as": "Lewis, Clive"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Treasury)",
+        "start_date": "2018-01-12"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2017-02-08",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Business, Energy and Industrial Strategy",
+        "start_date": "2016-10-06"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Defence",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Energy and Climate Change)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Norwich South",
+        "constituency_id": 4224,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Norwich South",
+        "constituency_id": 3663,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Clive Lewis is the Labour MP for <a href='/constituency/4224/overview'>Norwich South</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4500/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 211,
+        "voting_participation_pct": 87.19
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 185,
+        "voting_participation_pct": 73.71
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 182,
+        "voting_participation_pct": 71.09
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 125,
+        "voting_participation_pct": 62.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 218,
+        "voting_participation_pct": 67.7
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 106,
+        "voting_participation_pct": 44.92
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 769,
+        "voting_participation_pct": 72.0
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 389,
+        "voting_participation_pct": 61.65
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1158,
+    "voting_participation_pct": 68.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

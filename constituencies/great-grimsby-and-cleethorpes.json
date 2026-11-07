@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 3325.4,
+    "bng": {
+      "easting": 526874,
+      "northing": 409016
+    },
+    "centroid": {
+      "latitude": 53.56245,
+      "longitude": -0.08591
+    },
+    "geojson": "constituencies/boundaries/great-grimsby-and-cleethorpes.geojson",
+    "ons_code": "E14001255",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4464.json",
+    "member_id": 4464,
+    "name": "Melanie Onn",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76157,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4803,
+      "result": "Lab Gain",
+      "turnout": 36619,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4070,
+  "is_current": true,
+  "name": "Great Grimsby and Cleethorpes",
+  "name_cy": null,
+  "ons_code": "E14001255",
+  "outcodes": [
+    "DN31",
+    "DN32",
+    "DN33",
+    "DN34",
+    "DN35",
+    "DN37"
+  ],
+  "schema_version": 1,
+  "slug": "great-grimsby-and-cleethorpes",
+  "start_date": "2024-05-31"
+}

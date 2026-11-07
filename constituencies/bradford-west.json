@@ -1,0 +1,79 @@
+{
+  "boundary": {
+    "area_hectares": 3508.1,
+    "bng": {
+      "easting": 412492,
+      "northing": 433844
+    },
+    "centroid": {
+      "latitude": 53.80076,
+      "longitude": -1.81182
+    },
+    "geojson": "constituencies/boundaries/bradford-west.geojson",
+    "ons_code": "E14001120",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4409.json",
+    "member_id": 4409,
+    "name": "Naz Shah",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77897,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 707,
+      "result": "Lab Hold",
+      "turnout": 37081,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3355,
+      "end_date": "2024-05-30",
+      "member_id": 4409,
+      "name": "Naz Shah",
+      "start_date": "2015-05-07"
+    },
+    {
+      "constituency_version_id": 3355,
+      "end_date": "2015-03-30",
+      "member_id": 609,
+      "name": "George Galloway",
+      "start_date": "2012-03-29"
+    }
+  ],
+  "id": 3935,
+  "is_current": true,
+  "name": "Bradford West",
+  "name_cy": null,
+  "ons_code": "E14001120",
+  "outcodes": [
+    "BD1",
+    "BD13",
+    "BD14",
+    "BD15",
+    "BD16",
+    "BD18",
+    "BD5",
+    "BD7",
+    "BD8",
+    "BD9",
+    "BD98",
+    "BD99"
+  ],
+  "schema_version": 1,
+  "slug": "bradford-west",
+  "start_date": "2024-05-31"
+}

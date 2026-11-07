@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 34470.6,
+    "bng": {
+      "easting": 498295,
+      "northing": 143042
+    },
+    "centroid": {
+      "latitude": 51.17817,
+      "longitude": -0.59515
+    },
+    "geojson": "constituencies/boundaries/godalming-and-ash.geojson",
+    "ons_code": "E14001249",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1572.json",
+    "member_id": 1572,
+    "name": "Sir Jeremy Hunt",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75816,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 891,
+      "result": "Con Hold",
+      "turnout": 54696,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4064,
+  "is_current": true,
+  "name": "Godalming and Ash",
+  "name_cy": null,
+  "ons_code": "E14001249",
+  "outcodes": [
+    "GU10",
+    "GU12",
+    "GU14",
+    "GU2",
+    "GU27",
+    "GU3",
+    "GU4",
+    "GU5",
+    "GU6",
+    "GU7",
+    "GU8",
+    "KT24",
+    "RH12",
+    "RH14",
+    "RH5"
+  ],
+  "schema_version": 1,
+  "slug": "godalming-and-ash",
+  "start_date": "2024-05-31"
+}

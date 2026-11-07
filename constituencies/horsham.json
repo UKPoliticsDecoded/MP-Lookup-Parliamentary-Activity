@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 31113.2,
+    "bng": {
+      "easting": 515068,
+      "northing": 127576
+    },
+    "centroid": {
+      "latitude": 51.03602,
+      "longitude": -0.36022
+    },
+    "geojson": "constituencies/boundaries/horsham.geojson",
+    "ons_code": "E14001294",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5329.json",
+    "member_id": 5329,
+    "name": "John Milne",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79150,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2517,
+      "result": "LD Gain",
+      "turnout": 55499,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3539,
+      "end_date": "2024-05-30",
+      "member_id": 4507,
+      "name": "Sir Jeremy Quin",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4109,
+  "is_current": true,
+  "name": "Horsham",
+  "name_cy": null,
+  "ons_code": "E14001294",
+  "outcodes": [
+    "BN5",
+    "RH11",
+    "RH12",
+    "RH13",
+    "RH14",
+    "RH17",
+    "RH20",
+    "RH5"
+  ],
+  "schema_version": 1,
+  "slug": "horsham",
+  "start_date": "2024-05-31"
+}

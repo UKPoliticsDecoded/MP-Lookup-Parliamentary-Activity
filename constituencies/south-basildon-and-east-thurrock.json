@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 12047.5,
+    "bng": {
+      "easting": 568409,
+      "northing": 183316
+    },
+    "centroid": {
+      "latitude": 51.52365,
+      "longitude": 0.426184
+    },
+    "geojson": "constituencies/boundaries/south-basildon-and-east-thurrock.geojson",
+    "ons_code": "E14001480",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5361.json",
+    "member_id": 5361,
+    "name": "James McMurdock",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72673,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 98,
+      "result": "RUK Gain",
+      "turnout": 39549,
+      "winning_party": "Reform UK",
+      "winning_party_id": 1036
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3737,
+      "end_date": "2024-05-30",
+      "member_id": 4092,
+      "name": "Stephen Metcalfe",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4295,
+  "is_current": true,
+  "name": "South Basildon and East Thurrock",
+  "name_cy": null,
+  "ons_code": "E14001480",
+  "outcodes": [
+    "CM13",
+    "RM14",
+    "RM16",
+    "RM17",
+    "RM18",
+    "SS13",
+    "SS15",
+    "SS16",
+    "SS17"
+  ],
+  "schema_version": 1,
+  "slug": "south-basildon-and-east-thurrock",
+  "start_date": "2024-05-31"
+}

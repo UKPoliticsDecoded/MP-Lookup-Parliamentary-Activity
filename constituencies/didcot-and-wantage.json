@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 40339.5,
+    "bng": {
+      "easting": 448154,
+      "northing": 192214
+    },
+    "centroid": {
+      "latitude": 51.62669,
+      "longitude": -1.30573
+    },
+    "geojson": "constituencies/boundaries/didcot-and-wantage.geojson",
+    "ons_code": "E14001197",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5318.json",
+    "member_id": 5318,
+    "name": "Olly Glover",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80689,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6233,
+      "result": "LD Gain",
+      "turnout": 54733,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4012,
+  "is_current": true,
+  "name": "Didcot and Wantage",
+  "name_cy": null,
+  "ons_code": "E14001197",
+  "outcodes": [
+    "OX10",
+    "OX11",
+    "OX12",
+    "OX13",
+    "OX14",
+    "OX4",
+    "OX44",
+    "RG17",
+    "RG8",
+    "SN7"
+  ],
+  "schema_version": 1,
+  "slug": "didcot-and-wantage",
+  "start_date": "2024-05-31"
+}

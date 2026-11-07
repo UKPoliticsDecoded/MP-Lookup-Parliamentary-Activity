@@ -1,0 +1,438 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 134,
+        "debates_participated": 94,
+        "oral_questions": 17,
+        "written_questions": 482
+      },
+      "2021": {
+        "debate_contributions": 175,
+        "debates_participated": 122,
+        "oral_questions": 27,
+        "petitions_presented": 1,
+        "written_questions": 930
+      },
+      "2022": {
+        "debate_contributions": 143,
+        "debates_participated": 85,
+        "oral_questions": 17,
+        "written_questions": 784
+      },
+      "2023": {
+        "debate_contributions": 166,
+        "debates_participated": 110,
+        "oral_questions": 29,
+        "written_questions": 785
+      },
+      "2024": {
+        "debate_contributions": 184,
+        "debates_participated": 84,
+        "oral_questions": 13,
+        "written_questions": 814
+      },
+      "2025": {
+        "debate_contributions": 112,
+        "debates_participated": 74,
+        "oral_questions": 10,
+        "written_questions": 670
+      },
+      "2026": {
+        "debate_contributions": 74,
+        "debates_participated": 47,
+        "oral_questions": 6,
+        "written_questions": 494
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 988,
+    "debates_participated": 616,
+    "early_day_motions": 0,
+    "oral_questions": 119,
+    "petitions_presented": 1,
+    "written_questions": 4959
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 988,
+    "voting_participation_pct": 76.93,
+    "written_questions": 4959
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": true,
+      "meetings_attended": 56,
+      "meetings_available": 56
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": true,
+      "meetings_attended": 38,
+      "meetings_available": 38
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Firearms Bill",
+      "committee_id": 661,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+      "committee_id": 705,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-02"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-05"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "Firearms Bill",
+        "committee_id": 661,
+        "file": "committees/firearms-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "firearms-bill"
+      },
+      {
+        "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+        "committee_id": 705,
+        "file": "committees/trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/slough.json",
+    "id": 4292,
+    "name": "Slough",
+    "ons_code": "E14001477",
+    "slug": "slough"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tan.dhesi.mp@parliament.uk",
+      "phone": "0207 219 1946",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.tsdhesi.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/tandhesi/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/TanDhesi"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4638
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4638,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Dhesi",
+    "display": "Mr Tanmanjeet Singh Dhesi",
+    "full_title": "Mr Tanmanjeet Singh Dhesi MP",
+    "list_as": "Dhesi, Mr Tanmanjeet Singh"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Exports)",
+        "start_date": "2023-11-27"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2023-11-27",
+        "is_current": false,
+        "name": "Shadow Exchequer Secretary (Treasury)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2023-09-06",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3501,
+        "name": "Gravesham",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Slough",
+        "constituency_id": 4292,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Slough",
+        "constituency_id": 3733,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Mr Tanmanjeet Singh Dhesi is the Labour MP for <a href='/constituency/4292/overview'>Slough</a>, and has been an MP continually since 8 June 2017.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4638/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 145,
+        "voting_participation_pct": 76.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 211,
+        "voting_participation_pct": 87.19
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 187,
+        "voting_participation_pct": 73.05
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 149,
+        "voting_participation_pct": 74.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 236,
+        "voting_participation_pct": 73.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 196,
+        "voting_participation_pct": 83.05
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 805,
+        "voting_participation_pct": 75.37
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 502,
+        "voting_participation_pct": 79.56
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1307,
+    "voting_participation_pct": 76.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

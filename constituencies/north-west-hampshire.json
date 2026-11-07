@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 44728.8,
+    "bng": {
+      "easting": 444059,
+      "northing": 153514
+    },
+    "centroid": {
+      "latitude": 51.27907,
+      "longitude": -1.36969
+    },
+    "geojson": "constituencies/boundaries/north-west-hampshire.geojson",
+    "ons_code": "E14001403",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4495.json",
+    "member_id": 4495,
+    "name": "Kit Malthouse",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78629,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3288,
+      "result": "Con Hold",
+      "turnout": 50823,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3656,
+      "end_date": "2024-05-30",
+      "member_id": 4495,
+      "name": "Kit Malthouse",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4218,
+  "is_current": true,
+  "name": "North West Hampshire",
+  "name_cy": null,
+  "ons_code": "E14001403",
+  "outcodes": [
+    "RG19",
+    "RG20",
+    "RG21",
+    "RG22",
+    "RG23",
+    "RG24",
+    "RG25",
+    "RG26",
+    "RG28",
+    "RG7",
+    "SO21",
+    "SP10",
+    "SP11"
+  ],
+  "schema_version": 1,
+  "slug": "north-west-hampshire",
+  "start_date": "2024-05-31"
+}

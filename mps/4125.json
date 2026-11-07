@@ -1,0 +1,448 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 67,
+        "debates_participated": 42,
+        "early_day_motions": 2,
+        "oral_questions": 3,
+        "written_questions": 70
+      },
+      "2021": {
+        "debate_contributions": 72,
+        "debates_participated": 50,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 21
+      },
+      "2022": {
+        "debate_contributions": 62,
+        "debates_participated": 38,
+        "written_questions": 24
+      },
+      "2023": {
+        "debate_contributions": 40,
+        "debates_participated": 25,
+        "oral_questions": 4,
+        "written_questions": 27
+      },
+      "2024": {
+        "debate_contributions": 217,
+        "debates_participated": 45,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 447,
+        "debates_participated": 62,
+        "written_questions": 18
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 60,
+        "debates_participated": 19,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 966,
+    "debates_participated": 282,
+    "early_day_motions": 4,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 206
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 966,
+    "voting_participation_pct": 67.45,
+    "written_questions": 206
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 19,
+      "meetings_available": 19
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-03-14"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-09-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2023-09-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newcastle-upon-tyne-north.json",
+    "id": 4194,
+    "name": "Newcastle upon Tyne North",
+    "ons_code": "E14001379",
+    "slug": "newcastle-upon-tyne-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "catherine.mckinnell.mp@parliament.uk",
+      "phone": "020 7219 7115",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0191 229 0352",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.catherinemckinnellmp.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/CMcKinnellMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4125
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4125,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Catherine McKinnell",
+    "display": "Catherine McKinnell",
+    "full_title": "Catherine McKinnell MP",
+    "list_as": "McKinnell, Catherine"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Ministry of Justice)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Education)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Ministry of Justice)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Education) (Schools)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2016-01-11",
+        "is_current": false,
+        "name": "Shadow Attorney General",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Minister (Treasury)",
+        "start_date": "2013-03-18"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2013-03-18",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newcastle upon Tyne North",
+        "constituency_id": 4194,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Newcastle upon Tyne North",
+        "constituency_id": 3627,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Catherine McKinnell is the Labour MP for <a href='/constituency/4194/overview'>Newcastle upon Tyne North</a>, and has been an MP continually since 6 May 2010. \r\nShe currently holds the Government post of Minister of State (Ministry of Justice).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4125/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 126,
+        "voting_participation_pct": 66.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 203,
+        "voting_participation_pct": 83.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 157,
+        "voting_participation_pct": 62.55
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 151,
+        "voting_participation_pct": 58.98
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 145,
+        "voting_participation_pct": 72.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 220,
+        "voting_participation_pct": 68.32
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 142,
+        "voting_participation_pct": 60.17
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 721,
+        "voting_participation_pct": 67.51
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 425,
+        "voting_participation_pct": 67.35
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1146,
+    "voting_participation_pct": 67.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 22,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 19
+      },
+      "2025": {
+        "debate_contributions": 104,
+        "debates_participated": 72,
+        "early_day_motions": 6,
+        "oral_questions": 6,
+        "written_questions": 88
+      },
+      "2026": {
+        "debate_contributions": 74,
+        "debates_participated": 60,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 77
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 204,
+    "debates_participated": 154,
+    "early_day_motions": 14,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 184
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 204,
+    "voting_participation_pct": 54.2,
+    "written_questions": 184
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": true,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+      "committee_id": 794,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Dogs (Protection of Livestock) (Amendment) Bill",
+        "committee_id": 794,
+        "file": "committees/dogs-protection-of-livestock-amendment-bill-794.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-21"
+          }
+        ],
+        "slug": "dogs-protection-of-livestock-amendment-bill-794"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/caerfyrddin.json",
+    "id": 4502,
+    "name": "Caerfyrddin",
+    "ons_code": "W07000087",
+    "slug": "caerfyrddin"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ann.davies.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "39 Heol Awst, Caerfyrddin",
+      "phone": "01267 892442",
+      "postcode": "SA31 3AL",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5177
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5177,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ann Davies",
+    "full_title": "Ann Davies MP",
+    "list_as": "Davies, Ann"
+  },
+  "party": {
+    "abbreviation": "PC",
+    "id": 22,
+    "name": "Plaid Cymru"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Plaid Cymru",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Caerfyrddin",
+        "constituency_id": 4502,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ann Davies is the Plaid Cymru MP for <a href='/constituency/4502/overview'>Caerfyrddin</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5177/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 46,
+        "voting_participation_pct": 63.01
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 166,
+        "voting_participation_pct": 51.55
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 130,
+        "voting_participation_pct": 55.08
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 342,
+        "voting_participation_pct": 54.2
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 342,
+    "voting_participation_pct": 54.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 4976.5,
+    "bng": {
+      "easting": 318603,
+      "northing": 182294
+    },
+    "centroid": {
+      "latitude": 51.53366,
+      "longitude": -3.1749
+    },
+    "geojson": "constituencies/boundaries/cardiff-north.geojson",
+    "ons_code": "W07000090",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4632.json",
+    "member_id": 4632,
+    "name": "Anna McMorrin",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71460,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11207,
+      "result": "Lab Hold",
+      "turnout": 47473,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3390,
+      "end_date": "2024-05-30",
+      "member_id": 4632,
+      "name": "Anna McMorrin",
+      "start_date": "2017-06-08"
+    },
+    {
+      "constituency_version_id": 3390,
+      "end_date": "2017-05-03",
+      "member_id": 4438,
+      "name": "Craig Williams",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4505,
+  "is_current": true,
+  "name": "Cardiff North",
+  "name_cy": "Gogledd Caerdydd",
+  "ons_code": "W07000090",
+  "outcodes": [
+    "CF14",
+    "CF15",
+    "CF23",
+    "CF3",
+    "CF83"
+  ],
+  "schema_version": 1,
+  "slug": "cardiff-north",
+  "start_date": "2024-05-31"
+}

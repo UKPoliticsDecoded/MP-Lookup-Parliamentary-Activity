@@ -1,0 +1,213 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 19,
+        "oral_questions": 4,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 35,
+        "debates_participated": 28,
+        "oral_questions": 4,
+        "written_questions": 2
+      },
+      "2026": {
+        "debate_contributions": 31,
+        "debates_participated": 25,
+        "oral_questions": 2,
+        "written_questions": 55
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 92,
+    "debates_participated": 72,
+    "early_day_motions": 0,
+    "oral_questions": 10,
+    "petitions_presented": 0,
+    "written_questions": 60
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 92,
+    "voting_participation_pct": 77.81,
+    "written_questions": 60
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-04-13"
+          }
+        ],
+        "slug": "foreign-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/central-ayrshire.json",
+    "id": 4441,
+    "name": "Central Ayrshire",
+    "ons_code": "S14000109",
+    "slug": "central-ayrshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alan.gemmell.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Sovereign House, Academy Road, Irvine",
+      "email": "alan.gemmell.mp@parliament.uk",
+      "phone": "01294 448 605",
+      "postcode": "KA12 8RL",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.alangemmell.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AlanGemmellMP/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/alangemmell"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5185
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5185,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alan Gemmell",
+    "full_title": "Alan Gemmell MP",
+    "list_as": "Gemmell, Alan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Central Ayrshire",
+        "constituency_id": 4441,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alan Gemmell is the Labour MP for <a href='/constituency/4441/overview'>Central Ayrshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5185/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 262,
+        "voting_participation_pct": 81.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 491,
+        "voting_participation_pct": 77.81
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 491,
+    "voting_participation_pct": 77.81
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 29,
+        "debates_participated": 23,
+        "early_day_motions": 5,
+        "oral_questions": 4,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 76,
+        "debates_participated": 51,
+        "early_day_motions": 4,
+        "oral_questions": 13,
+        "petitions_presented": 1,
+        "written_questions": 50
+      },
+      "2026": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 106,
+    "debates_participated": 75,
+    "early_day_motions": 9,
+    "oral_questions": 17,
+    "petitions_presented": 1,
+    "written_questions": 56
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 106,
+    "voting_participation_pct": 90.49,
+    "written_questions": 56
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 29,
+      "meetings_available": 29
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 765,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 765,
+        "file": "committees/finance-bill-765.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-22"
+          }
+        ],
+        "slug": "finance-bill-765"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/livingston.json",
+    "id": 4484,
+    "name": "Livingston",
+    "ons_code": "S14000095",
+    "slug": "livingston"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "gregor.poynton.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Craigsfarm Community Hub, Maree Walk, Craigshill, Livingston",
+      "postcode": "EH54 5BP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.gregorpoynton.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/GregorPoyntonLabour"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/gregorpoynton/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/gregorpoynton"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5167
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5167,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Gregor Poynton",
+    "full_title": "Gregor Poynton MP",
+    "list_as": "Poynton, Gregor"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Government Whip, Lord Commissioner of HM Treasury"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Livingston",
+        "constituency_id": 4484,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Gregor Poynton is the Labour MP for <a href='/constituency/4484/overview'>Livingston</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Government Whip, Lord Commissioner of HM Treasury.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5167/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 275,
+        "voting_participation_pct": 85.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 227,
+        "voting_participation_pct": 96.19
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 571,
+        "voting_participation_pct": 90.49
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 571,
+    "voting_participation_pct": 90.49
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

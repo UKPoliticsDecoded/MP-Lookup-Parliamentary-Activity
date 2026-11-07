@@ -1,0 +1,189 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 8,
+        "debates_participated": 6,
+        "oral_questions": 2,
+        "written_questions": 31
+      },
+      "2025": {
+        "debate_contributions": 3,
+        "debates_participated": 2,
+        "written_questions": 191
+      },
+      "2026": {
+        "written_questions": 116
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 11,
+    "debates_participated": 8,
+    "early_day_motions": 0,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 338
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 11,
+    "voting_participation_pct": 66.88,
+    "written_questions": 338
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/north-east-somerset-and-hanham.json",
+    "id": 4209,
+    "name": "North East Somerset and Hanham",
+    "ons_code": "E14001394",
+    "slug": "north-east-somerset-and-hanham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "dan.norris.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 221
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 221,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dan Norris",
+    "full_title": "Dan Norris MP",
+    "list_as": "Norris, Dan"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs) (Rural Affairs and Environment)",
+        "start_date": "2009-06-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2003-06-13",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2001-06-12"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3036,
+        "name": "Wansdyke",
+        "startDate": "1992-04-09T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2188,
+        "name": "Northavon",
+        "startDate": "1987-06-11T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2025-04-04"
+      },
+      {
+        "end_date": "2025-04-04",
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North East Somerset and Hanham",
+        "constituency_id": 4209,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wansdyke",
+        "constituency_id": 3037,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Dan Norris is the Independent MP for <a href='/constituency/4209/overview'>North East Somerset and Hanham</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/221/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 55,
+        "voting_participation_pct": 75.34
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 205,
+        "voting_participation_pct": 63.66
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 162,
+        "voting_participation_pct": 68.64
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 422,
+        "voting_participation_pct": 66.88
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 422,
+    "voting_participation_pct": 66.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

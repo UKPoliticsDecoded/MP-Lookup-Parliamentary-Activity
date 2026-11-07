@@ -1,0 +1,580 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 55,
+        "debates_participated": 33,
+        "oral_questions": 8,
+        "written_questions": 71
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 35,
+        "debates_participated": 31,
+        "oral_questions": 6,
+        "written_questions": 30
+      },
+      "2022": {
+        "debate_contributions": 44,
+        "debates_participated": 25,
+        "oral_questions": 5,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 28,
+        "debates_participated": 24,
+        "oral_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 10,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 178,
+    "debates_participated": 123,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 107
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.35,
+    "committee_memberships": 0,
+    "debate_contributions": 178,
+    "voting_participation_pct": 87.83,
+    "written_questions": 107
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal (Penalty Notices) Bill",
+      "committee_id": 563,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Carer’s Leave Bill",
+      "committee_id": 623,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Consolidation, &c., Bills (Joint Committee)",
+      "committee_id": 171,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 13,
+      "meetings_available": 13
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 99.08,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 108,
+      "meetings_available": 109
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Glue Traps (Offences) Bill",
+      "committee_id": 573,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety Bill",
+      "committee_id": 592,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pet Abduction Bill",
+      "committee_id": 699,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 725,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal (Penalty Notices) Bill",
+        "committee_id": 563,
+        "file": "committees/animal-penalty-notices-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "animal-penalty-notices-bill"
+      },
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Carer’s Leave Bill",
+        "committee_id": 623,
+        "file": "committees/carers-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "carers-leave-bill"
+      },
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Consolidation, &c., Bills (Joint Committee)",
+        "committee_id": 171,
+        "file": "committees/consolidation-and-c-bills-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-09"
+          }
+        ],
+        "slug": "consolidation-and-c-bills-joint-committee"
+      },
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-19"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-19"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Glue Traps (Offences) Bill",
+        "committee_id": 573,
+        "file": "committees/glue-traps-offences-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "glue-traps-offences-bill"
+      },
+      {
+        "committee": "Online Safety Bill",
+        "committee_id": 592,
+        "file": "committees/online-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-18"
+          }
+        ],
+        "slug": "online-safety-bill"
+      },
+      {
+        "committee": "Pet Abduction Bill",
+        "committee_id": 699,
+        "file": "committees/pet-abduction-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-24"
+          }
+        ],
+        "slug": "pet-abduction-bill"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 725,
+        "file": "committees/unauthorised-entry-to-football-matches-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3862,
+    "name": "Wolverhampton North East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4750
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4750,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jane Stevenson",
+    "full_title": "Jane Stevenson",
+    "list_as": "Stevenson, Jane"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4409,
+        "name": "Wolverhampton North East",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wolverhampton North East",
+        "constituency_id": 3862,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Jane Stevenson is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3862/overview'>Wolverhampton North East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4750/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 187,
+        "voting_participation_pct": 98.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 206,
+        "voting_participation_pct": 82.07
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 241,
+        "voting_participation_pct": 94.14
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 100,
+        "voting_participation_pct": 78.74
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 938,
+        "voting_participation_pct": 87.83
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 938,
+    "voting_participation_pct": 87.83
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

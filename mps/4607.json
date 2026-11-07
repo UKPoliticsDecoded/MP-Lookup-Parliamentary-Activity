@@ -1,0 +1,444 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 195,
+        "debates_participated": 82,
+        "oral_questions": 7,
+        "written_questions": 193
+      },
+      "2021": {
+        "debate_contributions": 64,
+        "debates_participated": 46,
+        "oral_questions": 2,
+        "written_questions": 112
+      },
+      "2022": {
+        "debate_contributions": 89,
+        "debates_participated": 71,
+        "oral_questions": 6,
+        "written_questions": 280
+      },
+      "2023": {
+        "debate_contributions": 324,
+        "debates_participated": 79,
+        "oral_questions": 3,
+        "written_questions": 257
+      },
+      "2024": {
+        "debate_contributions": 174,
+        "debates_participated": 44,
+        "oral_questions": 3,
+        "written_questions": 88
+      },
+      "2025": {
+        "debate_contributions": 499,
+        "debates_participated": 75
+      },
+      "2026": {
+        "debate_contributions": 154,
+        "debates_participated": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1501,
+    "debates_participated": 432,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 930
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 1501,
+    "voting_participation_pct": 67.8,
+    "written_questions": 930
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 57,
+      "meetings_available": 57
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/barnsley-south.json",
+    "id": 3890,
+    "name": "Barnsley South",
+    "ons_code": "E14001075",
+    "slug": "barnsley-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "stephanie.peacock.mp@parliament.uk",
+      "phone": "0207 219 4129",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "email": "stephanie.peacock.mp@parliament.uk",
+      "phone": "01226 743 483",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.stephaniepeacock.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Steph_Peacock"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4607
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4607,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Stephanie Peacock",
+    "display": "Stephanie Peacock",
+    "full_title": "Stephanie Peacock MP",
+    "list_as": "Peacock, Stephanie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Culture, Media and Sport)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2022-07-22"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2022-07-22",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2021-05-14"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2021-05-14",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2019-03-14",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2018-01-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Barnsley South",
+        "constituency_id": 3890,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Barnsley East",
+        "constituency_id": 3303,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Stephanie Peacock is the Labour MP for <a href='/constituency/3890/overview'>Barnsley South</a>, and has been an MP continually since 8 June 2017. \r\nShe currently holds the Government post of Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4607/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 153,
+        "voting_participation_pct": 60.96
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 151,
+        "voting_participation_pct": 58.98
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 137,
+        "voting_participation_pct": 68.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 157,
+        "voting_participation_pct": 66.53
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 710,
+        "voting_participation_pct": 66.48
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 442,
+        "voting_participation_pct": 70.05
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1152,
+    "voting_participation_pct": 67.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

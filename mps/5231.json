@@ -1,0 +1,153 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 3
+      },
+      "2025": {
+        "debate_contributions": 67,
+        "debates_participated": 54,
+        "early_day_motions": 4
+      },
+      "2026": {
+        "debate_contributions": 44,
+        "debates_participated": 35,
+        "early_day_motions": 7,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 130,
+    "debates_participated": 104,
+    "early_day_motions": 11,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 13
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 130,
+    "voting_participation_pct": 54.36,
+    "written_questions": 13
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/blackburn.json",
+    "id": 3917,
+    "name": "Blackburn",
+    "ons_code": "E14001102",
+    "slug": "blackburn"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "adnan.hussain.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "13 Richmond Terrace, Blackburn ",
+      "phone": "01254 643337",
+      "postcode": "BB1 7BQ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AdnanHussainMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5231
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5231,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Adnan Hussain",
+    "full_title": "Mr Adnan Hussain MP",
+    "list_as": "Hussain, Mr Adnan"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Blackburn",
+        "constituency_id": 3917,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Adnan Hussain is the Independent MP for <a href='/constituency/3917/overview'>Blackburn</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5231/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 35,
+        "voting_participation_pct": 47.95
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 185,
+        "voting_participation_pct": 57.45
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 123,
+        "voting_participation_pct": 52.12
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 343,
+        "voting_participation_pct": 54.36
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 343,
+    "voting_participation_pct": 54.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

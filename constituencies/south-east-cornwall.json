@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 70969.1,
+    "bng": {
+      "easting": 226462,
+      "northing": 62940
+    },
+    "centroid": {
+      "latitude": 50.44057,
+      "longitude": -4.44531
+    },
+    "geojson": "constituencies/boundaries/south-east-cornwall.geojson",
+    "ons_code": "E14001486",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5353.json",
+    "member_id": 5353,
+    "name": "Anna Gelderd",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72654,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1911,
+      "result": "Lab Gain",
+      "turnout": 49286,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3743,
+      "end_date": "2024-05-30",
+      "member_id": 4100,
+      "name": "Mrs Sheryll Murray",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4301,
+  "is_current": true,
+  "name": "South East Cornwall",
+  "name_cy": null,
+  "ons_code": "E14001486",
+  "outcodes": [
+    "PL10",
+    "PL11",
+    "PL12",
+    "PL13",
+    "PL14",
+    "PL15",
+    "PL17",
+    "PL18",
+    "PL22",
+    "PL23",
+    "PL24",
+    "PL30"
+  ],
+  "schema_version": 1,
+  "slug": "south-east-cornwall",
+  "start_date": "2024-05-31"
+}

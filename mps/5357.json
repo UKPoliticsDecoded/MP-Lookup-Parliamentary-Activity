@@ -1,0 +1,157 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 27,
+        "debates_participated": 20,
+        "early_day_motions": 11,
+        "oral_questions": 5,
+        "written_questions": 50
+      },
+      "2025": {
+        "debate_contributions": 124,
+        "debates_participated": 85,
+        "early_day_motions": 22,
+        "oral_questions": 1,
+        "written_questions": 163
+      },
+      "2026": {
+        "debate_contributions": 146,
+        "debates_participated": 93,
+        "early_day_motions": 7,
+        "oral_questions": 6,
+        "written_questions": 131
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 297,
+    "debates_participated": 198,
+    "early_day_motions": 40,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 344
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 297,
+    "voting_participation_pct": 36.77,
+    "written_questions": 344
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/birmingham-perry-barr.json",
+    "id": 3913,
+    "name": "Birmingham Perry Barr",
+    "ons_code": "E14001098",
+    "slug": "birmingham-perry-barr"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ayoub.khan.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "16-18 Heathfield Road, Lozells , Birmingham ",
+      "phone": "0121 798 1000",
+      "postcode": "B19 1HB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AyoubKhanMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5357
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5357,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ayoub Khan",
+    "full_title": "Ayoub Khan MP",
+    "list_as": "Khan, Ayoub"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham Perry Barr",
+        "constituency_id": 3913,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ayoub Khan is the Independent MP for <a href='/constituency/3913/overview'>Birmingham Perry Barr</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5357/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 40,
+        "voting_participation_pct": 54.79
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 125,
+        "voting_participation_pct": 38.82
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 67,
+        "voting_participation_pct": 28.39
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 232,
+        "voting_participation_pct": 36.77
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 232,
+    "voting_participation_pct": 36.77
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

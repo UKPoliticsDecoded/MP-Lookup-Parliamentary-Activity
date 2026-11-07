@@ -1,0 +1,87 @@
+{
+  "boundary": {
+    "area_hectares": 5694.2,
+    "bng": {
+      "easting": 358387,
+      "northing": 402918
+    },
+    "centroid": {
+      "latitude": 53.52128,
+      "longitude": -2.6291
+    },
+    "geojson": "constituencies/boundaries/makerfield.geojson",
+    "ons_code": "E14001350",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1427.json",
+    "member_id": 1427,
+    "name": "Andy Burnham",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2026-06-18"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2026-06-18",
+      "election": "2026-06-18 Makerfield By-election",
+      "election_id": 558,
+      "electorate": 77462,
+      "is_general_election": false,
+      "is_notional": false,
+      "majority": 9231,
+      "result": "Lab Hold",
+      "turnout": 45476,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    },
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76641,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5399,
+      "result": "Lab Hold",
+      "turnout": 40263,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 4165,
+      "end_date": "2026-05-18",
+      "member_id": 5060,
+      "name": "Josh Simons",
+      "start_date": "2024-07-04"
+    },
+    {
+      "constituency_version_id": 3594,
+      "end_date": "2024-05-30",
+      "member_id": 4034,
+      "name": "Yvonne Fovargue",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4165,
+  "is_current": true,
+  "name": "Makerfield",
+  "name_cy": null,
+  "ons_code": "E14001350",
+  "outcodes": [
+    "WA3",
+    "WN2",
+    "WN3",
+    "WN4",
+    "WN5",
+    "WN7"
+  ],
+  "schema_version": 1,
+  "slug": "makerfield",
+  "start_date": "2024-05-31"
+}

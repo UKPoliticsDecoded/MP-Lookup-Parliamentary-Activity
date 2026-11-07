@@ -1,0 +1,426 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "written_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 98,
+        "debates_participated": 62,
+        "oral_questions": 10,
+        "written_questions": 69
+      },
+      "2024": {
+        "debate_contributions": 66,
+        "debates_participated": 32,
+        "oral_questions": 3,
+        "written_questions": 24
+      },
+      "2025": {
+        "debate_contributions": 258,
+        "debates_participated": 42
+      },
+      "2026": {
+        "debate_contributions": 155,
+        "debates_participated": 27
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 577,
+    "debates_participated": 163,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 94
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 577,
+    "voting_participation_pct": 73.67,
+    "written_questions": 94
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Automated Vehicles Bill [HL]",
+      "committee_id": 714,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Media Bill",
+      "committee_id": 687,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 25,
+      "meetings_available": 25
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Automated Vehicles Bill [HL]",
+        "committee_id": 714,
+        "file": "committees/automated-vehicles-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "automated-vehicles-bill-hl"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-22"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-06"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Media Bill",
+        "committee_id": 687,
+        "file": "committees/media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-29"
+          }
+        ],
+        "slug": "media-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-23"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-21"
+          }
+        ],
+        "slug": "scottish-affairs"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stretford-and-urmston.json",
+    "id": 4343,
+    "name": "Stretford and Urmston",
+    "ons_code": "E14001528",
+    "slug": "stretford-and-urmston"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andrew.western.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0161 749 9120",
+      "type": "Constituency office"
+    },
+    {
+      "address": "DWP Ministerial Correspondence Team, Caxton House, Tothill Street, London",
+      "postcode": "SW1H 9NA",
+      "type": "Government department"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AndrewWesternLabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/andrewhwestern"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4979
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4979,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2022-12-15",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Andrew Western",
+    "full_title": "Andrew Western MP",
+    "list_as": "Western, Andrew"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Work and Pensions)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department for Work and Pensions)"
+    ],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2023-09-05"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3291,
+        "name": "Altrincham and Sale West",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3291,
+        "name": "Altrincham and Sale West",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2022-12-15"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stretford and Urmston",
+        "constituency_id": 4343,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Stretford and Urmston",
+        "constituency_id": 3785,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2022-12-15"
+      }
+    ]
+  },
+  "synopsis": "Andrew Western is the Labour MP for <a href='/constituency/4343/overview'>Stretford and Urmston</a>, and has been an MP continually since 15 December 2022. \r\nHe currently holds the Government post of Minister of State (Department for Work and Pensions).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4979/Thumbnail",
+  "voting": {
+    "annual": {
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 193,
+        "voting_participation_pct": 75.39
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 249,
+        "voting_participation_pct": 77.33
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 176,
+        "voting_participation_pct": 74.58
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 383,
+        "divisions_voted": 261,
+        "voting_participation_pct": 68.15
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 486,
+        "voting_participation_pct": 77.02
+      }
+    },
+    "divisions_eligible": 1014,
+    "divisions_voted": 747,
+    "voting_participation_pct": 73.67
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

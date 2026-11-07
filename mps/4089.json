@@ -1,0 +1,294 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 47,
+        "debates_participated": 33,
+        "oral_questions": 5,
+        "written_questions": 8
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 205,
+        "debates_participated": 78,
+        "oral_questions": 6,
+        "written_questions": 36
+      },
+      "2026": {
+        "debate_contributions": 153,
+        "debates_participated": 97,
+        "oral_questions": 6,
+        "written_questions": 105
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 405,
+    "debates_participated": 208,
+    "early_day_motions": 0,
+    "oral_questions": 17,
+    "petitions_presented": 0,
+    "written_questions": 149
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 71.43,
+    "committee_memberships": 2,
+    "debate_contributions": 405,
+    "voting_participation_pct": 60.54,
+    "written_questions": 149
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 0.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-26"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "justice"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wells-and-mendip-hills.json",
+    "id": 4387,
+    "name": "Wells and Mendip Hills",
+    "ons_code": "E14001572",
+    "slug": "wells-and-mendip-hills"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tessa.munt.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": " Tessa Munt Freepost",
+      "phone": "01934 440639",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4089
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4089,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Tessa Munt",
+    "full_title": "Tessa Munt MP",
+    "list_as": "Munt, Tessa"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3838,
+        "name": "Wells",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3838,
+        "name": "Wells",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3838,
+        "name": "Wells",
+        "startDate": "2015-05-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3082,
+        "name": "Wells",
+        "startDate": "2005-05-05T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1566,
+        "name": "Ipswich",
+        "startDate": "2001-11-22T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2676,
+        "name": "South Suffolk",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wells and Mendip Hills",
+        "constituency_id": 4387,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wells",
+        "constituency_id": 3838,
+        "end_date": "2015-03-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Tessa Munt is the Liberal Democrat MP for <a href='/constituency/4387/overview'>Wells and Mendip Hills</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4089/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 42,
+        "voting_participation_pct": 57.53
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 191,
+        "voting_participation_pct": 59.32
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 149,
+        "voting_participation_pct": 63.14
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 382,
+        "voting_participation_pct": 60.54
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 382,
+    "voting_participation_pct": 60.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

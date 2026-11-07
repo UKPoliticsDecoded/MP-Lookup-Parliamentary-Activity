@@ -1,0 +1,357 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1,
+        "written_questions": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 41,
+        "debates_participated": 29,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 80
+      },
+      "2021": {
+        "debate_contributions": 20,
+        "debates_participated": 16,
+        "early_day_motions": 7,
+        "oral_questions": 3,
+        "written_questions": 15
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 36,
+        "debates_participated": 30,
+        "early_day_motions": 4,
+        "written_questions": 25
+      },
+      "2023": {
+        "debate_contributions": 32,
+        "debates_participated": 19,
+        "early_day_motions": 3,
+        "written_questions": 57
+      },
+      "2024": {
+        "debate_contributions": 50,
+        "debates_participated": 16,
+        "early_day_motions": 2,
+        "written_questions": 22
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 180,
+    "debates_participated": 111,
+    "early_day_motions": 19,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 200
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 180,
+    "voting_participation_pct": 83.33,
+    "written_questions": 200
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Shark Fins Bill",
+      "committee_id": 624,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Conference (2022)",
+      "committee_id": 609,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 725,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-19"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-14"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-17"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      },
+      {
+        "committee": "Shark Fins Bill",
+        "committee_id": 624,
+        "file": "committees/shark-fins-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "shark-fins-bill"
+      },
+      {
+        "committee": "Speaker's Conference (2022)",
+        "committee_id": 609,
+        "file": "committees/speaker-s-conference-2022.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2022"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 725,
+        "file": "committees/unauthorised-entry-to-football-matches-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3402,
+    "name": "Chatham and Aylesford"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3950
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 3950,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dame Tracey Crouch",
+    "display": "Dame Tracey Crouch",
+    "full_title": "Dame Tracey Crouch",
+    "list_as": "Crouch, Dame Tracey"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2018-11-01",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2017-07-03",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Culture, Media and Sport)",
+        "start_date": "2015-05-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chatham and Aylesford",
+        "constituency_id": 3402,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Dame Tracey Crouch is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3402/overview'>Chatham and Aylesford</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3950/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 210,
+        "voting_participation_pct": 83.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 204,
+        "voting_participation_pct": 79.69
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 99,
+        "voting_participation_pct": 77.95
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 890,
+        "voting_participation_pct": 83.33
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 890,
+    "voting_participation_pct": 83.33
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

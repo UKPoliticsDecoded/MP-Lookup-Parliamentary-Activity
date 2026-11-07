@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 54253.1,
+    "bng": {
+      "easting": 472550,
+      "northing": 210648
+    },
+    "centroid": {
+      "latitude": 51.78979,
+      "longitude": -0.94951
+    },
+    "geojson": "constituencies/boundaries/mid-buckinghamshire.geojson",
+    "ons_code": "E14001360",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4778.json",
+    "member_id": 4778,
+    "name": "Greg Smith",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75622,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5872,
+      "result": "Con Hold",
+      "turnout": 53951,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4175,
+  "is_current": true,
+  "name": "Mid Buckinghamshire",
+  "name_cy": null,
+  "ons_code": "E14001360",
+  "outcodes": [
+    "HP13",
+    "HP14",
+    "HP15",
+    "HP16",
+    "HP17",
+    "HP18",
+    "HP21",
+    "HP22",
+    "HP23",
+    "HP27",
+    "HP4",
+    "HP5",
+    "HP6",
+    "HP7",
+    "MK18",
+    "OX27",
+    "OX33",
+    "OX39",
+    "OX5",
+    "OX9"
+  ],
+  "schema_version": 1,
+  "slug": "mid-buckinghamshire",
+  "start_date": "2024-05-31"
+}

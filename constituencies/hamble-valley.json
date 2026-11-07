@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 9159.7,
+    "bng": {
+      "easting": 451642,
+      "northing": 107301
+    },
+    "centroid": {
+      "latitude": 50.8629,
+      "longitude": -1.26757
+    },
+    "geojson": "constituencies/boundaries/hamble-valley.geojson",
+    "ons_code": "E14001263",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4803.json",
+    "member_id": 4803,
+    "name": "Paul Holmes",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79478,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4802,
+      "result": "Con Hold",
+      "turnout": 54004,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4078,
+  "is_current": true,
+  "name": "Hamble Valley",
+  "name_cy": null,
+  "ons_code": "E14001263",
+  "outcodes": [
+    "PO14",
+    "PO15",
+    "PO17",
+    "SO19",
+    "SO30",
+    "SO31",
+    "SO32"
+  ],
+  "schema_version": 1,
+  "slug": "hamble-valley",
+  "start_date": "2024-05-31"
+}

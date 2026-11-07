@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 2284.8,
+    "bng": {
+      "easting": 536917,
+      "northing": 168705
+    },
+    "centroid": {
+      "latitude": 51.40085,
+      "longitude": -0.03309
+    },
+    "geojson": "constituencies/boundaries/beckenham-and-penge.geojson",
+    "ons_code": "E14001083",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5132.json",
+    "member_id": 5132,
+    "name": "Liam Conlon",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77198,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12905,
+      "result": "Lab Hold",
+      "turnout": 52222,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3898,
+  "is_current": true,
+  "name": "Beckenham and Penge",
+  "name_cy": null,
+  "ons_code": "E14001083",
+  "outcodes": [
+    "BR2",
+    "BR3",
+    "BR4",
+    "SE19",
+    "SE20",
+    "SE26"
+  ],
+  "schema_version": 1,
+  "slug": "beckenham-and-penge",
+  "start_date": "2024-05-31"
+}

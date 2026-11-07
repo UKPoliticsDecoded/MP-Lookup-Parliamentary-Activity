@@ -1,0 +1,215 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 22,
+        "debates_participated": 11,
+        "written_questions": 1
+      },
+      "2021": {
+        "debate_contributions": 33,
+        "debates_participated": 17
+      },
+      "2022": {
+        "debate_contributions": 31,
+        "debates_participated": 23,
+        "oral_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 22,
+        "debates_participated": 19
+      },
+      "2024": {
+        "debate_contributions": 17,
+        "debates_participated": 14,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 125,
+    "debates_participated": 84,
+    "early_day_motions": 0,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 1
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 125,
+    "voting_participation_pct": 65.64,
+    "written_questions": 1
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Pay Accountability) Bill",
+      "committee_id": 732,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Local Government (Pay Accountability) Bill",
+        "committee_id": 732,
+        "file": "committees/local-government-pay-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "local-government-pay-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3331,
+    "name": "Birmingham, Perry Barr"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1392
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1392,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Mahmood",
+    "display": "Mr Khalid Mahmood",
+    "full_title": "Mr Khalid Mahmood",
+    "list_as": "Mahmood, Mr Khalid"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2021-05-07",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs) (Europe)",
+        "start_date": "2016-10-14"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3913,
+        "name": "Birmingham Perry Barr",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham, Perry Barr",
+        "constituency_id": 3331,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Birmingham, Perry Barr",
+        "constituency_id": 292,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Mr Khalid Mahmood is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3331/overview'>Birmingham, Perry Barr</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1392/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 109,
+        "voting_participation_pct": 57.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 165,
+        "voting_participation_pct": 65.74
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 142,
+        "voting_participation_pct": 55.47
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 75,
+        "voting_participation_pct": 59.06
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 701,
+        "voting_participation_pct": 65.64
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 701,
+    "voting_participation_pct": 65.64
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

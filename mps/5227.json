@@ -1,0 +1,149 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 9,
+        "oral_questions": 3,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 98,
+        "debates_participated": 72,
+        "oral_questions": 9,
+        "written_questions": 105
+      },
+      "2026": {
+        "debate_contributions": 51,
+        "debates_participated": 30,
+        "oral_questions": 11,
+        "written_questions": 102
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 163,
+    "debates_participated": 111,
+    "early_day_motions": 0,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 208
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 163,
+    "voting_participation_pct": 84.31,
+    "written_questions": 208
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/ilford-south.json",
+    "id": 4116,
+    "name": "Ilford South",
+    "ons_code": "E14001301",
+    "slug": "ilford-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jas.athwal.mp@parliament.uk",
+      "phone": "0207 219 4022; 0203 981 3186",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jasathwal.com/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5227
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5227,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jas Athwal",
+    "full_title": "Jas Athwal MP",
+    "list_as": "Athwal, Jas"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ilford South",
+        "constituency_id": 4116,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jas Athwal is the Labour MP for <a href='/constituency/4116/overview'>Ilford South</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5227/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 280,
+        "voting_participation_pct": 86.96
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 186,
+        "voting_participation_pct": 78.81
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 532,
+        "voting_participation_pct": 84.31
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 532,
+    "voting_participation_pct": 84.31
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

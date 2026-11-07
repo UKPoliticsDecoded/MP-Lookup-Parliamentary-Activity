@@ -1,0 +1,260 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 12,
+        "debates_participated": 9,
+        "oral_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 47,
+        "debates_participated": 32,
+        "oral_questions": 11,
+        "written_questions": 5
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 35,
+        "debates_participated": 23,
+        "oral_questions": 7,
+        "written_questions": 5
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 94,
+    "debates_participated": 64,
+    "early_day_motions": 0,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 10
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 98.18,
+    "committee_memberships": 3,
+    "debate_contributions": 94,
+    "voting_participation_pct": 91.44,
+    "written_questions": 10
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "City of London (Markets) Bill",
+      "committee_id": 760,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 98.18,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 54,
+      "meetings_available": 55
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "City of London (Markets) Bill",
+        "committee_id": 760,
+        "file": "committees/city-of-london-markets-bill.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2026-06-17"
+          }
+        ],
+        "slug": "city-of-london-markets-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-01"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/watford.json",
+    "id": 4383,
+    "name": "Watford",
+    "ons_code": "E14001568",
+    "slug": "watford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "matt.turmaine.mp@parliament.uk",
+      "phone": "020 7219 7868",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "1st Floor, 270 St Albans Road, Watford, Hertfordshire",
+      "phone": "01923 975777; 01923 975888",
+      "postcode": "WD24 6PE",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://mattturmainemp.org"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5130
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5130,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Matt Turmaine",
+    "full_title": "Matt Turmaine MP",
+    "list_as": "Turmaine, Matt"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Watford",
+        "constituency_id": 4383,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Matt Turmaine is the Labour MP for <a href='/constituency/4383/overview'>Watford</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5130/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 288,
+        "voting_participation_pct": 89.44
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 219,
+        "voting_participation_pct": 92.8
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 577,
+        "voting_participation_pct": 91.44
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 577,
+    "voting_participation_pct": 91.44
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

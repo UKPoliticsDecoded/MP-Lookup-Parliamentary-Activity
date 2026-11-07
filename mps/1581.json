@@ -1,0 +1,304 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "bills_sponsored": 15,
+        "debate_contributions": 100,
+        "debates_participated": 72,
+        "oral_questions": 13,
+        "written_questions": 21
+      },
+      "2021": {
+        "bills_sponsored": 16,
+        "debate_contributions": 137,
+        "debates_participated": 90,
+        "oral_questions": 6,
+        "written_questions": 5
+      },
+      "2022": {
+        "bills_sponsored": 12,
+        "debate_contributions": 181,
+        "debates_participated": 122,
+        "oral_questions": 4,
+        "written_questions": 3
+      },
+      "2023": {
+        "debate_contributions": 49,
+        "debates_participated": 30,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 43,
+    "debate_contributions": 468,
+    "debates_participated": 315,
+    "early_day_motions": 0,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 38
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 468,
+    "voting_participation_pct": 71.2,
+    "written_questions": 38
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-06-21"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2022-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          },
+          {
+            "end": "2023-12-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-20"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3837,
+    "name": "Wellingborough"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1581
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1581,
+  "membership": {
+    "end_date": "2023-12-19",
+    "end_reason": "Recall",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": "Mr Bone",
+    "display": "Mr Peter Bone",
+    "full_title": "Mr Peter Bone",
+    "list_as": "Bone, Mr Peter"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2022-09-27",
+        "is_current": false,
+        "name": "Deputy Leader of the House of Commons",
+        "start_date": "2022-07-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3077,
+        "name": "Wellingborough",
+        "startDate": "2001-06-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2381,
+        "name": "Pudsey",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1590,
+        "name": "Islwyn",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2023-12-19",
+        "party": "Independent",
+        "start_date": "2023-10-17"
+      },
+      {
+        "end_date": "2023-10-17",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wellingborough",
+        "constituency_id": 3837,
+        "end_date": "2023-12-19",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Wellingborough",
+        "constituency_id": 3077,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Mr Peter Bone is no longer a Member, but was most recently the Independent MP for <a href='/constituency/3837/overview'>Wellingborough</a>, and left the Commons on 19 December 2023.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1581/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 183,
+        "voting_participation_pct": 96.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 169,
+        "voting_participation_pct": 69.83
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 165,
+        "voting_participation_pct": 65.74
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 151,
+        "voting_participation_pct": 58.98
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 941,
+        "divisions_voted": 670,
+        "voting_participation_pct": 71.2
+      }
+    },
+    "divisions_eligible": 941,
+    "divisions_voted": 670,
+    "voting_participation_pct": 71.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

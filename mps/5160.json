@@ -1,0 +1,206 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 10,
+        "debates_participated": 10,
+        "written_questions": 10
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 74,
+        "debates_participated": 45,
+        "oral_questions": 15,
+        "written_questions": 105
+      },
+      "2026": {
+        "debate_contributions": 50,
+        "debates_participated": 26,
+        "oral_questions": 4,
+        "written_questions": 72
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 134,
+    "debates_participated": 81,
+    "early_day_motions": 0,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 187
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 134,
+    "voting_participation_pct": 78.29,
+    "written_questions": 187
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "City of London (Markets) Bill",
+      "committee_id": 760,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 48,
+      "meetings_available": 48
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "City of London (Markets) Bill",
+        "committee_id": 760,
+        "file": "committees/city-of-london-markets-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "city-of-london-markets-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/suffolk-coastal.json",
+    "id": 4345,
+    "name": "Suffolk Coastal",
+    "ons_code": "E14001530",
+    "slug": "suffolk-coastal"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jenny.riddellcarpenter.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5160
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5160,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jenny Riddell-Carpenter",
+    "full_title": "Jenny Riddell-Carpenter MP",
+    "list_as": "Riddell-Carpenter, Jenny"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Suffolk Coastal",
+        "constituency_id": 4345,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jenny Riddell-Carpenter is the Labour MP for <a href='/constituency/4345/overview'>Suffolk Coastal</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5160/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 250,
+        "voting_participation_pct": 77.64
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 176,
+        "voting_participation_pct": 74.58
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 494,
+        "voting_participation_pct": 78.29
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 494,
+    "voting_participation_pct": 78.29
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

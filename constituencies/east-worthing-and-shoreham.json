@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 5558.9,
+    "bng": {
+      "easting": 516691,
+      "northing": 106109
+    },
+    "centroid": {
+      "latitude": 50.84274,
+      "longitude": -0.34395
+    },
+    "geojson": "constituencies/boundaries/east-worthing-and-shoreham.geojson",
+    "ons_code": "E14001218",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5222.json",
+    "member_id": 5222,
+    "name": "Tom Rutland",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74738,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9519,
+      "result": "Lab Gain",
+      "turnout": 49078,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3465,
+      "end_date": "2024-05-30",
+      "member_id": 114,
+      "name": "Tim Loughton",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 999,
+      "end_date": "2010-05-06",
+      "member_id": 114,
+      "name": "Tim Loughton",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4033,
+  "is_current": true,
+  "name": "East Worthing and Shoreham",
+  "name_cy": null,
+  "ons_code": "E14001218",
+  "outcodes": [
+    "BN11",
+    "BN13",
+    "BN14",
+    "BN15",
+    "BN41",
+    "BN42",
+    "BN43",
+    "BN95",
+    "BN99"
+  ],
+  "schema_version": 1,
+  "slug": "east-worthing-and-shoreham",
+  "start_date": "2024-05-31"
+}

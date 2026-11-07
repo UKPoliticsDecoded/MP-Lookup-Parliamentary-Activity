@@ -1,0 +1,346 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 49,
+        "debates_participated": 21,
+        "early_day_motions": 3,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2021": {
+        "debate_contributions": 33,
+        "debates_participated": 21,
+        "early_day_motions": 4,
+        "oral_questions": 1,
+        "written_questions": 25
+      },
+      "2022": {
+        "debate_contributions": 48,
+        "debates_participated": 33,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 23
+      },
+      "2023": {
+        "debate_contributions": 9,
+        "debates_participated": 9,
+        "early_day_motions": 1,
+        "written_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 14,
+        "debates_participated": 7,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 44,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 3
+      },
+      "2026": {
+        "debate_contributions": 14,
+        "debates_participated": 10,
+        "early_day_motions": 2,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 211,
+    "debates_participated": 118,
+    "early_day_motions": 13,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 70
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 211,
+    "voting_participation_pct": 58.33,
+    "written_questions": 70
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 126,
+      "meetings_available": 126
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "justice"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hackney-north-and-stoke-newington.json",
+    "id": 4074,
+    "name": "Hackney North and Stoke Newington",
+    "ons_code": "E14001259",
+    "slug": "hackney-north-and-stoke-newington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "diane.abbott.office@parliament.uk",
+      "phone": "020 7219 4426",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.dianeabbott.org.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/HackneyAbbott"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 172
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 172,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1987-06-11",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ms Abbott",
+    "display": "Ms Diane Abbott",
+    "full_title": "Rt Hon Diane Abbott MP",
+    "list_as": "Abbott, Ms Diane"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2020-04-05",
+        "is_current": false,
+        "name": "Shadow Home Secretary",
+        "start_date": "2016-10-06"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Secretary of State for International Development",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Public Health)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "1997-01-01",
+        "is_current": false,
+        "name": "Member, Labour Party National Executive Committee",
+        "start_date": "1994-01-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2026-07-30"
+      },
+      {
+        "end_date": "2026-07-30",
+        "party": "Independent",
+        "start_date": "2025-07-17"
+      },
+      {
+        "end_date": "2025-07-17",
+        "party": "Labour",
+        "start_date": "2024-05-28"
+      },
+      {
+        "end_date": "2024-05-28",
+        "party": "Independent",
+        "start_date": "2023-04-23"
+      },
+      {
+        "end_date": "2023-04-23",
+        "party": "Labour",
+        "start_date": "1987-06-11"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hackney North and Stoke Newington",
+        "constituency_id": 4074,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Hackney North and Stoke Newington",
+        "constituency_id": 3506,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Hackney North and Stoke Newington",
+        "constituency_id": 1333,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Hackney North and Stoke Newington",
+        "constituency_id": 1332,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "1987-06-11"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Ms Diane Abbott is the Labour MP for <a href='/constituency/4074/overview'>Hackney North and Stoke Newington</a>, and has been an MP continually since 11 June 1987.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/172/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 147,
+        "voting_participation_pct": 77.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 193,
+        "voting_participation_pct": 79.75
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 91,
+        "voting_participation_pct": 36.25
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 155,
+        "voting_participation_pct": 60.55
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 103,
+        "voting_participation_pct": 51.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 235,
+        "voting_participation_pct": 72.98
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 65,
+        "voting_participation_pct": 27.54
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 678,
+        "voting_participation_pct": 63.48
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 313,
+        "voting_participation_pct": 49.6
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 991,
+    "voting_participation_pct": 58.33
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

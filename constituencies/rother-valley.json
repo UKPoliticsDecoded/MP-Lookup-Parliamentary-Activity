@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 15956.1,
+    "bng": {
+      "easting": 450722,
+      "northing": 385968
+    },
+    "centroid": {
+      "latitude": 53.36817,
+      "longitude": -1.23918
+    },
+    "geojson": "constituencies/boundaries/rother-valley.geojson",
+    "ons_code": "E14001451",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5082.json",
+    "member_id": 5082,
+    "name": "Jake Richards",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69459,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 998,
+      "result": "Lab Gain",
+      "turnout": 41608,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3706,
+      "end_date": "2024-05-30",
+      "member_id": 4866,
+      "name": "Alexander Stafford",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4266,
+  "is_current": true,
+  "name": "Rother Valley",
+  "name_cy": null,
+  "ons_code": "E14001451",
+  "outcodes": [
+    "DN11",
+    "S13",
+    "S20",
+    "S25",
+    "S26",
+    "S60",
+    "S65",
+    "S66",
+    "S80",
+    "S81"
+  ],
+  "schema_version": 1,
+  "slug": "rother-valley",
+  "start_date": "2024-05-31"
+}

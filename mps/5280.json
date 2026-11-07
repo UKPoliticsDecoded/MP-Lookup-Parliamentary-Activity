@@ -1,0 +1,214 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 51,
+        "debates_participated": 37,
+        "early_day_motions": 4,
+        "oral_questions": 5,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 214,
+        "debates_participated": 97,
+        "early_day_motions": 8,
+        "oral_questions": 13,
+        "written_questions": 119
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 104,
+        "debates_participated": 60,
+        "early_day_motions": 7,
+        "oral_questions": 7,
+        "written_questions": 101
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 369,
+    "debates_participated": 194,
+    "early_day_motions": 19,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 229
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 369,
+    "voting_participation_pct": 26.15,
+    "written_questions": 229
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/aberdeenshire-north-and-moray-east.json",
+    "id": 4451,
+    "name": "Aberdeenshire North and Moray East",
+    "ons_code": "S14000062",
+    "slug": "aberdeenshire-north-and-moray-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "seamus.logan.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 1, Fraserburgh Business Centre, South Harbour Road, Fraserburgh, Aberdeenshire",
+      "phone": "01346 487013",
+      "postcode": "AB43 9TN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://seamuslogan.scot/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/SeamusLoganMP/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/seamusloganmp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/SeamusLoganMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5280
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5280,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Seamus Logan",
+    "full_title": "Seamus Logan MP",
+    "list_as": "Logan, Seamus"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Health and Social Care)",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Aberdeenshire North and Moray East",
+        "constituency_id": 4451,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Seamus Logan is the Scottish National Party MP for <a href='/constituency/4451/overview'>Aberdeenshire North and Moray East</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the roles of Shadow SNP Spokesperson (Environment, Food and Rural Affairs), and Shadow SNP Spokesperson (Health and Social Care).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5280/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 37,
+        "voting_participation_pct": 50.68
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 65,
+        "voting_participation_pct": 20.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 63,
+        "voting_participation_pct": 26.69
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 165,
+        "voting_participation_pct": 26.15
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 165,
+    "voting_participation_pct": 26.15
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

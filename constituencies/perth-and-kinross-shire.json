@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 141662.1,
+    "bng": {
+      "easting": 278883,
+      "northing": 715707
+    },
+    "centroid": {
+      "latitude": 56.31822,
+      "longitude": -3.95977
+    },
+    "geojson": "constituencies/boundaries/perth-and-kinross-shire.geojson",
+    "ons_code": "S14000103",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1440.json",
+    "member_id": 1440,
+    "name": "Pete Wishart",
+    "party": "Scottish National Party",
+    "party_abbreviation": "SNP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77261,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4127,
+      "result": "SNP Hold",
+      "turnout": 50077,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4492,
+  "is_current": true,
+  "name": "Perth and Kinross-shire",
+  "name_cy": null,
+  "ons_code": "S14000103",
+  "outcodes": [
+    "DD2",
+    "FK14",
+    "KY13",
+    "KY14",
+    "KY4",
+    "KY5",
+    "KY6",
+    "PH13",
+    "PH14",
+    "PH3",
+    "PH5",
+    "PH6",
+    "PH7"
+  ],
+  "schema_version": 1,
+  "slug": "perth-and-kinross-shire",
+  "start_date": "2024-05-31"
+}

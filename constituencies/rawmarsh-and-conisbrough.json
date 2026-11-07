@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 10122.6,
+    "bng": {
+      "easting": 451480,
+      "northing": 396400
+    },
+    "centroid": {
+      "latitude": 53.46185,
+      "longitude": -1.22609
+    },
+    "geojson": "constituencies/boundaries/rawmarsh-and-conisbrough.geojson",
+    "ons_code": "E14001436",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/400.json",
+    "member_id": 400,
+    "name": "John Healey",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69133,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6908,
+      "result": "Lab Hold",
+      "turnout": 33904,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4251,
+  "is_current": true,
+  "name": "Rawmarsh and Conisbrough",
+  "name_cy": null,
+  "ons_code": "E14001436",
+  "outcodes": [
+    "DN1",
+    "DN11",
+    "DN12",
+    "DN4",
+    "S35",
+    "S60",
+    "S61",
+    "S62",
+    "S63",
+    "S64",
+    "S65",
+    "S66",
+    "S73",
+    "S74",
+    "S97"
+  ],
+  "schema_version": 1,
+  "slug": "rawmarsh-and-conisbrough",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,267 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 77,
+        "debates_participated": 59,
+        "early_day_motions": 4,
+        "oral_questions": 10,
+        "written_questions": 136
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 204,
+        "debates_participated": 142,
+        "early_day_motions": 17,
+        "oral_questions": 16,
+        "petitions_presented": 1,
+        "written_questions": 315
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 123,
+        "debates_participated": 86,
+        "early_day_motions": 14,
+        "oral_questions": 15,
+        "written_questions": 70
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 404,
+    "debates_participated": 287,
+    "early_day_motions": 35,
+    "oral_questions": 41,
+    "petitions_presented": 1,
+    "written_questions": 521
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 404,
+    "voting_participation_pct": 67.83,
+    "written_questions": 521
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": true,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wokingham.json",
+    "id": 4408,
+    "name": "Wokingham",
+    "ons_code": "E14001593",
+    "slug": "wokingham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "clive.jones.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5207
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5207,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Clive Jones",
+    "full_title": "Clive Jones MP",
+    "list_as": "Jones, Clive"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Care and Carers)",
+        "start_date": "2026-10-05"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-10-05",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Trade)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wokingham",
+        "constituency_id": 4408,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Clive Jones is the Liberal Democrat MP for <a href='/constituency/4408/overview'>Wokingham</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Care and Carers).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5207/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 42,
+        "voting_participation_pct": 57.53
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 225,
+        "voting_participation_pct": 69.88
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 161,
+        "voting_participation_pct": 68.22
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 428,
+        "voting_participation_pct": 67.83
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 428,
+    "voting_participation_pct": 67.83
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

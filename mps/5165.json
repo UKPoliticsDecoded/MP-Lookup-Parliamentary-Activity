@@ -1,0 +1,352 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 65,
+        "debates_participated": 48,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 4
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 208,
+        "debates_participated": 134,
+        "early_day_motions": 7,
+        "oral_questions": 17,
+        "written_questions": 7
+      },
+      "2026": {
+        "debate_contributions": 186,
+        "debates_participated": 113,
+        "early_day_motions": 2,
+        "oral_questions": 26,
+        "written_questions": 19
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 459,
+    "debates_participated": 295,
+    "early_day_motions": 10,
+    "oral_questions": 48,
+    "petitions_presented": 0,
+    "written_questions": 30
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.01,
+    "committee_memberships": 7,
+    "debate_contributions": 459,
+    "voting_participation_pct": 84.79,
+    "written_questions": 30
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Court of Referees",
+      "committee_id": 780,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 97.87,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": true,
+      "meetings_attended": 46,
+      "meetings_available": 47
+    },
+    {
+      "attendance_pct": null,
+      "committee": "General Cemetery Bill [HL]",
+      "committee_id": 811,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": true,
+      "meetings_attended": 54,
+      "meetings_available": 54
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Norwich Livestock Market Bill [HL]",
+      "committee_id": 793,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Royal Albert Hall Bill [HL]",
+      "committee_id": 764,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "Court of Referees",
+        "committee_id": 780,
+        "file": "committees/court-of-referees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-27"
+          }
+        ],
+        "slug": "court-of-referees"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-28"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "General Cemetery Bill [HL]",
+        "committee_id": 811,
+        "file": "committees/general-cemetery-bill-hl.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-16"
+          }
+        ],
+        "slug": "general-cemetery-bill-hl"
+      },
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-06"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Norwich Livestock Market Bill [HL]",
+        "committee_id": 793,
+        "file": "committees/norwich-livestock-market-bill-hl.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "norwich-livestock-market-bill-hl"
+      },
+      {
+        "committee": "Royal Albert Hall Bill [HL]",
+        "committee_id": 764,
+        "file": "committees/royal-albert-hall-bill-hl-764.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-17"
+          }
+        ],
+        "slug": "royal-albert-hall-bill-hl-764"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bracknell.json",
+    "id": 3932,
+    "name": "Bracknell",
+    "ons_code": "E14001117",
+    "slug": "bracknell"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "peter.swallow.mp@parliament.uk",
+      "phone": "01344 918 198",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PeterforBracknell"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/PDJSwallow"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5165
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5165,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Peter Swallow",
+    "full_title": "Peter Swallow MP",
+    "list_as": "Swallow, Peter"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bracknell",
+        "constituency_id": 3932,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Peter Swallow is the Labour MP for <a href='/constituency/3932/overview'>Bracknell</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5165/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 282,
+        "voting_participation_pct": 87.58
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 182,
+        "voting_participation_pct": 77.12
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 535,
+        "voting_participation_pct": 84.79
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 535,
+    "voting_participation_pct": 84.79
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

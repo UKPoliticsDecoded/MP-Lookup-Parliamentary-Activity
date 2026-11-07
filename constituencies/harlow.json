@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 15398.4,
+    "bng": {
+      "easting": 551996,
+      "northing": 212730
+    },
+    "centroid": {
+      "latitude": 51.79258,
+      "longitude": 0.202569
+    },
+    "geojson": "constituencies/boundaries/harlow.geojson",
+    "ons_code": "E14001267",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5237.json",
+    "member_id": 5237,
+    "name": "Chris Vince",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74683,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2504,
+      "result": "Lab Gain",
+      "turnout": 43357,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3515,
+      "end_date": "2024-05-30",
+      "member_id": 3985,
+      "name": "Robert Halfon",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4082,
+  "is_current": true,
+  "name": "Harlow",
+  "name_cy": null,
+  "ons_code": "E14001267",
+  "outcodes": [
+    "CM17",
+    "CM18",
+    "CM19",
+    "CM20",
+    "CM21",
+    "CM22",
+    "CM23",
+    "CM5",
+    "CM6",
+    "CM92",
+    "EN10",
+    "EN11",
+    "EN9"
+  ],
+  "schema_version": 1,
+  "slug": "harlow",
+  "start_date": "2024-05-31"
+}

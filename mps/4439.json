@@ -1,0 +1,432 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 25,
+        "debates_participated": 13,
+        "oral_questions": 1,
+        "written_questions": 123
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 41,
+        "debates_participated": 20,
+        "oral_questions": 2,
+        "written_questions": 42
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 41,
+        "debates_participated": 22,
+        "oral_questions": 1,
+        "written_questions": 68
+      },
+      "2023": {
+        "debate_contributions": 12,
+        "debates_participated": 11,
+        "oral_questions": 2,
+        "written_questions": 50
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 21,
+        "debates_participated": 16,
+        "oral_questions": 1,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 44,
+        "debates_participated": 21,
+        "oral_questions": 1,
+        "written_questions": 52
+      },
+      "2026": {
+        "debate_contributions": 9,
+        "debates_participated": 9,
+        "oral_questions": 1,
+        "written_questions": 42
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 193,
+    "debates_participated": 112,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 391
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 98.8,
+    "committee_memberships": 5,
+    "debate_contributions": 193,
+    "voting_participation_pct": 78.22,
+    "written_questions": 391
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 0.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": true,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": true,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 123,
+      "meetings_available": 123
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-25"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-04"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-leicestershire.json",
+    "id": 4303,
+    "name": "South Leicestershire",
+    "ons_code": "E14001488",
+    "slug": "south-leicestershire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alberto.costa.mp@parliament.uk",
+      "phone": "020 7219 4936",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.albertocosta.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/albertocostamp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4439
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4439,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Alberto Costa",
+    "display": "Alberto Costa",
+    "full_title": "Alberto Costa MP",
+    "list_as": "Costa, Alberto"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 59,
+        "name": "Angus",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Leicestershire",
+        "constituency_id": 4303,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "South Leicestershire",
+        "constituency_id": 3745,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Alberto Costa is the Conservative MP for <a href='/constituency/4303/overview'>South Leicestershire</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4439/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 184,
+        "voting_participation_pct": 96.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 168,
+        "voting_participation_pct": 66.93
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 224,
+        "voting_participation_pct": 87.5
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 152,
+        "voting_participation_pct": 76.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 215,
+        "voting_participation_pct": 66.77
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 167,
+        "voting_participation_pct": 70.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 898,
+        "voting_participation_pct": 84.08
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 431,
+        "voting_participation_pct": 68.3
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1329,
+    "voting_participation_pct": 78.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

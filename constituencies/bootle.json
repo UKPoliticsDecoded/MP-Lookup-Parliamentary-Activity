@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 2549.8,
+    "bng": {
+      "easting": 333915,
+      "northing": 397229
+    },
+    "centroid": {
+      "latitude": 53.46765,
+      "longitude": -2.99696
+    },
+    "geojson": "constituencies/boundaries/bootle.geojson",
+    "ons_code": "E14001113",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4397.json",
+    "member_id": 4397,
+    "name": "Peter Dowd",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73037,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 21983,
+      "result": "Lab Hold",
+      "turnout": 38880,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3347,
+      "end_date": "2024-05-30",
+      "member_id": 4397,
+      "name": "Peter Dowd",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3928,
+  "is_current": true,
+  "name": "Bootle",
+  "name_cy": null,
+  "ons_code": "E14001113",
+  "outcodes": [
+    "L20",
+    "L21",
+    "L22",
+    "L23",
+    "L30",
+    "L68",
+    "L69",
+    "L70",
+    "L71",
+    "L72",
+    "L75",
+    "L9"
+  ],
+  "schema_version": 1,
+  "slug": "bootle",
+  "start_date": "2024-05-31"
+}

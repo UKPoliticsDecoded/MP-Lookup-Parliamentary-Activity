@@ -1,0 +1,187 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 41,
+        "debates_participated": 13
+      },
+      "2025": {
+        "debate_contributions": 230,
+        "debates_participated": 42
+      },
+      "2026": {
+        "debate_contributions": 311,
+        "debates_participated": 42,
+        "written_questions": 15
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 582,
+    "debates_participated": 97,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 15
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 582,
+    "voting_participation_pct": 52.14,
+    "written_questions": 15
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/birmingham-selly-oak.json",
+    "id": 3914,
+    "name": "Birmingham Selly Oak",
+    "ons_code": "E14001099",
+    "slug": "birmingham-selly-oak"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "al.carns.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "07594 530309",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5235
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5235,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Al Carns",
+    "full_title": "Al Carns MP",
+    "list_as": "Carns, Al"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2026-06-11",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence) (Minister for the Armed Forces)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence) (Minister for Veterans and People)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Birmingham Selly Oak",
+        "constituency_id": 3914,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Al Carns is the Labour MP for <a href='/constituency/3914/overview'>Birmingham Selly Oak</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5235/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 41,
+        "voting_participation_pct": 56.16
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 153,
+        "voting_participation_pct": 47.52
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 135,
+        "voting_participation_pct": 57.2
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 329,
+        "voting_participation_pct": 52.14
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 329,
+    "voting_participation_pct": 52.14
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

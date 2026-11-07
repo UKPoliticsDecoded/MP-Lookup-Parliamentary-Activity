@@ -1,0 +1,92 @@
+{
+  "boundary": {
+    "area_hectares": 14532.3,
+    "bng": {
+      "easting": 495229,
+      "northing": 196630
+    },
+    "centroid": {
+      "latitude": 51.66039,
+      "longitude": -0.62462
+    },
+    "geojson": "constituencies/boundaries/chesham-and-amersham.geojson",
+    "ons_code": "E14001162",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4918.json",
+    "member_id": 4918,
+    "name": "Sarah Green",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74889,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5451,
+      "result": "LD Gain",
+      "turnout": 54455,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3407,
+      "end_date": "2024-05-30",
+      "member_id": 4918,
+      "name": "Sarah Green",
+      "start_date": "2021-06-17"
+    },
+    {
+      "constituency_version_id": 3407,
+      "end_date": "2021-04-06",
+      "member_id": 18,
+      "name": "Dame Cheryl Gillan",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 650,
+      "end_date": "2010-05-06",
+      "member_id": 18,
+      "name": "Dame Cheryl Gillan",
+      "start_date": "1997-05-01"
+    },
+    {
+      "constituency_version_id": 649,
+      "end_date": "1997-05-01",
+      "member_id": 18,
+      "name": "Dame Cheryl Gillan",
+      "start_date": "1992-04-09"
+    }
+  ],
+  "id": 3977,
+  "is_current": true,
+  "name": "Chesham and Amersham",
+  "name_cy": null,
+  "ons_code": "E14001162",
+  "outcodes": [
+    "HP10",
+    "HP15",
+    "HP4",
+    "HP5",
+    "HP6",
+    "HP7",
+    "HP8",
+    "HP9",
+    "SL9",
+    "UB9",
+    "WD3"
+  ],
+  "schema_version": 1,
+  "slug": "chesham-and-amersham",
+  "start_date": "2024-05-31"
+}

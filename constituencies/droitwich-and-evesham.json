@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 40006.5,
+    "bng": {
+      "easting": 393275,
+      "northing": 253991
+    },
+    "centroid": {
+      "latitude": 52.18413,
+      "longitude": -2.09977
+    },
+    "geojson": "constituencies/boundaries/droitwich-and-evesham.geojson",
+    "ons_code": "E14001203",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4407.json",
+    "member_id": 4407,
+    "name": "Nigel Huddleston",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76624,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8995,
+      "result": "Con Hold",
+      "turnout": 49609,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4018,
+  "is_current": true,
+  "name": "Droitwich and Evesham",
+  "name_cy": null,
+  "ons_code": "E14001203",
+  "outcodes": [
+    "B50",
+    "CV37",
+    "DY10",
+    "DY11",
+    "DY13",
+    "WR10",
+    "WR11",
+    "WR12",
+    "WR3",
+    "WR4",
+    "WR5",
+    "WR6",
+    "WR7",
+    "WR8",
+    "WR9"
+  ],
+  "schema_version": 1,
+  "slug": "droitwich-and-evesham",
+  "start_date": "2024-05-31"
+}

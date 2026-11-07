@@ -1,0 +1,372 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 31,
+        "debates_participated": 24,
+        "oral_questions": 3,
+        "written_questions": 50
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 286,
+        "debates_participated": 89,
+        "early_day_motions": 8,
+        "oral_questions": 9,
+        "written_questions": 199
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 211,
+        "debates_participated": 59,
+        "early_day_motions": 6,
+        "oral_questions": 6,
+        "written_questions": 150
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 528,
+    "debates_participated": 172,
+    "early_day_motions": 14,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 399
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 528,
+    "voting_participation_pct": 78.61,
+    "written_questions": 399
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      },
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/brighton-pavilion.json",
+    "id": 3945,
+    "name": "Brighton Pavilion",
+    "ons_code": "E14001130",
+    "slug": "brighton-pavilion"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sian.berry.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/sianberry.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/sianberrygreen"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/sian_berry"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/sianberry"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5314
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5314,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Siân Berry",
+    "full_title": "Siân Berry MP",
+    "list_as": "Berry, Siân"
+  },
+  "party": {
+    "abbreviation": "Green",
+    "id": 44,
+    "name": "Green Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Party Chief Whip",
+        "start_date": "2026-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Home)",
+        "start_date": "2026-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Democratic Standards)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Justice)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Transport)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Work and Pensions)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Crime and Policing)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Culture, Media and Sport)",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3536,
+        "name": "Holborn and St Pancras",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1369,
+        "name": "Hampstead and Highgate",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Green Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brighton Pavilion",
+        "constituency_id": 3945,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Siân Berry is the Green Party MP for <a href='/constituency/3945/overview'>Brighton Pavilion</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the roles of Green Spokesperson (Justice), Green Spokesperson (Transport), Green Spokesperson (Work and Pensions), Green Spokesperson (Democratic Standards), Green Party Chief Whip, and Green Spokesperson (Home).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5314/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 60,
+        "voting_participation_pct": 82.19
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 256,
+        "voting_participation_pct": 79.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 180,
+        "voting_participation_pct": 76.27
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 496,
+        "voting_participation_pct": 78.61
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 496,
+    "voting_participation_pct": 78.61
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

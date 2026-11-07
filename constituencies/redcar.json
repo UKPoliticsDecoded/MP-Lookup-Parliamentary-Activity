@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 7552.0,
+    "bng": {
+      "easting": 460199,
+      "northing": 521567
+    },
+    "centroid": {
+      "latitude": 54.58573,
+      "longitude": -1.07004
+    },
+    "geojson": "constituencies/boundaries/redcar.geojson",
+    "ons_code": "E14001440",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4449.json",
+    "member_id": 4449,
+    "name": "Anna Turley",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70241,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3323,
+      "result": "Lab Gain",
+      "turnout": 38209,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3693,
+      "end_date": "2024-05-30",
+      "member_id": 4825,
+      "name": "Jacob Young",
+      "start_date": "2019-12-12"
+    },
+    {
+      "constituency_version_id": 3693,
+      "end_date": "2019-11-06",
+      "member_id": 4449,
+      "name": "Anna Turley",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4255,
+  "is_current": true,
+  "name": "Redcar",
+  "name_cy": null,
+  "ons_code": "E14001440",
+  "outcodes": [
+    "TS10",
+    "TS11",
+    "TS12",
+    "TS3",
+    "TS6",
+    "TS7"
+  ],
+  "schema_version": 1,
+  "slug": "redcar",
+  "start_date": "2024-05-31"
+}

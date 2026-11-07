@@ -1,0 +1,483 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 101,
+        "debates_participated": 75,
+        "oral_questions": 11,
+        "written_questions": 38
+      },
+      "2021": {
+        "debate_contributions": 51,
+        "debates_participated": 34,
+        "oral_questions": 4,
+        "written_questions": 55
+      },
+      "2022": {
+        "debate_contributions": 112,
+        "debates_participated": 61,
+        "oral_questions": 2,
+        "written_questions": 61
+      },
+      "2023": {
+        "debate_contributions": 123,
+        "debates_participated": 61,
+        "oral_questions": 5,
+        "written_questions": 41
+      },
+      "2024": {
+        "debate_contributions": 139,
+        "debates_participated": 76,
+        "oral_questions": 2,
+        "written_questions": 115
+      },
+      "2025": {
+        "debate_contributions": 10,
+        "debates_participated": 9,
+        "written_questions": 252
+      },
+      "2026": {
+        "debate_contributions": 184,
+        "debates_participated": 89,
+        "oral_questions": 1,
+        "written_questions": 216
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 720,
+    "debates_participated": 405,
+    "early_day_motions": 0,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 778
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 720,
+    "voting_participation_pct": 69.69,
+    "written_questions": 778
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 128,
+      "meetings_available": 128
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+      "committee_id": 686,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 65,
+      "meetings_available": 65
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-29"
+          }
+        ],
+        "slug": "international-development"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+        "committee_id": 686,
+        "file": "committees/foreign-affairs-sub-committee-on-the-overseas-territories.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-14"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-11-21"
+          }
+        ],
+        "slug": "foreign-affairs-sub-committee-on-the-overseas-territories"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rutland-and-stamford.json",
+    "id": 4273,
+    "name": "Rutland and Stamford",
+    "ons_code": "E14001458",
+    "slug": "rutland-and-stamford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alicia.kearns.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "6 Market Street, Oakham, Rutland",
+      "postcode": "LE15 6DY",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4805
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4805,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alicia Kearns",
+    "full_title": "Alicia Kearns MP",
+    "list_as": "Kearns, Alicia"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Foreign, Commonwealth and Development Office)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Home Office)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-11-20"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Home Office)",
+        "start_date": "2024-11-20"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2024-11-20",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign, Commonwealth and Development Office)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rutland and Stamford",
+        "constituency_id": 4273,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Rutland and Melton",
+        "constituency_id": 3712,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Alicia Kearns is the Conservative MP for <a href='/constituency/4273/overview'>Rutland and Stamford</a>, and has been an MP continually since 12 December 2019. \r\nShe currently undertakes the roles of Opposition Whip (Commons), Shadow Minister (Home Office), and Shadow Minister (Foreign, Commonwealth and Development Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4805/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 176,
+        "voting_participation_pct": 92.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 172,
+        "voting_participation_pct": 68.53
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 167,
+        "voting_participation_pct": 65.23
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 114,
+        "voting_participation_pct": 57.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 110,
+        "voting_participation_pct": 46.61
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 797,
+        "voting_participation_pct": 74.63
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 387,
+        "voting_participation_pct": 61.33
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1184,
+    "voting_participation_pct": 69.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

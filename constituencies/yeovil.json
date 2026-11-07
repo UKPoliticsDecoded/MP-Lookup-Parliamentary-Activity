@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 33573.9,
+    "bng": {
+      "easting": 341353,
+      "northing": 111432
+    },
+    "centroid": {
+      "latitude": 50.89936,
+      "longitude": -2.83534
+    },
+    "geojson": "constituencies/boundaries/yeovil.geojson",
+    "ons_code": "E14001603",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5191.json",
+    "member_id": 5191,
+    "name": "Adam Dance",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79918,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12268,
+      "result": "LD Gain",
+      "turnout": 48952,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3874,
+      "end_date": "2024-05-30",
+      "member_id": 4446,
+      "name": "Mr Marcus Fysh",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4418,
+  "is_current": true,
+  "name": "Yeovil",
+  "name_cy": null,
+  "ons_code": "E14001603",
+  "outcodes": [
+    "BA20",
+    "BA21",
+    "BA22",
+    "DT8",
+    "EX13",
+    "TA13",
+    "TA14",
+    "TA15",
+    "TA16",
+    "TA17",
+    "TA18",
+    "TA19",
+    "TA20",
+    "TA3"
+  ],
+  "schema_version": 1,
+  "slug": "yeovil",
+  "start_date": "2024-05-31"
+}

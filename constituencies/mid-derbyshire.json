@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 14259.2,
+    "bng": {
+      "easting": 437112,
+      "northing": 341738
+    },
+    "centroid": {
+      "latitude": 52.97173,
+      "longitude": -1.44882
+    },
+    "geojson": "constituencies/boundaries/mid-derbyshire.geojson",
+    "ons_code": "E14001362",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5256.json",
+    "member_id": 5256,
+    "name": "Jonathan Davies",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69917,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1878,
+      "result": "Lab Gain",
+      "turnout": 47543,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3604,
+      "end_date": "2024-05-30",
+      "member_id": 4025,
+      "name": "Mrs Pauline Latham",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4177,
+  "is_current": true,
+  "name": "Mid Derbyshire",
+  "name_cy": null,
+  "ons_code": "E14001362",
+  "outcodes": [
+    "DE21",
+    "DE22",
+    "DE56",
+    "DE6",
+    "DE7",
+    "DE72"
+  ],
+  "schema_version": 1,
+  "slug": "mid-derbyshire",
+  "start_date": "2024-05-31"
+}

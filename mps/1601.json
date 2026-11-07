@@ -1,0 +1,397 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 189,
+        "debates_participated": 85,
+        "oral_questions": 9,
+        "written_questions": 13
+      },
+      "2021": {
+        "debate_contributions": 127,
+        "debates_participated": 84,
+        "oral_questions": 9,
+        "written_questions": 24
+      },
+      "2022": {
+        "debate_contributions": 153,
+        "debates_participated": 63,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 16
+      },
+      "2023": {
+        "debate_contributions": 124,
+        "debates_participated": 62,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "petitions_presented": 1,
+        "written_questions": 13
+      },
+      "2024": {
+        "debate_contributions": 50,
+        "debates_participated": 29,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 643,
+    "debates_participated": 323,
+    "early_day_motions": 2,
+    "oral_questions": 25,
+    "petitions_presented": 1,
+    "written_questions": 69
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 643,
+    "voting_participation_pct": 74.06,
+    "written_questions": 69
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 62,
+      "meetings_available": 62
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 65,
+      "meetings_available": 65
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2010-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2007-11-06"
+          },
+          {
+            "end": "2013-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2012-11-05"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-09-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-11-30"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3372,
+    "name": "Bromley and Chislehurst"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1601
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1601,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2006-06-29",
+    "status": null
+  },
+  "name": {
+    "address_as": "Robert Neill",
+    "display": "Sir Robert Neill",
+    "full_title": "Sir Robert Neill KC",
+    "list_as": "Neill, Sir Robert"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Communities and Local Government) (Planning)",
+        "start_date": "2010-05-17"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Communities and Local Government)",
+        "start_date": "2007-07-03"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Parliamentary Assembly of the Council of Europe (Substitute Member)",
+        "start_date": "2013-01-15"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Vice-Chair, Conservative Party",
+        "start_date": "2012-09-01"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Deputy Chair, Conservative Party",
+        "start_date": "2007-07-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 814,
+        "name": "Dagenham",
+        "startDate": "1987-06-11T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 814,
+        "name": "Dagenham",
+        "startDate": "1983-06-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2006-06-29"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bromley and Chislehurst",
+        "constituency_id": 3372,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Bromley and Chislehurst",
+        "constituency_id": 485,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2006-06-29"
+      }
+    ]
+  },
+  "synopsis": "Sir Robert Neill is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3372/overview'>Bromley and Chislehurst</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1601/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 160,
+        "voting_participation_pct": 84.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 162,
+        "voting_participation_pct": 64.54
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 180,
+        "voting_participation_pct": 70.31
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 85,
+        "voting_participation_pct": 66.93
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 791,
+        "voting_participation_pct": 74.06
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 791,
+    "voting_participation_pct": 74.06
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 14081.1,
+    "bng": {
+      "easting": 429637,
+      "northing": 414876
+    },
+    "centroid": {
+      "latitude": 53.62959,
+      "longitude": -1.55332
+    },
+    "geojson": "constituencies/boundaries/ossett-and-denby-dale.geojson",
+    "ons_code": "E14001418",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5236.json",
+    "member_id": 5236,
+    "name": "Jade Botterill",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72312,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4542,
+      "result": "Lab Gain",
+      "turnout": 43873,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4233,
+  "is_current": true,
+  "name": "Ossett and Denby Dale",
+  "name_cy": null,
+  "ons_code": "E14001418",
+  "outcodes": [
+    "HD4",
+    "HD8",
+    "S75",
+    "WF1",
+    "WF12",
+    "WF2",
+    "WF4",
+    "WF5"
+  ],
+  "schema_version": 1,
+  "slug": "ossett-and-denby-dale",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 24989.5,
+    "bng": {
+      "easting": 505101,
+      "northing": 211593
+    },
+    "centroid": {
+      "latitude": 51.79313,
+      "longitude": -0.47744
+    },
+    "geojson": "constituencies/boundaries/harpenden-and-berkhamsted.geojson",
+    "ons_code": "E14001268",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5201.json",
+    "member_id": 5201,
+    "name": "Victoria Collins",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72242,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10708,
+      "result": "LD Gain",
+      "turnout": 54336,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4083,
+  "is_current": true,
+  "name": "Harpenden and Berkhamsted",
+  "name_cy": null,
+  "ons_code": "E14001268",
+  "outcodes": [
+    "AL2",
+    "AL3",
+    "AL4",
+    "AL5",
+    "AL6",
+    "HP1",
+    "HP2",
+    "HP23",
+    "HP3",
+    "HP4",
+    "LU1",
+    "LU2",
+    "LU6"
+  ],
+  "schema_version": 1,
+  "slug": "harpenden-and-berkhamsted",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,286 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 8,
+        "debates_participated": 3
+      },
+      "2020": {
+        "debate_contributions": 115,
+        "debates_participated": 32,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 7
+      },
+      "2021": {
+        "debate_contributions": 56,
+        "debates_participated": 45,
+        "early_day_motions": 3,
+        "written_questions": 13
+      },
+      "2022": {
+        "debate_contributions": 108,
+        "debates_participated": 59,
+        "early_day_motions": 1,
+        "written_questions": 10
+      },
+      "2023": {
+        "debate_contributions": 109,
+        "debates_participated": 56,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 7
+      },
+      "2024": {
+        "debate_contributions": 112,
+        "debates_participated": 74,
+        "early_day_motions": 3,
+        "oral_questions": 3,
+        "written_questions": 26
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 156,
+        "debates_participated": 106,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 15
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 108,
+        "debates_participated": 65,
+        "early_day_motions": 3,
+        "written_questions": 70
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 772,
+    "debates_participated": 440,
+    "early_day_motions": 17,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 148
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 772,
+    "voting_participation_pct": 59.8,
+    "written_questions": 148
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/islington-north.json",
+    "id": 4120,
+    "name": "Islington North",
+    "ons_code": "E14001305",
+    "slug": "islington-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jeremy.corbyn.mp@parliament.uk",
+      "phone": "020 7219 3545",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "jeremy.corbyn.mp@parliament.uk",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.jeremycorbyn.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "http://www.facebook.com/JeremyCorbynMP/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/jeremycorbyn"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 185
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 185,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1983-06-09",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Jeremy Corbyn",
+    "display": "Jeremy Corbyn",
+    "full_title": "Rt Hon Jeremy Corbyn MP",
+    "list_as": "Corbyn, Jeremy"
+  },
+  "party": {
+    "abbreviation": "YP",
+    "id": 1115,
+    "name": "Your Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2020-04-04",
+        "is_current": false,
+        "name": "Leader of HM Official Opposition",
+        "start_date": "2015-09-12"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Leader, Your Party",
+        "start_date": "2026-06-10"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2020-04-04",
+        "is_current": false,
+        "name": "Leader of the Labour Party",
+        "start_date": "2015-09-12"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Your Party",
+        "start_date": "2026-06-10"
+      },
+      {
+        "end_date": "2026-06-10",
+        "party": "Independent",
+        "start_date": "2020-10-29"
+      },
+      {
+        "end_date": "2020-10-29",
+        "party": "Labour",
+        "start_date": "1983-06-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Islington North",
+        "constituency_id": 4120,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Islington North",
+        "constituency_id": 3549,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Islington North",
+        "constituency_id": 1583,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Islington North",
+        "constituency_id": 1582,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1983-06-09"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Jeremy Corbyn is the Your Party MP for <a href='/constituency/4120/overview'>Islington North</a>, and has been an MP continually since 9 June 1983. \r\nHe is Parliamentary Leader, Your Party.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/185/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 136,
+        "voting_participation_pct": 71.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 198,
+        "voting_participation_pct": 81.82
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 145,
+        "voting_participation_pct": 57.77
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 120,
+        "voting_participation_pct": 46.88
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 123,
+        "voting_participation_pct": 61.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 174,
+        "voting_participation_pct": 54.04
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 118,
+        "voting_participation_pct": 50.0
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 684,
+        "voting_participation_pct": 64.04
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 332,
+        "voting_participation_pct": 52.61
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1016,
+    "voting_participation_pct": 59.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 18857.0,
+    "bng": {
+      "easting": 400757,
+      "northing": 259145
+    },
+    "centroid": {
+      "latitude": 52.23051,
+      "longitude": -1.99032
+    },
+    "geojson": "constituencies/boundaries/redditch.geojson",
+    "ons_code": "E14001441",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5109.json",
+    "member_id": 5109,
+    "name": "Chris Bloore",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71042,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 789,
+      "result": "Lab Gain",
+      "turnout": 42375,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4256,
+  "is_current": true,
+  "name": "Redditch",
+  "name_cy": null,
+  "ons_code": "E14001441",
+  "outcodes": [
+    "B49",
+    "B60",
+    "B61",
+    "B80",
+    "B96",
+    "B97",
+    "B98",
+    "WR10",
+    "WR11",
+    "WR7",
+    "WR9"
+  ],
+  "schema_version": 1,
+  "slug": "redditch",
+  "start_date": "2024-05-31"
+}

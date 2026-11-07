@@ -1,0 +1,201 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 9,
+        "debates_participated": 8,
+        "oral_questions": 1,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 28,
+        "debates_participated": 17,
+        "oral_questions": 4,
+        "written_questions": 33
+      },
+      "2026": {
+        "debate_contributions": 17,
+        "debates_participated": 14,
+        "oral_questions": 2,
+        "written_questions": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 54,
+    "debates_participated": 39,
+    "early_day_motions": 0,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 60
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 54,
+    "voting_participation_pct": 81.93,
+    "written_questions": 60
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": true,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/mid-and-south-pembrokeshire.json",
+    "id": 4515,
+    "name": "Mid and South Pembrokeshire",
+    "ons_code": "W07000100",
+    "slug": "mid-and-south-pembrokeshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "henry.tufnell.mp@parliament.uk",
+      "phone": "0207 219 2479",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Ground Floor, Bridge House, Swan Square, Haverfordwest",
+      "phone": "01437 650088",
+      "postcode": "SA61 2AN",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5121
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5121,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Henry Tufnell",
+    "full_title": "Henry Tufnell MP",
+    "list_as": "Tufnell, Henry"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid and South Pembrokeshire",
+        "constituency_id": 4515,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Henry Tufnell is the Labour MP for <a href='/constituency/4515/overview'>Mid and South Pembrokeshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5121/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 276,
+        "voting_participation_pct": 85.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 517,
+        "voting_participation_pct": 81.93
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 517,
+    "voting_participation_pct": 81.93
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

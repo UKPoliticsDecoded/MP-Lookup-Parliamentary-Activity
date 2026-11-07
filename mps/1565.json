@@ -1,0 +1,366 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 30,
+        "debates_participated": 25,
+        "oral_questions": 3,
+        "written_questions": 354
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 38,
+        "debates_participated": 23,
+        "oral_questions": 6,
+        "written_questions": 237
+      },
+      "2022": {
+        "debate_contributions": 40,
+        "debates_participated": 19,
+        "oral_questions": 3,
+        "written_questions": 113
+      },
+      "2023": {
+        "debate_contributions": 98,
+        "debates_participated": 41,
+        "oral_questions": 11,
+        "written_questions": 99
+      },
+      "2024": {
+        "debate_contributions": 67,
+        "debates_participated": 18,
+        "oral_questions": 1,
+        "petitions_presented": 5,
+        "written_questions": 45
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 273,
+    "debates_participated": 126,
+    "early_day_motions": 0,
+    "oral_questions": 24,
+    "petitions_presented": 5,
+    "written_questions": 848
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 273,
+    "voting_participation_pct": 58.8,
+    "written_questions": 848
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+      "committee_id": 570,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 27,
+      "meetings_available": 27
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-07-15"
+          },
+          {
+            "end": "2020-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Marriage and Civil Partnership (Minimum Age) Bill",
+        "committee_id": 570,
+        "file": "committees/marriage-and-civil-partnership-minimum-age-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "marriage-and-civil-partnership-minimum-age-bill"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-06-28"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-12-19"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-09"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3728,
+    "name": "Shipley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1565
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1565,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Philip Davies",
+    "display": "Sir Philip Davies",
+    "full_title": "Sir Philip Davies",
+    "list_as": "Davies, Sir Philip"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4287,
+        "name": "Shipley",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 737,
+        "name": "Colne Valley",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Shipley",
+        "constituency_id": 3728,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Shipley",
+        "constituency_id": 2587,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Sir Philip Davies is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3728/overview'>Shipley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1565/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 179,
+        "voting_participation_pct": 73.97
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 127,
+        "voting_participation_pct": 50.6
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 114,
+        "voting_participation_pct": 44.53
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 79,
+        "voting_participation_pct": 62.2
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 628,
+        "voting_participation_pct": 58.8
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 628,
+    "voting_participation_pct": 58.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 11,
+        "oral_questions": 1,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 191,
+        "debates_participated": 99,
+        "early_day_motions": 1,
+        "oral_questions": 15,
+        "written_questions": 131
+      },
+      "2026": {
+        "bills_sponsored": 3,
+        "debate_contributions": 103,
+        "debates_participated": 82,
+        "oral_questions": 10,
+        "written_questions": 143
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 310,
+    "debates_participated": 192,
+    "early_day_motions": 1,
+    "oral_questions": 26,
+    "petitions_presented": 0,
+    "written_questions": 288
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 310,
+    "voting_participation_pct": 70.68,
+    "written_questions": 288
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 59,
+      "meetings_available": 59
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      },
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/horsham.json",
+    "id": 4109,
+    "name": "Horsham",
+    "ons_code": "E14001294",
+    "slug": "horsham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.milne.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/johnmilnehorsham.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JohnMilneHorsham"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/johnmilne_horsham"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@john.milne.horsham"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JohnMilneLD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5329
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5329,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "John Milne",
+    "full_title": "John Milne MP",
+    "list_as": "Milne, John"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Horsham",
+        "constituency_id": 4109,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "John Milne is the Liberal Democrat MP for <a href='/constituency/4109/overview'>Horsham</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5329/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 44,
+        "voting_participation_pct": 60.27
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 237,
+        "voting_participation_pct": 73.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 165,
+        "voting_participation_pct": 69.92
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 446,
+        "voting_participation_pct": 70.68
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 446,
+    "voting_participation_pct": 70.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

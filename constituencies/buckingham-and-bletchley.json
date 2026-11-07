@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 39601.5,
+    "bng": {
+      "easting": 477831,
+      "northing": 230643
+    },
+    "centroid": {
+      "latitude": 51.96883,
+      "longitude": -0.86846
+    },
+    "geojson": "constituencies/boundaries/buckingham-and-bletchley.geojson",
+    "ons_code": "E14001141",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5193.json",
+    "member_id": 5193,
+    "name": "Callum Anderson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74832,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2421,
+      "result": "Lab Gain",
+      "turnout": 47641,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3956,
+  "is_current": true,
+  "name": "Buckingham and Bletchley",
+  "name_cy": null,
+  "ons_code": "E14001141",
+  "outcodes": [
+    "HP18",
+    "HP22",
+    "LU7",
+    "MK1",
+    "MK17",
+    "MK18",
+    "MK19",
+    "MK2",
+    "MK3",
+    "MK4",
+    "MK5",
+    "MK6",
+    "MK77",
+    "NN12",
+    "NN13"
+  ],
+  "schema_version": 1,
+  "slug": "buckingham-and-bletchley",
+  "start_date": "2024-05-31"
+}

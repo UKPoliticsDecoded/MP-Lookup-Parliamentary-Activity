@@ -1,0 +1,243 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 40,
+        "debates_participated": 27,
+        "oral_questions": 5,
+        "written_questions": 16
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 154,
+        "debates_participated": 95,
+        "oral_questions": 10,
+        "written_questions": 34
+      },
+      "2026": {
+        "debate_contributions": 112,
+        "debates_participated": 66,
+        "early_day_motions": 1,
+        "oral_questions": 15,
+        "written_questions": 7
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 306,
+    "debates_participated": 188,
+    "early_day_motions": 1,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 57
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 306,
+    "voting_participation_pct": 78.13,
+    "written_questions": 57
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-warwickshire-and-bedworth.json",
+    "id": 4215,
+    "name": "North Warwickshire and Bedworth",
+    "ons_code": "E14001400",
+    "slug": "north-warwickshire-and-bedworth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rachel.taylor.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "11 Congreve Walk, Bedworth",
+      "phone": "024 7630 9901",
+      "postcode": "CV12 8LX",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.Rachel-Taylor.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/RachelTaylorMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/Rachel.Taylor.MP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/RachelTaylorMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5065
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5065,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Rachel Taylor",
+    "full_title": "Rachel Taylor MP",
+    "list_as": "Taylor, Rachel"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Warwickshire and Bedworth",
+        "constituency_id": 4215,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Rachel Taylor is the Labour MP for <a href='/constituency/4215/overview'>North Warwickshire and Bedworth</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5065/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 251,
+        "voting_participation_pct": 77.95
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 173,
+        "voting_participation_pct": 73.31
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 493,
+        "voting_participation_pct": 78.13
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 493,
+    "voting_participation_pct": 78.13
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

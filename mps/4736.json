@@ -1,0 +1,446 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 1
+      },
+      "2020": {
+        "debate_contributions": 83,
+        "debates_participated": 61,
+        "early_day_motions": 5,
+        "oral_questions": 9,
+        "written_questions": 29
+      },
+      "2021": {
+        "debate_contributions": 66,
+        "debates_participated": 51,
+        "early_day_motions": 5,
+        "oral_questions": 6,
+        "written_questions": 91
+      },
+      "2022": {
+        "debate_contributions": 98,
+        "debates_participated": 78,
+        "early_day_motions": 5,
+        "oral_questions": 5,
+        "written_questions": 107
+      },
+      "2023": {
+        "debate_contributions": 112,
+        "debates_participated": 65,
+        "early_day_motions": 5,
+        "oral_questions": 3,
+        "written_questions": 141
+      },
+      "2024": {
+        "debate_contributions": 163,
+        "debates_participated": 70,
+        "early_day_motions": 5,
+        "oral_questions": 1,
+        "written_questions": 79
+      },
+      "2025": {
+        "debate_contributions": 175,
+        "debates_participated": 90,
+        "early_day_motions": 4,
+        "oral_questions": 8,
+        "written_questions": 101
+      },
+      "2026": {
+        "debate_contributions": 100,
+        "debates_participated": 50,
+        "early_day_motions": 7,
+        "oral_questions": 4,
+        "written_questions": 68
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 797,
+    "debates_participated": 465,
+    "early_day_motions": 36,
+    "oral_questions": 36,
+    "petitions_presented": 0,
+    "written_questions": 617
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 797,
+    "voting_participation_pct": 47.62,
+    "written_questions": 617
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 40,
+      "meetings_available": 40
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 53,
+      "meetings_available": 53
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 69,
+      "meetings_available": 69
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-16"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/angus-and-perthshire-glens.json",
+    "id": 4454,
+    "name": "Angus and Perthshire Glens",
+    "ons_code": "S14000065",
+    "slug": "angus-and-perthshire-glens"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "dave.doogan.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01307 804 185",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://davedooganmp.scot"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/davedoogansnp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/davedoogansnp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4736
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4736,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dave Doogan",
+    "full_title": "Dave Doogan MP",
+    "list_as": "Doogan, Dave"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Defence)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Economy)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-06-16",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Energy Security and Net Zero)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Energy Security and Net Zero)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Defence)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Defence Procurement)",
+        "start_date": "2022-01-05"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-01-05",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Manufacturing)",
+        "start_date": "2020-10-16"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-01-05",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Agriculture and Rural Affairs)",
+        "start_date": "2020-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Angus and Perthshire Glens",
+        "constituency_id": 4454,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Angus",
+        "constituency_id": 59,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Dave Doogan is the Scottish National Party MP for <a href='/constituency/4454/overview'>Angus and Perthshire Glens</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the roles of Shadow SNP Spokesperson (Defence), and Shadow SNP Spokesperson (Economy).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4736/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 123,
+        "voting_participation_pct": 64.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 155,
+        "voting_participation_pct": 64.05
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 134,
+        "voting_participation_pct": 53.39
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 144,
+        "voting_participation_pct": 56.25
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 107,
+        "voting_participation_pct": 53.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 87,
+        "voting_participation_pct": 27.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 57,
+        "voting_participation_pct": 24.15
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 629,
+        "voting_participation_pct": 58.9
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 180,
+        "voting_participation_pct": 28.53
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 809,
+    "voting_participation_pct": 47.62
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 40243.7,
+    "bng": {
+      "easting": 594713,
+      "northing": 268188
+    },
+    "centroid": {
+      "latitude": 52.27736,
+      "longitude": 0.852784
+    },
+    "geojson": "constituencies/boundaries/bury-st-edmunds-and-stowmarket.geojson",
+    "ons_code": "E14001146",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5163.json",
+    "member_id": 5163,
+    "name": "Dr Peter Prinsley",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78479,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1452,
+      "result": "Lab Gain",
+      "turnout": 50893,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3961,
+  "is_current": true,
+  "name": "Bury St Edmunds and Stowmarket",
+  "name_cy": null,
+  "ons_code": "E14001146",
+  "outcodes": [
+    "IP14",
+    "IP22",
+    "IP24",
+    "IP28",
+    "IP29",
+    "IP30",
+    "IP31",
+    "IP32",
+    "IP33"
+  ],
+  "schema_version": 1,
+  "slug": "bury-st-edmunds-and-stowmarket",
+  "start_date": "2024-05-31"
+}

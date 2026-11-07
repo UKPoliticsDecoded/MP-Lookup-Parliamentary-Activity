@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 2578.7,
+    "bng": {
+      "easting": 338234,
+      "northing": 396473
+    },
+    "centroid": {
+      "latitude": 53.46138,
+      "longitude": -2.93176
+    },
+    "geojson": "constituencies/boundaries/liverpool-walton.geojson",
+    "ons_code": "E14001339",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4651.json",
+    "member_id": 4651,
+    "name": "Dan Carden",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69317,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 20245,
+      "result": "Lab Hold",
+      "turnout": 36886,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3582,
+      "end_date": "2024-05-30",
+      "member_id": 4651,
+      "name": "Dan Carden",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4154,
+  "is_current": true,
+  "name": "Liverpool Walton",
+  "name_cy": null,
+  "ons_code": "E14001339",
+  "outcodes": [
+    "L10",
+    "L11",
+    "L12",
+    "L13",
+    "L30",
+    "L4",
+    "L67",
+    "L9"
+  ],
+  "schema_version": 1,
+  "slug": "liverpool-walton",
+  "start_date": "2024-05-31"
+}

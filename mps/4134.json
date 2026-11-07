@@ -1,0 +1,200 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 200,
+        "debates_participated": 55
+      },
+      "2021": {
+        "bills_sponsored": 3,
+        "debate_contributions": 392,
+        "debates_participated": 39
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 396,
+        "debates_participated": 30,
+        "written_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 14,
+        "debates_participated": 2,
+        "written_questions": 13
+      },
+      "2024": {
+        "debate_contributions": 2,
+        "debates_participated": 1,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 1004,
+    "debates_participated": 127,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 26
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1004,
+    "voting_participation_pct": 55.99,
+    "written_questions": 26
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3764,
+    "name": "Spelthorne"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4134
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4134,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kwasi Kwarteng",
+    "full_title": "Rt Hon Kwasi Kwarteng",
+    "list_as": "Kwarteng, Kwasi"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-10-14",
+        "is_current": false,
+        "name": "Chancellor of the Exchequer",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Secretary of State for Business, Energy and Industrial Strategy ",
+        "start_date": "2021-01-08"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2021-01-08",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Energy and Industrial Strategy)",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Department for Exiting the European Union ",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union",
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Exiting the European Union)",
+        "start_date": "2018-11-16"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 422,
+        "name": "Brent East",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Spelthorne",
+        "constituency_id": 3764,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Kwasi Kwarteng is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3764/overview'>Spelthorne</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4134/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 170,
+        "voting_participation_pct": 89.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 122,
+        "voting_participation_pct": 48.61
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 85,
+        "voting_participation_pct": 33.2
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 15,
+        "voting_participation_pct": 11.81
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 598,
+        "voting_participation_pct": 55.99
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 598,
+    "voting_participation_pct": 55.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

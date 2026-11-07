@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 133536.5,
+    "bng": {
+      "easting": 403295,
+      "northing": 529526
+    },
+    "centroid": {
+      "latitude": 54.66081,
+      "longitude": -1.95044
+    },
+    "geojson": "constituencies/boundaries/bishop-auckland.geojson",
+    "ons_code": "E14001101",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5108.json",
+    "member_id": 5108,
+    "name": "Dr Sam Rushworth",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70745,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6672,
+      "result": "Lab Gain",
+      "turnout": 40427,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3334,
+      "end_date": "2024-05-30",
+      "member_id": 4737,
+      "name": "Dehenna Davison",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3916,
+  "is_current": true,
+  "name": "Bishop Auckland",
+  "name_cy": null,
+  "ons_code": "E14001101",
+  "outcodes": [
+    "DH8",
+    "DL11",
+    "DL12",
+    "DL13",
+    "DL14",
+    "DL15",
+    "DL2",
+    "DL4"
+  ],
+  "schema_version": 1,
+  "slug": "bishop-auckland",
+  "start_date": "2024-05-31"
+}

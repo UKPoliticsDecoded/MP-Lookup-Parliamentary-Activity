@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 32735.9,
+    "bng": {
+      "easting": 606261,
+      "northing": 226701
+    },
+    "centroid": {
+      "latitude": 51.90067,
+      "longitude": 0.996735
+    },
+    "geojson": "constituencies/boundaries/harwich-and-north-essex.geojson",
+    "ons_code": "E14001273",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/40.json",
+    "member_id": 40,
+    "name": "Sir Bernard Jenkin",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76296,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1162,
+      "result": "Con Hold",
+      "turnout": 48043,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3520,
+      "end_date": "2024-05-30",
+      "member_id": 40,
+      "name": "Sir Bernard Jenkin",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4088,
+  "is_current": true,
+  "name": "Harwich and North Essex",
+  "name_cy": null,
+  "ons_code": "E14001273",
+  "outcodes": [
+    "CO1",
+    "CO11",
+    "CO12",
+    "CO2",
+    "CO3",
+    "CO4",
+    "CO5",
+    "CO6",
+    "CO7",
+    "CO8"
+  ],
+  "schema_version": 1,
+  "slug": "harwich-and-north-essex",
+  "start_date": "2024-05-31"
+}

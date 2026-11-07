@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 1265.3,
+    "bng": {
+      "easting": 521933,
+      "northing": 178586
+    },
+    "centroid": {
+      "latitude": 51.49308,
+      "longitude": -0.24498
+    },
+    "geojson": "constituencies/boundaries/hammersmith-and-chiswick.geojson",
+    "ons_code": "E14001264",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1516.json",
+    "member_id": 1516,
+    "name": "Andy Slaughter",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75860,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15290,
+      "result": "Lab Hold",
+      "turnout": 46021,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4079,
+  "is_current": true,
+  "name": "Hammersmith and Chiswick",
+  "name_cy": null,
+  "ons_code": "E14001264",
+  "outcodes": [
+    "TW8",
+    "W11",
+    "W12",
+    "W14",
+    "W3",
+    "W4",
+    "W5",
+    "W6"
+  ],
+  "schema_version": 1,
+  "slug": "hammersmith-and-chiswick",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,198 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 12,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Private Bill Office, House of Commons, London, SW1A 0AA",
+    "email": "hmbcommittee@parliament.uk",
+    "phone": "020 7219 3864"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 679,
+  "is_current": true,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/230.json",
+      "member_id": 230,
+      "name": "Mr Ben Bradshaw",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2023-12-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-20"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/1528.json",
+      "member_id": 1528,
+      "name": "Sir Mike Penning",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2023-12-11",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2023-11-20"
+        },
+        {
+          "end": "2023-12-11",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-20"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/3942.json",
+      "member_id": 3942,
+      "name": "John Stevenson",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-04-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-12-11"
+        },
+        {
+          "end": "2024-04-26",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2023-12-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4030.json",
+      "member_id": 4030,
+      "name": "Karl Turner",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-04-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-12-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4834.json",
+      "member_id": 4834,
+      "name": "Katherine Fletcher",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-01-15",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-20"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4840.json",
+      "member_id": 4840,
+      "name": "Angela Richardson",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-04-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-20"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4851.json",
+      "member_id": 4851,
+      "name": "Lia Nici",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-04-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4993.json",
+      "member_id": 4993,
+      "name": "Keir Mather",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-04-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-11-20"
+        }
+      ]
+    }
+  ],
+  "name": "Holocaust Memorial Bill Select Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The Select Committee on the Holocaust Memorial Bill was set up to oversee the Bill’s petitioning period. The Committee provides individuals and bodies directly and specially affected by the Bill with the opportunity to object to the Bill’s specific provisions and to seek its amendment.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "holocaust-memorial-bill-select",
+  "start_date": "2023-06-28",
+  "sub_committee_ids": [],
+  "types": [
+    "Private/hybrid bill committee"
+  ]
+}

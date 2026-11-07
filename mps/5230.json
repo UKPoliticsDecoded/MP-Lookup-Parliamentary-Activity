@@ -1,0 +1,240 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 40,
+        "debates_participated": 32,
+        "oral_questions": 8,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 180,
+        "debates_participated": 128,
+        "oral_questions": 15,
+        "written_questions": 26
+      },
+      "2026": {
+        "debate_contributions": 110,
+        "debates_participated": 81,
+        "oral_questions": 7,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 330,
+    "debates_participated": 241,
+    "early_day_motions": 0,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 40
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 330,
+    "voting_participation_pct": 89.06,
+    "written_questions": 40
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "justice"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wolverhampton-west.json",
+    "id": 4411,
+    "name": "Wolverhampton West",
+    "ons_code": "E14001596",
+    "slug": "wolverhampton-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "warinder.juss.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01902 902040",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/warinderjussmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/WarinderJussMPOfficial/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/warinderjussmp/"
+    },
+    {
+      "type": "Youtube",
+      "url": "http://www.youtube.com/@WarinderJussMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5230
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5230,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Warinder Juss",
+    "full_title": "Warinder Juss",
+    "list_as": "Juss, Warinder"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wolverhampton West",
+        "constituency_id": 4411,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Warinder Juss is the Labour MP for <a href='/constituency/4411/overview'>Wolverhampton West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5230/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 281,
+        "voting_participation_pct": 87.27
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 212,
+        "voting_participation_pct": 89.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 562,
+        "voting_participation_pct": 89.06
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 562,
+    "voting_participation_pct": 89.06
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 214,
+        "debates_participated": 46
+      },
+      "2021": {
+        "debate_contributions": 127,
+        "debates_participated": 45
+      },
+      "2022": {
+        "debate_contributions": 212,
+        "debates_participated": 44
+      },
+      "2023": {
+        "debate_contributions": 163,
+        "debates_participated": 48
+      },
+      "2024": {
+        "debate_contributions": 32,
+        "debates_participated": 21,
+        "oral_questions": 5,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 748,
+    "debates_participated": 204,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 3
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 748,
+    "voting_participation_pct": 88.3,
+    "written_questions": 3
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Bishop's Stortford Cemetery Bill",
+      "committee_id": 682,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 691,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Bishop's Stortford Cemetery Bill",
+        "committee_id": 682,
+        "file": "committees/bishop-s-stortford-cemetery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "bishop-s-stortford-cemetery-bill"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 691,
+        "file": "committees/finance-bill-691.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "finance-bill-691"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3422,
+    "name": "Colchester"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4423
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4423,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Will Quince",
+    "display": "Will Quince",
+    "full_title": "Will Quince",
+    "list_as": "Quince, Will"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Minister of State (Education)",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2021-09-16"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2019-04-04"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3422,
+        "name": "Colchester",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Colchester",
+        "constituency_id": 3422,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Will Quince is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3422/overview'>Colchester</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4423/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 183,
+        "voting_participation_pct": 96.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 224,
+        "voting_participation_pct": 92.56
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 224,
+        "voting_participation_pct": 87.5
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 109,
+        "voting_participation_pct": 85.83
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 943,
+        "voting_participation_pct": 88.3
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 943,
+    "voting_participation_pct": 88.3
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

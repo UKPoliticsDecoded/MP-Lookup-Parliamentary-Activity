@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 2152.0,
+    "bng": {
+      "easting": 461673,
+      "northing": 305742
+    },
+    "centroid": {
+      "latitude": 52.64593,
+      "longitude": -1.0899
+    },
+    "geojson": "constituencies/boundaries/leicester-east.geojson",
+    "ons_code": "E14001326",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5068.json",
+    "member_id": 5068,
+    "name": "Shivani Raja",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76560,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4426,
+      "result": "Con Gain",
+      "turnout": 46714,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3570,
+      "end_date": "2024-05-30",
+      "member_id": 4848,
+      "name": "Claudia Webbe",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4141,
+  "is_current": true,
+  "name": "Leicester East",
+  "name_cy": null,
+  "ons_code": "E14001326",
+  "outcodes": [
+    "LE1",
+    "LE4",
+    "LE5",
+    "LE7"
+  ],
+  "schema_version": 1,
+  "slug": "leicester-east",
+  "start_date": "2024-05-31"
+}

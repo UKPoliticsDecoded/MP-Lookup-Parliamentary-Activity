@@ -1,0 +1,230 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 22,
+        "debates_participated": 13,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 49,
+        "debates_participated": 40,
+        "early_day_motions": 6,
+        "oral_questions": 12,
+        "written_questions": 20
+      },
+      "2026": {
+        "debate_contributions": 37,
+        "debates_participated": 29,
+        "early_day_motions": 7,
+        "written_questions": 46
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 108,
+    "debates_participated": 82,
+    "early_day_motions": 13,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 68
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 108,
+    "voting_participation_pct": 86.85,
+    "written_questions": 68
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 42,
+      "meetings_available": 42
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/penrith-and-solway.json",
+    "id": 4239,
+    "name": "Penrith and Solway",
+    "ons_code": "E14001424",
+    "slug": "penrith-and-solway"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "markus.campbellsavours.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5124
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5124,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Markus Campbell-Savours",
+    "full_title": "Markus Campbell-Savours MP",
+    "list_as": "Campbell-Savours, Markus"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2026-03-06"
+      },
+      {
+        "end_date": "2026-03-06",
+        "party": "Independent",
+        "start_date": "2025-12-03"
+      },
+      {
+        "end_date": "2025-12-03",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Penrith and Solway",
+        "constituency_id": 4239,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Markus Campbell-Savours is the Labour MP for <a href='/constituency/4239/overview'>Penrith and Solway</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5124/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 286,
+        "voting_participation_pct": 88.82
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 190,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 548,
+        "voting_participation_pct": 86.85
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 548,
+    "voting_participation_pct": 86.85
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

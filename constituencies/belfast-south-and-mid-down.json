@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 11857.4,
+    "bng": {
+      "easting": 147011,
+      "northing": 521432
+    },
+    "centroid": {
+      "latitude": 54.52425,
+      "longitude": -5.90977
+    },
+    "geojson": "constituencies/boundaries/belfast-south-and-mid-down.geojson",
+    "ons_code": "N05000003",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4827.json",
+    "member_id": 4827,
+    "name": "Claire Hanna",
+    "party": "Social Democratic & Labour Party",
+    "party_abbreviation": "SDLP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74749,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12506,
+      "result": "SDLP Hold",
+      "turnout": 43491,
+      "winning_party": "Social Democratic & Labour Party",
+      "winning_party_id": 31
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4423,
+  "is_current": true,
+  "name": "Belfast South and Mid Down",
+  "name_cy": null,
+  "ons_code": "N05000003",
+  "outcodes": [
+    "BT1",
+    "BT10",
+    "BT12",
+    "BT13",
+    "BT17",
+    "BT2",
+    "BT23",
+    "BT24",
+    "BT27",
+    "BT5",
+    "BT6",
+    "BT7",
+    "BT8",
+    "BT9"
+  ],
+  "schema_version": 1,
+  "slug": "belfast-south-and-mid-down",
+  "start_date": "2024-05-31"
+}

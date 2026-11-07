@@ -1,0 +1,171 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 11,
+        "debates_participated": 8,
+        "oral_questions": 3,
+        "written_questions": 5
+      },
+      "2025": {
+        "debate_contributions": 78,
+        "debates_participated": 23,
+        "oral_questions": 4,
+        "written_questions": 17
+      },
+      "2026": {
+        "debate_contributions": 174,
+        "debates_participated": 37,
+        "oral_questions": 3,
+        "written_questions": 22
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 263,
+    "debates_participated": 68,
+    "early_day_motions": 0,
+    "oral_questions": 10,
+    "petitions_presented": 0,
+    "written_questions": 44
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 263,
+    "voting_participation_pct": 72.42,
+    "written_questions": 44
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/brighton-kemptown-and-peacehaven.json",
+    "id": 3944,
+    "name": "Brighton Kemptown and Peacehaven",
+    "ons_code": "E14001129",
+    "slug": "brighton-kemptown-and-peacehaven"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "chris.ward.mp@parliament.uk",
+      "phone": "020 7219 2076",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "phone": "01273 082531",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://chriswardmp.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/chriswardmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/chriswardmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5276
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5276,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Chris Ward",
+    "full_title": "Chris Ward MP",
+    "list_as": "Ward, Chris"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2025-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brighton Kemptown and Peacehaven",
+        "constituency_id": 3944,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Chris Ward is the Labour MP for <a href='/constituency/3944/overview'>Brighton Kemptown and Peacehaven</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5276/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 214,
+        "voting_participation_pct": 66.46
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 181,
+        "voting_participation_pct": 76.69
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 457,
+        "voting_participation_pct": 72.42
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 457,
+    "voting_participation_pct": 72.42
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

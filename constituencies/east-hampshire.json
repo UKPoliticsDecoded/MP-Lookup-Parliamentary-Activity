@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 51522.2,
+    "bng": {
+      "easting": 467402,
+      "northing": 130711
+    },
+    "centroid": {
+      "latitude": 51.07177,
+      "longitude": -1.03933
+    },
+    "geojson": "constituencies/boundaries/east-hampshire.geojson",
+    "ons_code": "E14001214",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3969.json",
+    "member_id": 3969,
+    "name": "Damian Hinds",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70659,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1275,
+      "result": "Con Hold",
+      "turnout": 50006,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3462,
+      "end_date": "2024-05-30",
+      "member_id": 3969,
+      "name": "Damian Hinds",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4029,
+  "is_current": true,
+  "name": "East Hampshire",
+  "name_cy": null,
+  "ons_code": "E14001214",
+  "outcodes": [
+    "GU10",
+    "GU31",
+    "GU32",
+    "GU33",
+    "GU34",
+    "GU35",
+    "PO7",
+    "PO8",
+    "PO9",
+    "RG23",
+    "RG25",
+    "RG29",
+    "SO21",
+    "SO24"
+  ],
+  "schema_version": 1,
+  "slug": "east-hampshire",
+  "start_date": "2024-05-31"
+}

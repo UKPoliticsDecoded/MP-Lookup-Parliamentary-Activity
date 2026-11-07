@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 17290.5,
+    "bng": {
+      "easting": 408584,
+      "northing": 411123
+    },
+    "centroid": {
+      "latitude": 53.59662,
+      "longitude": -1.87177
+    },
+    "geojson": "constituencies/boundaries/colne-valley.geojson",
+    "ons_code": "E14001177",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5317.json",
+    "member_id": 5317,
+    "name": "Paul Davies",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72638,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4963,
+      "result": "Lab Gain",
+      "turnout": 46221,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3423,
+      "end_date": "2024-05-30",
+      "member_id": 3953,
+      "name": "Jason McCartney",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3992,
+  "is_current": true,
+  "name": "Colne Valley",
+  "name_cy": null,
+  "ons_code": "E14001177",
+  "outcodes": [
+    "HD2",
+    "HD3",
+    "HD4",
+    "HD7",
+    "HD8",
+    "HD9",
+    "HX4"
+  ],
+  "schema_version": 1,
+  "slug": "colne-valley",
+  "start_date": "2024-05-31"
+}

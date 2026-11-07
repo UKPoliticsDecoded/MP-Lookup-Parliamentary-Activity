@@ -1,0 +1,318 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 13,
+        "debates_participated": 10,
+        "early_day_motions": 17,
+        "oral_questions": 4,
+        "written_questions": 287
+      },
+      "2021": {
+        "debate_contributions": 24,
+        "debates_participated": 18,
+        "early_day_motions": 18,
+        "oral_questions": 2,
+        "written_questions": 202
+      },
+      "2022": {
+        "debate_contributions": 39,
+        "debates_participated": 23,
+        "early_day_motions": 22,
+        "oral_questions": 3,
+        "written_questions": 295
+      },
+      "2023": {
+        "debate_contributions": 81,
+        "debates_participated": 51,
+        "early_day_motions": 13,
+        "oral_questions": 5,
+        "written_questions": 53
+      },
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 12,
+        "early_day_motions": 16,
+        "oral_questions": 1,
+        "written_questions": 23
+      },
+      "2025": {
+        "debate_contributions": 38,
+        "debates_participated": 28,
+        "early_day_motions": 5,
+        "oral_questions": 2,
+        "written_questions": 85
+      },
+      "2026": {
+        "debate_contributions": 32,
+        "debates_participated": 21,
+        "early_day_motions": 7,
+        "oral_questions": 2,
+        "written_questions": 45
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 253,
+    "debates_participated": 163,
+    "early_day_motions": 98,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 990
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 253,
+    "voting_participation_pct": 65.74,
+    "written_questions": 990
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/normanton-and-hemsworth.json",
+    "id": 4198,
+    "name": "Normanton and Hemsworth",
+    "ons_code": "E14001383",
+    "slug": "normanton-and-hemsworth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "trickettj@parliament.uk",
+      "phone": "020 7219 5074",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Groundfloor Office, Moorthorpe Railway Station, Barnsley Road, South Kirkby",
+      "email": "jtrickett@jontrickett.org.uk",
+      "phone": "01977 655695",
+      "postcode": "WF9 3AT",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.jontrickett.org.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/jon_trickett"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 410
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 410,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1996-02-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jon Trickett",
+    "full_title": "Jon Trickett MP",
+    "list_as": "Trickett, Jon"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2020-04-05",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2017-02-11"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2017-02-11",
+        "is_current": false,
+        "name": "Campaigns and Elections Chair",
+        "start_date": "2016-07-27"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Business, Energy and Industrial Strategy",
+        "start_date": "2016-07-14"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2016-07-14",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Business, Innovation and Skills",
+        "start_date": "2016-07-05"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2020-04-05",
+        "is_current": false,
+        "name": "Shadow Lord President of the Council",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2016-06-28",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Communities and Local Government and Shadow Minister for the Constitutional Convention",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Minister without Portfolio and Deputy Party Chair",
+        "start_date": "2013-10-08"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister for the Cabinet Office",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1996-02-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Normanton and Hemsworth",
+        "constituency_id": 4198,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Hemsworth",
+        "constituency_id": 3526,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Hemsworth",
+        "constituency_id": 1426,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Hemsworth",
+        "constituency_id": 1425,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "1996-02-01"
+      }
+    ]
+  },
+  "synopsis": "Jon Trickett is the Labour MP for <a href='/constituency/4198/overview'>Normanton and Hemsworth</a>, and has been an MP continually since 1 February 1996.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/410/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 161,
+        "voting_participation_pct": 66.53
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 101,
+        "voting_participation_pct": 40.24
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 175,
+        "voting_participation_pct": 68.36
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 130,
+        "voting_participation_pct": 65.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 221,
+        "voting_participation_pct": 68.63
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 192,
+        "voting_participation_pct": 81.36
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 651,
+        "voting_participation_pct": 60.96
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 466,
+        "voting_participation_pct": 73.85
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1117,
+    "voting_participation_pct": 65.74
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

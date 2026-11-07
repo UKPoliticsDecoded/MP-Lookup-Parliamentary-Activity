@@ -1,0 +1,79 @@
+{
+  "boundary": {
+    "area_hectares": 2530.8,
+    "bng": {
+      "easting": 407572,
+      "northing": 287070
+    },
+    "centroid": {
+      "latitude": 52.48151,
+      "longitude": -1.88992
+    },
+    "geojson": "constituencies/boundaries/birmingham-ladywood.geojson",
+    "ons_code": "E14001096",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3914.json",
+    "member_id": 3914,
+    "name": "Shabana Mahmood",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 83693,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3421,
+      "result": "Lab Hold",
+      "turnout": 36579,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3329,
+      "end_date": "2024-05-30",
+      "member_id": 3914,
+      "name": "Shabana Mahmood",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3911,
+  "is_current": true,
+  "name": "Birmingham Ladywood",
+  "name_cy": null,
+  "ons_code": "E14001096",
+  "outcodes": [
+    "B1",
+    "B10",
+    "B11",
+    "B12",
+    "B15",
+    "B16",
+    "B18",
+    "B19",
+    "B2",
+    "B21",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B66",
+    "B7",
+    "B8",
+    "B9",
+    "B99"
+  ],
+  "schema_version": 1,
+  "slug": "birmingham-ladywood",
+  "start_date": "2024-05-31"
+}

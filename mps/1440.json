@@ -1,0 +1,590 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 2
+      },
+      "2020": {
+        "debate_contributions": 136,
+        "debates_participated": 62,
+        "early_day_motions": 2,
+        "oral_questions": 2,
+        "written_questions": 37
+      },
+      "2021": {
+        "debate_contributions": 84,
+        "debates_participated": 42,
+        "early_day_motions": 4,
+        "written_questions": 4
+      },
+      "2022": {
+        "debate_contributions": 115,
+        "debates_participated": 56,
+        "early_day_motions": 4,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 63,
+        "debates_participated": 35,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 6
+      },
+      "2024": {
+        "debate_contributions": 94,
+        "debates_participated": 43,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 20
+      },
+      "2025": {
+        "debate_contributions": 279,
+        "debates_participated": 80,
+        "early_day_motions": 7,
+        "oral_questions": 8,
+        "written_questions": 8
+      },
+      "2026": {
+        "debate_contributions": 111,
+        "debates_participated": 53,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 25
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 884,
+    "debates_participated": 373,
+    "early_day_motions": 24,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 105
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 884,
+    "voting_participation_pct": 49.21,
+    "written_questions": 105
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Committee",
+      "committee_id": 107,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 123,
+      "meetings_available": 123
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-20"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-05-15"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-09-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Members Estimate Committee",
+        "committee_id": 107,
+        "file": "committees/members-estimate.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-05-15"
+          }
+        ],
+        "slug": "members-estimate"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2010-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2008-11-24"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/perth-and-kinross-shire.json",
+    "id": 4492,
+    "name": "Perth and Kinross-shire",
+    "ons_code": "S14000103",
+    "slug": "perth-and-kinross-shire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "pete.wishart.mp@parliament.uk",
+      "phone": "020 7219 8303",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "63 Glasgow Road, Perth",
+      "phone": "01738 639598",
+      "postcode": "PH2 0PE",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.petewishartmp.scot/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/PeteWishartPerth/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/PeteWishart"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1440
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1440,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Pete Wishart",
+    "display": "Pete Wishart",
+    "full_title": "Pete Wishart MP",
+    "list_as": "Wishart, Pete"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "SNP Deputy Westminster Leader",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Constitution)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Home Affairs)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2022-09-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-09-08",
+        "is_current": false,
+        "name": "Shadow SNP Leader of the House of Commons",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Cabinet Office)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Leader of the House of Commons",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Constitution)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Leader of the House of Commons)",
+        "start_date": "2015-05-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-05-20",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Constitution)",
+        "start_date": "2010-06-15"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-05-20",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Culture and Sport)",
+        "start_date": "2010-06-15"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Home Affairs)",
+        "start_date": "2007-10-10"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Justice)",
+        "start_date": "2007-10-10"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2007-10-10",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Cabinet Office)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Spokesperson (International Development)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2007-06-01",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2001-06-01"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Culture, Media and Sport)",
+        "start_date": "2001-05-10"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2005-05-05",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2001-05-10"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2005-05-05",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Transport)",
+        "start_date": "2001-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Perth and Kinross-shire",
+        "constituency_id": 4492,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Perth and North Perthshire",
+        "constituency_id": 2316,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 5 times",
+        "start_date": "2005-05-05"
+      },
+      {
+        "constituency": "North Tayside",
+        "constituency_id": 2158,
+        "end_date": "2005-05-05",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Pete Wishart is the Scottish National Party MP for <a href='/constituency/4492/overview'>Perth and Kinross-shire</a>, and has been an MP continually since 7 June 2001. \r\nHe currently undertakes the roles of SNP Deputy Westminster Leader, Shadow SNP Spokesperson (Home Affairs), and Shadow SNP Spokesperson (Constitution).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1440/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 124,
+        "voting_participation_pct": 65.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 155,
+        "voting_participation_pct": 64.05
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 138,
+        "voting_participation_pct": 54.98
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 164,
+        "voting_participation_pct": 64.06
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 110,
+        "voting_participation_pct": 55.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 86,
+        "voting_participation_pct": 26.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 57,
+        "voting_participation_pct": 24.15
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 664,
+        "voting_participation_pct": 62.17
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 172,
+        "voting_participation_pct": 27.26
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 836,
+    "voting_participation_pct": 49.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

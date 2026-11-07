@@ -1,0 +1,357 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 6,
+        "debate_contributions": 424,
+        "debates_participated": 46
+      },
+      "2021": {
+        "debate_contributions": 251,
+        "debates_participated": 46
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 91,
+        "debates_participated": 58,
+        "written_questions": 17
+      },
+      "2023": {
+        "debate_contributions": 117,
+        "debates_participated": 54,
+        "oral_questions": 1,
+        "petitions_presented": 12,
+        "written_questions": 54
+      },
+      "2024": {
+        "debate_contributions": 73,
+        "debates_participated": 35,
+        "petitions_presented": 1,
+        "written_questions": 58
+      }
+    },
+    "bills_sponsored": 7,
+    "debate_contributions": 956,
+    "debates_participated": 239,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 13,
+    "written_questions": 129
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 956,
+    "voting_participation_pct": 77.62,
+    "written_questions": 129
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 39,
+      "meetings_available": 39
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pet Abduction Bill",
+      "committee_id": 699,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+      "committee_id": 550,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-28"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-19"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-11-28"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Pet Abduction Bill",
+        "committee_id": 699,
+        "file": "committees/pet-abduction-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-24"
+          }
+        ],
+        "slug": "pet-abduction-bill"
+      },
+      {
+        "committee": "Taxi and Private Hire Vehicles (Safeguarding and Road Safety) Bill (England and Wales)",
+        "committee_id": 550,
+        "file": "committees/taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-02"
+          }
+        ],
+        "slug": "taxi-and-private-hire-vehicles-safeguarding-and-road-safety-bill-england-and-wales"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3752,
+    "name": "South Swindon"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4106
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4106,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Robert",
+    "display": "Sir Robert Buckland",
+    "full_title": "Rt Hon Sir Robert Buckland KC",
+    "list_as": "Buckland, Sir Robert"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Secretary of State for Wales",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2021-09-15",
+        "is_current": false,
+        "name": "Lord Chancellor and Secretary of State for Justice",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice)",
+        "start_date": "2019-05-09"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2019-05-09",
+        "is_current": false,
+        "name": "Solicitor General (Attorney General's Office)",
+        "start_date": "2014-07-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4352,
+        "name": "Swindon South",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2677,
+        "name": "South Swindon",
+        "startDate": "2005-05-05T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2370,
+        "name": "Preseli Pembrokeshire",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1590,
+        "name": "Islwyn",
+        "startDate": "1995-02-16T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Swindon",
+        "constituency_id": 3752,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Robert Buckland is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3752/overview'>South Swindon</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4106/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 166,
+        "voting_participation_pct": 87.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 211,
+        "voting_participation_pct": 87.19
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 186,
+        "voting_participation_pct": 74.1
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 183,
+        "voting_participation_pct": 71.48
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 81,
+        "voting_participation_pct": 63.78
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 829,
+        "voting_participation_pct": 77.62
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 829,
+    "voting_participation_pct": 77.62
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 4,
+        "debates_participated": 4,
+        "written_questions": 239
+      },
+      "2025": {
+        "debate_contributions": 64,
+        "debates_participated": 54,
+        "oral_questions": 4,
+        "written_questions": 292
+      },
+      "2026": {
+        "debate_contributions": 43,
+        "debates_participated": 30,
+        "oral_questions": 4,
+        "written_questions": 282
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 111,
+    "debates_participated": 88,
+    "early_day_motions": 0,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 813
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 111,
+    "voting_participation_pct": 95.09,
+    "written_questions": 813
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 133,
+      "meetings_available": 133
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dunstable-and-leighton-buzzard.json",
+    "id": 4021,
+    "name": "Dunstable and Leighton Buzzard",
+    "ons_code": "E14001206",
+    "slug": "dunstable-and-leighton-buzzard"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.mayer.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5141
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5141,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alex Mayer",
+    "full_title": "Alex Mayer MP",
+    "list_as": "Mayer, Alex"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dunstable and Leighton Buzzard",
+        "constituency_id": 4021,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alex Mayer is the Labour MP for <a href='/constituency/4021/overview'>Dunstable and Leighton Buzzard</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5141/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 301,
+        "voting_participation_pct": 93.48
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 228,
+        "voting_participation_pct": 96.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 600,
+        "voting_participation_pct": 95.09
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 600,
+    "voting_participation_pct": 95.09
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

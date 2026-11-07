@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 42271.7,
+    "bng": {
+      "easting": 587425,
+      "northing": 219383
+    },
+    "centroid": {
+      "latitude": 51.84159,
+      "longitude": 0.719323
+    },
+    "geojson": "constituencies/boundaries/witham.geojson",
+    "ons_code": "E14001590",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4066.json",
+    "member_id": 4066,
+    "name": "Priti Patel",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78991,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5145,
+      "result": "Con Hold",
+      "turnout": 50603,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3858,
+      "end_date": "2024-05-30",
+      "member_id": 4066,
+      "name": "Priti Patel",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4405,
+  "is_current": true,
+  "name": "Witham",
+  "name_cy": null,
+  "ons_code": "E14001590",
+  "outcodes": [
+    "CM3",
+    "CM77",
+    "CM8",
+    "CM9",
+    "CO1",
+    "CO2",
+    "CO3",
+    "CO5",
+    "CO6",
+    "CO9"
+  ],
+  "schema_version": 1,
+  "slug": "witham",
+  "start_date": "2024-05-31"
+}

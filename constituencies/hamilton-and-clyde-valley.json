@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 25796.8,
+    "bng": {
+      "easting": 279136,
+      "northing": 643900
+    },
+    "centroid": {
+      "latitude": 55.6735,
+      "longitude": -3.92337
+    },
+    "geojson": "constituencies/boundaries/hamilton-and-clyde-valley.geojson",
+    "ons_code": "S14000092",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5136.json",
+    "member_id": 5136,
+    "name": "Imogen Walker",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75480,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9472,
+      "result": "Lab Gain",
+      "turnout": 42084,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4481,
+  "is_current": true,
+  "name": "Hamilton and Clyde Valley",
+  "name_cy": null,
+  "ons_code": "S14000092",
+  "outcodes": [
+    "G72",
+    "G74",
+    "ML10",
+    "ML11",
+    "ML3",
+    "ML8",
+    "ML9"
+  ],
+  "schema_version": 1,
+  "slug": "hamilton-and-clyde-valley",
+  "start_date": "2024-05-31"
+}

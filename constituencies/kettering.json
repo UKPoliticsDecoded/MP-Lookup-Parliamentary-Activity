@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 26003.3,
+    "bng": {
+      "easting": 484392,
+      "northing": 282106
+    },
+    "centroid": {
+      "latitude": 52.43044,
+      "longitude": -0.76018
+    },
+    "geojson": "constituencies/boundaries/kettering.geojson",
+    "ons_code": "E14001311",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5331.json",
+    "member_id": 5331,
+    "name": "Rosie Wrighting",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79360,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3820,
+      "result": "Lab Gain",
+      "turnout": 50231,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3556,
+      "end_date": "2024-05-30",
+      "member_id": 1537,
+      "name": "Mr Philip Hollobone",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1615,
+      "end_date": "2010-05-06",
+      "member_id": 1537,
+      "name": "Mr Philip Hollobone",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4126,
+  "is_current": true,
+  "name": "Kettering",
+  "name_cy": null,
+  "ons_code": "E14001311",
+  "outcodes": [
+    "LE16",
+    "NN14",
+    "NN15",
+    "NN16",
+    "NN17",
+    "NN18",
+    "NN6",
+    "NN9"
+  ],
+  "schema_version": 1,
+  "slug": "kettering",
+  "start_date": "2024-05-31"
+}

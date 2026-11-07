@@ -1,0 +1,311 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 64,
+        "debates_participated": 45,
+        "oral_questions": 16,
+        "written_questions": 87
+      },
+      "2021": {
+        "debate_contributions": 63,
+        "debates_participated": 37,
+        "oral_questions": 8,
+        "written_questions": 77
+      },
+      "2022": {
+        "debate_contributions": 84,
+        "debates_participated": 51,
+        "oral_questions": 18,
+        "written_questions": 88
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 64,
+        "debates_participated": 36,
+        "oral_questions": 15,
+        "written_questions": 78
+      },
+      "2024": {
+        "debate_contributions": 56,
+        "debates_participated": 20,
+        "oral_questions": 10,
+        "written_questions": 29
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 331,
+    "debates_participated": 189,
+    "early_day_motions": 0,
+    "oral_questions": 67,
+    "petitions_presented": 0,
+    "written_questions": 359
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 331,
+    "voting_participation_pct": 84.27,
+    "written_questions": 359
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "British Citizenship (Northern Ireland) Bill",
+      "committee_id": 716,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Special Rules for End of Life) Bill",
+      "committee_id": 718,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "British Citizenship (Northern Ireland) Bill",
+        "committee_id": 716,
+        "file": "committees/british-citizenship-northern-ireland-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-20"
+          }
+        ],
+        "slug": "british-citizenship-northern-ireland-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Pensions (Special Rules for End of Life) Bill",
+        "committee_id": 718,
+        "file": "committees/pensions-special-rules-for-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "pensions-special-rules-for-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3798,
+    "name": "Tewkesbury"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 253
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 253,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Robertson",
+    "display": "Mr Laurence Robertson",
+    "full_title": "Mr Laurence Robertson",
+    "list_as": "Robertson, Mr Laurence"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Northern Ireland)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Shadow Minister (Treasury)",
+        "start_date": "2003-10-30"
+      },
+      {
+        "department": "Department of Trade and Industry",
+        "department_url": "http://www.dti.gov.uk",
+        "end_date": "2003-10-30",
+        "is_current": false,
+        "name": "Shadow Minister (Trade and Industry)",
+        "start_date": "2003-06-01"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2003-06-01",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2001-06-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4357,
+        "name": "Tewkesbury",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 77,
+        "name": "Ashfield",
+        "startDate": "1992-04-09T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1873,
+        "name": "Makerfield",
+        "startDate": "1987-06-11T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tewkesbury",
+        "constituency_id": 3798,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Tewkesbury",
+        "constituency_id": 2907,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Mr Laurence Robertson is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3798/overview'>Tewkesbury</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/253/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 162,
+        "voting_participation_pct": 85.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 221,
+        "voting_participation_pct": 91.32
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 211,
+        "voting_participation_pct": 84.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 211,
+        "voting_participation_pct": 82.42
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 900,
+        "voting_participation_pct": 84.27
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 900,
+    "voting_participation_pct": 84.27
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

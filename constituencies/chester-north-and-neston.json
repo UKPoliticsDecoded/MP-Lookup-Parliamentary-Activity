@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 10994.0,
+    "bng": {
+      "easting": 336406,
+      "northing": 372622
+    },
+    "centroid": {
+      "latitude": 53.2468,
+      "longitude": -2.95448
+    },
+    "geojson": "constituencies/boundaries/chester-north-and-neston.geojson",
+    "ons_code": "E14001163",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4976.json",
+    "member_id": 4976,
+    "name": "Samantha Dixon",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70215,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11870,
+      "result": "Lab Hold",
+      "turnout": 44694,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3978,
+  "is_current": true,
+  "name": "Chester North and Neston",
+  "name_cy": null,
+  "ons_code": "E14001163",
+  "outcodes": [
+    "CH1",
+    "CH2",
+    "CH3",
+    "CH33",
+    "CH4",
+    "CH62",
+    "CH64",
+    "CH65",
+    "CH66",
+    "CH70",
+    "CH88",
+    "CH99"
+  ],
+  "schema_version": 1,
+  "slug": "chester-north-and-neston",
+  "start_date": "2024-05-31"
+}

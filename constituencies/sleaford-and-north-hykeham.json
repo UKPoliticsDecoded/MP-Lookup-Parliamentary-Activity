@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 71768.1,
+    "bng": {
+      "easting": 502609,
+      "northing": 357854
+    },
+    "centroid": {
+      "latitude": 53.10804,
+      "longitude": -0.46865
+    },
+    "geojson": "constituencies/boundaries/sleaford-and-north-hykeham.geojson",
+    "ons_code": "E14001476",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4592.json",
+    "member_id": 4592,
+    "name": "Dr Caroline Johnson",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75651,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4346,
+      "result": "Con Hold",
+      "turnout": 48565,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3732,
+      "end_date": "2024-05-30",
+      "member_id": 4592,
+      "name": "Dr Caroline Johnson",
+      "start_date": "2016-12-08"
+    }
+  ],
+  "id": 4291,
+  "is_current": true,
+  "name": "Sleaford and North Hykeham",
+  "name_cy": null,
+  "ons_code": "E14001476",
+  "outcodes": [
+    "LN10",
+    "LN3",
+    "LN4",
+    "LN5",
+    "LN6",
+    "NG23",
+    "NG32",
+    "NG34"
+  ],
+  "schema_version": 1,
+  "slug": "sleaford-and-north-hykeham",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 35455.1,
+    "bng": {
+      "easting": 330088,
+      "northing": 659217
+    },
+    "centroid": {
+      "latitude": 55.82111,
+      "longitude": -3.11738
+    },
+    "geojson": "constituencies/boundaries/midlothian.geojson",
+    "ons_code": "S14000045",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5114.json",
+    "member_id": 5114,
+    "name": "Kirsty McNeill",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73554,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8167,
+      "result": "Lab Gain",
+      "turnout": 44165,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1977,
+      "end_date": "2024-05-30",
+      "member_id": 4482,
+      "name": "Owen Thompson",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4445,
+  "is_current": true,
+  "name": "Midlothian",
+  "name_cy": null,
+  "ons_code": "S14000045",
+  "outcodes": [
+    "EH10",
+    "EH16",
+    "EH17",
+    "EH18",
+    "EH19",
+    "EH20",
+    "EH21",
+    "EH22",
+    "EH23",
+    "EH24",
+    "EH25",
+    "EH26",
+    "EH37",
+    "EH46"
+  ],
+  "schema_version": 1,
+  "slug": "midlothian",
+  "start_date": "2024-05-31"
+}

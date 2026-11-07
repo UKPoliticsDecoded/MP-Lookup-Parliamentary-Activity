@@ -1,0 +1,237 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 503,
+        "debates_participated": 79
+      },
+      "2021": {
+        "debate_contributions": 207,
+        "debates_participated": 56
+      },
+      "2022": {
+        "debate_contributions": 148,
+        "debates_participated": 46,
+        "petitions_presented": 3
+      },
+      "2023": {
+        "debate_contributions": 261,
+        "debates_participated": 51
+      },
+      "2024": {
+        "debate_contributions": 60,
+        "debates_participated": 20
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1179,
+    "debates_participated": 252,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 3,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1179,
+    "voting_participation_pct": 86.8,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+      "committee_id": 657,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Shark Fins Bill",
+      "committee_id": 624,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+        "committee_id": 657,
+        "file": "committees/animals-low-welfare-activities-abroad-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "animals-low-welfare-activities-abroad-bill"
+      },
+      {
+        "committee": "Shark Fins Bill",
+        "committee_id": 624,
+        "file": "committees/shark-fins-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-09"
+          }
+        ],
+        "slug": "shark-fins-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3796,
+    "name": "Taunton Deane"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4522
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4522,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": null
+  },
+  "name": {
+    "address_as": "Rebecca Pow",
+    "display": "Rebecca Pow",
+    "full_title": "Rebecca Pow",
+    "list_as": "Pow, Rebecca"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2022-10-28"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2022-07-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2019-09-12"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2019-09-10",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2019-05-23"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4355,
+        "name": "Taunton and Wellington",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Taunton Deane",
+        "constituency_id": 3796,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Rebecca Pow is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3796/overview'>Taunton Deane</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4522/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 169,
+        "voting_participation_pct": 88.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 198,
+        "voting_participation_pct": 78.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 233,
+        "voting_participation_pct": 91.02
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 111,
+        "voting_participation_pct": 87.4
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 927,
+        "voting_participation_pct": 86.8
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 927,
+    "voting_participation_pct": 86.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

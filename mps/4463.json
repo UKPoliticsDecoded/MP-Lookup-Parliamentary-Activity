@@ -1,0 +1,397 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 4,
+        "debate_contributions": 119,
+        "debates_participated": 71,
+        "early_day_motions": 28,
+        "oral_questions": 6,
+        "written_questions": 173
+      },
+      "2021": {
+        "bills_sponsored": 14,
+        "debate_contributions": 65,
+        "debates_participated": 42,
+        "early_day_motions": 24,
+        "oral_questions": 5,
+        "written_questions": 114
+      },
+      "2022": {
+        "bills_sponsored": 15,
+        "debate_contributions": 209,
+        "debates_participated": 91,
+        "early_day_motions": 36,
+        "oral_questions": 23,
+        "written_questions": 120
+      },
+      "2023": {
+        "bills_sponsored": 18,
+        "debate_contributions": 297,
+        "debates_participated": 118,
+        "early_day_motions": 34,
+        "oral_questions": 30,
+        "written_questions": 231
+      },
+      "2024": {
+        "debate_contributions": 117,
+        "debates_participated": 64,
+        "early_day_motions": 5,
+        "oral_questions": 18,
+        "written_questions": 55
+      }
+    },
+    "bills_sponsored": 51,
+    "debate_contributions": 807,
+    "debates_participated": 386,
+    "early_day_motions": 127,
+    "oral_questions": 82,
+    "petitions_presented": 0,
+    "written_questions": 693
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 807,
+    "voting_participation_pct": 69.38,
+    "written_questions": 693
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment (Allocation of Tips) Bill",
+      "committee_id": 615,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+      "committee_id": 578,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 109,
+      "meetings_available": 109
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Employment (Allocation of Tips) Bill",
+        "committee_id": 615,
+        "file": "committees/employment-allocation-of-tips-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "employment-allocation-of-tips-bill"
+      },
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-12"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Public Service Pensions and Judicial Offices Bill [HL]",
+        "committee_id": 578,
+        "file": "committees/public-service-pensions-and-judicial-offices-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "public-service-pensions-and-judicial-offices-bill-hl"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-01-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1209,
+    "name": "Glasgow South West"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4463
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4463,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Chris Stephens",
+    "display": "Chris Stephens",
+    "full_title": "Chris Stephens",
+    "list_as": "Stephens, Chris"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Immigration)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Justice)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Levelling Up)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Fair Work and Employment)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Trade Unions and Workers' Rights)",
+        "start_date": "2017-06-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4477,
+        "name": "Glasgow South West",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow South West",
+        "constituency_id": 1209,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Chris Stephens is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1209/overview'>Glasgow South West</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4463/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 130,
+        "voting_participation_pct": 68.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 161,
+        "voting_participation_pct": 66.53
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 170,
+        "voting_participation_pct": 67.73
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 179,
+        "voting_participation_pct": 69.92
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 99,
+        "voting_participation_pct": 77.95
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 741,
+        "voting_participation_pct": 69.38
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 741,
+    "voting_participation_pct": 69.38
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

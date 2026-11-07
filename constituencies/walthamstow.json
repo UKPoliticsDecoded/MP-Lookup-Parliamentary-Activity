@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 1608.6,
+    "bng": {
+      "easting": 537215,
+      "northing": 189198
+    },
+    "centroid": {
+      "latitude": 51.58494,
+      "longitude": -0.02085
+    },
+    "geojson": "constituencies/boundaries/walthamstow.geojson",
+    "ons_code": "E14001563",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4088.json",
+    "member_id": 4088,
+    "name": "Ms Stella Creasy",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74474,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 17996,
+      "result": "Lab Hold",
+      "turnout": 45668,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3825,
+      "end_date": "2024-05-30",
+      "member_id": 4088,
+      "name": "Ms Stella Creasy",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4378,
+  "is_current": true,
+  "name": "Walthamstow",
+  "name_cy": null,
+  "ons_code": "E14001563",
+  "outcodes": [
+    "E10",
+    "E11",
+    "E17",
+    "E4",
+    "E5",
+    "N17"
+  ],
+  "schema_version": 1,
+  "slug": "walthamstow",
+  "start_date": "2024-05-31"
+}

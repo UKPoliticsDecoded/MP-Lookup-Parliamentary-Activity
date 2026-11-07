@@ -1,0 +1,154 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 63,
+        "debates_participated": 46,
+        "oral_questions": 3,
+        "written_questions": 126
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 14,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 32
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 77,
+    "debates_participated": 58,
+    "early_day_motions": 0,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 158
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 77,
+    "voting_participation_pct": 79.86,
+    "written_questions": 158
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3309,
+    "name": "Batley and Spen"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4588
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4588,
+  "membership": {
+    "end_date": "2021-05-10",
+    "end_reason": "Resignation (Chiltern)",
+    "start_date": "2016-10-20",
+    "status": null
+  },
+  "name": {
+    "address_as": "Tracy Brabin",
+    "display": "Tracy Brabin",
+    "full_title": "Tracy Brabin",
+    "list_as": "Brabin, Tracy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2021-05-10",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Digital, Culture, Media and Sport",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2017-07-03"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2021-05-10",
+        "party": "Labour",
+        "start_date": "2016-10-20"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Batley and Spen",
+        "constituency_id": 3309,
+        "end_date": "2021-05-10",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2016-10-20"
+      }
+    ]
+  },
+  "synopsis": "Tracy Brabin is no longer a Member, but was most recently the Labour (Co-op) MP for <a href='/constituency/3309/overview'>Batley and Spen</a>, and left the Commons on 10 May 2021.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4588/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 91,
+        "divisions_voted": 87,
+        "voting_participation_pct": 95.6
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 283,
+        "divisions_voted": 226,
+        "voting_participation_pct": 79.86
+      }
+    },
+    "divisions_eligible": 283,
+    "divisions_voted": 226,
+    "voting_participation_pct": 79.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

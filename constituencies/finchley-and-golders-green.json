@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 2100.7,
+    "bng": {
+      "easting": 525191,
+      "northing": 189002
+    },
+    "centroid": {
+      "latitude": 51.58597,
+      "longitude": -0.19437
+    },
+    "geojson": "constituencies/boundaries/finchley-and-golders-green.geojson",
+    "ons_code": "E14001238",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5204.json",
+    "member_id": 5204,
+    "name": "Sarah Sackman",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77500,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4581,
+      "result": "Lab Gain",
+      "turnout": 49289,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3487,
+      "end_date": "2024-05-30",
+      "member_id": 4004,
+      "name": "Mike Freer",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4053,
+  "is_current": true,
+  "name": "Finchley and Golders Green",
+  "name_cy": null,
+  "ons_code": "E14001238",
+  "outcodes": [
+    "N10",
+    "N11",
+    "N12",
+    "N2",
+    "N20",
+    "N3",
+    "N6",
+    "NW11",
+    "NW2",
+    "NW3",
+    "NW4",
+    "NW7"
+  ],
+  "schema_version": 1,
+  "slug": "finchley-and-golders-green",
+  "start_date": "2024-05-31"
+}

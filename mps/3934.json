@@ -1,0 +1,191 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 3,
+        "debate_contributions": 366,
+        "debates_participated": 53
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 239,
+        "debates_participated": 40
+      },
+      "2022": {
+        "debate_contributions": 222,
+        "debates_participated": 26,
+        "written_questions": 3
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 55,
+        "debates_participated": 26,
+        "oral_questions": 1,
+        "written_questions": 23
+      },
+      "2024": {
+        "debate_contributions": 25,
+        "debates_participated": 6,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 6,
+    "debate_contributions": 907,
+    "debates_participated": 151,
+    "early_day_motions": 0,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 35
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 907,
+    "voting_participation_pct": 87.36,
+    "written_questions": 35
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3385,
+    "name": "Camborne and Redruth"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3934
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3934,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "George Eustice",
+    "display": "George Eustice",
+    "full_title": "Rt Hon George Eustice",
+    "list_as": "Eustice, George"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2019-07-25"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2019-02-28",
+        "is_current": false,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2013-10-07"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Camborne and Redruth",
+        "constituency_id": 3385,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon George Eustice is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3385/overview'>Camborne and Redruth</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3934/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 179,
+        "voting_participation_pct": 94.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 192,
+        "voting_participation_pct": 76.49
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 234,
+        "voting_participation_pct": 91.41
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 107,
+        "voting_participation_pct": 84.25
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 933,
+        "voting_participation_pct": 87.36
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 933,
+    "voting_participation_pct": 87.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

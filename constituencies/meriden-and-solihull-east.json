@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 13289.9,
+    "bng": {
+      "easting": 420288,
+      "northing": 280411
+    },
+    "centroid": {
+      "latitude": 52.42133,
+      "longitude": -1.70309
+    },
+    "geojson": "constituencies/boundaries/meriden-and-solihull-east.geojson",
+    "ons_code": "E14001358",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4818.json",
+    "member_id": 4818,
+    "name": "Saqib Bhatti",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73659,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4584,
+      "result": "Con Hold",
+      "turnout": 44035,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4173,
+  "is_current": true,
+  "name": "Meriden and Solihull East",
+  "name_cy": null,
+  "ons_code": "E14001358",
+  "outcodes": [
+    "B26",
+    "B36",
+    "B37",
+    "B40",
+    "B91",
+    "B92",
+    "B93",
+    "B94",
+    "CV4",
+    "CV5",
+    "CV7",
+    "CV8"
+  ],
+  "schema_version": 1,
+  "slug": "meriden-and-solihull-east",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 13847.7,
+    "bng": {
+      "easting": 477342,
+      "northing": 167203
+    },
+    "centroid": {
+      "latitude": 51.39859,
+      "longitude": -0.88961
+    },
+    "geojson": "constituencies/boundaries/wokingham.geojson",
+    "ons_code": "E14001593",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5207.json",
+    "member_id": 5207,
+    "name": "Clive Jones",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75082,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8345,
+      "result": "LD Gain",
+      "turnout": 53999,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4408,
+  "is_current": true,
+  "name": "Wokingham",
+  "name_cy": null,
+  "ons_code": "E14001593",
+  "outcodes": [
+    "RG10",
+    "RG2",
+    "RG27",
+    "RG40",
+    "RG41",
+    "RG42",
+    "RG45",
+    "RG5",
+    "RG7",
+    "RG9"
+  ],
+  "schema_version": 1,
+  "slug": "wokingham",
+  "start_date": "2024-05-31"
+}

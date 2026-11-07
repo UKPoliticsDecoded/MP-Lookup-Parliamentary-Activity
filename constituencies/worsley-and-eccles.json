@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 7135.2,
+    "bng": {
+      "easting": 371642,
+      "northing": 397143
+    },
+    "centroid": {
+      "latitude": 53.47026,
+      "longitude": -2.42866
+    },
+    "geojson": "constituencies/boundaries/worsley-and-eccles.geojson",
+    "ons_code": "E14001598",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5242.json",
+    "member_id": 5242,
+    "name": "Michael Wheeler",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78643,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11091,
+      "result": "Lab Hold",
+      "turnout": 42543,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4413,
+  "is_current": true,
+  "name": "Worsley and Eccles",
+  "name_cy": null,
+  "ons_code": "E14001598",
+  "outcodes": [
+    "M27",
+    "M28",
+    "M29",
+    "M30",
+    "M44",
+    "M6",
+    "WA3"
+  ],
+  "schema_version": 1,
+  "slug": "worsley-and-eccles",
+  "start_date": "2024-05-31"
+}

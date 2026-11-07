@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 3090.9,
+    "bng": {
+      "easting": 390878,
+      "northing": 405957
+    },
+    "centroid": {
+      "latitude": 53.55018,
+      "longitude": -2.13914
+    },
+    "geojson": "constituencies/boundaries/oldham-west-chadderton-and-royton.geojson",
+    "ons_code": "E14001416",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4569.json",
+    "member_id": 4569,
+    "name": "Jim McMahon",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76031,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4976,
+      "result": "Lab Hold",
+      "turnout": 38573,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4231,
+  "is_current": true,
+  "name": "Oldham West, Chadderton and Royton",
+  "name_cy": null,
+  "ons_code": "E14001416",
+  "outcodes": [
+    "M24",
+    "M40",
+    "OL1",
+    "OL2",
+    "OL3",
+    "OL8",
+    "OL9"
+  ],
+  "schema_version": 1,
+  "slug": "oldham-west-chadderton-and-royton",
+  "start_date": "2024-05-31"
+}

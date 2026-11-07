@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 2277.5,
+    "bng": {
+      "easting": 522035,
+      "northing": 190701
+    },
+    "centroid": {
+      "latitude": 51.60194,
+      "longitude": -0.23931
+    },
+    "geojson": "constituencies/boundaries/hendon.geojson",
+    "ons_code": "E14001279",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5360.json",
+    "member_id": 5360,
+    "name": "David Pinto-Duschinsky",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74865,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15,
+      "result": "Lab Gain",
+      "turnout": 41256,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3527,
+      "end_date": "2024-05-30",
+      "member_id": 4006,
+      "name": "Dr Matthew Offord",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4094,
+  "is_current": true,
+  "name": "Hendon",
+  "name_cy": null,
+  "ons_code": "E14001279",
+  "outcodes": [
+    "HA7",
+    "HA8",
+    "N3",
+    "NW11",
+    "NW2",
+    "NW4",
+    "NW7",
+    "NW9"
+  ],
+  "schema_version": 1,
+  "slug": "hendon",
+  "start_date": "2024-05-31"
+}

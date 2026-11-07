@@ -1,0 +1,315 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 242,
+        "debates_participated": 88,
+        "early_day_motions": 4,
+        "oral_questions": 8,
+        "written_questions": 14
+      },
+      "2021": {
+        "debate_contributions": 99,
+        "debates_participated": 63,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 14
+      },
+      "2022": {
+        "debate_contributions": 146,
+        "debates_participated": 81,
+        "early_day_motions": 2,
+        "oral_questions": 14,
+        "written_questions": 19
+      },
+      "2023": {
+        "debate_contributions": 190,
+        "debates_participated": 80,
+        "early_day_motions": 1,
+        "oral_questions": 15,
+        "written_questions": 3
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 87,
+        "debates_participated": 38,
+        "oral_questions": 6,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 766,
+    "debates_participated": 351,
+    "early_day_motions": 9,
+    "oral_questions": 51,
+    "petitions_presented": 0,
+    "written_questions": 52
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 766,
+    "voting_participation_pct": 63.86,
+    "written_questions": 52
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": false,
+      "meetings_attended": 124,
+      "meetings_available": 124
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-10-31"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2023-06-21",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-07-21"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-21"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1048,
+    "name": "Edinburgh South West"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4419
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4419,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Joanna Cherry",
+    "display": "Joanna Cherry",
+    "full_title": "Joanna Cherry KC",
+    "list_as": "Cherry, Joanna"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Home Affairs)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Justice)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Justice and Home Affairs)",
+        "start_date": "2015-05-13"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4470,
+        "name": "Edinburgh South West",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edinburgh South West",
+        "constituency_id": 1048,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Joanna Cherry is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1048/overview'>Edinburgh South West</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4419/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 153,
+        "voting_participation_pct": 63.22
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 145,
+        "voting_participation_pct": 57.77
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 164,
+        "voting_participation_pct": 64.06
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 86,
+        "voting_participation_pct": 67.72
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 682,
+        "voting_participation_pct": 63.86
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 682,
+    "voting_participation_pct": 63.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 16805.8,
+    "bng": {
+      "easting": 289365,
+      "northing": 697173
+    },
+    "centroid": {
+      "latitude": 56.15435,
+      "longitude": -3.78265
+    },
+    "geojson": "constituencies/boundaries/alloa-and-grangemouth.geojson",
+    "ons_code": "S14000064",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5196.json",
+    "member_id": 5196,
+    "name": "Brian Leishman",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70680,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6122,
+      "result": "Lab Gain",
+      "turnout": 41201,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4453,
+  "is_current": true,
+  "name": "Alloa and Grangemouth",
+  "name_cy": null,
+  "ons_code": "S14000064",
+  "outcodes": [
+    "FK10",
+    "FK11",
+    "FK12",
+    "FK13",
+    "FK14",
+    "FK2",
+    "FK3",
+    "FK5",
+    "FK7",
+    "FK9"
+  ],
+  "schema_version": 1,
+  "slug": "alloa-and-grangemouth",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,78 @@
+{
+  "boundary": {
+    "area_hectares": 2587.5,
+    "bng": {
+      "easting": 519278,
+      "northing": 166781
+    },
+    "centroid": {
+      "latitude": 51.38754,
+      "longitude": -0.28718
+    },
+    "geojson": "constituencies/boundaries/kingston-and-surbiton.geojson",
+    "ons_code": "E14001312",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/188.json",
+    "member_id": 188,
+    "name": "Ed Davey",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77353,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 17235,
+      "result": "LD Hold",
+      "turnout": 50664,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3557,
+      "end_date": "2024-05-30",
+      "member_id": 188,
+      "name": "Ed Davey",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1628,
+      "end_date": "2010-05-06",
+      "member_id": 188,
+      "name": "Ed Davey",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4127,
+  "is_current": true,
+  "name": "Kingston and Surbiton",
+  "name_cy": null,
+  "ons_code": "E14001312",
+  "outcodes": [
+    "KT1",
+    "KT18",
+    "KT19",
+    "KT2",
+    "KT22",
+    "KT3",
+    "KT4",
+    "KT5",
+    "KT6",
+    "KT7",
+    "KT9"
+  ],
+  "schema_version": 1,
+  "slug": "kingston-and-surbiton",
+  "start_date": "2024-05-31"
+}

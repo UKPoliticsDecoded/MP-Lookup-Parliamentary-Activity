@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 2834.6,
+    "bng": {
+      "easting": 436254,
+      "northing": 282175
+    },
+    "centroid": {
+      "latitude": 52.43637,
+      "longitude": -1.46813
+    },
+    "geojson": "constituencies/boundaries/coventry-east.geojson",
+    "ons_code": "E14001180",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1579.json",
+    "member_id": 1579,
+    "name": "Mary Creagh",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75773,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11623,
+      "result": "Lab Hold",
+      "turnout": 37014,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3995,
+  "is_current": true,
+  "name": "Coventry East",
+  "name_cy": null,
+  "ons_code": "E14001180",
+  "outcodes": [
+    "CV1",
+    "CV2",
+    "CV3",
+    "CV4",
+    "CV5",
+    "CV6",
+    "CV7",
+    "CV8"
+  ],
+  "schema_version": 1,
+  "slug": "coventry-east",
+  "start_date": "2024-05-31"
+}

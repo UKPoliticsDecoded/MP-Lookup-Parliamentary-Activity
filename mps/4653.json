@@ -1,0 +1,380 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 20
+      },
+      "2020": {
+        "debate_contributions": 88,
+        "debates_participated": 34,
+        "oral_questions": 13,
+        "written_questions": 505
+      },
+      "2021": {
+        "debate_contributions": 62,
+        "debates_participated": 37,
+        "oral_questions": 11,
+        "written_questions": 343
+      },
+      "2022": {
+        "debate_contributions": 36,
+        "debates_participated": 28,
+        "oral_questions": 7,
+        "written_questions": 448
+      },
+      "2023": {
+        "debate_contributions": 64,
+        "debates_participated": 44,
+        "oral_questions": 16,
+        "written_questions": 695
+      },
+      "2024": {
+        "debate_contributions": 77,
+        "debates_participated": 26,
+        "oral_questions": 6,
+        "written_questions": 390
+      },
+      "2025": {
+        "debate_contributions": 297,
+        "debates_participated": 47
+      },
+      "2026": {
+        "debate_contributions": 124,
+        "debates_participated": 21
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 748,
+    "debates_participated": 237,
+    "early_day_motions": 0,
+    "oral_questions": 53,
+    "petitions_presented": 0,
+    "written_questions": 2401
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 748,
+    "voting_participation_pct": 79.28,
+    "written_questions": 2401
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill (2021)",
+      "committee_id": 509,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill (2021)",
+        "committee_id": 509,
+        "file": "committees/select-committee-on-the-armed-forces-bill-2021.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2021-04-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-25"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill-2021"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/portsmouth-south.json",
+    "id": 4247,
+    "name": "Portsmouth South",
+    "ons_code": "E14001432",
+    "slug": "portsmouth-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "stephen.morgan.mp@parliament.uk",
+      "phone": "0207 219 3906",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "72 Albert Road, Southsea, Portsmouth",
+      "phone": "023 9229 1088",
+      "postcode": "PO5 2SL",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.stephenmorgan.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/stephenmorganmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/StephenMorganMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/stephenmorganmp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/stephenmorganmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4653
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4653,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Stephen Morgan",
+    "full_title": "Stephen Morgan MP",
+    "list_as": "Morgan, Stephen"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2026-06-12"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-06-12",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2025-09-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2023-09-06",
+        "is_current": false,
+        "name": "Shadow Minister (Education) (Schools)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2020-01-16"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister for Local Government (Communities)",
+        "start_date": "2019-07-17"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Portsmouth South",
+        "constituency_id": 4247,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Portsmouth South",
+        "constituency_id": 3685,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Stephen Morgan is the Labour MP for <a href='/constituency/4247/overview'>Portsmouth South</a>, and has been an MP continually since 8 June 2017. \r\nHe currently holds the Government post of Parliamentary Under-Secretary (Department for Environment, Food and Rural Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4653/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 141,
+        "voting_participation_pct": 74.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 198,
+        "voting_participation_pct": 77.34
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 140,
+        "voting_participation_pct": 70.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 265,
+        "voting_participation_pct": 82.3
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 183,
+        "voting_participation_pct": 77.54
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 843,
+        "voting_participation_pct": 78.93
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 504,
+        "voting_participation_pct": 79.87
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1347,
+    "voting_participation_pct": 79.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

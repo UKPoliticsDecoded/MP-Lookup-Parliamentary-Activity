@@ -1,0 +1,333 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 119,
+        "debates_participated": 49,
+        "oral_questions": 11,
+        "written_questions": 48
+      },
+      "2021": {
+        "debate_contributions": 192,
+        "debates_participated": 44,
+        "oral_questions": 2,
+        "written_questions": 40
+      },
+      "2022": {
+        "debate_contributions": 258,
+        "debates_participated": 56,
+        "oral_questions": 1,
+        "written_questions": 56
+      },
+      "2023": {
+        "debate_contributions": 83,
+        "debates_participated": 40,
+        "oral_questions": 1,
+        "written_questions": 32
+      },
+      "2024": {
+        "debate_contributions": 154,
+        "debates_participated": 46,
+        "oral_questions": 3,
+        "written_questions": 27
+      },
+      "2025": {
+        "debate_contributions": 436,
+        "debates_participated": 59
+      },
+      "2026": {
+        "debate_contributions": 376,
+        "debates_participated": 58
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1618,
+    "debates_participated": 352,
+    "early_day_motions": 0,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 203
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1618,
+    "voting_participation_pct": 63.51,
+    "written_questions": 203
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/croydon-west.json",
+    "id": 4003,
+    "name": "Croydon West",
+    "ons_code": "E14001188",
+    "slug": "croydon-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.jones.mp@parliament.uk",
+      "phone": "0207 219 2963",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 2150, Level 3, The Management Suite, The Whitgift Centre, Croydon",
+      "phone": "0208 191 7066",
+      "postcode": "CR0 1LP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.sarah-jones.org/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CroydonSarah"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/LabourSJ"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4631
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4631,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sarah Jones",
+    "display": "Sarah Jones",
+    "full_title": "Sarah Jones MP",
+    "list_as": "Jones, Sarah"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Home Office)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Business and Trade)",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Energy Security and Net Zero)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Home Office)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Industry and Decarbonisation)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government) (Housing)",
+        "start_date": "2018-05-15"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3432,
+        "name": "Croydon Central",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Croydon West",
+        "constituency_id": 4003,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Croydon Central",
+        "constituency_id": 3432,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Sarah Jones is the Labour MP for <a href='/constituency/4003/overview'>Croydon West</a>, and has been an MP continually since 8 June 2017. \r\nShe currently holds the Government post of Minister of State (Home Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4631/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 197,
+        "voting_participation_pct": 81.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 177,
+        "voting_participation_pct": 70.52
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 161,
+        "voting_participation_pct": 62.89
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 106,
+        "voting_participation_pct": 53.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 163,
+        "voting_participation_pct": 50.62
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 129,
+        "voting_participation_pct": 54.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 747,
+        "voting_participation_pct": 69.94
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 332,
+        "voting_participation_pct": 52.61
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1079,
+    "voting_participation_pct": 63.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

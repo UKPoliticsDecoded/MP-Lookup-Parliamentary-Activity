@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 4675.9,
+    "bng": {
+      "easting": 485168,
+      "northing": 164319
+    },
+    "centroid": {
+      "latitude": 51.37155,
+      "longitude": -0.77784
+    },
+    "geojson": "constituencies/boundaries/bracknell.geojson",
+    "ons_code": "E14001117",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5165.json",
+    "member_id": 5165,
+    "name": "Peter Swallow",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71660,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 784,
+      "result": "Lab Gain",
+      "turnout": 43837,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3352,
+      "end_date": "2024-05-30",
+      "member_id": 4767,
+      "name": "James Sunderland",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3932,
+  "is_current": true,
+  "name": "Bracknell",
+  "name_cy": null,
+  "ons_code": "E14001117",
+  "outcodes": [
+    "GU15",
+    "GU46",
+    "GU47",
+    "RG12",
+    "RG40",
+    "RG42",
+    "RG45"
+  ],
+  "schema_version": 1,
+  "slug": "bracknell",
+  "start_date": "2024-05-31"
+}

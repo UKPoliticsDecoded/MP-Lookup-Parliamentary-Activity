@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 33133.4,
+    "bng": {
+      "easting": 455897,
+      "northing": 289152
+    },
+    "centroid": {
+      "latitude": 52.49743,
+      "longitude": -1.17805
+    },
+    "geojson": "constituencies/boundaries/south-leicestershire.geojson",
+    "ons_code": "E14001488",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4439.json",
+    "member_id": 4439,
+    "name": "Alberto Costa",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78511,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5506,
+      "result": "Con Hold",
+      "turnout": 51359,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3745,
+      "end_date": "2024-05-30",
+      "member_id": 4439,
+      "name": "Alberto Costa",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4303,
+  "is_current": true,
+  "name": "South Leicestershire",
+  "name_cy": null,
+  "ons_code": "E14001488",
+  "outcodes": [
+    "LE10",
+    "LE17",
+    "LE18",
+    "LE19",
+    "LE2",
+    "LE3",
+    "LE8",
+    "LE87",
+    "LE9",
+    "NN6"
+  ],
+  "schema_version": 1,
+  "slug": "south-leicestershire",
+  "start_date": "2024-05-31"
+}

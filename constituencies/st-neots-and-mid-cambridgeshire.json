@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 34958.7,
+    "bng": {
+      "easting": 535294,
+      "northing": 263628
+    },
+    "centroid": {
+      "latitude": 52.25421,
+      "longitude": -0.01934
+    },
+    "geojson": "constituencies/boundaries/st-neots-and-mid-cambridgeshire.geojson",
+    "ons_code": "E14001512",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5096.json",
+    "member_id": 5096,
+    "name": "Ian Sollom",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78115,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4621,
+      "result": "LD Gain",
+      "turnout": 52882,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4327,
+  "is_current": true,
+  "name": "St Neots and Mid Cambridgeshire",
+  "name_cy": null,
+  "ons_code": "E14001512",
+  "outcodes": [
+    "CB1",
+    "CB23",
+    "CB24",
+    "CB3",
+    "CB4",
+    "PE19",
+    "PE28",
+    "SG19",
+    "SG8"
+  ],
+  "schema_version": 1,
+  "slug": "st-neots-and-mid-cambridgeshire",
+  "start_date": "2024-05-31"
+}

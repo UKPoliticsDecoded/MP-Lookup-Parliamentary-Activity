@@ -1,0 +1,440 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 86,
+        "debates_participated": 57,
+        "oral_questions": 14,
+        "written_questions": 17
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 109,
+        "debates_participated": 91,
+        "oral_questions": 24,
+        "written_questions": 29
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 86,
+        "debates_participated": 62,
+        "oral_questions": 18,
+        "written_questions": 22
+      },
+      "2023": {
+        "debate_contributions": 76,
+        "debates_participated": 56,
+        "oral_questions": 13,
+        "written_questions": 37
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 59,
+        "debates_participated": 38,
+        "oral_questions": 13,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 416,
+    "debates_participated": 304,
+    "early_day_motions": 0,
+    "oral_questions": 82,
+    "petitions_presented": 0,
+    "written_questions": 117
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.26,
+    "committee_memberships": 0,
+    "debate_contributions": 416,
+    "voting_participation_pct": 92.13,
+    "written_questions": 117
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Backbench Business Committee",
+      "committee_id": 202,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Consolidation, &c., Bills (Joint Committee)",
+      "committee_id": 171,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 99.25,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 133,
+      "meetings_available": 134
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nuclear Energy (Financing) Bill",
+      "committee_id": 553,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+      "committee_id": 584,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+      "committee_id": 660,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Sex-based Harassment in Public Bill",
+      "committee_id": 653,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 720,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Backbench Business Committee",
+        "committee_id": 202,
+        "file": "committees/backbench-business.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-02"
+          }
+        ],
+        "slug": "backbench-business"
+      },
+      {
+        "committee": "Consolidation, &c., Bills (Joint Committee)",
+        "committee_id": 171,
+        "file": "committees/consolidation-and-c-bills-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-09"
+          }
+        ],
+        "slug": "consolidation-and-c-bills-joint-committee"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Nuclear Energy (Financing) Bill",
+        "committee_id": 553,
+        "file": "committees/nuclear-energy-financing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-15"
+          }
+        ],
+        "slug": "nuclear-energy-financing-bill"
+      },
+      {
+        "committee": "Pension Schemes (Conversion of Guaranteed Minimum Pensions) Bill",
+        "committee_id": 584,
+        "file": "committees/pension-schemes-conversion-of-guaranteed-minimum-pensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-26"
+          }
+        ],
+        "slug": "pension-schemes-conversion-of-guaranteed-minimum-pensions-bill"
+      },
+      {
+        "committee": "Pensions (Extension of Automatic Enrolment) (No. 2) Bill",
+        "committee_id": 660,
+        "file": "committees/pensions-extension-of-automatic-enrolment-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "pensions-extension-of-automatic-enrolment-no-2-bill"
+      },
+      {
+        "committee": "Protection from Sex-based Harassment in Public Bill",
+        "committee_id": 653,
+        "file": "committees/protection-from-sex-based-harassment-in-public-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-21"
+          }
+        ],
+        "slug": "protection-from-sex-based-harassment-in-public-bill"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-30"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 720,
+        "file": "committees/tobacco-and-vapes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3647,
+    "name": "North Norfolk"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4784
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4784,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Duncan Baker",
+    "full_title": "Duncan Baker",
+    "list_as": "Baker, Duncan"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4211,
+        "name": "North Norfolk",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Norfolk",
+        "constituency_id": 3647,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Duncan Baker is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3647/overview'>North Norfolk</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4784/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 187,
+        "voting_participation_pct": 98.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 218,
+        "voting_participation_pct": 90.08
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 221,
+        "voting_participation_pct": 88.05
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 239,
+        "voting_participation_pct": 93.36
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 117,
+        "voting_participation_pct": 92.13
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 984,
+        "voting_participation_pct": 92.13
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 984,
+    "voting_participation_pct": 92.13
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

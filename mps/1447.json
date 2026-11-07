@@ -1,0 +1,516 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 64,
+        "debates_participated": 29,
+        "early_day_motions": 8,
+        "oral_questions": 14,
+        "written_questions": 545
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 47,
+        "debates_participated": 29,
+        "early_day_motions": 16,
+        "oral_questions": 6,
+        "written_questions": 600
+      },
+      "2022": {
+        "debate_contributions": 30,
+        "debates_participated": 14,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 554
+      },
+      "2023": {
+        "early_day_motions": 3,
+        "written_questions": 732
+      },
+      "2024": {
+        "debate_contributions": 111,
+        "debates_participated": 55,
+        "early_day_motions": 4,
+        "oral_questions": 14,
+        "written_questions": 728
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 154,
+        "debates_participated": 93,
+        "early_day_motions": 13,
+        "oral_questions": 11,
+        "written_questions": 1076
+      },
+      "2026": {
+        "debate_contributions": 101,
+        "debates_participated": 53,
+        "early_day_motions": 2,
+        "oral_questions": 9,
+        "written_questions": 653
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 507,
+    "debates_participated": 273,
+    "early_day_motions": 47,
+    "oral_questions": 59,
+    "petitions_presented": 0,
+    "written_questions": 4889
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 507,
+    "voting_participation_pct": 54.8,
+    "written_questions": 4889
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal (Penalty Notices) Bill",
+      "committee_id": 563,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 128,
+      "meetings_available": 128
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+      "committee_id": 686,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Glue Traps (Offences) Bill",
+      "committee_id": 573,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal (Penalty Notices) Bill",
+        "committee_id": 563,
+        "file": "committees/animal-penalty-notices-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "animal-penalty-notices-bill"
+      },
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-12"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-08"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+        "committee_id": 686,
+        "file": "committees/foreign-affairs-sub-committee-on-the-overseas-territories.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-12"
+          }
+        ],
+        "slug": "foreign-affairs-sub-committee-on-the-overseas-territories"
+      },
+      {
+        "committee": "Glue Traps (Offences) Bill",
+        "committee_id": 573,
+        "file": "committees/glue-traps-offences-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "glue-traps-offences-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-06-29"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          },
+          {
+            "end": "2024-11-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/romford.json",
+    "id": 4263,
+    "name": "Romford",
+    "ons_code": "E14001448",
+    "slug": "romford"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "andrew.rosindell.mp@parliament.uk",
+      "phone": "020 7219 8475",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Margaret Thatcher House, 85 Western Road, Romford",
+      "email": "andrew.rosindell.mp@parliament.uk",
+      "phone": "01708 766700",
+      "postcode": "RM1 3LS",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/AndrewRosindell"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1447
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1447,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Andrew Rosindell",
+    "display": "Andrew Rosindell",
+    "full_title": "Andrew Rosindell MP",
+    "list_as": "Rosindell, Andrew"
+  },
+  "party": {
+    "abbreviation": "RUK",
+    "id": 1036,
+    "name": "Reform UK"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2026-01-18",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Foreign, Commonwealth and Development Affairs)",
+        "start_date": "2024-11-20"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Home Affairs)",
+        "start_date": "2007-07-03"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2007-07-03",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2022-10-11",
+        "is_current": false,
+        "name": "Co Chair, British-Irish Parliamentary Assembly",
+        "start_date": "2016-07-04"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2019-11-06",
+        "is_current": false,
+        "name": "NATO Parliamentary Assembly UK Delegation",
+        "start_date": "2015-11-23"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2005-07-01",
+        "is_current": false,
+        "name": "Vice-Chair, Conservative Party",
+        "start_date": "2004-07-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2926,
+        "name": "Thurrock",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1253,
+        "name": "Glasgow, Provan",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Reform UK",
+        "start_date": "2026-01-18"
+      },
+      {
+        "end_date": "2026-01-18",
+        "party": "Conservative",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Romford",
+        "constituency_id": 4263,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Romford",
+        "constituency_id": 3703,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Romford",
+        "constituency_id": 2448,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "Andrew Rosindell is the Reform UK MP for <a href='/constituency/4263/overview'>Romford</a>, and has been an MP continually since 7 June 2001.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1447/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 167,
+        "voting_participation_pct": 87.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 179,
+        "voting_participation_pct": 73.97
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 88,
+        "voting_participation_pct": 35.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 130,
+        "voting_participation_pct": 65.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 230,
+        "voting_participation_pct": 71.43
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 135,
+        "voting_participation_pct": 57.2
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 511,
+        "voting_participation_pct": 47.85
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 420,
+        "voting_participation_pct": 66.56
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 931,
+    "voting_participation_pct": 54.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

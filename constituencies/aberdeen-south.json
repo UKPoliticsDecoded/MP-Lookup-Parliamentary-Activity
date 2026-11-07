@@ -1,0 +1,92 @@
+{
+  "boundary": {
+    "area_hectares": 8616.8,
+    "bng": {
+      "easting": 385630,
+      "northing": 803154
+    },
+    "centroid": {
+      "latitude": 57.11908,
+      "longitude": -2.23894
+    },
+    "geojson": "constituencies/boundaries/aberdeen-south.geojson",
+    "ons_code": "S14000061",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5450.json",
+    "member_id": 5450,
+    "name": "Douglas Lumsden",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2026-06-18"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2026-06-18",
+      "election": "2026-06-18 Aberdeen South By-election",
+      "election_id": 557,
+      "electorate": 76033,
+      "is_general_election": false,
+      "is_notional": false,
+      "majority": 6050,
+      "result": "Con Gain",
+      "turnout": 28897,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    },
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77328,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3758,
+      "result": "SNP Hold",
+      "turnout": 46345,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 4450,
+      "end_date": "2026-05-14",
+      "member_id": 4735,
+      "name": "Stephen Flynn",
+      "start_date": "2024-07-04"
+    },
+    {
+      "constituency_version_id": 20,
+      "end_date": "2024-05-30",
+      "member_id": 4735,
+      "name": "Stephen Flynn",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4450,
+  "is_current": true,
+  "name": "Aberdeen South",
+  "name_cy": null,
+  "ons_code": "S14000061",
+  "outcodes": [
+    "AB10",
+    "AB11",
+    "AB12",
+    "AB13",
+    "AB14",
+    "AB15",
+    "AB24",
+    "AB25",
+    "AB31",
+    "AB32",
+    "AB99"
+  ],
+  "schema_version": 1,
+  "slug": "aberdeen-south",
+  "start_date": "2024-05-31"
+}

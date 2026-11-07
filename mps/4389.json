@@ -1,0 +1,431 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 134,
+        "debates_participated": 80,
+        "oral_questions": 20,
+        "written_questions": 101
+      },
+      "2021": {
+        "debate_contributions": 197,
+        "debates_participated": 81,
+        "oral_questions": 6,
+        "written_questions": 132
+      },
+      "2022": {
+        "debate_contributions": 111,
+        "debates_participated": 84,
+        "oral_questions": 12,
+        "written_questions": 338
+      },
+      "2023": {
+        "debate_contributions": 110,
+        "debates_participated": 72,
+        "oral_questions": 15,
+        "written_questions": 406
+      },
+      "2024": {
+        "debate_contributions": 72,
+        "debates_participated": 45,
+        "oral_questions": 9,
+        "written_questions": 243
+      },
+      "2025": {
+        "debate_contributions": 103,
+        "debates_participated": 53,
+        "oral_questions": 3,
+        "written_questions": 80
+      },
+      "2026": {
+        "debate_contributions": 54,
+        "debates_participated": 31,
+        "oral_questions": 3,
+        "written_questions": 75
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 782,
+    "debates_participated": 447,
+    "early_day_motions": 0,
+    "oral_questions": 68,
+    "petitions_presented": 0,
+    "written_questions": 1375
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 782,
+    "voting_participation_pct": 74.51,
+    "written_questions": 1375
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on National Policy Statements",
+      "committee_id": 596,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 332,
+      "meetings_available": 332
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety Bill",
+      "committee_id": 535,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commercial Rent (Coronavirus) Bill",
+      "committee_id": 561,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Liaison Sub-Committee on National Policy Statements",
+        "committee_id": 596,
+        "file": "committees/liaison-sub-committee-on-national-policy-statements.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-11"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-10-29"
+          },
+          {
+            "end": "2023-11-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Building Safety Bill",
+        "committee_id": 535,
+        "file": "committees/building-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "building-safety-bill"
+      },
+      {
+        "committee": "Commercial Rent (Coronavirus) Bill",
+        "committee_id": 561,
+        "file": "committees/commercial-rent-coronavirus-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "commercial-rent-coronavirus-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/brentford-and-isleworth.json",
+    "id": 3939,
+    "name": "Brentford and Isleworth",
+    "ons_code": "E14001124",
+    "slug": "brentford-and-isleworth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ruthcadburymp@parliament.uk",
+      "phone": "020 7219 8590",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "email": "ruth@ruthcadbury.org.uk",
+      "phone": "0208 581 3646",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://ruthcadbury.org/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/ruthcadbury"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4389
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4389,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ruth Cadbury",
+    "display": "Ruth Cadbury",
+    "full_title": "Ruth Cadbury MP",
+    "list_as": "Cadbury, Ruth"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (International Trade)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government) (Planning)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities & Local Government) (Planning)",
+        "start_date": "2021-05-14"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2017-06-29",
+        "is_current": false,
+        "name": "Shadow Minister (Housing)",
+        "start_date": "2016-10-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brentford and Isleworth",
+        "constituency_id": 3939,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Brentford and Isleworth",
+        "constituency_id": 3360,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Ruth Cadbury is the Labour MP for <a href='/constituency/3939/overview'>Brentford and Isleworth</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4389/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 150,
+        "voting_participation_pct": 59.76
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 190,
+        "voting_participation_pct": 74.22
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 149,
+        "voting_participation_pct": 74.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 253,
+        "voting_participation_pct": 78.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 167,
+        "voting_participation_pct": 70.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 775,
+        "voting_participation_pct": 72.57
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 491,
+        "voting_participation_pct": 77.81
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1266,
+    "voting_participation_pct": 74.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

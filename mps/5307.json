@@ -1,0 +1,200 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 29,
+        "debates_participated": 18,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 82
+      },
+      "2025": {
+        "debate_contributions": 54,
+        "debates_participated": 32,
+        "oral_questions": 4,
+        "written_questions": 37
+      },
+      "2026": {
+        "debate_contributions": 39,
+        "debates_participated": 21,
+        "oral_questions": 6,
+        "written_questions": 49
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 122,
+    "debates_participated": 71,
+    "early_day_motions": 1,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 168
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 122,
+    "voting_participation_pct": 75.44,
+    "written_questions": 168
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/worthing-west.json",
+    "id": 4414,
+    "name": "Worthing West",
+    "ons_code": "E14001599",
+    "slug": "worthing-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "beccy.cooper.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "casework@drbeccycooper.co.uk",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5307
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5307,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Beccy Cooper",
+    "full_title": "Dr Beccy Cooper MP",
+    "list_as": "Cooper, Dr Beccy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Worthing West",
+        "constituency_id": 4414,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Beccy Cooper is the Labour MP for <a href='/constituency/4414/overview'>Worthing West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5307/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 56,
+        "voting_participation_pct": 76.71
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 252,
+        "voting_participation_pct": 78.26
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 168,
+        "voting_participation_pct": 71.19
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 476,
+        "voting_participation_pct": 75.44
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 476,
+    "voting_participation_pct": 75.44
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

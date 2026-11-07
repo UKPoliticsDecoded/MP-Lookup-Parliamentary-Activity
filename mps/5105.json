@@ -1,0 +1,246 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 25,
+        "debates_participated": 21,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 103,
+        "debates_participated": 56,
+        "early_day_motions": 6,
+        "oral_questions": 4,
+        "written_questions": 27
+      },
+      "2026": {
+        "debate_contributions": 54,
+        "debates_participated": 29,
+        "early_day_motions": 5,
+        "oral_questions": 3,
+        "written_questions": 17
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 182,
+    "debates_participated": 106,
+    "early_day_motions": 12,
+    "oral_questions": 10,
+    "petitions_presented": 0,
+    "written_questions": 58
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 182,
+    "voting_participation_pct": 82.25,
+    "written_questions": 58
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "home-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bassetlaw.json",
+    "id": 3894,
+    "name": "Bassetlaw",
+    "ons_code": "E14001079",
+    "slug": "bassetlaw"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jo.white.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "The Crossing Church & Centre, Newcastle Street, Worksop",
+      "phone": "01909 212171",
+      "postcode": "S80 2AT",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jowhite.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/jowhitebassetlaw"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5105
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5105,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jo White",
+    "full_title": "Jo White MP",
+    "list_as": "White, Jo"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2026-07-22"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Home Office)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bassetlaw",
+        "constituency_id": 3894,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jo White is the Labour MP for <a href='/constituency/3894/overview'>Bassetlaw</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Parliamentary Under-Secretary (Home Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5105/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 251,
+        "voting_participation_pct": 77.95
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 200,
+        "voting_participation_pct": 84.75
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 519,
+        "voting_participation_pct": 82.25
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 519,
+    "voting_participation_pct": 82.25
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 2,
+        "debates_participated": 2
+      },
+      "2025": {
+        "debate_contributions": 66,
+        "debates_participated": 37,
+        "oral_questions": 2,
+        "written_questions": 16
+      },
+      "2026": {
+        "debate_contributions": 28,
+        "debates_participated": 20,
+        "oral_questions": 6,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 96,
+    "debates_participated": 59,
+    "early_day_motions": 0,
+    "oral_questions": 8,
+    "petitions_presented": 0,
+    "written_questions": 18
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 96,
+    "voting_participation_pct": 88.59,
+    "written_questions": 18
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-05"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/worcester.json",
+    "id": 4412,
+    "name": "Worcester",
+    "ons_code": "E14001597",
+    "slug": "worcester"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tom.collins.mp@parliament.uk",
+      "phone": "07543 467626",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/tomcollinsworcs.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/tomcollinsworcs"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/tomcollinsworcs"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/tomcollinsworcs"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5087
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5087,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Tom Collins",
+    "full_title": "Tom Collins MP",
+    "list_as": "Collins, Tom"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Worcester",
+        "constituency_id": 4412,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Tom Collins is the Labour MP for <a href='/constituency/4412/overview'>Worcester</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5087/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 293,
+        "voting_participation_pct": 90.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 201,
+        "voting_participation_pct": 85.17
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 559,
+        "voting_participation_pct": 88.59
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 559,
+    "voting_participation_pct": 88.59
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

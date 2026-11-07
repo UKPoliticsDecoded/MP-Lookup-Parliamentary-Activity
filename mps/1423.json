@@ -1,0 +1,216 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 25,
+        "debates_participated": 3
+      },
+      "2020": {
+        "debate_contributions": 1782,
+        "debates_participated": 67
+      },
+      "2021": {
+        "debate_contributions": 1617,
+        "debates_participated": 54
+      },
+      "2022": {
+        "debate_contributions": 1329,
+        "debates_participated": 47
+      },
+      "2023": {
+        "debate_contributions": 12,
+        "debates_participated": 9,
+        "oral_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 4765,
+    "debates_participated": 180,
+    "early_day_motions": 0,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 4765,
+    "voting_participation_pct": 28.48,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3817,
+    "name": "Uxbridge and South Ruislip"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1423
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1423,
+  "membership": {
+    "end_date": "2023-06-12",
+    "end_reason": "Resignation (Chiltern)",
+    "start_date": "2015-05-07",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Boris Johnson",
+    "full_title": "Rt Hon Boris Johnson",
+    "list_as": "Johnson, Boris"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Prime Minister, First Lord of the Treasury, Minister for the Civil Service, and Minister for the Union",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2018-07-09",
+        "is_current": false,
+        "name": "Secretary of State for Foreign and Commonwealth Affairs",
+        "start_date": "2016-07-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2007-07-16",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2005-12-09"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2004-11-13",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2004-04-01"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2022-09-05",
+        "is_current": false,
+        "name": "Leader of the Conservative Party",
+        "start_date": "2019-07-23"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2004-07-01",
+        "is_current": false,
+        "name": "Vice-Chair, Conservative Party",
+        "start_date": "2003-07-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 717,
+        "name": "Clwyd South",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2023-06-12",
+        "party": "Conservative",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Uxbridge and South Ruislip",
+        "constituency_id": 3817,
+        "end_date": "2023-06-12",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      },
+      {
+        "constituency": "Henley",
+        "constituency_id": 1441,
+        "end_date": "2008-06-04",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Boris Johnson is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3817/overview'>Uxbridge and South Ruislip</a>, and left the Commons on 12 June 2023.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1423/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 63,
+        "voting_participation_pct": 33.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 148,
+        "voting_participation_pct": 61.16
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 14,
+        "voting_participation_pct": 5.58
+      },
+      "2023": {
+        "divisions_eligible": 119,
+        "divisions_voted": 2,
+        "voting_participation_pct": 1.68
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 804,
+        "divisions_voted": 229,
+        "voting_participation_pct": 28.48
+      }
+    },
+    "divisions_eligible": 804,
+    "divisions_voted": 229,
+    "voting_participation_pct": 28.48
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

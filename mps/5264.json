@@ -1,0 +1,164 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 7,
+        "debates_participated": 6,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 30,
+        "debates_participated": 25,
+        "oral_questions": 1,
+        "written_questions": 10
+      },
+      "2026": {
+        "debate_contributions": 35,
+        "debates_participated": 19,
+        "oral_questions": 1,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 72,
+    "debates_participated": 50,
+    "early_day_motions": 0,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 46
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 72,
+    "voting_participation_pct": 76.07,
+    "written_questions": 46
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/pendle-and-clitheroe.json",
+    "id": 4237,
+    "name": "Pendle and Clitheroe",
+    "ons_code": "E14001422",
+    "slug": "pendle-and-clitheroe"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jonathan.hinder.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Colne office, Suite 5 Burton House, 2a Market Place, Colne, Lancashire",
+      "phone": "01282 503316",
+      "postcode": "BB8 0AS",
+      "type": "Constituency office"
+    },
+    {
+      "address": "Clitheroe office, 44 York Street, Clitheroe, Lancashire",
+      "phone": "01200 401218",
+      "postcode": "BB7 2DL",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/jonathanpendleandcltheroe/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Jonathan_Hinder"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5264
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5264,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jonathan Hinder",
+    "full_title": "Jonathan Hinder MP",
+    "list_as": "Hinder, Jonathan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Pendle and Clitheroe",
+        "constituency_id": 4237,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jonathan Hinder is the Labour MP for <a href='/constituency/4237/overview'>Pendle and Clitheroe</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5264/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 256,
+        "voting_participation_pct": 79.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 480,
+        "voting_participation_pct": 76.07
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 480,
+    "voting_participation_pct": 76.07
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

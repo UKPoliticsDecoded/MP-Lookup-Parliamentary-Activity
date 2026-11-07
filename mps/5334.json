@@ -1,0 +1,281 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 32,
+        "debates_participated": 20,
+        "oral_questions": 7,
+        "written_questions": 24
+      },
+      "2025": {
+        "debate_contributions": 113,
+        "debates_participated": 62,
+        "early_day_motions": 3,
+        "oral_questions": 9,
+        "written_questions": 64
+      },
+      "2026": {
+        "debate_contributions": 84,
+        "debates_participated": 47,
+        "early_day_motions": 9,
+        "oral_questions": 7,
+        "written_questions": 49
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 229,
+    "debates_participated": 129,
+    "early_day_motions": 12,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 137
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 229,
+    "voting_participation_pct": 83.36,
+    "written_questions": 137
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stoke-on-trent-south.json",
+    "id": 4337,
+    "name": "Stoke-on-Trent South",
+    "ons_code": "E14001522",
+    "slug": "stoke-on-trent-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "allison.gardner.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://allisongardner.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Allison4StokeSouth/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/AllisonCGardner"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5334
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5334,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Allison Gardner",
+    "full_title": "Dr Allison Gardner MP",
+    "list_as": "Gardner, Dr Allison"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stoke-on-Trent South",
+        "constituency_id": 4337,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Allison Gardner is the Labour MP for <a href='/constituency/4337/overview'>Stoke-on-Trent South</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5334/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 267,
+        "voting_participation_pct": 82.92
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 191,
+        "voting_participation_pct": 80.93
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 526,
+        "voting_participation_pct": 83.36
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 526,
+    "voting_participation_pct": 83.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

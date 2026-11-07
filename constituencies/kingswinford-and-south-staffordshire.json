@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 18579.2,
+    "bng": {
+      "easting": 384550,
+      "northing": 293632
+    },
+    "centroid": {
+      "latitude": 52.54033,
+      "longitude": -2.22922
+    },
+    "geojson": "constituencies/boundaries/kingswinford-and-south-staffordshire.geojson",
+    "ons_code": "E14001316",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4384.json",
+    "member_id": 4384,
+    "name": "Mike Wood",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71645,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6303,
+      "result": "Con Hold",
+      "turnout": 45180,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4131,
+  "is_current": true,
+  "name": "Kingswinford and South Staffordshire",
+  "name_cy": null,
+  "ons_code": "E14001316",
+  "outcodes": [
+    "DY10",
+    "DY11",
+    "DY3",
+    "DY5",
+    "DY6",
+    "DY7",
+    "DY8",
+    "WV15",
+    "WV3",
+    "WV4",
+    "WV5",
+    "WV6",
+    "WV7",
+    "WV8",
+    "WV9"
+  ],
+  "schema_version": 1,
+  "slug": "kingswinford-and-south-staffordshire",
+  "start_date": "2024-05-31"
+}

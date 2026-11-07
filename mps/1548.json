@@ -1,0 +1,634 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1,
+        "written_questions": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 101,
+        "debates_participated": 68,
+        "oral_questions": 25,
+        "written_questions": 146
+      },
+      "2021": {
+        "debate_contributions": 88,
+        "debates_participated": 69,
+        "oral_questions": 18,
+        "written_questions": 127
+      },
+      "2022": {
+        "debate_contributions": 99,
+        "debates_participated": 59,
+        "oral_questions": 21,
+        "written_questions": 196
+      },
+      "2023": {
+        "debate_contributions": 55,
+        "debates_participated": 37,
+        "oral_questions": 10,
+        "written_questions": 163
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 62,
+        "debates_participated": 41,
+        "oral_questions": 10,
+        "written_questions": 32
+      },
+      "2025": {
+        "debate_contributions": 34,
+        "debates_participated": 31,
+        "oral_questions": 4,
+        "written_questions": 17
+      },
+      "2026": {
+        "debate_contributions": 25,
+        "debates_participated": 23,
+        "oral_questions": 3,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 466,
+    "debates_participated": 329,
+    "early_day_motions": 0,
+    "oral_questions": 91,
+    "petitions_presented": 0,
+    "written_questions": 693
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 466,
+    "voting_participation_pct": 79.16,
+    "written_questions": 693
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support (Enforcement) Bill",
+      "committee_id": 654,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Crime and Corporate Transparency Bill",
+      "committee_id": 617,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Standing Orders Committee (Commons)",
+      "committee_id": 475,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 136,
+      "meetings_available": 136
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-12"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-11"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-11-14"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2023-06-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Child Support (Enforcement) Bill",
+        "committee_id": 654,
+        "file": "committees/child-support-enforcement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "child-support-enforcement-bill"
+      },
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Economic Crime and Corporate Transparency Bill",
+        "committee_id": 617,
+        "file": "committees/economic-crime-and-corporate-transparency-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "economic-crime-and-corporate-transparency-bill"
+      },
+      {
+        "committee": "Standing Orders Committee (Commons)",
+        "committee_id": 475,
+        "file": "committees/standing-orders-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-04-12"
+          }
+        ],
+        "slug": "standing-orders-committee-commons"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-11-05"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2018-11-14"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-02-05"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-11-05"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2018-11-14"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-02-05"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newport-east.json",
+    "id": 4519,
+    "name": "Newport East",
+    "ons_code": "W07000104",
+    "slug": "newport-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mordenj@parliament.uk",
+      "phone": "020 7219 6213",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Clarence House, Clarence Place, Newport",
+      "phone": "01633 841725",
+      "postcode": "NP19 7AA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.jessicamorden.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/JessicaMordenMP/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/jessicamordenmp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/jessicamordenmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1548
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 1548,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Jessica Morden",
+    "display": "Jessica Morden",
+    "full_title": "Jessica Morden MP",
+    "list_as": "Morden, Jessica"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Wales)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2023-09-06",
+        "is_current": false,
+        "name": "Shadow Deputy Leader of the House of Commons",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-09-06",
+        "is_current": false,
+        "name": "Shadow Vice Chamberlain of HM Household (Whip)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newport East",
+        "constituency_id": 4519,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Newport East",
+        "constituency_id": 3629,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Newport East",
+        "constituency_id": 2085,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Jessica Morden is the Labour MP for <a href='/constituency/4519/overview'>Newport East</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1548/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 136,
+        "voting_participation_pct": 71.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 201,
+        "voting_participation_pct": 78.52
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 149,
+        "voting_participation_pct": 74.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 271,
+        "voting_participation_pct": 84.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 833,
+        "voting_participation_pct": 78.0
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 512,
+        "voting_participation_pct": 81.14
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1345,
+    "voting_participation_pct": 79.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

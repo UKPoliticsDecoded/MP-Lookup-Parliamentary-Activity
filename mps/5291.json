@@ -1,0 +1,305 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 45,
+        "debates_participated": 33,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 92,
+        "debates_participated": 55,
+        "early_day_motions": 1,
+        "oral_questions": 14,
+        "written_questions": 29
+      },
+      "2026": {
+        "debate_contributions": 83,
+        "debates_participated": 54,
+        "oral_questions": 18,
+        "written_questions": 40
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 220,
+    "debates_participated": 142,
+    "early_day_motions": 2,
+    "oral_questions": 40,
+    "petitions_presented": 0,
+    "written_questions": 77
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 220,
+    "voting_participation_pct": 80.51,
+    "written_questions": 77
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 797,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 797,
+        "file": "committees/licensing-hours-extensions-bill-797.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-04"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill-797"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/monmouthshire.json",
+    "id": 4516,
+    "name": "Monmouthshire",
+    "ons_code": "W07000101",
+    "slug": "monmouthshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "catherine.fookes.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CatherineFookesForMonmouth"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/catherine.fookes/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/CatherineFookes"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5291
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5291,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Catherine Fookes",
+    "full_title": "Catherine Fookes MP",
+    "list_as": "Fookes, Catherine"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Monmouthshire",
+        "constituency_id": 4516,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Catherine Fookes is the Labour MP for <a href='/constituency/4516/overview'>Monmouthshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5291/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 64,
+        "voting_participation_pct": 87.67
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 251,
+        "voting_participation_pct": 77.95
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 193,
+        "voting_participation_pct": 81.78
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 508,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 508,
+    "voting_participation_pct": 80.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

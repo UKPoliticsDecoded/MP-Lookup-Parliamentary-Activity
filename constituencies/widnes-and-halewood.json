@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 6382.9,
+    "bng": {
+      "easting": 348553,
+      "northing": 386177
+    },
+    "centroid": {
+      "latitude": 53.36995,
+      "longitude": -2.77467
+    },
+    "geojson": "constituencies/boundaries/widnes-and-halewood.geojson",
+    "ons_code": "E14001584",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/429.json",
+    "member_id": 429,
+    "name": "Derek Twigg",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70161,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16425,
+      "result": "Lab Hold",
+      "turnout": 38116,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4399,
+  "is_current": true,
+  "name": "Widnes and Halewood",
+  "name_cy": null,
+  "ons_code": "E14001584",
+  "outcodes": [
+    "L24",
+    "L25",
+    "L26",
+    "L35",
+    "L36",
+    "WA8",
+    "WA88"
+  ],
+  "schema_version": 1,
+  "slug": "widnes-and-halewood",
+  "start_date": "2024-05-31"
+}

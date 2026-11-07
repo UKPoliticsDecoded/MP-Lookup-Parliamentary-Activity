@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 245190.8,
+    "bng": {
+      "easting": 434516,
+      "northing": 1180307
+    },
+    "centroid": {
+      "latitude": 60.50495,
+      "longitude": -1.37344
+    },
+    "geojson": "constituencies/boundaries/orkney-and-shetland.geojson",
+    "ons_code": "S14000051",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1442.json",
+    "member_id": 1442,
+    "name": "Mr Alistair Carmichael",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 34236,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7807,
+      "result": "LD Hold",
+      "turnout": 20688,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 2256,
+      "end_date": "2024-05-30",
+      "member_id": 1442,
+      "name": "Mr Alistair Carmichael",
+      "start_date": "2005-05-05"
+    },
+    {
+      "constituency_version_id": 2255,
+      "end_date": "2005-05-05",
+      "member_id": 1442,
+      "name": "Mr Alistair Carmichael",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4447,
+  "is_current": true,
+  "name": "Orkney and Shetland",
+  "name_cy": null,
+  "ons_code": "S14000051",
+  "outcodes": [
+    "ZE2"
+  ],
+  "schema_version": 1,
+  "slug": "orkney-and-shetland",
+  "start_date": "2024-05-31"
+}

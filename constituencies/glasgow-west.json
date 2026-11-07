@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 1960.7,
+    "bng": {
+      "easting": 253644,
+      "northing": 668507
+    },
+    "centroid": {
+      "latitude": 55.88738,
+      "longitude": -4.34159
+    },
+    "geojson": "constituencies/boundaries/glasgow-west.geojson",
+    "ons_code": "S14000089",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5190.json",
+    "member_id": 5190,
+    "name": "Patricia Ferguson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69028,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6446,
+      "result": "Lab Gain",
+      "turnout": 39902,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4478,
+  "is_current": true,
+  "name": "Glasgow West",
+  "name_cy": null,
+  "ons_code": "S14000089",
+  "outcodes": [
+    "G11",
+    "G12",
+    "G13",
+    "G14",
+    "G15",
+    "G61"
+  ],
+  "schema_version": 1,
+  "slug": "glasgow-west",
+  "start_date": "2024-05-31"
+}

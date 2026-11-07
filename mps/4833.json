@@ -1,0 +1,461 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 82,
+        "debates_participated": 64,
+        "oral_questions": 25,
+        "written_questions": 20
+      },
+      "2021": {
+        "debate_contributions": 117,
+        "debates_participated": 83,
+        "oral_questions": 27,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 43,
+        "debates_participated": 31,
+        "oral_questions": 12,
+        "written_questions": 10
+      },
+      "2023": {
+        "debate_contributions": 32,
+        "debates_participated": 24,
+        "oral_questions": 15,
+        "written_questions": 8
+      },
+      "2024": {
+        "debate_contributions": 8,
+        "debates_participated": 5,
+        "oral_questions": 3,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 282,
+    "debates_participated": 207,
+    "early_day_motions": 0,
+    "oral_questions": 82,
+    "petitions_presented": 0,
+    "written_questions": 42
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 282,
+    "voting_participation_pct": 86.42,
+    "written_questions": 42
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business and Trade Sub-Committee on National Security and Investment",
+      "committee_id": 631,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 30,
+      "meetings_available": 30
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "High Speed Rail (Crewe - Manchester) Bill Select Committee (Commons)",
+      "committee_id": 597,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Hunting Trophies (Import Prohibition) Bill",
+      "committee_id": 640,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Judicial Review and Courts Bill",
+      "committee_id": 548,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Security Bill",
+      "committee_id": 607,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 81,
+      "meetings_available": 81
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Business and Trade Sub-Committee on National Security and Investment",
+        "committee_id": 631,
+        "file": "committees/business-and-trade-sub-committee-on-national-security-and-investment.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "business-and-trade-sub-committee-on-national-security-and-investment"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-27"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "High Speed Rail (Crewe - Manchester) Bill Select Committee (Commons)",
+        "committee_id": 597,
+        "file": "committees/high-speed-rail-crewe-manchester-bill-select-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-13"
+          }
+        ],
+        "slug": "high-speed-rail-crewe-manchester-bill-select-committee-commons"
+      },
+      {
+        "committee": "Hunting Trophies (Import Prohibition) Bill",
+        "committee_id": 640,
+        "file": "committees/hunting-trophies-import-prohibition-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "hunting-trophies-import-prohibition-bill"
+      },
+      {
+        "committee": "Judicial Review and Courts Bill",
+        "committee_id": 548,
+        "file": "committees/judicial-review-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "judicial-review-and-courts-bill"
+      },
+      {
+        "committee": "National Security Bill",
+        "committee_id": 607,
+        "file": "committees/national-security-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-29"
+          }
+        ],
+        "slug": "national-security-bill"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3377,
+    "name": "Burnley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4833
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4833,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Antony Higginbotham",
+    "full_title": "Antony Higginbotham",
+    "list_as": "Higginbotham, Antony"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3957,
+        "name": "Burnley",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Burnley",
+        "constituency_id": 3377,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Antony Higginbotham is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3377/overview'>Burnley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4833/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 188,
+        "voting_participation_pct": 98.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 218,
+        "voting_participation_pct": 90.08
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 209,
+        "voting_participation_pct": 83.27
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 193,
+        "voting_participation_pct": 75.39
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 113,
+        "voting_participation_pct": 88.98
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 923,
+        "voting_participation_pct": 86.42
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 923,
+    "voting_participation_pct": 86.42
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

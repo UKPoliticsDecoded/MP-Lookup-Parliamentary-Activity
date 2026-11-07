@@ -1,0 +1,473 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 67,
+        "debates_participated": 55,
+        "early_day_motions": 2,
+        "oral_questions": 7,
+        "written_questions": 42
+      },
+      "2021": {
+        "debate_contributions": 119,
+        "debates_participated": 91,
+        "oral_questions": 15,
+        "written_questions": 77
+      },
+      "2022": {
+        "debate_contributions": 111,
+        "debates_participated": 79,
+        "oral_questions": 8,
+        "written_questions": 115
+      },
+      "2023": {
+        "debate_contributions": 173,
+        "debates_participated": 86,
+        "oral_questions": 19,
+        "written_questions": 273
+      },
+      "2024": {
+        "debate_contributions": 111,
+        "debates_participated": 49,
+        "oral_questions": 7,
+        "written_questions": 85
+      },
+      "2025": {
+        "debate_contributions": 219,
+        "debates_participated": 53,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2026": {
+        "debate_contributions": 56,
+        "debates_participated": 48,
+        "oral_questions": 8,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 856,
+    "debates_participated": 461,
+    "early_day_motions": 2,
+    "oral_questions": 66,
+    "petitions_presented": 0,
+    "written_questions": 603
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 856,
+    "voting_participation_pct": 73.04,
+    "written_questions": 603
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 24,
+      "meetings_available": 24
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 25,
+      "meetings_available": 25
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Judicial Review and Courts Bill",
+      "committee_id": 548,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Prisoners Bill",
+      "committee_id": 674,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-11-19"
+          },
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2023-12-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "justice"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-05-08"
+          },
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "Judicial Review and Courts Bill",
+        "committee_id": 548,
+        "file": "committees/judicial-review-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "judicial-review-and-courts-bill"
+      },
+      {
+        "committee": "Victims and Prisoners Bill",
+        "committee_id": 674,
+        "file": "committees/victims-and-prisoners-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "victims-and-prisoners-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/lewisham-east.json",
+    "id": 4146,
+    "name": "Lewisham East",
+    "ons_code": "E14001331",
+    "slug": "lewisham-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "janet.daby.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "02084 614733",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.janetdaby.org/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/JanetDaby"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4698
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4698,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2018-06-14",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Janet Daby",
+    "full_title": "Janet Daby MP",
+    "list_as": "Daby, Janet"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Youth Justice)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2020-12-07",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office) (Faiths, Women and Equalities)",
+        "start_date": "2020-07-10"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2020-07-10",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2018-06-14"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lewisham East",
+        "constituency_id": 4146,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Lewisham East",
+        "constituency_id": 3575,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2018-06-14"
+      }
+    ]
+  },
+  "synopsis": "Janet Daby is the Labour MP for <a href='/constituency/4146/overview'>Lewisham East</a>, and has been an MP continually since 14 June 2018.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4698/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 194,
+        "voting_participation_pct": 77.29
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 194,
+        "voting_participation_pct": 75.78
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 148,
+        "voting_participation_pct": 74.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 206,
+        "voting_participation_pct": 63.98
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 152,
+        "voting_participation_pct": 64.41
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 823,
+        "voting_participation_pct": 77.06
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 418,
+        "voting_participation_pct": 66.24
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1241,
+    "voting_participation_pct": 73.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

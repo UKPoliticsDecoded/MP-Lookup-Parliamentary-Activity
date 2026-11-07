@@ -1,0 +1,314 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 116,
+        "debates_participated": 25
+      },
+      "2021": {
+        "debate_contributions": 103,
+        "debates_participated": 25,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 74,
+        "debates_participated": 18,
+        "oral_questions": 2,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 65,
+        "debates_participated": 35,
+        "oral_questions": 7,
+        "written_questions": 9
+      },
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 361,
+    "debates_participated": 104,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 15
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 361,
+    "voting_participation_pct": 72.94,
+    "written_questions": 15
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-04"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-26"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3702,
+    "name": "Rochford and Southend East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1559
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1559,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir James Duddridge",
+    "display": "Sir James Duddridge",
+    "full_title": "Sir James Duddridge",
+    "list_as": "Duddridge, Sir James"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for International Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-international-trade",
+        "end_date": "2022-10-26",
+        "is_current": false,
+        "name": "Minister of State (Department for International Trade)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2022-07-08"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign, Commonwealth and Development Office)",
+        "start_date": "2020-09-02"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-09-02",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign and Commonwealth Office) (Joint with the Department for International Development)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Department for Exiting the European Union ",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-exiting-the-european-union",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Exiting the European Union)",
+        "start_date": "2019-07-27"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2016-07-17",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign and Commonwealth Office)",
+        "start_date": "2014-08-11"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2012-09-06",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2008-01-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2466,
+        "name": "Rother Valley",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rochford and Southend East",
+        "constituency_id": 3702,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Rochford and Southend East",
+        "constituency_id": 2443,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Sir James Duddridge is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3702/overview'>Rochford and Southend East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1559/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 151,
+        "voting_participation_pct": 79.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 198,
+        "voting_participation_pct": 81.82
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 173,
+        "voting_participation_pct": 68.92
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 175,
+        "voting_participation_pct": 68.36
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 80,
+        "voting_participation_pct": 62.99
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 779,
+        "voting_participation_pct": 72.94
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 779,
+    "voting_participation_pct": 72.94
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

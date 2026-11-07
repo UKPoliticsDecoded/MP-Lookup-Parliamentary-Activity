@@ -1,0 +1,509 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 81,
+        "debates_participated": 45,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 77
+      },
+      "2021": {
+        "debate_contributions": 44,
+        "debates_participated": 20,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "petitions_presented": 26,
+        "written_questions": 31
+      },
+      "2022": {
+        "debate_contributions": 102,
+        "debates_participated": 37,
+        "oral_questions": 1,
+        "written_questions": 23
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 45,
+        "debates_participated": 27,
+        "early_day_motions": 2,
+        "written_questions": 18
+      },
+      "2024": {
+        "debate_contributions": 93,
+        "debates_participated": 39,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 16
+      },
+      "2025": {
+        "debate_contributions": 67,
+        "debates_participated": 43,
+        "early_day_motions": 5,
+        "oral_questions": 1,
+        "written_questions": 35
+      },
+      "2026": {
+        "debate_contributions": 82,
+        "debates_participated": 34,
+        "early_day_motions": 2,
+        "written_questions": 49
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 516,
+    "debates_participated": 246,
+    "early_day_motions": 14,
+    "oral_questions": 8,
+    "petitions_presented": 26,
+    "written_questions": 249
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 516,
+    "voting_participation_pct": 58.92,
+    "written_questions": 249
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "British Citizenship (Northern Ireland) Bill",
+      "committee_id": 716,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 126,
+      "meetings_available": 126
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 22,
+      "meetings_available": 22
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 50,
+      "meetings_available": 50
+    },
+    {
+      "attendance_pct": null,
+      "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+      "committee_id": 711,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+      "committee_id": 529,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2016-12-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-06"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "British Citizenship (Northern Ireland) Bill",
+        "committee_id": 716,
+        "file": "committees/british-citizenship-northern-ireland-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-20"
+          }
+        ],
+        "slug": "british-citizenship-northern-ireland-bill"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-12-05"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-12-05"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-12"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-05"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-04"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "High Streets (Designation, Review and Improvement Plan) Bill",
+        "committee_id": 711,
+        "file": "committees/high-streets-designation-review-and-improvement-plan-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-06"
+          }
+        ],
+        "slug": "high-streets-designation-review-and-improvement-plan-bill"
+      },
+      {
+        "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+        "committee_id": 529,
+        "file": "committees/northern-ireland-ministers-elections-and-petitions-of-concern-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-28"
+          }
+        ],
+        "slug": "northern-ireland-ministers-elections-and-petitions-of-concern-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/belfast-east.json",
+    "id": 4421,
+    "name": "Belfast East",
+    "ons_code": "N05000001",
+    "slug": "belfast-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "gavin.robinson.mp@parliament.uk",
+      "phone": "02890 473111",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Strandtown Hall , 96 Belmont Avenue , Belfast ",
+      "phone": "02890 473111",
+      "postcode": "BT4 3DE ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/grobinsondup"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4360
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4360,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Gavin Robinson",
+    "full_title": "Rt Hon Gavin Robinson MP",
+    "list_as": "Robinson, Gavin"
+  },
+  "party": {
+    "abbreviation": "DUP",
+    "id": 7,
+    "name": "Democratic Unionist Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Defence)",
+        "start_date": "2017-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Home Affairs)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-08",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Human Rights)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-08",
+        "is_current": false,
+        "name": "Shadow DUP Spokesperson (Justice)",
+        "start_date": "2015-05-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Democratic Unionist Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Belfast East",
+        "constituency_id": 4421,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Belfast East",
+        "constituency_id": 3314,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Gavin Robinson is the Democratic Unionist Party MP for <a href='/constituency/4421/overview'>Belfast East</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4360/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 138,
+        "voting_participation_pct": 72.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 129,
+        "voting_participation_pct": 53.31
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 166,
+        "voting_participation_pct": 66.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 138,
+        "voting_participation_pct": 53.91
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 106,
+        "voting_participation_pct": 53.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 176,
+        "voting_participation_pct": 54.66
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 146,
+        "voting_participation_pct": 61.86
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 641,
+        "voting_participation_pct": 60.02
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 360,
+        "voting_participation_pct": 57.05
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1001,
+    "voting_participation_pct": 58.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

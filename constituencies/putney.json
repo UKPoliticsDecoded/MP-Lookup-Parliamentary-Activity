@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 1418.0,
+    "bng": {
+      "easting": 523538,
+      "northing": 174101
+    },
+    "centroid": {
+      "latitude": 51.45242,
+      "longitude": -0.22344
+    },
+    "geojson": "constituencies/boundaries/putney.geojson",
+    "ons_code": "E14001434",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4788.json",
+    "member_id": 4788,
+    "name": "Fleur Anderson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72686,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12488,
+      "result": "Lab Hold",
+      "turnout": 49295,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3689,
+      "end_date": "2024-05-30",
+      "member_id": 4788,
+      "name": "Fleur Anderson",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4249,
+  "is_current": true,
+  "name": "Putney",
+  "name_cy": null,
+  "ons_code": "E14001434",
+  "outcodes": [
+    "SW15",
+    "SW18",
+    "SW19"
+  ],
+  "schema_version": 1,
+  "slug": "putney",
+  "start_date": "2024-05-31"
+}

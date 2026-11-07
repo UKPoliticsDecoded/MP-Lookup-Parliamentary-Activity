@@ -1,0 +1,166 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 2,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 1
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede"
+    }
+  ],
+  "contact": {},
+  "end_date": null,
+  "house": "Lords",
+  "id": 262,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "file": null,
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2026-07-08"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4153,
+      "name": "The Rt Hon. the Lord Kennedy of Southwark",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2018-01-24"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4311,
+      "name": "The Rt Hon. the Baroness Williams of Trafford",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-09-07"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4334,
+      "name": "The Lord Goddard of Stockport",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4354,
+      "name": "The Earl of Kinnoull",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-04-28"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 4148,
+      "name": "The Rt Hon. the Lord McFall of Alcluith",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-04-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2016-09-01"
+        },
+        {
+          "end": "2021-04-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-09-01"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4161,
+      "name": "The Lord Gardiner of Kimble",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-07-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-04-30"
+        },
+        {
+          "end": "2026-07-08",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2025-04-23"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4215,
+      "name": "The Lord Stoneham of Droxford",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-07-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-09-13"
+        }
+      ]
+    }
+  ],
+  "name": "Sub-Committee on Leave of Absence",
+  "parent_committee_id": 191,
+  "purpose": "<p>The Sub-Committee on Leave of Absence is appointed by the <a href=\"https://committees.parliament.uk/committee/191/procedure-and-privileges-committee/\">Procedure and Privileges Committee</a> to advise the Clerk of the Parliaments on the operation of the leave of absence scheme.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "sub-committee-on-leave-of-absence",
+  "start_date": "2011-06-28",
+  "sub_committee_ids": [],
+  "types": [
+    "Domestic"
+  ]
+}

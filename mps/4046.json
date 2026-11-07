@@ -1,0 +1,404 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 75,
+        "debates_participated": 29,
+        "oral_questions": 3,
+        "written_questions": 172
+      },
+      "2021": {
+        "debate_contributions": 50,
+        "debates_participated": 19,
+        "written_questions": 282
+      },
+      "2022": {
+        "debate_contributions": 32,
+        "debates_participated": 13,
+        "written_questions": 510
+      },
+      "2023": {
+        "debate_contributions": 57,
+        "debates_participated": 18,
+        "written_questions": 580
+      },
+      "2024": {
+        "bills_sponsored": 3,
+        "debate_contributions": 231,
+        "debates_participated": 30,
+        "written_questions": 66
+      },
+      "2025": {
+        "debate_contributions": 629,
+        "debates_participated": 55
+      },
+      "2026": {
+        "debate_contributions": 195,
+        "debates_participated": 32
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 1269,
+    "debates_participated": 196,
+    "early_day_motions": 0,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 1610
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1269,
+    "voting_participation_pct": 51.38,
+    "written_questions": 1610
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 33,
+      "meetings_available": 33
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-26"
+          },
+          {
+            "end": "2020-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-26"
+          },
+          {
+            "end": "2020-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-10-26"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2020-09-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-10-11"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-07-10"
+          },
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-21"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/houghton-and-sunderland-south.json",
+    "id": 4110,
+    "name": "Houghton and Sunderland South",
+    "ons_code": "E14001295",
+    "slug": "houghton-and-sunderland-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons",
+      "email": "bridget.phillipson.mp@parliament.uk",
+      "phone": "020 7219 7087",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "106 Newbottle Street, Houghton",
+      "phone": "0191 584 4317",
+      "postcode": "DH4 4AJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.BridgetPhillipson.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/bridgetphillipson"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/bphillipsonMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4046
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4046,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Bridget Phillipson",
+    "display": "Bridget Phillipson",
+    "full_title": "Rt Hon Bridget Phillipson MP",
+    "list_as": "Phillipson, Bridget"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister for Women and Equalities",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Minister for Women and Equalities",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Secretary of State for Education",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "Minister for Women and Equalities"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Education",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Chief Secretary to the Treasury",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2013-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Houghton and Sunderland South",
+        "constituency_id": 4110,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Houghton and Sunderland South",
+        "constituency_id": 3540,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Bridget Phillipson is the Labour MP for <a href='/constituency/4110/overview'>Houghton and Sunderland South</a>, and has been an MP continually since 6 May 2010. \r\nShe currently holds the Government post of Minister for Women and Equalities.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4046/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 126,
+        "voting_participation_pct": 66.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 202,
+        "voting_participation_pct": 83.47
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 114,
+        "voting_participation_pct": 45.42
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 102,
+        "voting_participation_pct": 39.84
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 95,
+        "voting_participation_pct": 47.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 106,
+        "voting_participation_pct": 32.92
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 126,
+        "voting_participation_pct": 53.39
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 608,
+        "voting_participation_pct": 56.93
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 265,
+        "voting_participation_pct": 42.0
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 873,
+    "voting_participation_pct": 51.38
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

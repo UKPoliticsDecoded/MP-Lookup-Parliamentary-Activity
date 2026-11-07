@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 4669.7,
+    "bng": {
+      "easting": 376790,
+      "northing": 394312
+    },
+    "centroid": {
+      "latitude": 53.44507,
+      "longitude": -2.3509
+    },
+    "geojson": "constituencies/boundaries/stretford-and-urmston.geojson",
+    "ons_code": "E14001528",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4979.json",
+    "member_id": 4979,
+    "name": "Andrew Western",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75153,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16150,
+      "result": "Lab Hold",
+      "turnout": 46002,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3785,
+      "end_date": "2024-05-30",
+      "member_id": 4979,
+      "name": "Andrew Western",
+      "start_date": "2022-12-15"
+    },
+    {
+      "constituency_version_id": 3785,
+      "end_date": "2022-11-10",
+      "member_id": 4120,
+      "name": "Kate Green",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4343,
+  "is_current": true,
+  "name": "Stretford and Urmston",
+  "name_cy": null,
+  "ons_code": "E14001528",
+  "outcodes": [
+    "M15",
+    "M16",
+    "M17",
+    "M21",
+    "M31",
+    "M32",
+    "M33",
+    "M41",
+    "WA13"
+  ],
+  "schema_version": 1,
+  "slug": "stretford-and-urmston",
+  "start_date": "2024-05-31"
+}

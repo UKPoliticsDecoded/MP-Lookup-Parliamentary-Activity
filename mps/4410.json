@@ -1,0 +1,287 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 33,
+        "debates_participated": 29,
+        "oral_questions": 1,
+        "written_questions": 17
+      },
+      "2021": {
+        "debate_contributions": 24,
+        "debates_participated": 18,
+        "written_questions": 32
+      },
+      "2022": {
+        "debate_contributions": 39,
+        "debates_participated": 18,
+        "written_questions": 173
+      },
+      "2023": {
+        "written_questions": 1790
+      },
+      "2024": {
+        "debate_contributions": 2,
+        "debates_participated": 2,
+        "early_day_motions": 1,
+        "written_questions": 253
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 98,
+    "debates_participated": 67,
+    "early_day_motions": 1,
+    "oral_questions": 1,
+    "petitions_presented": 0,
+    "written_questions": 2265
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 98,
+    "voting_participation_pct": 50.28,
+    "written_questions": 2265
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 154,
+      "meetings_available": 154
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-24",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-03-10"
+          },
+          {
+            "end": "2023-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-04-24",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2023-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-16"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3734,
+    "name": "Solihull"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4410
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4410,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Julian Knight",
+    "display": "Julian Knight",
+    "full_title": "Julian Knight",
+    "list_as": "Knight, Julian"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4294,
+        "name": "Solihull West and Shirley",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Independent",
+        "start_date": "2022-12-07"
+      },
+      {
+        "end_date": "2022-12-07",
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Solihull",
+        "constituency_id": 3734,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Julian Knight is no longer a Member, but was most recently the Independent MP for <a href='/constituency/3734/overview'>Solihull</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4410/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 163,
+        "voting_participation_pct": 85.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 134,
+        "voting_participation_pct": 53.39
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 38,
+        "voting_participation_pct": 14.84
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 537,
+        "voting_participation_pct": 50.28
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 537,
+    "voting_participation_pct": 50.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

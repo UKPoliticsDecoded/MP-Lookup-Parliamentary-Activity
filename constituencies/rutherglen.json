@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 4167.0,
+    "bng": {
+      "easting": 266436,
+      "northing": 659876
+    },
+    "centroid": {
+      "latitude": 55.81361,
+      "longitude": -4.13298
+    },
+    "geojson": "constituencies/boundaries/rutherglen.geojson",
+    "ons_code": "S14000104",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4998.json",
+    "member_id": 4998,
+    "name": "Michael Shanks",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72674,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8767,
+      "result": "Lab Gain",
+      "turnout": 42484,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4493,
+  "is_current": true,
+  "name": "Rutherglen",
+  "name_cy": null,
+  "ons_code": "S14000104",
+  "outcodes": [
+    "G44",
+    "G71",
+    "G72",
+    "G73",
+    "ML3"
+  ],
+  "schema_version": 1,
+  "slug": "rutherglen",
+  "start_date": "2024-05-31"
+}

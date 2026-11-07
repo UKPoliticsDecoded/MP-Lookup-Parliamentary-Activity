@@ -1,0 +1,286 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 70,
+        "debates_participated": 52,
+        "oral_questions": 20,
+        "written_questions": 7
+      },
+      "2021": {
+        "debate_contributions": 52,
+        "debates_participated": 27,
+        "oral_questions": 5,
+        "written_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 40,
+        "debates_participated": 26,
+        "oral_questions": 2
+      },
+      "2023": {
+        "debate_contributions": 36,
+        "debates_participated": 29,
+        "oral_questions": 7,
+        "petitions_presented": 1,
+        "written_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 11,
+        "debates_participated": 8,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 209,
+    "debates_participated": 142,
+    "early_day_motions": 0,
+    "oral_questions": 34,
+    "petitions_presented": 1,
+    "written_questions": 13
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 209,
+    "voting_participation_pct": 80.71,
+    "written_questions": 13
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3469,
+    "name": "Eddisbury"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1605
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1605,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": "Edward Timpson",
+    "display": "Edward Timpson",
+    "full_title": "Edward Timpson KC",
+    "list_as": "Timpson, Edward"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Solicitor General (Attorney General's Office)",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2017-06-12",
+        "is_current": false,
+        "name": "Minister of State (Education)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2012-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3431,
+        "name": "Crewe and Nantwich",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2008-05-22"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Eddisbury",
+        "constituency_id": 3469,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      },
+      {
+        "constituency": "Crewe and Nantwich",
+        "constituency_id": 3431,
+        "end_date": "2017-05-03",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Crewe and Nantwich",
+        "constituency_id": 777,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2008-05-22"
+      }
+    ]
+  },
+  "synopsis": "Edward Timpson is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3469/overview'>Eddisbury</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1605/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 188,
+        "voting_participation_pct": 77.69
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 198,
+        "voting_participation_pct": 78.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 191,
+        "voting_participation_pct": 74.61
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 102,
+        "voting_participation_pct": 80.31
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 862,
+        "voting_participation_pct": 80.71
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 862,
+    "voting_participation_pct": 80.71
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

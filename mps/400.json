@@ -1,0 +1,341 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 65,
+        "debates_participated": 25,
+        "written_questions": 168
+      },
+      "2021": {
+        "debate_contributions": 63,
+        "debates_participated": 30,
+        "written_questions": 396
+      },
+      "2022": {
+        "debate_contributions": 73,
+        "debates_participated": 30,
+        "written_questions": 1317
+      },
+      "2023": {
+        "debate_contributions": 42,
+        "debates_participated": 27,
+        "written_questions": 1700
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 253,
+        "debates_participated": 38,
+        "written_questions": 689
+      },
+      "2025": {
+        "debate_contributions": 495,
+        "debates_participated": 44
+      },
+      "2026": {
+        "bills_sponsored": 4,
+        "debate_contributions": 309,
+        "debates_participated": 28
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 1300,
+    "debates_participated": 222,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 4270
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1300,
+    "voting_participation_pct": 53.21,
+    "written_questions": 4270
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/rawmarsh-and-conisbrough.json",
+    "id": 4251,
+    "name": "Rawmarsh and Conisbrough",
+    "ons_code": "E14001436",
+    "slug": "rawmarsh-and-conisbrough"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.healey.mp@parliament.uk",
+      "phone": "020 7219 4031",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "79 High Street, Wath upon Dearne, Rotherham",
+      "email": "john.healey.mp@parliament.uk",
+      "phone": "01709 875943",
+      "postcode": "S63 7QB",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.johnhealeymp.co.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/JohnHealey_MP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 400
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 400,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "John Healey",
+    "display": "John Healey",
+    "full_title": "Rt Hon John Healey MP",
+    "list_as": "Healey, John"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Chancellor of the Exchequer",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2026-06-11",
+        "is_current": false,
+        "name": "Secretary of State for Defence",
+        "start_date": "2024-07-05"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Communities and Local Government) (Housing)",
+        "start_date": "2009-06-05"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2009-06-05",
+        "is_current": false,
+        "name": "Minister of State (Department of Communities and Local Government) (Local Government)",
+        "start_date": "2007-06-29"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Financial Secretary (HM Treasury)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Economic Secretary (HM Treasury)",
+        "start_date": "2002-05-30"
+      },
+      {
+        "department": "Department for Education and Skills",
+        "department_url": "http://www.dfes.gov.uk",
+        "end_date": "2002-05-30",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education and Skills)",
+        "start_date": "2001-06-11"
+      }
+    ],
+    "ministerial_current": [
+      "Chancellor of the Exchequer"
+    ],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Defence",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Housing",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Housing",
+        "start_date": "2016-10-07"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Communities and Local Government) (Housing and Planning)",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Housing)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2510,
+        "name": "Ryedale",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rawmarsh and Conisbrough",
+        "constituency_id": 4251,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wentworth and Dearne",
+        "constituency_id": 3840,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Wentworth",
+        "constituency_id": 3092,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon John Healey is the Labour MP for <a href='/constituency/4251/overview'>Rawmarsh and Conisbrough</a>, and has been an MP continually since 1 May 1997. \r\nHe currently holds the Government post of Chancellor of the Exchequer.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/400/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 1,
+        "voting_participation_pct": 50.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 128,
+        "voting_participation_pct": 67.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 194,
+        "voting_participation_pct": 80.17
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 148,
+        "voting_participation_pct": 58.96
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 146,
+        "voting_participation_pct": 57.03
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 94,
+        "voting_participation_pct": 47.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 88,
+        "voting_participation_pct": 27.33
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 105,
+        "voting_participation_pct": 44.49
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 695,
+        "voting_participation_pct": 65.07
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 209,
+        "voting_participation_pct": 33.12
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 904,
+    "voting_participation_pct": 53.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

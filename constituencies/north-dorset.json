@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 79655.7,
+    "bng": {
+      "easting": 391511,
+      "northing": 110749
+    },
+    "centroid": {
+      "latitude": 50.89615,
+      "longitude": -2.12207
+    },
+    "geojson": "constituencies/boundaries/north-dorset.geojson",
+    "ons_code": "E14001388",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4494.json",
+    "member_id": 4494,
+    "name": "Simon Hoare",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72690,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1589,
+      "result": "Con Hold",
+      "turnout": 49683,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3637,
+      "end_date": "2024-05-30",
+      "member_id": 4494,
+      "name": "Simon Hoare",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4203,
+  "is_current": true,
+  "name": "North Dorset",
+  "name_cy": null,
+  "ons_code": "E14001388",
+  "outcodes": [
+    "BA8",
+    "BH20",
+    "BH21",
+    "BH31",
+    "DT10",
+    "DT11",
+    "DT2",
+    "DT9",
+    "SP5",
+    "SP6",
+    "SP7",
+    "SP8"
+  ],
+  "schema_version": 1,
+  "slug": "north-dorset",
+  "start_date": "2024-05-31"
+}

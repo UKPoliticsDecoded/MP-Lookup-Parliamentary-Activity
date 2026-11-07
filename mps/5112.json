@@ -1,0 +1,287 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 21,
+        "debates_participated": 11,
+        "oral_questions": 4,
+        "written_questions": 38
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 111,
+        "debates_participated": 67,
+        "early_day_motions": 4,
+        "oral_questions": 10,
+        "written_questions": 105
+      },
+      "2026": {
+        "debate_contributions": 72,
+        "debates_participated": 36,
+        "early_day_motions": 5,
+        "oral_questions": 8,
+        "written_questions": 262
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 204,
+    "debates_participated": 114,
+    "early_day_motions": 9,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 405
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 94.44,
+    "committee_memberships": 3,
+    "debate_contributions": 204,
+    "voting_participation_pct": 84.79,
+    "written_questions": 405
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 0.0,
+      "committee": "Administration Estimate Audit and Risk Assurance Committee",
+      "committee_id": 502,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": true,
+      "meetings_attended": 19,
+      "meetings_available": 19
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill",
+      "committee_id": 826,
+      "is_current": true,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Estimate Audit and Risk Assurance Committee",
+        "committee_id": 502,
+        "file": "committees/administration-estimate-audit-and-risk-assurance.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-04"
+          }
+        ],
+        "slug": "administration-estimate-audit-and-risk-assurance"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-20"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill",
+        "committee_id": 826,
+        "file": "committees/select-committee-on-the-armed-forces-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-09"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-durham.json",
+    "id": 4204,
+    "name": "North Durham",
+    "ons_code": "E14001389",
+    "slug": "north-durham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "luke.akehurst.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0191 371 8834",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.lukeakehurstmp.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/lukeakehurstmp"
+    },
+    {
+      "type": "Mapolitic",
+      "url": "https://www.mapolitic.co.uk/profile-view/5712"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/lukeakehurst"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5112
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5112,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Luke Akehurst",
+    "full_title": "Luke Akehurst MP",
+    "list_as": "Akehurst, Luke"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 611,
+        "name": "Castle Point",
+        "startDate": "2005-05-05T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 41,
+        "name": "Aldershot",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Durham",
+        "constituency_id": 4204,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Luke Akehurst is the Labour MP for <a href='/constituency/4204/overview'>North Durham</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5112/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 64,
+        "voting_participation_pct": 87.67
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 263,
+        "voting_participation_pct": 81.68
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 208,
+        "voting_participation_pct": 88.14
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 535,
+        "voting_participation_pct": 84.79
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 535,
+    "voting_participation_pct": 84.79
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

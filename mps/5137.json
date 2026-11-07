@@ -1,0 +1,170 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 2,
+        "debates_participated": 2,
+        "written_questions": 8
+      },
+      "2025": {
+        "debate_contributions": 30,
+        "debates_participated": 23,
+        "early_day_motions": 9,
+        "oral_questions": 4,
+        "written_questions": 15
+      },
+      "2026": {
+        "debate_contributions": 15,
+        "debates_participated": 12,
+        "oral_questions": 5,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 47,
+    "debates_participated": 37,
+    "early_day_motions": 9,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 57
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 47,
+    "voting_participation_pct": 60.06,
+    "written_questions": 57
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": true,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/glasgow-north-east.json",
+    "id": 4475,
+    "name": "Glasgow North East",
+    "ons_code": "S14000086",
+    "slug": "glasgow-north-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "maureen.burke.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5137
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5137,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Maureen Burke",
+    "full_title": "Maureen Burke MP",
+    "list_as": "Burke, Maureen"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow North East",
+        "constituency_id": 4475,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Maureen Burke is the Labour MP for <a href='/constituency/4475/overview'>Glasgow North East</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5137/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 54,
+        "voting_participation_pct": 73.97
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 220,
+        "voting_participation_pct": 68.32
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 105,
+        "voting_participation_pct": 44.49
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 379,
+        "voting_participation_pct": 60.06
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 379,
+    "voting_participation_pct": 60.06
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

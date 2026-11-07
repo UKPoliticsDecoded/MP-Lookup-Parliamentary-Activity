@@ -1,0 +1,454 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "debate_contributions": 107,
+        "debates_participated": 72,
+        "oral_questions": 13,
+        "written_questions": 4
+      },
+      "2023": {
+        "bills_sponsored": 3,
+        "debate_contributions": 154,
+        "debates_participated": 118,
+        "oral_questions": 11,
+        "petitions_presented": 7,
+        "written_questions": 23
+      },
+      "2024": {
+        "debate_contributions": 109,
+        "debates_participated": 52,
+        "oral_questions": 7,
+        "written_questions": 14
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 370,
+    "debates_participated": 242,
+    "early_day_motions": 0,
+    "oral_questions": 31,
+    "petitions_presented": 7,
+    "written_questions": 41
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 370,
+    "voting_participation_pct": 87.54,
+    "written_questions": 41
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Societies Act 1986 (Amendment) Bill",
+      "committee_id": 703,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support Collection (Domestic Abuse) Bill",
+      "committee_id": 633,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Digital Markets, Competition and Consumers Bill",
+      "committee_id": 671,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 59,
+      "meetings_available": 59
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Hunting Trophies (Import Prohibition) Bill",
+      "committee_id": 640,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pet Abduction Bill",
+      "committee_id": 699,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Powers of Attorney Bill",
+      "committee_id": 655,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+      "committee_id": 722,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Building Societies Act 1986 (Amendment) Bill",
+        "committee_id": 703,
+        "file": "committees/building-societies-act-1986-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-31"
+          }
+        ],
+        "slug": "building-societies-act-1986-amendment-bill"
+      },
+      {
+        "committee": "Child Support Collection (Domestic Abuse) Bill",
+        "committee_id": 633,
+        "file": "committees/child-support-collection-domestic-abuse-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "child-support-collection-domestic-abuse-bill"
+      },
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Digital Markets, Competition and Consumers Bill",
+        "committee_id": 671,
+        "file": "committees/digital-markets-competition-and-consumers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "digital-markets-competition-and-consumers-bill"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-15"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "Hunting Trophies (Import Prohibition) Bill",
+        "committee_id": 640,
+        "file": "committees/hunting-trophies-import-prohibition-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "hunting-trophies-import-prohibition-bill"
+      },
+      {
+        "committee": "Pet Abduction Bill",
+        "committee_id": 699,
+        "file": "committees/pet-abduction-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-24"
+          }
+        ],
+        "slug": "pet-abduction-bill"
+      },
+      {
+        "committee": "Powers of Attorney Bill",
+        "committee_id": 655,
+        "file": "committees/powers-of-attorney-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "powers-of-attorney-bill"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      },
+      {
+        "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
+        "committee_id": 722,
+        "file": "committees/school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "school-attendance-duties-of-local-authorities-and-proprietors-of-schools-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3762,
+    "name": "Southend West"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4936
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4936,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2022-02-03",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Anna Firth",
+    "full_title": "Anna Firth",
+    "list_as": "Firth, Anna"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4317,
+        "name": "Southend West and Leigh",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3388,
+        "name": "Canterbury",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3479,
+        "name": "Erith and Thamesmead",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2022-02-03"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Southend West",
+        "constituency_id": 3762,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2022-02-03"
+      }
+    ]
+  },
+  "synopsis": "Anna Firth is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3762/overview'>Southend West</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4936/Thumbnail",
+  "voting": {
+    "annual": {
+      "2022": {
+        "divisions_eligible": 219,
+        "divisions_voted": 182,
+        "voting_participation_pct": 83.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 240,
+        "voting_participation_pct": 93.75
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 105,
+        "voting_participation_pct": 82.68
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 602,
+        "divisions_voted": 527,
+        "voting_participation_pct": 87.54
+      }
+    },
+    "divisions_eligible": 602,
+    "divisions_voted": 527,
+    "voting_participation_pct": 87.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

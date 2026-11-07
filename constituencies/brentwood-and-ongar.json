@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 31534.7,
+    "bng": {
+      "easting": 556779,
+      "northing": 200101
+    },
+    "centroid": {
+      "latitude": 51.6778,
+      "longitude": 0.266181
+    },
+    "geojson": "constituencies/boundaries/brentwood-and-ongar.geojson",
+    "ons_code": "E14001125",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4613.json",
+    "member_id": 4613,
+    "name": "Alex Burghart",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75352,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5980,
+      "result": "Con Hold",
+      "turnout": 48332,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3361,
+      "end_date": "2024-05-30",
+      "member_id": 4613,
+      "name": "Alex Burghart",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 3940,
+  "is_current": true,
+  "name": "Brentwood and Ongar",
+  "name_cy": null,
+  "ons_code": "E14001125",
+  "outcodes": [
+    "CM12",
+    "CM13",
+    "CM14",
+    "CM15",
+    "CM16",
+    "CM17",
+    "CM4",
+    "CM5",
+    "IG7",
+    "RM14",
+    "RM4"
+  ],
+  "schema_version": 1,
+  "slug": "brentwood-and-ongar",
+  "start_date": "2024-05-31"
+}

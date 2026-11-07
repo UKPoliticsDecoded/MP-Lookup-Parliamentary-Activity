@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 47539.7,
+    "bng": {
+      "easting": 368130,
+      "northing": 150038
+    },
+    "centroid": {
+      "latitude": 51.24861,
+      "longitude": -2.458
+    },
+    "geojson": "constituencies/boundaries/frome-and-east-somerset.geojson",
+    "ons_code": "E14001241",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5286.json",
+    "member_id": 5286,
+    "name": "Anna Sabine",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71593,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5415,
+      "result": "LD Gain",
+      "turnout": 46716,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4056,
+  "is_current": true,
+  "name": "Frome and East Somerset",
+  "name_cy": null,
+  "ons_code": "E14001241",
+  "outcodes": [
+    "BA10",
+    "BA11",
+    "BA13",
+    "BA15",
+    "BA2",
+    "BA3",
+    "BA4",
+    "BA5",
+    "BA6",
+    "BA7",
+    "BS39"
+  ],
+  "schema_version": 1,
+  "slug": "frome-and-east-somerset",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 8262.1,
+    "bng": {
+      "easting": 431696,
+      "northing": 292175
+    },
+    "centroid": {
+      "latitude": 52.52654,
+      "longitude": -1.53423
+    },
+    "geojson": "constituencies/boundaries/nuneaton.geojson",
+    "ons_code": "E14001413",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5036.json",
+    "member_id": 5036,
+    "name": "Jodie Gosling",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71843,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3479,
+      "result": "Lab Gain",
+      "turnout": 41213,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3667,
+      "end_date": "2024-05-30",
+      "member_id": 4024,
+      "name": "Mr Marcus Jones",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4228,
+  "is_current": true,
+  "name": "Nuneaton",
+  "name_cy": null,
+  "ons_code": "E14001413",
+  "outcodes": [
+    "B46",
+    "CV10",
+    "CV11",
+    "CV13",
+    "CV7",
+    "CV9"
+  ],
+  "schema_version": 1,
+  "slug": "nuneaton",
+  "start_date": "2024-05-31"
+}

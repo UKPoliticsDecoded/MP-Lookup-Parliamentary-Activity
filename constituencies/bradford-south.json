@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 4481.4,
+    "bng": {
+      "easting": 415841,
+      "northing": 429295
+    },
+    "centroid": {
+      "latitude": 53.75978,
+      "longitude": -1.7612
+    },
+    "geojson": "constituencies/boundaries/bradford-south.geojson",
+    "ons_code": "E14001119",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4391.json",
+    "member_id": 4391,
+    "name": "Judith Cummins",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70999,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4392,
+      "result": "Lab Hold",
+      "turnout": 33042,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3354,
+      "end_date": "2024-05-30",
+      "member_id": 4391,
+      "name": "Judith Cummins",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3934,
+  "is_current": true,
+  "name": "Bradford South",
+  "name_cy": null,
+  "ons_code": "E14001119",
+  "outcodes": [
+    "BD11",
+    "BD12",
+    "BD13",
+    "BD14",
+    "BD4",
+    "BD5",
+    "BD6",
+    "BD7",
+    "BD99",
+    "HX3"
+  ],
+  "schema_version": 1,
+  "slug": "bradford-south",
+  "start_date": "2024-05-31"
+}

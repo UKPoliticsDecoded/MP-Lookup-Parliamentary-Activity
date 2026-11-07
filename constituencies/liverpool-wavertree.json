@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 1985.0,
+    "bng": {
+      "easting": 338780,
+      "northing": 387915
+    },
+    "centroid": {
+      "latitude": 53.38453,
+      "longitude": -2.92187
+    },
+    "geojson": "constituencies/boundaries/liverpool-wavertree.geojson",
+    "ons_code": "E14001340",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4828.json",
+    "member_id": 4828,
+    "name": "Paula Barker",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70581,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 16304,
+      "result": "Lab Hold",
+      "turnout": 39815,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3583,
+      "end_date": "2024-05-30",
+      "member_id": 4828,
+      "name": "Paula Barker",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4155,
+  "is_current": true,
+  "name": "Liverpool Wavertree",
+  "name_cy": null,
+  "ons_code": "E14001340",
+  "outcodes": [
+    "L13",
+    "L14",
+    "L15",
+    "L16",
+    "L17",
+    "L18",
+    "L19",
+    "L3",
+    "L6",
+    "L7",
+    "L8"
+  ],
+  "schema_version": 1,
+  "slug": "liverpool-wavertree",
+  "start_date": "2024-05-31"
+}

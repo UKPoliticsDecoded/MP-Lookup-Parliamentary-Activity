@@ -1,0 +1,294 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 51,
+        "debates_participated": 38,
+        "oral_questions": 8,
+        "written_questions": 2
+      },
+      "2021": {
+        "debate_contributions": 74,
+        "debates_participated": 42,
+        "oral_questions": 9,
+        "written_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 74,
+        "debates_participated": 32,
+        "oral_questions": 5,
+        "written_questions": 9
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 52,
+        "debates_participated": 32,
+        "oral_questions": 4,
+        "written_questions": 22
+      },
+      "2024": {
+        "debate_contributions": 53,
+        "debates_participated": 20,
+        "oral_questions": 3,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 304,
+    "debates_participated": 164,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 37
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 304,
+    "voting_participation_pct": 87.36,
+    "written_questions": 37
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Bill",
+      "committee_id": 524,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 64,
+      "meetings_available": 64
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Bill",
+        "committee_id": 524,
+        "file": "committees/compensation-london-capital-and-finance-plc-and-fraud-compensation-fund-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-08"
+          }
+        ],
+        "slug": "compensation-london-capital-and-finance-plc-and-fraud-compensation-fund-bill"
+      },
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-04"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-19"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3676,
+    "name": "Penistone and Stocksbridge"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4865
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4865,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Miriam Cates",
+    "full_title": "Miriam Cates",
+    "list_as": "Cates, Miriam"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4238,
+        "name": "Penistone and Stocksbridge",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Penistone and Stocksbridge",
+        "constituency_id": 3676,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Miriam Cates is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3676/overview'>Penistone and Stocksbridge</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4865/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 165,
+        "voting_participation_pct": 86.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 218,
+        "voting_participation_pct": 90.08
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 200,
+        "voting_participation_pct": 79.68
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 231,
+        "voting_participation_pct": 90.23
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 117,
+        "voting_participation_pct": 92.13
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 933,
+        "voting_participation_pct": 87.36
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 933,
+    "voting_participation_pct": 87.36
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

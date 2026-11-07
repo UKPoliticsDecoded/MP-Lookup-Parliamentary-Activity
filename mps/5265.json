@@ -1,0 +1,220 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 31,
+        "debates_participated": 24,
+        "early_day_motions": 4,
+        "oral_questions": 7,
+        "written_questions": 41
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 96,
+        "debates_participated": 61,
+        "early_day_motions": 12,
+        "oral_questions": 11,
+        "written_questions": 225
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 92,
+        "debates_participated": 49,
+        "early_day_motions": 11,
+        "oral_questions": 5,
+        "written_questions": 444
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 219,
+    "debates_participated": 134,
+    "early_day_motions": 27,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 710
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 219,
+    "voting_participation_pct": 60.86,
+    "written_questions": 710
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/lewes.json",
+    "id": 4145,
+    "name": "Lewes",
+    "ons_code": "E14001330",
+    "slug": "lewes"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "james.maccleary.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01273 526 310",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "www.facebook.com/cllrjamesmaccleary"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/jamesmaccleary/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/JamesMacCleary"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5265
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5265,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "James MacCleary",
+    "full_title": "James MacCleary MP",
+    "list_as": "MacCleary, James"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Defence)",
+        "start_date": "2025-10-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Europe)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3813,
+        "name": "Tunbridge Wells",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lewes",
+        "constituency_id": 4145,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "James MacCleary is the Liberal Democrat MP for <a href='/constituency/4145/overview'>Lewes</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Defence).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5265/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 33,
+        "voting_participation_pct": 45.21
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 214,
+        "voting_participation_pct": 66.46
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 137,
+        "voting_participation_pct": 58.05
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 384,
+        "voting_participation_pct": 60.86
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 384,
+    "voting_participation_pct": 60.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

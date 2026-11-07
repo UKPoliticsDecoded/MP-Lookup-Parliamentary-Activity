@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 35796.0,
+    "bng": {
+      "easting": 552857,
+      "northing": 105811
+    },
+    "centroid": {
+      "latitude": 50.83165,
+      "longitude": 0.169249
+    },
+    "geojson": "constituencies/boundaries/lewes.geojson",
+    "ons_code": "E14001330",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5265.json",
+    "member_id": 5265,
+    "name": "James MacCleary",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76166,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12624,
+      "result": "LD Gain",
+      "turnout": 53173,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3574,
+      "end_date": "2024-05-30",
+      "member_id": 4492,
+      "name": "Maria Caulfield",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4145,
+  "is_current": true,
+  "name": "Lewes",
+  "name_cy": null,
+  "ons_code": "E14001330",
+  "outcodes": [
+    "BN1",
+    "BN10",
+    "BN20",
+    "BN22",
+    "BN23",
+    "BN24",
+    "BN25",
+    "BN26",
+    "BN27",
+    "BN6",
+    "BN7",
+    "BN8",
+    "BN9",
+    "RH15",
+    "TN22"
+  ],
+  "schema_version": 1,
+  "slug": "lewes",
+  "start_date": "2024-05-31"
+}

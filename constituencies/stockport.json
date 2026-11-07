@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 2505.0,
+    "bng": {
+      "easting": 388749,
+      "northing": 391263
+    },
+    "centroid": {
+      "latitude": 53.41806,
+      "longitude": -2.17074
+    },
+    "geojson": "constituencies/boundaries/stockport.geojson",
+    "ons_code": "E14001517",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4811.json",
+    "member_id": 4811,
+    "name": "Navendu Mishra",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76632,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15270,
+      "result": "Lab Hold",
+      "turnout": 43683,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3774,
+      "end_date": "2024-05-30",
+      "member_id": 4811,
+      "name": "Navendu Mishra",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4332,
+  "is_current": true,
+  "name": "Stockport",
+  "name_cy": null,
+  "ons_code": "E14001517",
+  "outcodes": [
+    "M19",
+    "SK1",
+    "SK2",
+    "SK3",
+    "SK4",
+    "SK5",
+    "SK7",
+    "SK8"
+  ],
+  "schema_version": 1,
+  "slug": "stockport",
+  "start_date": "2024-05-31"
+}

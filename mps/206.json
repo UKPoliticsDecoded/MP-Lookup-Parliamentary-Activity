@@ -1,0 +1,384 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 55,
+        "debates_participated": 33,
+        "early_day_motions": 1,
+        "written_questions": 118
+      },
+      "2021": {
+        "debate_contributions": 59,
+        "debates_participated": 25,
+        "written_questions": 90
+      },
+      "2022": {
+        "debate_contributions": 93,
+        "debates_participated": 35,
+        "written_questions": 113
+      },
+      "2023": {
+        "debate_contributions": 61,
+        "debates_participated": 30,
+        "written_questions": 64
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 368,
+        "debates_participated": 37,
+        "written_questions": 11
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 1006,
+        "debates_participated": 63
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 276,
+        "debates_participated": 26,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 1918,
+    "debates_participated": 249,
+    "early_day_motions": 1,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 407
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1918,
+    "voting_participation_pct": 41.08,
+    "written_questions": 407
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 55,
+      "meetings_available": 55
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-10-26"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-10-28"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-31"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-04"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-scrutiny"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/tottenham.json",
+    "id": 4368,
+    "name": "Tottenham",
+    "ons_code": "E14001553",
+    "slug": "tottenham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "david.lammy.mp@parliament.uk ",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.davidlammy.co.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/DavidLammy"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 206
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 206,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2000-06-22",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mr Lammy",
+    "display": "Mr David Lammy",
+    "full_title": "Rt Hon David Lammy MP",
+    "list_as": "Lammy, Mr David"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Deputy Prime Minister",
+        "start_date": "2025-09-05"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Lord Chancellor and Secretary of State for Justice",
+        "start_date": "2025-09-05"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Foreign Secretary",
+        "start_date": "2024-07-05"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Innovation and Skills) (Higher Education and Intellectual Property)",
+        "start_date": "2009-06-09"
+      },
+      {
+        "department": "Department for Innovation, Universities and Skills",
+        "department_url": "http://www.dius.gov.uk/",
+        "end_date": "2009-06-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Innovation, Universities and Skills) (Higher Education & Intellectual Property)",
+        "start_date": "2008-10-05"
+      },
+      {
+        "department": "Department for Innovation, Universities and Skills",
+        "department_url": "http://www.dius.gov.uk/",
+        "end_date": "2008-10-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Innovation, Universities and Skills) (Skills)",
+        "start_date": "2007-06-29"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Minister of State (Department for Culture, Media and Sport) (Culture)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Department for Constitutional Affairs",
+        "department_url": "http://www.dca.gov.uk",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Constitutional Affairs)",
+        "start_date": "2003-06-13"
+      },
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2003-06-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health)",
+        "start_date": "2002-05-29"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Foreign, Commonwealth and Development Affairs",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Lord Chancellor and Shadow Secretary of State for Justice",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": "",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Higher Education and Intellectual Property)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2000-06-22"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tottenham",
+        "constituency_id": 4368,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Tottenham",
+        "constituency_id": 3811,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Tottenham",
+        "constituency_id": 2957,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2000-06-22"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mr David Lammy is the Labour MP for <a href='/constituency/4368/overview'>Tottenham</a>, and has been an MP continually since 22 June 2000.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/206/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 124,
+        "voting_participation_pct": 65.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 194,
+        "voting_participation_pct": 80.17
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 120,
+        "voting_participation_pct": 47.81
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 89,
+        "voting_participation_pct": 34.77
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 55,
+        "voting_participation_pct": 27.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 56,
+        "voting_participation_pct": 17.39
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 58,
+        "voting_participation_pct": 24.58
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 573,
+        "voting_participation_pct": 53.65
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 125,
+        "voting_participation_pct": 19.81
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 698,
+    "voting_participation_pct": 41.08
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

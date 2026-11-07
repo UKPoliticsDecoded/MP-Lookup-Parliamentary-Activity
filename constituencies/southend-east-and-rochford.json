@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 13522.8,
+    "bng": {
+      "easting": 586492,
+      "northing": 190334
+    },
+    "centroid": {
+      "latitude": 51.58101,
+      "longitude": 0.690265
+    },
+    "geojson": "constituencies/boundaries/southend-east-and-rochford.geojson",
+    "ons_code": "E14001501",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5097.json",
+    "member_id": 5097,
+    "name": "Mr Bayo Alaba",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70217,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4027,
+      "result": "Lab Gain",
+      "turnout": 39656,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4316,
+  "is_current": true,
+  "name": "Southend East and Rochford",
+  "name_cy": null,
+  "ons_code": "E14001501",
+  "outcodes": [
+    "SS0",
+    "SS1",
+    "SS2",
+    "SS3",
+    "SS4",
+    "SS5",
+    "SS9",
+    "SS99"
+  ],
+  "schema_version": 1,
+  "slug": "southend-east-and-rochford",
+  "start_date": "2024-05-31"
+}

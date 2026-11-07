@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 5063.9,
+    "bng": {
+      "easting": 507012,
+      "northing": 169622
+    },
+    "centroid": {
+      "latitude": 51.41552,
+      "longitude": -0.46254
+    },
+    "geojson": "constituencies/boundaries/spelthorne.geojson",
+    "ons_code": "E14001505",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5332.json",
+    "member_id": 5332,
+    "name": "Lincoln Jopp",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73782,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1590,
+      "result": "Con Hold",
+      "turnout": 46166,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3764,
+      "end_date": "2024-05-30",
+      "member_id": 4134,
+      "name": "Kwasi Kwarteng",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4320,
+  "is_current": true,
+  "name": "Spelthorne",
+  "name_cy": null,
+  "ons_code": "E14001505",
+  "outcodes": [
+    "KT12",
+    "KT16",
+    "TW12",
+    "TW14",
+    "TW15",
+    "TW16",
+    "TW17",
+    "TW18",
+    "TW19",
+    "TW6"
+  ],
+  "schema_version": 1,
+  "slug": "spelthorne",
+  "start_date": "2024-05-31"
+}

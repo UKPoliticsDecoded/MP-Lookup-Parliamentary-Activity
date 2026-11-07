@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 3508.2,
+    "bng": {
+      "easting": 422947,
+      "northing": 434985
+    },
+    "centroid": {
+      "latitude": 53.81066,
+      "longitude": -1.653
+    },
+    "geojson": "constituencies/boundaries/leeds-west-and-pudsey.geojson",
+    "ons_code": "E14001325",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4031.json",
+    "member_id": 4031,
+    "name": "Rachel Reeves",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70069,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12392,
+      "result": "Lab Hold",
+      "turnout": 38494,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4140,
+  "is_current": true,
+  "name": "Leeds West and Pudsey",
+  "name_cy": null,
+  "ons_code": "E14001325",
+  "outcodes": [
+    "BD10",
+    "BD3",
+    "BD4",
+    "LS12",
+    "LS13",
+    "LS28",
+    "LS4",
+    "LS5"
+  ],
+  "schema_version": 1,
+  "slug": "leeds-west-and-pudsey",
+  "start_date": "2024-05-31"
+}

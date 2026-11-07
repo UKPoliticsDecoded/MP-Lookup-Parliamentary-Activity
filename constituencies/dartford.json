@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 6238.9,
+    "bng": {
+      "easting": 556167,
+      "northing": 172917
+    },
+    "centroid": {
+      "latitude": 51.43373,
+      "longitude": 0.245276
+    },
+    "geojson": "constituencies/boundaries/dartford.geojson",
+    "ons_code": "E14001191",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5223.json",
+    "member_id": 5223,
+    "name": "Jim Dickson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75426,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1192,
+      "result": "Lab Gain",
+      "turnout": 44488,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3438,
+      "end_date": "2024-05-30",
+      "member_id": 3970,
+      "name": "Gareth Johnson",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4006,
+  "is_current": true,
+  "name": "Dartford",
+  "name_cy": null,
+  "ons_code": "E14001191",
+  "outcodes": [
+    "DA1",
+    "DA10",
+    "DA11",
+    "DA13",
+    "DA14",
+    "DA17",
+    "DA2",
+    "DA3",
+    "DA4",
+    "DA5",
+    "DA9"
+  ],
+  "schema_version": 1,
+  "slug": "dartford",
+  "start_date": "2024-05-31"
+}

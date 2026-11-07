@@ -1,0 +1,346 @@
+{
+  "activity": {
+    "annual": {
+      "2021": {
+        "debate_contributions": 180,
+        "debates_participated": 14
+      },
+      "2022": {
+        "debate_contributions": 148,
+        "debates_participated": 36
+      },
+      "2023": {
+        "debate_contributions": 356,
+        "debates_participated": 51
+      },
+      "2024": {
+        "debate_contributions": 142,
+        "debates_participated": 38,
+        "written_questions": 98
+      },
+      "2025": {
+        "debate_contributions": 133,
+        "debates_participated": 42,
+        "written_questions": 74
+      },
+      "2026": {
+        "debate_contributions": 193,
+        "debates_participated": 47,
+        "written_questions": 393
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1152,
+    "debates_participated": 228,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 565
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1152,
+    "voting_participation_pct": 83.34,
+    "written_questions": 565
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+      "committee_id": 619,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Skills and Post-16 Education [HL] Bill",
+      "committee_id": 557,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+        "committee_id": 619,
+        "file": "committees/pension-dashboards-prohibition-of-indemnification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "pension-dashboards-prohibition-of-indemnification-bill"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      },
+      {
+        "committee": "Skills and Post-16 Education [HL] Bill",
+        "committee_id": 557,
+        "file": "committees/skills-and-post-16-education-hl-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "skills-and-post-16-education-hl-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/brentwood-and-ongar.json",
+    "id": 3940,
+    "name": "Brentwood and Ongar",
+    "ons_code": "E14001125",
+    "slug": "brentwood-and-ongar"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.burghart.mp@parliament.uk",
+      "phone": "0207 219 1613",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/alexburghart"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4613
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4613,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Alex Burghart",
+    "display": "Alex Burghart",
+    "full_title": "Alex Burghart MP",
+    "list_as": "Burghart, Alex"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Work and Pensions)",
+        "start_date": "2022-09-20"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education)",
+        "start_date": "2021-09-16"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Chancellor of the Duchy of Lancaster",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Secretary of State for Northern Ireland",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3549,
+        "name": "Islington North",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brentwood and Ongar",
+        "constituency_id": 3940,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Brentwood and Ongar",
+        "constituency_id": 3361,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Alex Burghart is the Conservative MP for <a href='/constituency/3940/overview'>Brentwood and Ongar</a>, and has been an MP continually since 8 June 2017. \r\nHe currently undertakes the roles of Shadow Chancellor of the Duchy of Lancaster, and Shadow Secretary of State for Northern Ireland.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4613/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 225,
+        "voting_participation_pct": 89.64
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 238,
+        "voting_participation_pct": 92.97
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 161,
+        "voting_participation_pct": 80.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 212,
+        "voting_participation_pct": 65.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 180,
+        "voting_participation_pct": 76.27
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 975,
+        "voting_participation_pct": 91.29
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 441,
+        "voting_participation_pct": 69.89
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1416,
+    "voting_participation_pct": 83.34
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

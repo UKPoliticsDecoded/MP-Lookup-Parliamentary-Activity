@@ -1,0 +1,251 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 4,
+        "debates_participated": 3,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 55
+      },
+      "2025": {
+        "debate_contributions": 3,
+        "debates_participated": 3,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 131
+      },
+      "2026": {
+        "debate_contributions": 22,
+        "debates_participated": 15,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 788
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 29,
+    "debates_participated": 21,
+    "early_day_motions": 4,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 974
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 4,
+    "debate_contributions": 29,
+    "voting_participation_pct": 64.18,
+    "written_questions": 974
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Highways (Financing) Bill",
+      "committee_id": 854,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Infants, Parents and Carers Bill",
+      "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sporting Events Bill",
+      "committee_id": 845,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Highways (Financing) Bill",
+        "committee_id": 854,
+        "file": "committees/highways-financing-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "highways-financing-bill"
+      },
+      {
+        "committee": "Infants, Parents and Carers Bill",
+        "committee_id": 852,
+        "file": "committees/infants-parents-and-carers-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "infants-parents-and-carers-bill"
+      },
+      {
+        "committee": "Sporting Events Bill",
+        "committee_id": 845,
+        "file": "committees/sporting-events-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-15"
+          }
+        ],
+        "slug": "sporting-events-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2025-06-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-25"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-21"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/leicester-east.json",
+    "id": 4141,
+    "name": "Leicester East",
+    "ons_code": "E14001326",
+    "slug": "leicester-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "shivani.raja.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5068
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5068,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Shivani Raja",
+    "full_title": "Shivani Raja MP",
+    "list_as": "Raja, Shivani"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leicester East",
+        "constituency_id": 4141,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Shivani Raja is the Conservative MP for <a href='/constituency/4141/overview'>Leicester East</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5068/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 247,
+        "voting_participation_pct": 76.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 119,
+        "voting_participation_pct": 50.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 405,
+        "voting_participation_pct": 64.18
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 405,
+    "voting_participation_pct": 64.18
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

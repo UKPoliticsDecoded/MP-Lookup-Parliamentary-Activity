@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 67119.7,
+    "bng": {
+      "easting": 356100,
+      "northing": 672351
+    },
+    "centroid": {
+      "latitude": 55.94218,
+      "longitude": -2.7044
+    },
+    "geojson": "constituencies/boundaries/lothian-east.geojson",
+    "ons_code": "S14000096",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/632.json",
+    "member_id": 632,
+    "name": "Mr Douglas Alexander",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75456,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13265,
+      "result": "Lab Gain",
+      "turnout": 48102,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4485,
+  "is_current": true,
+  "name": "Lothian East",
+  "name_cy": null,
+  "ons_code": "S14000096",
+  "outcodes": [
+    "EH21",
+    "EH22",
+    "EH31",
+    "EH32",
+    "EH33",
+    "EH34",
+    "EH35",
+    "EH36",
+    "EH37",
+    "EH39",
+    "EH40",
+    "EH41",
+    "EH42",
+    "TD13"
+  ],
+  "schema_version": 1,
+  "slug": "lothian-east",
+  "start_date": "2024-05-31"
+}

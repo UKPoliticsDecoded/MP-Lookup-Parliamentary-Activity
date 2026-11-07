@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 54939.5,
+    "bng": {
+      "easting": 620566,
+      "northing": 257411
+    },
+    "centroid": {
+      "latitude": 52.17087,
+      "longitude": 1.224112
+    },
+    "geojson": "constituencies/boundaries/central-suffolk-and-north-ipswich.geojson",
+    "ons_code": "E14001156",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5303.json",
+    "member_id": 5303,
+    "name": "Patrick Spencer",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73046,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4290,
+      "result": "Con Hold",
+      "turnout": 46423,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3399,
+      "end_date": "2024-05-30",
+      "member_id": 3932,
+      "name": "Dr Dan Poulter",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3971,
+  "is_current": true,
+  "name": "Central Suffolk and North Ipswich",
+  "name_cy": null,
+  "ons_code": "E14001156",
+  "outcodes": [
+    "IP1",
+    "IP10",
+    "IP12",
+    "IP13",
+    "IP14",
+    "IP17",
+    "IP23",
+    "IP3",
+    "IP4",
+    "IP5",
+    "IP6",
+    "IP7",
+    "IP8"
+  ],
+  "schema_version": 1,
+  "slug": "central-suffolk-and-north-ipswich",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 8,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 8
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Private Bills Office, House of Lords, London SW1A 0PW",
+    "email": "hlprivatebills@parliament.uk"
+  },
+  "end_date": "2021-03-08",
+  "house": "Lords",
+  "id": 504,
+  "is_current": false,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 1813,
+      "name": "The Rt Hon. the Lord Trefgarne",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-12-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2510,
+      "name": "The Baroness Whitaker",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-12-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3842,
+      "name": "The Rt Hon. the Baroness Garden of Frognal",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-12-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3898,
+      "name": "The Lord Aberdare",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-12-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4721,
+      "name": "The Rt Hon. the Baroness Hallett DBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-03-08",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2020-12-15"
+        },
+        {
+          "end": "2021-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-12-15"
+        }
+      ]
+    }
+  ],
+  "name": "Highgate Cemetery Bill [HL] Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The select committee has been appointed to consider the <a href=\"https://bills.parliament.uk/bills/2518\">Highgate Cemetery Bill [HL]</a>, which has been committed to it. </p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "highgate-cemetery-bill-hl",
+  "start_date": "2020-12-15",
+  "sub_committee_ids": [],
+  "types": [
+    "(HL) Legislation Office",
+    "Private/hybrid bill committee"
+  ]
+}

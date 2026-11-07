@@ -1,0 +1,105 @@
+{
+  "boundary": {
+    "area_hectares": 924.7,
+    "bng": {
+      "easting": 529549,
+      "northing": 183457
+    },
+    "centroid": {
+      "latitude": 51.53516,
+      "longitude": -0.13355
+    },
+    "geojson": "constituencies/boundaries/holborn-and-st-pancras.geojson",
+    "ons_code": "E14001290",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5484.json",
+    "member_id": 5484,
+    "name": "Sagal Abdi-Wali",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2026-10-08"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2026-10-08",
+      "election": "2026-10-08 Holborn and St Pancras By-election",
+      "election_id": 560,
+      "electorate": 70449,
+      "is_general_election": false,
+      "is_notional": false,
+      "majority": 3364,
+      "result": "Lab Hold",
+      "turnout": 27211,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    },
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71300,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11572,
+      "result": "Lab Hold",
+      "turnout": 38602,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 4105,
+      "end_date": "2026-09-01",
+      "member_id": 4514,
+      "name": "Sir Keir Starmer",
+      "start_date": "2024-07-04"
+    },
+    {
+      "constituency_version_id": 3536,
+      "end_date": "2024-05-30",
+      "member_id": 4514,
+      "name": "Sir Keir Starmer",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4105,
+  "is_current": true,
+  "name": "Holborn and St Pancras",
+  "name_cy": null,
+  "ons_code": "E14001290",
+  "outcodes": [
+    "EC1M",
+    "EC1N",
+    "EC1R",
+    "N1",
+    "N19",
+    "N1C",
+    "N7",
+    "NW1",
+    "NW1W",
+    "NW3",
+    "NW5",
+    "NW8",
+    "W1T",
+    "WC1A",
+    "WC1B",
+    "WC1E",
+    "WC1H",
+    "WC1N",
+    "WC1R",
+    "WC1V",
+    "WC1X",
+    "WC2A",
+    "WC2B",
+    "WC2H"
+  ],
+  "schema_version": 1,
+  "slug": "holborn-and-st-pancras",
+  "start_date": "2024-05-31"
+}

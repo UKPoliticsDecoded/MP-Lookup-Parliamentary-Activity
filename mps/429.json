@@ -1,0 +1,437 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 38,
+        "debates_participated": 25,
+        "oral_questions": 3,
+        "written_questions": 80
+      },
+      "2021": {
+        "debate_contributions": 39,
+        "debates_participated": 26,
+        "oral_questions": 2,
+        "written_questions": 73
+      },
+      "2022": {
+        "debate_contributions": 42,
+        "debates_participated": 25,
+        "written_questions": 30
+      },
+      "2023": {
+        "debate_contributions": 41,
+        "debates_participated": 36,
+        "oral_questions": 1,
+        "written_questions": 37
+      },
+      "2024": {
+        "debate_contributions": 45,
+        "debates_participated": 31,
+        "oral_questions": 1,
+        "written_questions": 19
+      },
+      "2025": {
+        "debate_contributions": 64,
+        "debates_participated": 40,
+        "written_questions": 72
+      },
+      "2026": {
+        "debate_contributions": 50,
+        "debates_participated": 26,
+        "written_questions": 36
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 319,
+    "debates_participated": 209,
+    "early_day_motions": 0,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 347
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 4,
+    "debate_contributions": 319,
+    "voting_participation_pct": 60.57,
+    "written_questions": 347
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": true,
+      "meetings_attended": 172,
+      "meetings_available": 172
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": true,
+      "meetings_attended": 38,
+      "meetings_available": 38
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+      "committee_id": 657,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 21,
+      "meetings_available": 21
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2013-06-10"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-11"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-02"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-22"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+        "committee_id": 657,
+        "file": "committees/animals-low-welfare-activities-abroad-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "animals-low-welfare-activities-abroad-bill"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/widnes-and-halewood.json",
+    "id": 4399,
+    "name": "Widnes and Halewood",
+    "ons_code": "E14001584",
+    "slug": "widnes-and-halewood"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "derek.twigg.mp@parliament.uk",
+      "phone": "020 7219 1039",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Bridge Business Centre, Suite E, Cheshire House, Gorsey Lane, Widnes, Cheshire, (Please send post to House of Commons)",
+      "phone": "0151 424 7030",
+      "postcode": "WA8 0RP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.derektwigg.org"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 429
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 429,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Derek Twigg",
+    "display": "Derek Twigg",
+    "full_title": "Derek Twigg MP",
+    "list_as": "Twigg, Derek"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2008-10-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence) (Veterans)",
+        "start_date": "2006-09-06"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2006-09-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Department for Education and Skills",
+        "department_url": "http://www.dfes.gov.uk",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Education and Skills) (Schools)",
+        "start_date": "2004-12-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2004-12-16",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2003-06-13"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2003-06-13",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2002-05-29"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Health)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Widnes and Halewood",
+        "constituency_id": 4399,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Halton",
+        "constituency_id": 3511,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Halton",
+        "constituency_id": 1351,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Derek Twigg is the Labour MP for <a href='/constituency/4399/overview'>Widnes and Halewood</a>, and has been an MP continually since 1 May 1997.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/429/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 180,
+        "voting_participation_pct": 74.38
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 110,
+        "voting_participation_pct": 43.82
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 159,
+        "voting_participation_pct": 62.11
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 116,
+        "voting_participation_pct": 58.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 193,
+        "voting_participation_pct": 59.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 139,
+        "voting_participation_pct": 58.9
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 642,
+        "voting_participation_pct": 60.11
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 387,
+        "voting_participation_pct": 61.33
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1029,
+    "voting_participation_pct": 60.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

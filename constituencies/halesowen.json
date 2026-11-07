@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 3022.6,
+    "bng": {
+      "easting": 396177,
+      "northing": 284346
+    },
+    "centroid": {
+      "latitude": 52.45706,
+      "longitude": -2.05768
+    },
+    "geojson": "constituencies/boundaries/halesowen.geojson",
+    "ons_code": "E14001261",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5238.json",
+    "member_id": 5238,
+    "name": "Alex Ballinger",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68549,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4364,
+      "result": "Lab Gain",
+      "turnout": 38578,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4076,
+  "is_current": true,
+  "name": "Halesowen",
+  "name_cy": null,
+  "ons_code": "E14001261",
+  "outcodes": [
+    "B62",
+    "B63",
+    "B64",
+    "B65",
+    "DY2",
+    "DY5",
+    "DY9"
+  ],
+  "schema_version": 1,
+  "slug": "halesowen",
+  "start_date": "2024-05-31"
+}

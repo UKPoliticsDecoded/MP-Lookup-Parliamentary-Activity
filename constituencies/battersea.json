@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 930.8,
+    "bng": {
+      "easting": 528113,
+      "northing": 175772
+    },
+    "centroid": {
+      "latitude": 51.46642,
+      "longitude": -0.15703
+    },
+    "geojson": "constituencies/boundaries/battersea.geojson",
+    "ons_code": "E14001081",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4676.json",
+    "member_id": 4676,
+    "name": "Marsha De Cordova",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72827,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12039,
+      "result": "Lab Hold",
+      "turnout": 47082,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3310,
+      "end_date": "2024-05-30",
+      "member_id": 4676,
+      "name": "Marsha De Cordova",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 3896,
+  "is_current": true,
+  "name": "Battersea",
+  "name_cy": null,
+  "ons_code": "E14001081",
+  "outcodes": [
+    "SW11",
+    "SW12",
+    "SW18",
+    "SW1A",
+    "SW1E",
+    "SW1H",
+    "SW1P",
+    "SW1V",
+    "SW1W",
+    "SW1X",
+    "SW1Y",
+    "SW4",
+    "SW8",
+    "SW95"
+  ],
+  "schema_version": 1,
+  "slug": "battersea",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 2919.9,
+    "bng": {
+      "easting": 392654,
+      "northing": 398807
+    },
+    "centroid": {
+      "latitude": 53.48594,
+      "longitude": -2.11217
+    },
+    "geojson": "constituencies/boundaries/ashton-under-lyne.geojson",
+    "ons_code": "E14001070",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4356.json",
+    "member_id": 4356,
+    "name": "Angela Rayner",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71002,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6791,
+      "result": "Lab Hold",
+      "turnout": 35461,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3298,
+      "end_date": "2024-05-30",
+      "member_id": 4356,
+      "name": "Angela Rayner",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3885,
+  "is_current": true,
+  "name": "Ashton-under-Lyne",
+  "name_cy": null,
+  "ons_code": "E14001070",
+  "outcodes": [
+    "M11",
+    "M34",
+    "M43",
+    "OL6",
+    "OL7",
+    "SK14",
+    "SK15",
+    "SK16"
+  ],
+  "schema_version": 1,
+  "slug": "ashton-under-lyne",
+  "start_date": "2024-05-31"
+}

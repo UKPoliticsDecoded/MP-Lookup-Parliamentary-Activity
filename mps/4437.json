@@ -1,0 +1,404 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 61,
+        "debates_participated": 36,
+        "early_day_motions": 27,
+        "oral_questions": 11,
+        "written_questions": 18
+      },
+      "2021": {
+        "debate_contributions": 192,
+        "debates_participated": 55,
+        "early_day_motions": 8,
+        "oral_questions": 8,
+        "written_questions": 45
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 130,
+        "debates_participated": 52,
+        "early_day_motions": 11,
+        "oral_questions": 5,
+        "written_questions": 60
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 46,
+        "debates_participated": 26,
+        "early_day_motions": 16,
+        "oral_questions": 8,
+        "written_questions": 37
+      },
+      "2024": {
+        "debate_contributions": 23,
+        "debates_participated": 9,
+        "early_day_motions": 4,
+        "oral_questions": 1,
+        "written_questions": 7
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 454,
+    "debates_participated": 179,
+    "early_day_motions": 66,
+    "oral_questions": 33,
+    "petitions_presented": 0,
+    "written_questions": 167
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 454,
+    "voting_participation_pct": 60.77,
+    "written_questions": 167
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Judicial Review and Courts Bill",
+      "committee_id": 548,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Judicial Review and Courts Bill",
+        "committee_id": 548,
+        "file": "committees/judicial-review-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "judicial-review-and-courts-bill"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1206,
+    "name": "Glasgow North East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4437
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4437,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Anne McLaughlin",
+    "full_title": "Anne McLaughlin",
+    "list_as": "McLaughlin, Anne"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (International Development)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Immigration, Asylum and Border Control)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Justice)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Equalities)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Women)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Civil Liberties)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4475,
+        "name": "Glasgow North East",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1206,
+        "name": "Glasgow North East",
+        "startDate": "2017-06-08T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1555,
+        "name": "Inverclyde",
+        "startDate": "2011-06-30T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1258,
+        "name": "Glasgow Rutherglen",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow North East",
+        "constituency_id": 1206,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Anne McLaughlin is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1206/overview'>Glasgow North East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4437/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 128,
+        "voting_participation_pct": 67.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 145,
+        "voting_participation_pct": 59.92
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 105,
+        "voting_participation_pct": 41.83
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 175,
+        "voting_participation_pct": 68.36
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 94,
+        "voting_participation_pct": 74.02
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 649,
+        "voting_participation_pct": 60.77
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 649,
+    "voting_participation_pct": 60.77
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 79,
+        "debates_participated": 52,
+        "oral_questions": 18,
+        "written_questions": 12
+      },
+      "2021": {
+        "debate_contributions": 70,
+        "debates_participated": 54,
+        "oral_questions": 14,
+        "written_questions": 5
+      },
+      "2022": {
+        "debate_contributions": 45,
+        "debates_participated": 29,
+        "oral_questions": 15,
+        "written_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 35,
+        "debates_participated": 14,
+        "oral_questions": 5,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 229,
+    "debates_participated": 149,
+    "early_day_motions": 0,
+    "oral_questions": 52,
+    "petitions_presented": 0,
+    "written_questions": 19
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 229,
+    "voting_participation_pct": 86.52,
+    "written_questions": 19
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Consolidation, &c., Bills (Joint Committee)",
+      "committee_id": 171,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Online Safety Bill (Joint Committee)",
+      "committee_id": 534,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Higher Education (Freedom of Speech) Bill",
+      "committee_id": 538,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+      "committee_id": 713,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Consolidation, &c., Bills (Joint Committee)",
+        "committee_id": 171,
+        "file": "committees/consolidation-and-c-bills-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-09"
+          }
+        ],
+        "slug": "consolidation-and-c-bills-joint-committee"
+      },
+      {
+        "committee": "Draft Online Safety Bill (Joint Committee)",
+        "committee_id": 534,
+        "file": "committees/draft-online-safety-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-21"
+          }
+        ],
+        "slug": "draft-online-safety-bill-joint-committee"
+      },
+      {
+        "committee": "Higher Education (Freedom of Speech) Bill",
+        "committee_id": 538,
+        "file": "committees/higher-education-freedom-of-speech-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-07"
+          }
+        ],
+        "slug": "higher-education-freedom-of-speech-bill"
+      },
+      {
+        "committee": "Paternity Leave (Bereavement) Bill (Formerly known as Shared Parental Leave and Pay (Bereavement) Bill)",
+        "committee_id": 713,
+        "file": "committees/paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "paternity-leave-bereavement-bill-formerly-known-as-shared-parental-leave-and-pay-bereavement-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-01"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3781,
+    "name": "Stourbridge"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4802
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4802,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Suzanne Webb",
+    "full_title": "Suzanne Webb",
+    "list_as": "Webb, Suzanne"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2023-11-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-09-20",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-07-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4339,
+        "name": "Stourbridge",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stourbridge",
+        "constituency_id": 3781,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Suzanne Webb is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3781/overview'>Stourbridge</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4802/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 185,
+        "voting_participation_pct": 97.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 193,
+        "voting_participation_pct": 76.89
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 216,
+        "voting_participation_pct": 84.38
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 116,
+        "voting_participation_pct": 91.34
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 924,
+        "voting_participation_pct": 86.52
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 924,
+    "voting_participation_pct": 86.52
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

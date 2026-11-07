@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 13303.3,
+    "bng": {
+      "easting": 434212,
+      "northing": 458112
+    },
+    "centroid": {
+      "latitude": 54.0179,
+      "longitude": -1.47936
+    },
+    "geojson": "constituencies/boundaries/harrogate-and-knaresborough.geojson",
+    "ons_code": "E14001269",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5032.json",
+    "member_id": 5032,
+    "name": "Tom Gordon",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77955,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8238,
+      "result": "LD Gain",
+      "turnout": 52064,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3516,
+      "end_date": "2024-05-30",
+      "member_id": 3996,
+      "name": "Andrew Jones",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4084,
+  "is_current": true,
+  "name": "Harrogate and Knaresborough",
+  "name_cy": null,
+  "ons_code": "E14001269",
+  "outcodes": [
+    "HG1",
+    "HG2",
+    "HG3",
+    "HG5",
+    "YO51"
+  ],
+  "schema_version": 1,
+  "slug": "harrogate-and-knaresborough",
+  "start_date": "2024-05-31"
+}

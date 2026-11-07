@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 2982.1,
+    "bng": {
+      "easting": 505836,
+      "northing": 249628
+    },
+    "centroid": {
+      "latitude": 52.13483,
+      "longitude": -0.45508
+    },
+    "geojson": "constituencies/boundaries/bedford.geojson",
+    "ons_code": "E14001084",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4598.json",
+    "member_id": 4598,
+    "name": "Mohammad Yasin",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72478,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9430,
+      "result": "Lab Hold",
+      "turnout": 40659,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3313,
+      "end_date": "2024-05-30",
+      "member_id": 4598,
+      "name": "Mohammad Yasin",
+      "start_date": "2017-06-08"
+    },
+    {
+      "constituency_version_id": 3313,
+      "end_date": "2017-05-03",
+      "member_id": 3912,
+      "name": "Richard Fuller",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3899,
+  "is_current": true,
+  "name": "Bedford",
+  "name_cy": null,
+  "ons_code": "E14001084",
+  "outcodes": [
+    "MK40",
+    "MK41",
+    "MK42",
+    "MK43",
+    "MK44",
+    "MK45"
+  ],
+  "schema_version": 1,
+  "slug": "bedford",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,552 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 4,
+        "debates_participated": 2
+      },
+      "2020": {
+        "debate_contributions": 144,
+        "debates_participated": 85,
+        "oral_questions": 4,
+        "written_questions": 19
+      },
+      "2021": {
+        "debate_contributions": 81,
+        "debates_participated": 48,
+        "oral_questions": 3,
+        "written_questions": 22
+      },
+      "2022": {
+        "debate_contributions": 97,
+        "debates_participated": 67,
+        "oral_questions": 4,
+        "written_questions": 16
+      },
+      "2023": {
+        "debate_contributions": 102,
+        "debates_participated": 53,
+        "oral_questions": 7,
+        "written_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 86,
+        "debates_participated": 44,
+        "oral_questions": 9,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 212,
+        "debates_participated": 99,
+        "oral_questions": 7,
+        "written_questions": 3
+      },
+      "2026": {
+        "debate_contributions": 152,
+        "debates_participated": 78,
+        "oral_questions": 14,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 878,
+    "debates_participated": 476,
+    "early_day_motions": 0,
+    "oral_questions": 48,
+    "petitions_presented": 0,
+    "written_questions": 66
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 878,
+    "voting_participation_pct": 72.45,
+    "written_questions": 66
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+      "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": true,
+      "meetings_attended": 85,
+      "meetings_available": 85
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Down Syndrome Bill",
+      "committee_id": 577,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+      "committee_id": 677,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Disqualification) Bill",
+      "committee_id": 556,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 265,
+      "meetings_available": 265
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+      "committee_id": 585,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-09-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-12-10"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
+        "committee_id": 841,
+        "file": "committees/liaison-sub-committee-on-core-tasks-of-select-committees.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-23"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-09"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-09"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Down Syndrome Bill",
+        "committee_id": 577,
+        "file": "committees/down-syndrome-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "down-syndrome-bill"
+      },
+      {
+        "committee": "Liaison Sub-Committee on Scrutiny of Strategic Thinking in Government",
+        "committee_id": 677,
+        "file": "committees/liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-22"
+          }
+        ],
+        "slug": "liaison-sub-committee-on-scrutiny-of-strategic-thinking-in-government"
+      },
+      {
+        "committee": "Local Government (Disqualification) Bill",
+        "committee_id": 556,
+        "file": "committees/local-government-disqualification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "local-government-disqualification-bill"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2024-12-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-07-12"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2011-10-24"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-06-18"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+        "committee_id": 585,
+        "file": "committees/taxis-and-private-hire-vehicles-disabled-persons-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-02"
+          }
+        ],
+        "slug": "taxis-and-private-hire-vehicles-disabled-persons-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hackney-south-and-shoreditch.json",
+    "id": 4075,
+    "name": "Hackney South and Shoreditch",
+    "ons_code": "E14001260",
+    "slug": "hackney-south-and-shoreditch"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "meg.hillier.mp@parliament.uk",
+      "phone": "020 7219 5325",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.meghillier.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Meg_HillierMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1524
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 1524,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dame Meg Hillier",
+    "display": "Dame Meg Hillier",
+    "full_title": "Dame Meg Hillier MP",
+    "list_as": "Hillier, Dame Meg"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office) (Identity)",
+        "start_date": "2009-11-09"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2009-08-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office) (Identity)",
+        "start_date": "2007-07-02"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Energy and Climate Change",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hackney South and Shoreditch",
+        "constituency_id": 4075,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Hackney South and Shoreditch",
+        "constituency_id": 3507,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Hackney South and Shoreditch",
+        "constituency_id": 1338,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Dame Meg Hillier is the Labour (Co-op) MP for <a href='/constituency/4075/overview'>Hackney South and Shoreditch</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1524/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 136,
+        "voting_participation_pct": 71.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 199,
+        "voting_participation_pct": 82.23
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 167,
+        "voting_participation_pct": 66.53
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 163,
+        "voting_participation_pct": 63.67
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 140,
+        "voting_participation_pct": 70.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 236,
+        "voting_participation_pct": 73.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 743,
+        "voting_participation_pct": 69.57
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 488,
+        "voting_participation_pct": 77.34
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1231,
+    "voting_participation_pct": 72.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

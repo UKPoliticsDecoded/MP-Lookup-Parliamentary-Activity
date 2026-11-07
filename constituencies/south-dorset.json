@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 35194.9,
+    "bng": {
+      "easting": 382491,
+      "northing": 85482
+    },
+    "centroid": {
+      "latitude": 50.66872,
+      "longitude": -2.24911
+    },
+    "geojson": "constituencies/boundaries/south-dorset.geojson",
+    "ons_code": "E14001485",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5217.json",
+    "member_id": 5217,
+    "name": "Lloyd Hatton",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75924,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1048,
+      "result": "Lab Gain",
+      "turnout": 49037,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3740,
+      "end_date": "2024-05-30",
+      "member_id": 4132,
+      "name": "Richard Drax",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4300,
+  "is_current": true,
+  "name": "South Dorset",
+  "name_cy": null,
+  "ons_code": "E14001485",
+  "outcodes": [
+    "BH13",
+    "BH15",
+    "BH19",
+    "BH20",
+    "DT2",
+    "DT3",
+    "DT4",
+    "DT5"
+  ],
+  "schema_version": 1,
+  "slug": "south-dorset",
+  "start_date": "2024-05-31"
+}

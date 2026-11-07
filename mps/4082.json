@@ -1,0 +1,291 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 3,
+        "debates_participated": 2
+      },
+      "2020": {
+        "debate_contributions": 25,
+        "debates_participated": 20,
+        "written_questions": 121
+      },
+      "2021": {
+        "debate_contributions": 35,
+        "debates_participated": 17,
+        "written_questions": 118
+      },
+      "2022": {
+        "debate_contributions": 78,
+        "debates_participated": 20,
+        "written_questions": 72
+      },
+      "2023": {
+        "debate_contributions": 63,
+        "debates_participated": 17,
+        "written_questions": 93
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 95,
+        "debates_participated": 13,
+        "written_questions": 100
+      },
+      "2025": {
+        "debate_contributions": 303,
+        "debates_participated": 39
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 180,
+        "debates_participated": 27,
+        "petitions_presented": 7
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 782,
+    "debates_participated": 155,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 7,
+    "written_questions": 504
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 782,
+    "voting_participation_pct": 45.56,
+    "written_questions": 504
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/wigan.json",
+    "id": 4400,
+    "name": "Wigan",
+    "ons_code": "E14001585",
+    "slug": "wigan"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lisa.nandy.mp@parliament.uk",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "2nd Floor, Wigan Investment Centre, Waterside Drive, Wigan",
+      "phone": "01942 242 047",
+      "postcode": "WN3 5BA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://lisanandy.laboursites.org"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4082
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4082,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Lisa Nandy",
+    "display": "Lisa Nandy",
+    "full_title": "Rt Hon Lisa Nandy MP",
+    "list_as": "Nandy, Lisa"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Secretary of State for Digital, Culture, Media and Sport",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Secretary of State for Culture, Media and Sport",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "Secretary of State for Digital, Culture, Media and Sport"
+    ],
+    "opposition": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (International Development)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Levelling Up, Housing, Communities & Local Government",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Foreign Secretary",
+        "start_date": "2020-09-02"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2020-09-02",
+        "is_current": false,
+        "name": "Shadow Foreign Secretary",
+        "start_date": "2020-04-05"
+      },
+      {
+        "department": "Department of Energy and Climate Change",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-energy-climate-change",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Energy and Climate Change",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2013-03-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wigan",
+        "constituency_id": 4400,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wigan",
+        "constituency_id": 3852,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Lisa Nandy is the Labour MP for <a href='/constituency/4400/overview'>Wigan</a>, and has been an MP continually since 6 May 2010. \r\nShe currently holds the Government post of Secretary of State for Digital, Culture, Media and Sport.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4082/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 103,
+        "voting_participation_pct": 54.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 187,
+        "voting_participation_pct": 77.27
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 111,
+        "voting_participation_pct": 44.22
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 115,
+        "voting_participation_pct": 44.92
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 88,
+        "voting_participation_pct": 44.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 80,
+        "voting_participation_pct": 24.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 88,
+        "voting_participation_pct": 37.29
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 573,
+        "voting_participation_pct": 53.65
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 201,
+        "voting_participation_pct": 31.85
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 774,
+    "voting_participation_pct": 45.56
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

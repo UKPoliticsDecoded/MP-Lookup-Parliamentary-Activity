@@ -1,0 +1,492 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 130,
+        "debates_participated": 55,
+        "oral_questions": 21,
+        "written_questions": 173
+      },
+      "2021": {
+        "debate_contributions": 44,
+        "debates_participated": 23,
+        "oral_questions": 12,
+        "written_questions": 198
+      },
+      "2022": {
+        "debate_contributions": 25,
+        "debates_participated": 12,
+        "oral_questions": 1,
+        "written_questions": 89
+      },
+      "2024": {
+        "debate_contributions": 36,
+        "debates_participated": 15,
+        "oral_questions": 1,
+        "written_questions": 86
+      },
+      "2025": {
+        "debate_contributions": 65,
+        "debates_participated": 28,
+        "oral_questions": 4,
+        "written_questions": 230
+      },
+      "2026": {
+        "debate_contributions": 109,
+        "debates_participated": 44,
+        "oral_questions": 2,
+        "written_questions": 857
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 409,
+    "debates_participated": 177,
+    "early_day_motions": 0,
+    "oral_questions": 41,
+    "petitions_presented": 0,
+    "written_questions": 1633
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 409,
+    "voting_participation_pct": 74.99,
+    "written_questions": 1633
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cheltenham Borough Council (Markets) Bill",
+      "committee_id": 825,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 79,
+      "meetings_available": 79
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 564,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+      "committee_id": 529,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill (2021)",
+      "committee_id": 509,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cheltenham Borough Council (Markets) Bill",
+        "committee_id": 825,
+        "file": "committees/cheltenham-borough-council-markets-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-02-12"
+          }
+        ],
+        "slug": "cheltenham-borough-council-markets-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-16"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-06"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 564,
+        "file": "committees/finance-no-2-bill-564.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "finance-no-2-bill-564"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+        "committee_id": 529,
+        "file": "committees/northern-ireland-ministers-elections-and-petitions-of-concern-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-23"
+          }
+        ],
+        "slug": "northern-ireland-ministers-elections-and-petitions-of-concern-bill"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill (2021)",
+        "committee_id": 509,
+        "file": "committees/select-committee-on-the-armed-forces-bill-2021.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2021-04-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-25"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill-2021"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/south-shropshire.json",
+    "id": 4308,
+    "name": "South Shropshire",
+    "ons_code": "E14001493",
+    "slug": "south-shropshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "stuart.anderson.mp@parliament.uk",
+      "phone": "01746 555025",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.stuartanderson.org.uk "
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/StuartAndersonMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/StuartAndersonMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/_AndersonStuart"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4742
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4742,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Stuart Anderson",
+    "full_title": "Stuart Anderson MP",
+    "list_as": "Anderson, Stuart"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2023-11-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-11-14",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2023-02-16"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-02-16",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-07-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Opposition Deputy Chief Whip (Commons)",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Shropshire",
+        "constituency_id": 4308,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wolverhampton South West",
+        "constituency_id": 3864,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Stuart Anderson is the Conservative MP for <a href='/constituency/4308/overview'>South Shropshire</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Defence).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4742/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 186,
+        "voting_participation_pct": 97.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 194,
+        "voting_participation_pct": 80.17
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 175,
+        "voting_participation_pct": 69.72
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 238,
+        "voting_participation_pct": 92.97
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 148,
+        "voting_participation_pct": 74.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 200,
+        "voting_participation_pct": 62.11
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 131,
+        "voting_participation_pct": 55.51
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 902,
+        "voting_participation_pct": 84.46
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 372,
+        "voting_participation_pct": 58.95
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1274,
+    "voting_participation_pct": 74.99
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 6
+      },
+      "2020": {
+        "debate_contributions": 184,
+        "debates_participated": 70,
+        "early_day_motions": 3,
+        "oral_questions": 6,
+        "written_questions": 74
+      },
+      "2021": {
+        "debate_contributions": 95,
+        "debates_participated": 66,
+        "early_day_motions": 2,
+        "oral_questions": 11,
+        "written_questions": 50
+      },
+      "2022": {
+        "debate_contributions": 247,
+        "debates_participated": 103,
+        "early_day_motions": 1,
+        "oral_questions": 18,
+        "written_questions": 97
+      },
+      "2023": {
+        "debate_contributions": 114,
+        "debates_participated": 80,
+        "early_day_motions": 3,
+        "oral_questions": 17,
+        "written_questions": 66
+      },
+      "2024": {
+        "debate_contributions": 69,
+        "debates_participated": 49,
+        "early_day_motions": 3,
+        "oral_questions": 6,
+        "written_questions": 60
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 709,
+    "debates_participated": 368,
+    "early_day_motions": 12,
+    "oral_questions": 58,
+    "petitions_presented": 0,
+    "written_questions": 353
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 709,
+    "voting_participation_pct": 66.2,
+    "written_questions": 353
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Committee",
+      "committee_id": 107,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Client Board",
+      "committee_id": 616,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 102,
+      "meetings_available": 102
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-08"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Members Estimate Committee",
+        "committee_id": 107,
+        "file": "committees/members-estimate.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-08"
+          }
+        ],
+        "slug": "members-estimate"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-17"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2016-09-05"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-09-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-04"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1041,
+    "name": "Edinburgh North and Leith"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4417
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4417,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Deidre Brock",
+    "display": "Deidre Brock",
+    "full_title": "Deidre Brock",
+    "list_as": "Brock, Deidre"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (House of Commons Business)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Leader of the House of Commons",
+        "start_date": "2022-09-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (COP26)",
+        "start_date": "2021-01-08"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-09-08",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Environment and Rural Affairs)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Fair Work and Employment)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Northern Ireland)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Devolved Government Relations)",
+        "start_date": "2015-05-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Scottish Parliament/Scottish Government Liaison)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4468,
+        "name": "Edinburgh North and Leith",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edinburgh North and Leith",
+        "constituency_id": 1041,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Deidre Brock is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1041/overview'>Edinburgh North and Leith</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4417/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 128,
+        "voting_participation_pct": 67.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 159,
+        "voting_participation_pct": 65.7
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 156,
+        "voting_participation_pct": 62.15
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 168,
+        "voting_participation_pct": 65.62
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 94,
+        "voting_participation_pct": 74.02
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 707,
+        "voting_participation_pct": 66.2
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 707,
+    "voting_participation_pct": 66.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

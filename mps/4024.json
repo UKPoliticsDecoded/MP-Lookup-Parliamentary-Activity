@@ -1,0 +1,261 @@
+{
+  "activity": {
+    "annual": {
+      "2022": {
+        "debate_contributions": 136,
+        "debates_participated": 13
+      },
+      "2023": {
+        "debate_contributions": 5,
+        "debates_participated": 3
+      },
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 144,
+    "debates_participated": 18,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 144,
+    "voting_participation_pct": 91.57,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-07"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-12"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3667,
+    "name": "Nuneaton"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4024
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4024,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Mr Jones",
+    "display": "Mr Marcus Jones",
+    "full_title": "Rt Hon Marcus Jones",
+    "list_as": "Jones, Mr Marcus"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Treasurer of HM Household (Deputy Chief Whip, House of Commons)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Minister of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2022-07-07",
+        "is_current": false,
+        "name": "Comptroller (HM Household) (Whip, House of Commons)",
+        "start_date": "2021-09-17"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2021-09-17",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2019-07-29"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-08",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Communities and Local Government) (Local Government)",
+        "start_date": "2015-05-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2019-11-06",
+        "is_current": false,
+        "name": "Vice-Chair, Conservative Party",
+        "start_date": "2018-01-08"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4228,
+        "name": "Nuneaton",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Nuneaton",
+        "constituency_id": 3667,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Mr Marcus Jones is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3667/overview'>Nuneaton</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4024/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 184,
+        "voting_participation_pct": 96.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 220,
+        "voting_participation_pct": 87.65
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 243,
+        "voting_participation_pct": 94.92
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 115,
+        "voting_participation_pct": 90.55
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 978,
+        "voting_participation_pct": 91.57
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 978,
+    "voting_participation_pct": 91.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

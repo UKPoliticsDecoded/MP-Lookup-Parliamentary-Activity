@@ -1,0 +1,311 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1,
+        "early_day_motions": 1,
+        "written_questions": 2
+      },
+      "2020": {
+        "debate_contributions": 109,
+        "debates_participated": 86,
+        "early_day_motions": 18,
+        "oral_questions": 15,
+        "written_questions": 275
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 136,
+        "debates_participated": 95,
+        "early_day_motions": 18,
+        "oral_questions": 20,
+        "written_questions": 268
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 116,
+        "debates_participated": 63,
+        "early_day_motions": 3,
+        "oral_questions": 8,
+        "written_questions": 66
+      },
+      "2023": {
+        "debate_contributions": 224,
+        "debates_participated": 49
+      },
+      "2024": {
+        "debate_contributions": 38,
+        "debates_participated": 15,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 624,
+    "debates_participated": 309,
+    "early_day_motions": 40,
+    "oral_questions": 43,
+    "petitions_presented": 0,
+    "written_questions": 614
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 624,
+    "voting_participation_pct": 79.21,
+    "written_questions": 614
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Education Committee",
+      "committee_id": 203,
+      "is_current": false,
+      "meetings_attended": 87,
+      "meetings_available": 87
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+      "committee_id": 662,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Education Committee",
+        "committee_id": 203,
+        "file": "committees/education.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-07-12"
+          },
+          {
+            "end": "2022-10-27",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2022-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "education"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2022-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+        "committee_id": 662,
+        "file": "committees/lifelong-learning-higher-education-fee-limits-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-15"
+          }
+        ],
+        "slug": "lifelong-learning-higher-education-fee-limits-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3515,
+    "name": "Harlow"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3985
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3985,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Robert Halfon",
+    "full_title": "Rt Hon Robert Halfon",
+    "list_as": "Halfon, Robert"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2024-03-26",
+        "is_current": false,
+        "name": "Minister of State (Education)",
+        "start_date": "2022-10-26"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2017-06-12",
+        "is_current": false,
+        "name": "Minister of State (Department of Education) (Apprenticeships and Skills)",
+        "start_date": "2016-07-17"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2016-07-17",
+        "is_current": false,
+        "name": "Minister without Portfolio (Cabinet Office)",
+        "start_date": "2015-05-08"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1377,
+        "name": "Harlow",
+        "startDate": "2005-05-05T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3515,
+        "name": "Harlow",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Harlow",
+        "constituency_id": 3515,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Robert Halfon is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3515/overview'>Harlow</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3985/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 175,
+        "voting_participation_pct": 92.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 217,
+        "voting_participation_pct": 89.67
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 161,
+        "voting_participation_pct": 64.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 198,
+        "voting_participation_pct": 77.34
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 846,
+        "voting_participation_pct": 79.21
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 846,
+    "voting_participation_pct": 79.21
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

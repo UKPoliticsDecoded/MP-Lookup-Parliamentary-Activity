@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 3966.6,
+    "bng": {
+      "easting": 412634,
+      "northing": 278232
+    },
+    "centroid": {
+      "latitude": 52.40197,
+      "longitude": -1.81572
+    },
+    "geojson": "constituencies/boundaries/solihull-west-and-shirley.geojson",
+    "ons_code": "E14001479",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5197.json",
+    "member_id": 5197,
+    "name": "Dr Neil Shastri-Hurst",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71816,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4620,
+      "result": "Con Hold",
+      "turnout": 46877,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4294,
+  "is_current": true,
+  "name": "Solihull West and Shirley",
+  "name_cy": null,
+  "ons_code": "E14001479",
+  "outcodes": [
+    "B14",
+    "B26",
+    "B27",
+    "B28",
+    "B90",
+    "B91",
+    "B92",
+    "B94"
+  ],
+  "schema_version": 1,
+  "slug": "solihull-west-and-shirley",
+  "start_date": "2024-05-31"
+}

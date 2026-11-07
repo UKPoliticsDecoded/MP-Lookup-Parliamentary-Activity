@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 21680.5,
+    "bng": {
+      "easting": 277554,
+      "northing": 201321
+    },
+    "centroid": {
+      "latitude": 51.69724,
+      "longitude": -3.77311
+    },
+    "geojson": "constituencies/boundaries/neath-and-swansea-east.geojson",
+    "ons_code": "W07000103",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4480.json",
+    "member_id": 4480,
+    "name": "Carolyn Harris",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76291,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6627,
+      "result": "Lab Hold",
+      "turnout": 40137,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4518,
+  "is_current": true,
+  "name": "Neath and Swansea East",
+  "name_cy": "Castell-nedd a Dwyrain Abertawe",
+  "ons_code": "W07000103",
+  "outcodes": [
+    "SA1",
+    "SA10",
+    "SA11",
+    "SA3",
+    "SA5",
+    "SA6",
+    "SA7",
+    "SA8",
+    "SA80"
+  ],
+  "schema_version": 1,
+  "slug": "neath-and-swansea-east",
+  "start_date": "2024-05-31"
+}

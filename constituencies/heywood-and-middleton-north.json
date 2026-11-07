@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 7189.2,
+    "bng": {
+      "easting": 385746,
+      "northing": 412738
+    },
+    "centroid": {
+      "latitude": 53.61101,
+      "longitude": -2.21691
+    },
+    "geojson": "constituencies/boundaries/heywood-and-middleton-north.geojson",
+    "ons_code": "E14001286",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5084.json",
+    "member_id": 5084,
+    "name": "Mrs Elsie Blundell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73328,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6082,
+      "result": "Lab Hold",
+      "turnout": 37130,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4101,
+  "is_current": true,
+  "name": "Heywood and Middleton North",
+  "name_cy": null,
+  "ons_code": "E14001286",
+  "outcodes": [
+    "BL9",
+    "M24",
+    "OL10",
+    "OL11",
+    "OL12",
+    "OL16"
+  ],
+  "schema_version": 1,
+  "slug": "heywood-and-middleton-north",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,339 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 35,
+        "debates_participated": 22,
+        "early_day_motions": 10,
+        "oral_questions": 14,
+        "written_questions": 25
+      },
+      "2021": {
+        "debate_contributions": 46,
+        "debates_participated": 27,
+        "early_day_motions": 5,
+        "oral_questions": 7,
+        "written_questions": 13
+      },
+      "2022": {
+        "debate_contributions": 55,
+        "debates_participated": 36,
+        "early_day_motions": 4,
+        "oral_questions": 15,
+        "written_questions": 13
+      },
+      "2023": {
+        "debate_contributions": 16,
+        "debates_participated": 12,
+        "early_day_motions": 6,
+        "written_questions": 6
+      },
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 22,
+        "early_day_motions": 3,
+        "oral_questions": 1,
+        "petitions_presented": 1,
+        "written_questions": 6
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 178,
+    "debates_participated": 119,
+    "early_day_motions": 28,
+    "oral_questions": 37,
+    "petitions_presented": 1,
+    "written_questions": 63
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 178,
+    "voting_participation_pct": 58.9,
+    "written_questions": 63
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Carer’s Leave Bill",
+      "committee_id": 623,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Scrutiny Committee",
+      "committee_id": 69,
+      "is_current": false,
+      "meetings_attended": 111,
+      "meetings_available": 111
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Carer’s Leave Bill",
+        "committee_id": 623,
+        "file": "committees/carers-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "carers-leave-bill"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-20"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-20"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "European Scrutiny Committee",
+        "committee_id": 69,
+        "file": "committees/european-scrutiny.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "european-scrutiny"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 99,
+    "name": "Ayr, Carrick and Cumnock"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4740
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4740,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Allan Dorans",
+    "full_title": "Allan Dorans",
+    "list_as": "Dorans, Allan"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Policing)",
+        "start_date": "2021-02-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-10",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Foreign Affairs Team Member)",
+        "start_date": "2020-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4439,
+        "name": "Ayr, Carrick and Cumnock",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ayr, Carrick and Cumnock",
+        "constituency_id": 99,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Allan Dorans is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/99/overview'>Ayr, Carrick and Cumnock</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4740/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 124,
+        "voting_participation_pct": 65.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 121,
+        "voting_participation_pct": 50.0
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 103,
+        "voting_participation_pct": 41.04
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 181,
+        "voting_participation_pct": 70.7
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 98,
+        "voting_participation_pct": 77.17
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 629,
+        "voting_participation_pct": 58.9
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 629,
+    "voting_participation_pct": 58.9
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

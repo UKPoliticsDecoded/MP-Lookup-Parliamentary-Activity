@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 1900.9,
+    "bng": {
+      "easting": 543564,
+      "northing": 182068
+    },
+    "centroid": {
+      "latitude": 51.51929,
+      "longitude": 0.067814
+    },
+    "geojson": "constituencies/boundaries/west-ham-and-beckton.geojson",
+    "ons_code": "E14001576",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5211.json",
+    "member_id": 5211,
+    "name": "James Asser",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78964,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9254,
+      "result": "Lab Hold",
+      "turnout": 36348,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4391,
+  "is_current": true,
+  "name": "West Ham and Beckton",
+  "name_cy": null,
+  "ons_code": "E14001576",
+  "outcodes": [
+    "E13",
+    "E15",
+    "E16",
+    "E3",
+    "E6",
+    "IG11",
+    "N81"
+  ],
+  "schema_version": 1,
+  "slug": "west-ham-and-beckton",
+  "start_date": "2024-05-31"
+}

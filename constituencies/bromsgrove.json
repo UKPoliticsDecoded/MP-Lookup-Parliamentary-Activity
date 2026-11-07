@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 21744.2,
+    "bng": {
+      "easting": 399840,
+      "northing": 273736
+    },
+    "centroid": {
+      "latitude": 52.36169,
+      "longitude": -2.00376
+    },
+    "geojson": "constituencies/boundaries/bromsgrove.geojson",
+    "ons_code": "E14001138",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5186.json",
+    "member_id": 5186,
+    "name": "Bradley Thomas",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76468,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3016,
+      "result": "Con Hold",
+      "turnout": 50405,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3373,
+      "end_date": "2024-05-30",
+      "member_id": 3945,
+      "name": "Sir Sajid Javid",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3953,
+  "is_current": true,
+  "name": "Bromsgrove",
+  "name_cy": null,
+  "ons_code": "E14001138",
+  "outcodes": [
+    "B14",
+    "B31",
+    "B32",
+    "B38",
+    "B45",
+    "B47",
+    "B48",
+    "B60",
+    "B61",
+    "B62",
+    "B90",
+    "B97",
+    "B98",
+    "DY10",
+    "DY8",
+    "DY9"
+  ],
+  "schema_version": 1,
+  "slug": "bromsgrove",
+  "start_date": "2024-05-31"
+}

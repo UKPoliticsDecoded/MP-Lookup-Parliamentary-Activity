@@ -1,0 +1,1032 @@
+{
+  "activity": {
+    "current_members": 7,
+    "formal_meetings_held": 202,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 202
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 40,
+      "name": "Sir Bernard Jenkin"
+    }
+  ],
+  "contact": {
+    "address": "Joint Committee on Statutory Instruments, House of Commons, London, SW1A 0AA",
+    "email": "jcsi@parliament.uk",
+    "phone": "General enquiries (Commons): 020 7219 0316 | General enquiries (Lords): 020 7219 3233"
+  },
+  "end_date": null,
+  "house": "Joint",
+  "id": 148,
+  "is_current": true,
+  "lead_house": {
+    "isCommons": true,
+    "isLords": false
+  },
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 66,
+        "meetings_available": 66
+      },
+      "file": "mps/40.json",
+      "member_id": 40,
+      "name": "Sir Bernard Jenkin",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        },
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-10-16"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 435,
+      "name": "The Rt Hon. the Lord Brady of Altrincham",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-01-30"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1934,
+      "name": "The Baroness Miller of Chilthorne Domer",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-05-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4186,
+      "name": "The Lord Monks",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-09-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 50,
+        "meetings_available": 50
+      },
+      "file": "mps/4595.json",
+      "member_id": 4595,
+      "name": "Gareth Snell",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-03-10"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4732,
+      "name": "The Lord Carter of Haslemere CB",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-05-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4899,
+      "name": "The Lord Stewart of Dirleton KC",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 66,
+        "meetings_available": 66
+      },
+      "file": "mps/5028.json",
+      "member_id": 5028,
+      "name": "Lewis Atkinson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 21,
+        "meetings_available": 21
+      },
+      "file": "mps/5182.json",
+      "member_id": 5182,
+      "name": "Charlotte Cane",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-01-26"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 41,
+        "meetings_available": 41
+      },
+      "file": "mps/5192.json",
+      "member_id": 5192,
+      "name": "Helena Dollimore",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-06-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 50,
+        "meetings_available": 50
+      },
+      "file": "mps/5243.json",
+      "member_id": 5243,
+      "name": "Andrew Pakes",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-03-10"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 51,
+        "meetings_available": 51
+      },
+      "file": "mps/5360.json",
+      "member_id": 5360,
+      "name": "David Pinto-Duschinsky",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-03-03"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 5398,
+      "name": "The Baroness Hunter of Auchenreoch",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-07-01"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 43,
+      "name": "The Rt Hon. the Lord Haselhurst",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-31"
+        },
+        {
+          "end": "2025-01-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 89,
+        "meetings_available": 89
+      },
+      "file": "mps/245.json",
+      "member_id": 245,
+      "name": "Sir Robert Syms",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-10-30"
+        },
+        {
+          "end": "2023-01-24",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 513,
+      "name": "The Rt Hon. the Lord Beith",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-01-19"
+        },
+        {
+          "end": "2025-01-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1463,
+      "name": "The Lord Watson of Wyre Forest",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-07-12"
+        },
+        {
+          "end": "2026-01-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 136,
+        "meetings_available": 136
+      },
+      "file": "mps/1548.json",
+      "member_id": 1548,
+      "name": "Jessica Morden",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2018-11-05"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2018-11-14"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2020-02-05"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1940,
+      "name": "The Lord Meston",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-31"
+        },
+        {
+          "end": "2026-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1946,
+      "name": "The Rt Rev. and the Rt Hon. Lord Chartres GCVO",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-01-19"
+        },
+        {
+          "end": "2025-01-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2503,
+      "name": "The Baroness Gale",
+      "party": null,
+      "roles": [
+        {
+          "end": "2007-10-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2003-12-08"
+        },
+        {
+          "end": "2023-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-09-17"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2542,
+      "name": "The Baroness Scott of Needham Market",
+      "party": null,
+      "roles": [
+        {
+          "end": "2017-04-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-05-25"
+        },
+        {
+          "end": "2022-01-19",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-07-19"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2665,
+      "name": "The Lord Haskel",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3434,
+      "name": "The Lord Armstrong of Ilminster GCB CVO",
+      "party": null,
+      "roles": [
+        {
+          "end": "2020-01-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3702,
+      "name": "The Lord Young of Norwood Green",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-06-24",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-01-27"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3709,
+      "name": "The Rt Hon. the Baroness D'Souza CMG",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-01-28"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3766,
+      "name": "The Rt Hon. the Lord Kakkar KG KBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2025-05-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-01-30"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3796,
+      "name": "The Lord Morris of Handsworth OJ",
+      "party": null,
+      "roles": [
+        {
+          "end": "2017-04-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-06-29"
+        },
+        {
+          "end": "2020-07-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-07-19"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3806,
+      "name": "The Lord Rowe-Beddoe",
+      "party": null,
+      "roles": [
+        {
+          "end": "2017-04-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-05-25"
+        },
+        {
+          "end": "2022-01-19",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-07-19"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 47,
+        "meetings_available": 47
+      },
+      "file": "mps/3970.json",
+      "member_id": 3970,
+      "name": "Gareth Johnson",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-24"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4177,
+      "name": "The Baroness Newlove",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-10-03"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4233,
+      "name": "The Lord Stirrup KG GCB AFC",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-01-28",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-30"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4303,
+      "name": "The Baroness Kennedy of Cradley",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-09-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 47,
+        "meetings_available": 47
+      },
+      "file": "mps/4447.json",
+      "member_id": 4447,
+      "name": "Maggie Throup",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-24"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 48,
+        "meetings_available": 48
+      },
+      "file": "mps/4466.json",
+      "member_id": 4466,
+      "name": "Peter Grant",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 89,
+        "meetings_available": 89
+      },
+      "file": "mps/4476.json",
+      "member_id": 4476,
+      "name": "Dr James Davies",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2023-01-24",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 41,
+        "meetings_available": 41
+      },
+      "file": "mps/4482.json",
+      "member_id": 4482,
+      "name": "Owen Thompson",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2021-05-25",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4542,
+      "name": "The Lord Smith of Hindhead CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-01-28"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4596,
+      "name": "The Lord Colgrain DL",
+      "party": null,
+      "roles": [
+        {
+          "end": "2021-01-28",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2019-07-01"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 89,
+        "meetings_available": 89
+      },
+      "file": "mps/4608.json",
+      "member_id": 4608,
+      "name": "John Lamont",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-10-30"
+        },
+        {
+          "end": "2023-01-24",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 136,
+        "meetings_available": 136
+      },
+      "file": "mps/4618.json",
+      "member_id": 4618,
+      "name": "Liz Twist",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 1,
+        "meetings_available": 1
+      },
+      "file": "mps/4635.json",
+      "member_id": 4635,
+      "name": "Eddie Hughes",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2020-03-02",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 47,
+        "meetings_available": 47
+      },
+      "file": "mps/4669.json",
+      "member_id": 4669,
+      "name": "Damien Moore",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-24"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4700,
+      "name": "The Baroness Sater",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-03-08"
+        },
+        {
+          "end": "2026-01-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 47,
+        "meetings_available": 47
+      },
+      "file": "mps/4796.json",
+      "member_id": 4796,
+      "name": "Richard Thomson",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2023-01-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-05-25"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 135,
+        "meetings_available": 135
+      },
+      "file": "mps/4803.json",
+      "member_id": 4803,
+      "name": "Paul Holmes",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4959,
+      "name": "The Lord Leong CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-07-12",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-31"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4963,
+      "name": "The Lord Sahota",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-31"
+        },
+        {
+          "end": "2026-01-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 15,
+        "meetings_available": 15
+      },
+      "file": "mps/5031.json",
+      "member_id": 5031,
+      "name": "Mark Ferguson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-03-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 16,
+        "meetings_available": 16
+      },
+      "file": "mps/5094.json",
+      "member_id": 5094,
+      "name": "Ms Julie Minns",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-03-10",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 15,
+        "meetings_available": 15
+      },
+      "file": "mps/5113.json",
+      "member_id": 5113,
+      "name": "Claire Hughes",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-03-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 16,
+        "meetings_available": 16
+      },
+      "file": "mps/5189.json",
+      "member_id": 5189,
+      "name": "Gordon McKee",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-03-10",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 10,
+        "meetings_available": 10
+      },
+      "file": "mps/5257.json",
+      "member_id": 5257,
+      "name": "Rachel Blake",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2025-06-02",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-03-03"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 45,
+        "meetings_available": 45
+      },
+      "file": "mps/5325.json",
+      "member_id": 5325,
+      "name": "Charlie Maynard",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": "2026-01-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-14"
+        }
+      ]
+    }
+  ],
+  "name": "Statutory Instruments (Joint Committee)",
+  "parent_committee_id": null,
+  "purpose": "<p>The Joint Committee on Statutory Instruments is appointed to consider statutory instruments made in exercise of powers granted by Act of Parliament.</p>\r\n<p><a href=\"https://committees.parliament.uk/committee/148/statutory-instruments-joint-committee/content/119576/consideration-of-sis/\">Consideration of SIs</a></p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "statutory-instruments-joint-committee",
+  "start_date": "1978-11-01",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Public Standing Orders - Legislative and sifting",
+    "(HL) Legislation Office"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 69,
+        "debates_participated": 51,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 255,
+        "debates_participated": 180,
+        "oral_questions": 14,
+        "petitions_presented": 1,
+        "written_questions": 10
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 133,
+        "debates_participated": 92,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 38
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 457,
+    "debates_participated": 323,
+    "early_day_motions": 4,
+    "oral_questions": 24,
+    "petitions_presented": 1,
+    "written_questions": 62
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 457,
+    "voting_participation_pct": 86.53,
+    "written_questions": 62
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      },
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rugby.json",
+    "id": 4268,
+    "name": "Rugby",
+    "ons_code": "E14001453",
+    "slug": "rugby"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "john.slinger.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://john-slinger.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://m.facebook.com/johnslingermp/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/johnslinger.mp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/johnslinger"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5127
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5127,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "John Slinger",
+    "full_title": "John Slinger MP",
+    "list_as": "Slinger, John"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rugby",
+        "constituency_id": 4268,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "John Slinger is the Labour MP for <a href='/constituency/4268/overview'>Rugby</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5127/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 62,
+        "voting_participation_pct": 84.93
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 281,
+        "voting_participation_pct": 87.27
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 203,
+        "voting_participation_pct": 86.02
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 546,
+        "voting_participation_pct": 86.53
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 546,
+    "voting_participation_pct": 86.53
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

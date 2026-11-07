@@ -1,0 +1,212 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 23,
+        "oral_questions": 13,
+        "written_questions": 102
+      },
+      "2025": {
+        "debate_contributions": 46,
+        "debates_participated": 38,
+        "oral_questions": 7,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 46,
+        "debates_participated": 33,
+        "oral_questions": 5,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 122,
+    "debates_participated": 94,
+    "early_day_motions": 0,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 118
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 122,
+    "voting_participation_pct": 75.28,
+    "written_questions": 118
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "defence"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/aldershot.json",
+    "id": 3878,
+    "name": "Aldershot",
+    "ons_code": "E14001063",
+    "slug": "aldershot"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alex.baker.mp@parliament.uk",
+      "phone": "0207 219 4085",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.alexbakermp.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/p/Alex-Baker-for-Aldershot-Farnborough-61554920172107/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/ms_alex_baker"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/ms_alex_baker"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5173
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5173,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alex Baker",
+    "full_title": "Alex Baker MP",
+    "list_as": "Baker, Alex"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Aldershot",
+        "constituency_id": 3878,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alex Baker is the Labour MP for <a href='/constituency/3878/overview'>Aldershot</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5173/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 69,
+        "voting_participation_pct": 94.52
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 180,
+        "voting_participation_pct": 76.27
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 475,
+        "voting_participation_pct": 75.28
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 475,
+    "voting_participation_pct": 75.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

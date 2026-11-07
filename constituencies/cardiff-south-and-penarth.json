@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 5452.6,
+    "bng": {
+      "easting": 317325,
+      "northing": 171684
+    },
+    "centroid": {
+      "latitude": 51.43809,
+      "longitude": -3.19083
+    },
+    "geojson": "constituencies/boundaries/cardiff-south-and-penarth.geojson",
+    "ons_code": "W07000091",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4264.json",
+    "member_id": 4264,
+    "name": "Stephen Doughty",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73060,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11767,
+      "result": "Lab Hold",
+      "turnout": 39176,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3391,
+      "end_date": "2024-05-30",
+      "member_id": 4264,
+      "name": "Stephen Doughty",
+      "start_date": "2012-11-15"
+    }
+  ],
+  "id": 4506,
+  "is_current": true,
+  "name": "Cardiff South and Penarth",
+  "name_cy": "De Caerdydd a Phenarth",
+  "ons_code": "W07000091",
+  "outcodes": [
+    "CF10",
+    "CF11",
+    "CF14",
+    "CF24",
+    "CF5",
+    "CF63",
+    "CF64",
+    "CF91",
+    "CF95",
+    "CF99"
+  ],
+  "schema_version": 1,
+  "slug": "cardiff-south-and-penarth",
+  "start_date": "2024-05-31"
+}

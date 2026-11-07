@@ -1,0 +1,354 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 15,
+        "debates_participated": 7,
+        "oral_questions": 1,
+        "written_questions": 20
+      },
+      "2025": {
+        "debate_contributions": 43,
+        "debates_participated": 25,
+        "written_questions": 79
+      },
+      "2026": {
+        "debate_contributions": 41,
+        "debates_participated": 26,
+        "oral_questions": 3,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 99,
+    "debates_participated": 58,
+    "early_day_motions": 0,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 109
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 99,
+    "voting_participation_pct": 53.88,
+    "written_questions": 109
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts and Tribunals Bill",
+      "committee_id": 837,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crime and Policing Bill",
+      "committee_id": 786,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill",
+      "committee_id": 742,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+      "committee_id": 743,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-17"
+          }
+        ],
+        "slug": "justice"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Courts and Tribunals Bill",
+        "committee_id": 837,
+        "file": "committees/courts-and-tribunals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-18"
+          }
+        ],
+        "slug": "courts-and-tribunals-bill"
+      },
+      {
+        "committee": "Crime and Policing Bill",
+        "committee_id": 786,
+        "file": "committees/crime-and-policing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-20"
+          }
+        ],
+        "slug": "crime-and-policing-bill"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-18"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill",
+        "committee_id": 742,
+        "file": "committees/terrorism-protection-of-premises-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+        "committee_id": 743,
+        "file": "committees/terrorism-protection-of-premises-bill-programming-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill-programming-sub-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/forest-of-dean.json",
+    "id": 4055,
+    "name": "Forest of Dean",
+    "ons_code": "E14001240",
+    "slug": "forest-of-dean"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "matt.bishop.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.matt-bishop.org/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/mattbishopmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/people/Matt-Bishop-MP/100087163714748/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/mattbishopmp/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5323
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5323,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Matt Bishop",
+    "full_title": "Matt Bishop MP",
+    "list_as": "Bishop, Matt"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Forest of Dean",
+        "constituency_id": 4055,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Matt Bishop is the Labour MP for <a href='/constituency/4055/overview'>Forest of Dean</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5323/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 63,
+        "voting_participation_pct": 86.3
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 180,
+        "voting_participation_pct": 55.9
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 97,
+        "voting_participation_pct": 41.1
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 340,
+        "voting_participation_pct": 53.88
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 340,
+    "voting_participation_pct": 53.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

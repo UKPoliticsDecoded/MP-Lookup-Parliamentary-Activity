@@ -1,0 +1,229 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 64,
+        "debates_participated": 36,
+        "early_day_motions": 5,
+        "oral_questions": 4,
+        "written_questions": 44
+      },
+      "2025": {
+        "debate_contributions": 180,
+        "debates_participated": 134,
+        "early_day_motions": 47,
+        "oral_questions": 8,
+        "written_questions": 802
+      },
+      "2026": {
+        "debate_contributions": 136,
+        "debates_participated": 94,
+        "early_day_motions": 23,
+        "oral_questions": 6,
+        "written_questions": 441
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 380,
+    "debates_participated": 264,
+    "early_day_motions": 75,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 1287
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 380,
+    "voting_participation_pct": 62.6,
+    "written_questions": 1287
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": true,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-07"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/epsom-and-ewell.json",
+    "id": 4042,
+    "name": "Epsom and Ewell",
+    "ons_code": "E14001227",
+    "slug": "epsom-and-ewell"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "helen.maguire.mp@parliament.uk",
+      "phone": "01372 232145",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.helenmaguire.org"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/helenmaguireepsomewell"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/helenemaguire"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5336
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5336,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Helen Maguire",
+    "full_title": "Helen Maguire MP",
+    "list_as": "Maguire, Helen"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Primary Care and Cancer)",
+        "start_date": "2025-10-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2025-10-01",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Defence)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Epsom and Ewell",
+        "constituency_id": 4042,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Helen Maguire is the Liberal Democrat MP for <a href='/constituency/4042/overview'>Epsom and Ewell</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Primary Care and Cancer).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5336/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 43,
+        "voting_participation_pct": 58.9
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 188,
+        "voting_participation_pct": 58.39
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 164,
+        "voting_participation_pct": 69.49
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 395,
+        "voting_participation_pct": 62.6
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 395,
+    "voting_participation_pct": 62.6
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

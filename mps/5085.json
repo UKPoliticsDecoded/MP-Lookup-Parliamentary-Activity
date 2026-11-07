@@ -1,0 +1,199 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 28,
+        "debates_participated": 23,
+        "early_day_motions": 4,
+        "oral_questions": 2,
+        "written_questions": 24
+      },
+      "2025": {
+        "debate_contributions": 85,
+        "debates_participated": 61,
+        "early_day_motions": 8,
+        "petitions_presented": 1,
+        "written_questions": 116
+      },
+      "2026": {
+        "debate_contributions": 17,
+        "debates_participated": 12,
+        "early_day_motions": 6,
+        "oral_questions": 2,
+        "written_questions": 61
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 130,
+    "debates_participated": 96,
+    "early_day_motions": 18,
+    "oral_questions": 4,
+    "petitions_presented": 1,
+    "written_questions": 201
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 130,
+    "voting_participation_pct": 56.1,
+    "written_questions": 201
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": true,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ynys-mon.json",
+    "id": 4527,
+    "name": "Ynys Môn",
+    "ons_code": "W07000112",
+    "slug": "ynys-mon"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "llinos.medi.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5085
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5085,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Llinos Medi",
+    "full_title": "Llinos Medi MP",
+    "list_as": "Medi, Llinos"
+  },
+  "party": {
+    "abbreviation": "PC",
+    "id": 22,
+    "name": "Plaid Cymru"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Plaid Cymru",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ynys Môn",
+        "constituency_id": 4527,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Llinos Medi is the Plaid Cymru MP for <a href='/constituency/4527/overview'>Ynys Môn</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5085/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 48,
+        "voting_participation_pct": 65.75
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 172,
+        "voting_participation_pct": 53.42
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 134,
+        "voting_participation_pct": 56.78
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 354,
+        "voting_participation_pct": 56.1
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 354,
+    "voting_participation_pct": 56.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

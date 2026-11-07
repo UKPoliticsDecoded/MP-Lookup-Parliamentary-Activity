@@ -1,0 +1,291 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 5,
+        "debate_contributions": 517,
+        "debates_participated": 40
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 447,
+        "debates_participated": 37
+      },
+      "2022": {
+        "bills_sponsored": 3,
+        "debate_contributions": 501,
+        "debates_participated": 43,
+        "oral_questions": 1,
+        "written_questions": 33
+      },
+      "2023": {
+        "debate_contributions": 140,
+        "debates_participated": 72,
+        "oral_questions": 20,
+        "written_questions": 128
+      },
+      "2024": {
+        "debate_contributions": 90,
+        "debates_participated": 62,
+        "oral_questions": 4,
+        "written_questions": 135
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 149,
+        "debates_participated": 68,
+        "written_questions": 408
+      },
+      "2026": {
+        "debate_contributions": 66,
+        "debates_participated": 35,
+        "written_questions": 127
+      }
+    },
+    "bills_sponsored": 10,
+    "debate_contributions": 1910,
+    "debates_participated": 357,
+    "early_day_motions": 0,
+    "oral_questions": 25,
+    "petitions_presented": 0,
+    "written_questions": 831
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1910,
+    "voting_participation_pct": 53.68,
+    "written_questions": 831
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/witham.json",
+    "id": 4405,
+    "name": "Witham",
+    "ons_code": "E14001590",
+    "slug": "witham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "withammp@parliament.uk",
+      "phone": "020 7219 3528",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.priti4witham.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/pritipatel"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4066
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4066,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Priti Patel",
+    "display": "Priti Patel",
+    "full_title": "Rt Hon Priti Patel MP",
+    "list_as": "Patel, Priti"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Home Secretary",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2017-11-08",
+        "is_current": false,
+        "name": "Secretary of State for International Development",
+        "start_date": "2016-07-14"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2016-07-14",
+        "is_current": false,
+        "name": "Minister of State (Department for Work and Pensions) (Cabinet)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Exchequer Secretary (HM Treasury)",
+        "start_date": "2014-07-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Foreign, Commonwealth and Development Affairs",
+        "start_date": "2024-11-04"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2219,
+        "name": "Nottingham North",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Witham",
+        "constituency_id": 4405,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Witham",
+        "constituency_id": 3858,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Priti Patel is the Conservative MP for <a href='/constituency/4405/overview'>Witham</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4066/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 114,
+        "voting_participation_pct": 60.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 175,
+        "voting_participation_pct": 72.31
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 71,
+        "voting_participation_pct": 28.29
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 85,
+        "voting_participation_pct": 33.2
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 130,
+        "voting_participation_pct": 65.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 171,
+        "voting_participation_pct": 53.11
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 164,
+        "voting_participation_pct": 69.49
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 536,
+        "voting_participation_pct": 50.19
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 376,
+        "voting_participation_pct": 59.59
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 912,
+    "voting_participation_pct": 53.68
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

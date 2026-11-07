@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 198465.7,
+    "bng": {
+      "easting": 468054,
+      "northing": 478315
+    },
+    "centroid": {
+      "latitude": 54.1961,
+      "longitude": -0.9584
+    },
+    "geojson": "constituencies/boundaries/thirsk-and-malton.geojson",
+    "ons_code": "E14001544",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4474.json",
+    "member_id": 4474,
+    "name": "Kevin Hollinrake",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78468,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7550,
+      "result": "Con Hold",
+      "turnout": 49797,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3801,
+      "end_date": "2024-05-30",
+      "member_id": 4474,
+      "name": "Kevin Hollinrake",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4359,
+  "is_current": true,
+  "name": "Thirsk and Malton",
+  "name_cy": null,
+  "ons_code": "E14001544",
+  "outcodes": [
+    "DL6",
+    "DL7",
+    "DL8",
+    "HG4",
+    "TS9",
+    "YO13",
+    "YO17",
+    "YO18",
+    "YO19",
+    "YO25",
+    "YO32",
+    "YO41",
+    "YO60",
+    "YO61",
+    "YO62",
+    "YO7"
+  ],
+  "schema_version": 1,
+  "slug": "thirsk-and-malton",
+  "start_date": "2024-05-31"
+}

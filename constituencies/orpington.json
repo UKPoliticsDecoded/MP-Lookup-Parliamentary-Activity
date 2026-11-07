@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 6753.0,
+    "bng": {
+      "easting": 546312,
+      "northing": 165205
+    },
+    "centroid": {
+      "latitude": 51.36706,
+      "longitude": 0.100427
+    },
+    "geojson": "constituencies/boundaries/orpington.geojson",
+    "ons_code": "E14001417",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4798.json",
+    "member_id": 4798,
+    "name": "Gareth Bacon",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71284,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5118,
+      "result": "Con Hold",
+      "turnout": 46073,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3672,
+      "end_date": "2024-05-30",
+      "member_id": 4798,
+      "name": "Gareth Bacon",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4232,
+  "is_current": true,
+  "name": "Orpington",
+  "name_cy": null,
+  "ons_code": "E14001417",
+  "outcodes": [
+    "BR2",
+    "BR5",
+    "BR6",
+    "BR8",
+    "DA14",
+    "TN14",
+    "TN16"
+  ],
+  "schema_version": 1,
+  "slug": "orpington",
+  "start_date": "2024-05-31"
+}

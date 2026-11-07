@@ -1,0 +1,245 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 2,
+        "oral_questions": 1,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 47,
+        "debates_participated": 32,
+        "early_day_motions": 1,
+        "oral_questions": 8,
+        "written_questions": 176
+      },
+      "2026": {
+        "debate_contributions": 47,
+        "debates_participated": 33,
+        "oral_questions": 13,
+        "written_questions": 101
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 97,
+    "debates_participated": 67,
+    "early_day_motions": 1,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 283
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 97,
+    "voting_participation_pct": 83.04,
+    "written_questions": 283
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": false,
+      "meetings_attended": 130,
+      "meetings_available": 130
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Courts Bill",
+      "committee_id": 801,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "transport"
+      },
+      {
+        "committee": "Victims and Courts Bill",
+        "committee_id": 801,
+        "file": "committees/victims-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-17"
+          }
+        ],
+        "slug": "victims-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/heywood-and-middleton-north.json",
+    "id": 4101,
+    "name": "Heywood and Middleton North",
+    "ons_code": "E14001286",
+    "slug": "heywood-and-middleton-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "elsie.blundell.mp@parliament.uk",
+      "phone": "020 7219 7389",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01706 436329",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://elsieblundell.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/elsieblundellmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/ElsieJaneBlundell"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/elsie_blundell_hmn/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/elsieblundell"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5084
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5084,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mrs Elsie Blundell",
+    "full_title": "Mrs Elsie Blundell MP",
+    "list_as": "Blundell, Mrs Elsie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Heywood and Middleton North",
+        "constituency_id": 4101,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mrs Elsie Blundell is the Labour MP for <a href='/constituency/4101/overview'>Heywood and Middleton North</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5084/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 273,
+        "voting_participation_pct": 84.78
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 184,
+        "voting_participation_pct": 77.97
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 524,
+        "voting_participation_pct": 83.04
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 524,
+    "voting_participation_pct": 83.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 31,
+        "debates_participated": 25,
+        "oral_questions": 1,
+        "written_questions": 26
+      },
+      "2025": {
+        "debate_contributions": 117,
+        "debates_participated": 79,
+        "early_day_motions": 8,
+        "oral_questions": 5,
+        "petitions_presented": 1,
+        "written_questions": 282
+      },
+      "2026": {
+        "debate_contributions": 104,
+        "debates_participated": 59,
+        "early_day_motions": 14,
+        "oral_questions": 8,
+        "written_questions": 109
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 252,
+    "debates_participated": 163,
+    "early_day_motions": 22,
+    "oral_questions": 14,
+    "petitions_presented": 1,
+    "written_questions": 417
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 252,
+    "voting_participation_pct": 67.83,
+    "written_questions": 417
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Welsh Affairs Committee",
+      "committee_id": 162,
+      "is_current": true,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Welsh Affairs Committee",
+        "committee_id": 162,
+        "file": "committees/welsh-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "welsh-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/brecon-radnor-and-cwm-tawe.json",
+    "id": 4500,
+    "name": "Brecon, Radnor and Cwm Tawe",
+    "ons_code": "W07000085",
+    "slug": "brecon-radnor-and-cwm-tawe"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "david.chadwick.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "The Coach House, George Street, Brecon",
+      "phone": "01792 316380",
+      "postcode": "LD3 7LD",
+      "type": "Constituency office"
+    },
+    {
+      "address": "7a James Street, Pontardawe, Swansea",
+      "postcode": "SA8 4LR",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5284
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5284,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "David Chadwick",
+    "full_title": "David Chadwick MP",
+    "list_as": "Chadwick, David"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Wales)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Brecon, Radnor and Cwm Tawe",
+        "constituency_id": 4500,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "David Chadwick is the Liberal Democrat MP for <a href='/constituency/4500/overview'>Brecon, Radnor and Cwm Tawe</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Wales).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5284/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 234,
+        "voting_participation_pct": 72.67
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 155,
+        "voting_participation_pct": 65.68
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 428,
+        "voting_participation_pct": 67.83
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 428,
+    "voting_participation_pct": 67.83
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

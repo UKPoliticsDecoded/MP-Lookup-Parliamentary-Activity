@@ -1,0 +1,355 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 99,
+        "debates_participated": 35
+      },
+      "2021": {
+        "debate_contributions": 70,
+        "debates_participated": 26,
+        "oral_questions": 1
+      },
+      "2022": {
+        "debate_contributions": 211,
+        "debates_participated": 40,
+        "oral_questions": 2,
+        "written_questions": 15
+      },
+      "2023": {
+        "debate_contributions": 468,
+        "debates_participated": 61
+      },
+      "2024": {
+        "debate_contributions": 257,
+        "debates_participated": 58,
+        "oral_questions": 3,
+        "written_questions": 21
+      },
+      "2025": {
+        "debate_contributions": 386,
+        "debates_participated": 120,
+        "oral_questions": 10,
+        "written_questions": 42
+      },
+      "2026": {
+        "debate_contributions": 262,
+        "debates_participated": 71,
+        "oral_questions": 4,
+        "written_questions": 57
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1753,
+    "debates_participated": 411,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 135
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 1753,
+    "voting_participation_pct": 70.98,
+    "written_questions": 135
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-08"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/beverley-and-holderness.json",
+    "id": 3902,
+    "name": "Beverley and Holderness",
+    "ons_code": "E14001087",
+    "slug": "beverley-and-holderness"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "grahamstuartmp@parliament.uk",
+      "phone": "01482 679687",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "9 Cross Street, Beverley",
+      "email": "grahamstuartmp@parliament.uk",
+      "phone": "01482 679687",
+      "postcode": "HU17 9AX",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.grahamstuart.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/grahamstuartmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/GrahamStuart"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1482
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1482,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Graham Stuart",
+    "display": "Graham Stuart",
+    "full_title": "Rt Hon Graham Stuart MP",
+    "list_as": "Stuart, Graham"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2024-04-12",
+        "is_current": false,
+        "name": "Minister of State (Department for Energy Security and Net Zero)",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Minister of State (Minister for Climate)",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Minister of State (Foreign, Commonwealth and Development Office)",
+        "start_date": "2022-07-07"
+      },
+      {
+        "department": "Department for International Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-international-trade",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for International Trade)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2016-07-17"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 554,
+        "name": "Cambridge",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Beverley and Holderness",
+        "constituency_id": 3902,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Beverley and Holderness",
+        "constituency_id": 3321,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Beverley and Holderness",
+        "constituency_id": 230,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Graham Stuart is the Conservative MP for <a href='/constituency/3902/overview'>Beverley and Holderness</a>, and has been an MP continually since 5 May 2005.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1482/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 143,
+        "voting_participation_pct": 75.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 182,
+        "voting_participation_pct": 72.51
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 181,
+        "voting_participation_pct": 70.7
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 162,
+        "voting_participation_pct": 81.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 184,
+        "voting_participation_pct": 57.14
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 133,
+        "voting_participation_pct": 56.36
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 838,
+        "voting_participation_pct": 78.46
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 368,
+        "voting_participation_pct": 58.32
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1206,
+    "voting_participation_pct": 70.98
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

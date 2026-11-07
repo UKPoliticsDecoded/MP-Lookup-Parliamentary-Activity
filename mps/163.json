@@ -1,0 +1,540 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 3,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 146,
+        "debates_participated": 82,
+        "oral_questions": 10,
+        "written_questions": 245
+      },
+      "2021": {
+        "debate_contributions": 107,
+        "debates_participated": 59,
+        "early_day_motions": 1,
+        "oral_questions": 11,
+        "written_questions": 213
+      },
+      "2022": {
+        "debate_contributions": 130,
+        "debates_participated": 72,
+        "early_day_motions": 2,
+        "oral_questions": 8,
+        "written_questions": 248
+      },
+      "2023": {
+        "debate_contributions": 100,
+        "debates_participated": 57,
+        "early_day_motions": 3,
+        "oral_questions": 6,
+        "written_questions": 219
+      },
+      "2024": {
+        "debate_contributions": 127,
+        "debates_participated": 55,
+        "early_day_motions": 2,
+        "written_questions": 94
+      },
+      "2025": {
+        "debate_contributions": 254,
+        "debates_participated": 43
+      },
+      "2026": {
+        "debate_contributions": 157,
+        "debates_participated": 34
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1024,
+    "debates_participated": 403,
+    "early_day_motions": 8,
+    "oral_questions": 35,
+    "petitions_presented": 0,
+    "written_questions": 1019
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1024,
+    "voting_participation_pct": 77.87,
+    "written_questions": 1019
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 6
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Offenders (Day of Release from Detention) Bill",
+      "committee_id": 651,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 726,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": false,
+      "meetings_attended": 159,
+      "meetings_available": 159
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-04"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Offenders (Day of Release from Detention) Bill",
+        "committee_id": 651,
+        "file": "committees/offenders-day-of-release-from-detention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-01"
+          }
+        ],
+        "slug": "offenders-day-of-release-from-detention-bill"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 726,
+        "file": "committees/space-industry-indemnities-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-29"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-29"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/east-ham.json",
+    "id": 4028,
+    "name": "East Ham",
+    "ons_code": "E14001213",
+    "slug": "east-ham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "timmss@parliament.uk",
+      "phone": "020 7219 4000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "stephen@stephentimms.org.uk",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.stephentimms.org.uk"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/stephenctimms"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 163
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 163,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1994-06-09",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Stephen Timms",
+    "display": "Sir Stephen Timms",
+    "full_title": "Rt Hon Sir Stephen Timms MP",
+    "list_as": "Timms, Sir Stephen"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Ministry of Housing Communities and Local Government) (Equalities)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Work and Pensions)",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Minister for Equalities (Department for Education)",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Business, Innovation and Skills) (Digital Britain) (also HM Treasury)",
+        "start_date": "2009-08-06"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Financial Secretary (HM Treasury) (also in the Department for Business, Innovation and Skills)",
+        "start_date": "2008-10-05"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2008-10-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Work and Pensions) (Employment and Welfare Reform)",
+        "start_date": "2008-01-25"
+      },
+      {
+        "department": "Department for Business, Enterprise and Regulatory Reform",
+        "department_url": "http://www.berr.gov.uk/",
+        "end_date": "2008-01-25",
+        "is_current": false,
+        "name": "Minister of State (Department for Business, Enterprise and Regulatory Reform) (Competitiveness)",
+        "start_date": "2007-07-02"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2007-06-28",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2006-05-05"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2006-05-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Work and Pensions)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Financial Secretary (HM Treasury)",
+        "start_date": "2004-09-30"
+      },
+      {
+        "department": "Department of Trade and Industry",
+        "department_url": "http://www.dti.gov.uk",
+        "end_date": "2004-09-09",
+        "is_current": false,
+        "name": "Minister of State (e-Commerce & Competitiveness)",
+        "start_date": "2002-05-29"
+      },
+      {
+        "department": "Department for Education and Skills",
+        "department_url": "http://www.dfes.gov.uk",
+        "end_date": "2002-05-28",
+        "is_current": false,
+        "name": "Minister of State (Education and Skills) (Schools)",
+        "start_date": "2001-06-11"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2001-06-07",
+        "is_current": false,
+        "name": "Financial Secretary (HM Treasury)",
+        "start_date": "1999-07-29"
+      },
+      {
+        "department": "Department of Social Security",
+        "department_url": null,
+        "end_date": "1999-07-29",
+        "is_current": false,
+        "name": "Minister of State (Department of Social Security)",
+        "start_date": "1999-01-01"
+      },
+      {
+        "department": "Department of Social Security",
+        "department_url": null,
+        "end_date": "1998-12-30",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Social Security)",
+        "start_date": "1998-07-28"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Ministry of Housing Communities and Local Government) (Equalities)",
+      "Minister of State (Department for Work and Pensions)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": "",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Financial Secretary",
+        "start_date": "2010-05-12"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": "",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Digital Britain)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1994-06-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "East Ham",
+        "constituency_id": 4028,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "East Ham",
+        "constituency_id": 3461,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "East Ham",
+        "constituency_id": 973,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Newham North East",
+        "constituency_id": 2076,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "1994-06-09"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Stephen Timms is the Labour MP for <a href='/constituency/4028/overview'>East Ham</a>, and has been an MP continually since 9 June 1994. \r\nHe currently holds the Government posts of Minister of State (Department for Work and Pensions), and Minister of State (Ministry of Housing Communities and Local Government) (Equalities).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/163/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 142,
+        "voting_participation_pct": 74.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 198,
+        "voting_participation_pct": 78.88
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 199,
+        "voting_participation_pct": 77.73
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 147,
+        "voting_participation_pct": 73.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 255,
+        "voting_participation_pct": 79.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 161,
+        "voting_participation_pct": 68.22
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 848,
+        "voting_participation_pct": 79.4
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 475,
+        "voting_participation_pct": 75.28
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1323,
+    "voting_participation_pct": 77.87
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

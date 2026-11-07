@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 71758.6,
+    "bng": {
+      "easting": 477334,
+      "northing": 439142
+    },
+    "centroid": {
+      "latitude": 53.84279,
+      "longitude": -0.82614
+    },
+    "geojson": "constituencies/boundaries/goole-and-pocklington.geojson",
+    "ons_code": "E14001250",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/373.json",
+    "member_id": 373,
+    "name": "David Davis",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79925,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3572,
+      "result": "Con Hold",
+      "turnout": 49742,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4065,
+  "is_current": true,
+  "name": "Goole and Pocklington",
+  "name_cy": null,
+  "ons_code": "E14001250",
+  "outcodes": [
+    "DN14",
+    "DN8",
+    "HU10",
+    "HU14",
+    "HU15",
+    "HU16",
+    "HU17",
+    "HU20",
+    "YO41",
+    "YO42",
+    "YO43",
+    "YO8"
+  ],
+  "schema_version": 1,
+  "slug": "goole-and-pocklington",
+  "start_date": "2024-05-31"
+}

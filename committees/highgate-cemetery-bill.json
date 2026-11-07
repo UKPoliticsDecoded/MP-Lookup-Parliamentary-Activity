@@ -1,0 +1,165 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 1,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "email": "prbohoc@parliament.uk",
+    "phone": "0207 219 3250"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 521,
+  "is_current": true,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4512.json",
+      "member_id": 4512,
+      "name": "Caroline Ansell",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2021-06-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-16"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4643.json",
+      "member_id": 4643,
+      "name": "Jack Brereton",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4658.json",
+      "member_id": 4658,
+      "name": "Alex Sobel",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2021-06-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-16"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4741.json",
+      "member_id": 4741,
+      "name": "Nickie Aiken",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2021-06-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4755.json",
+      "member_id": 4755,
+      "name": "Mick Whitley",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2021-06-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-16"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4774.json",
+      "member_id": 4774,
+      "name": "Mark Fletcher",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2021-06-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2021-06-16"
+        }
+      ]
+    }
+  ],
+  "name": "Highgate Cemetery Bill Committee",
+  "parent_committee_id": null,
+  "purpose": null,
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "highgate-cemetery-bill",
+  "start_date": "2021-04-22",
+  "sub_committee_ids": [],
+  "types": [
+    "Private/hybrid bill committee"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 38,
+        "debates_participated": 31,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 9
+      },
+      "2025": {
+        "debate_contributions": 145,
+        "debates_participated": 101,
+        "oral_questions": 12,
+        "written_questions": 13
+      },
+      "2026": {
+        "debate_contributions": 123,
+        "debates_participated": 86,
+        "early_day_motions": 1,
+        "oral_questions": 9,
+        "written_questions": 19
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 306,
+    "debates_participated": 218,
+    "early_day_motions": 2,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 41
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 306,
+    "voting_participation_pct": 73.22,
+    "written_questions": 41
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Courts Bill",
+      "committee_id": 801,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Victims and Courts Bill",
+        "committee_id": 801,
+        "file": "committees/victims-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-17"
+          }
+        ],
+        "slug": "victims-and-courts-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hartlepool.json",
+    "id": 4087,
+    "name": "Hartlepool",
+    "ons_code": "E14001272",
+    "slug": "hartlepool"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jonathan.brash.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "206 York Road, Hartlepool",
+      "phone": "01429 801 424",
+      "postcode": "TS26 9EB",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5045
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5045,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mr Jonathan Brash",
+    "full_title": "Mr Jonathan Brash MP",
+    "list_as": "Brash, Mr Jonathan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hartlepool",
+        "constituency_id": 4087,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mr Jonathan Brash is the Labour MP for <a href='/constituency/4087/overview'>Hartlepool</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5045/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 65,
+        "voting_participation_pct": 89.04
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 245,
+        "voting_participation_pct": 76.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 152,
+        "voting_participation_pct": 64.41
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 462,
+        "voting_participation_pct": 73.22
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 462,
+    "voting_participation_pct": 73.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

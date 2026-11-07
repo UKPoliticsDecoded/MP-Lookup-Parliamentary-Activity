@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 4647.2,
+    "bng": {
+      "easting": 540916,
+      "northing": 164357
+    },
+    "centroid": {
+      "latitude": 51.36081,
+      "longitude": 0.022632
+    },
+    "geojson": "constituencies/boundaries/bromley-and-biggin-hill.geojson",
+    "ons_code": "E14001137",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5209.json",
+    "member_id": 5209,
+    "name": "Peter Fortune",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70713,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 302,
+      "result": "Con Hold",
+      "turnout": 46788,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3952,
+  "is_current": true,
+  "name": "Bromley and Biggin Hill",
+  "name_cy": null,
+  "ons_code": "E14001137",
+  "outcodes": [
+    "BR1",
+    "BR2",
+    "BR3",
+    "BR4",
+    "BR6",
+    "BR7",
+    "CR6",
+    "TN16"
+  ],
+  "schema_version": 1,
+  "slug": "bromley-and-biggin-hill",
+  "start_date": "2024-05-31"
+}

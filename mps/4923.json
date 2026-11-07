@@ -1,0 +1,414 @@
+{
+  "activity": {
+    "annual": {
+      "2021": {
+        "debate_contributions": 19,
+        "debates_participated": 16,
+        "oral_questions": 5,
+        "written_questions": 85
+      },
+      "2022": {
+        "debate_contributions": 155,
+        "debates_participated": 65,
+        "oral_questions": 6,
+        "written_questions": 123
+      },
+      "2023": {
+        "debate_contributions": 58,
+        "debates_participated": 31,
+        "oral_questions": 4,
+        "written_questions": 106
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 39,
+        "debates_participated": 15,
+        "oral_questions": 2,
+        "written_questions": 37
+      },
+      "2025": {
+        "debate_contributions": 499,
+        "debates_participated": 39,
+        "oral_questions": 2,
+        "written_questions": 24
+      },
+      "2026": {
+        "debate_contributions": 16,
+        "debates_participated": 5,
+        "oral_questions": 1,
+        "written_questions": 34
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 786,
+    "debates_participated": 171,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 409
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 1,
+    "debate_contributions": 786,
+    "voting_participation_pct": 81.61,
+    "written_questions": 409
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+      "committee_id": 673,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety Bill",
+      "committee_id": 592,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+        "committee_id": 673,
+        "file": "committees/electronic-trade-documents-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl-second-reading"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Online Safety Bill",
+        "committee_id": 592,
+        "file": "committees/online-safety-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-18"
+          }
+        ],
+        "slug": "online-safety-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/spen-valley.json",
+    "id": 4321,
+    "name": "Spen Valley",
+    "ons_code": "E14001506",
+    "slug": "spen-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kim.leadbeater.mp@parliament.uk",
+      "phone": "020 7219 4594",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 15F, Ponderosa Business Park, Smithies Lane, Heckmondwike",
+      "phone": "01924 975758",
+      "postcode": "WF16 0PR",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.spenvalleykim.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/KimLeadbeaterMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/kimleadbeater"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4923
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4923,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2021-07-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kim Leadbeater",
+    "full_title": "Kim Leadbeater MP",
+    "list_as": "Leadbeater, Kim"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2023-09-05"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2021-07-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Spen Valley",
+        "constituency_id": 4321,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Batley and Spen",
+        "constituency_id": 3309,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2021-07-01"
+      }
+    ]
+  },
+  "synopsis": "Kim Leadbeater is the Labour MP for <a href='/constituency/4321/overview'>Spen Valley</a>, and has been an MP continually since 1 July 2021.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4923/Thumbnail",
+  "voting": {
+    "annual": {
+      "2021": {
+        "divisions_eligible": 116,
+        "divisions_voted": 85,
+        "voting_participation_pct": 73.28
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 205,
+        "voting_participation_pct": 81.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 201,
+        "voting_participation_pct": 78.52
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 156,
+        "voting_participation_pct": 78.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 285,
+        "voting_participation_pct": 88.51
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 195,
+        "voting_participation_pct": 82.63
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 750,
+        "divisions_voted": 576,
+        "voting_participation_pct": 76.8
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 551,
+        "voting_participation_pct": 87.32
+      }
+    },
+    "divisions_eligible": 1381,
+    "divisions_voted": 1127,
+    "voting_participation_pct": 81.61
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

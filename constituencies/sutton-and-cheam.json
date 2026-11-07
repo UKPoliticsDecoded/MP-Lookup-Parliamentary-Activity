@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 1837.9,
+    "bng": {
+      "easting": 524743,
+      "northing": 164094
+    },
+    "centroid": {
+      "latitude": 51.36222,
+      "longitude": -0.20962
+    },
+    "geojson": "constituencies/boundaries/sutton-and-cheam.geojson",
+    "ons_code": "E14001534",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5103.json",
+    "member_id": 5103,
+    "name": "Luke Taylor",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72303,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3801,
+      "result": "LD Gain",
+      "turnout": 47606,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3790,
+      "end_date": "2024-05-30",
+      "member_id": 4414,
+      "name": "Paul Scully",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4349,
+  "is_current": true,
+  "name": "Sutton and Cheam",
+  "name_cy": null,
+  "ons_code": "E14001534",
+  "outcodes": [
+    "KT17",
+    "KT4",
+    "SM1",
+    "SM2",
+    "SM3",
+    "SM5",
+    "SM7"
+  ],
+  "schema_version": 1,
+  "slug": "sutton-and-cheam",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 6894.6,
+    "bng": {
+      "easting": 271691,
+      "northing": 665826
+    },
+    "centroid": {
+      "latitude": 55.86846,
+      "longitude": -4.052
+    },
+    "geojson": "constituencies/boundaries/coatbridge-and-bellshill.geojson",
+    "ons_code": "S14000070",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5183.json",
+    "member_id": 5183,
+    "name": "Frank McNally",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72667,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6344,
+      "result": "Lab Gain",
+      "turnout": 38731,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4459,
+  "is_current": true,
+  "name": "Coatbridge and Bellshill",
+  "name_cy": null,
+  "ons_code": "S14000070",
+  "outcodes": [
+    "G67",
+    "G69",
+    "G71",
+    "ML1",
+    "ML4",
+    "ML5",
+    "ML6"
+  ],
+  "schema_version": 1,
+  "slug": "coatbridge-and-bellshill",
+  "start_date": "2024-05-31"
+}

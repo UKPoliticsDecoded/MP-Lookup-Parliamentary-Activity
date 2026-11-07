@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 12496.4,
+    "bng": {
+      "easting": 440478,
+      "northing": 349674
+    },
+    "centroid": {
+      "latitude": 53.04282,
+      "longitude": -1.39771
+    },
+    "geojson": "constituencies/boundaries/amber-valley.geojson",
+    "ons_code": "E14001066",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5107.json",
+    "member_id": 5107,
+    "name": "Linsey Farnsworth",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71546,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3554,
+      "result": "Lab Gain",
+      "turnout": 42531,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3293,
+      "end_date": "2024-05-30",
+      "member_id": 4136,
+      "name": "Nigel Mills",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3881,
+  "is_current": true,
+  "name": "Amber Valley",
+  "name_cy": null,
+  "ons_code": "E14001066",
+  "outcodes": [
+    "DE21",
+    "DE5",
+    "DE55",
+    "DE56",
+    "DE7",
+    "DE75",
+    "NG16"
+  ],
+  "schema_version": 1,
+  "slug": "amber-valley",
+  "start_date": "2024-05-31"
+}

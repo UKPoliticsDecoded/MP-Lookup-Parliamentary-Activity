@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 5286.5,
+    "bng": {
+      "easting": 364705,
+      "northing": 399668
+    },
+    "centroid": {
+      "latitude": 53.49254,
+      "longitude": -2.53345
+    },
+    "geojson": "constituencies/boundaries/leigh-and-atherton.geojson",
+    "ons_code": "E14001329",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4673.json",
+    "member_id": 4673,
+    "name": "Jo Platt",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79978,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8881,
+      "result": "Lab Gain",
+      "turnout": 41170,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4144,
+  "is_current": true,
+  "name": "Leigh and Atherton",
+  "name_cy": null,
+  "ons_code": "E14001329",
+  "outcodes": [
+    "M29",
+    "M46",
+    "WA12",
+    "WA3",
+    "WN2",
+    "WN4",
+    "WN7"
+  ],
+  "schema_version": 1,
+  "slug": "leigh-and-atherton",
+  "start_date": "2024-05-31"
+}

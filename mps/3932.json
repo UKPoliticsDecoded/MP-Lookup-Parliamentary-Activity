@@ -1,0 +1,271 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 30,
+        "debates_participated": 20,
+        "oral_questions": 7,
+        "written_questions": 196
+      },
+      "2021": {
+        "debate_contributions": 36,
+        "debates_participated": 22,
+        "oral_questions": 5,
+        "written_questions": 89
+      },
+      "2022": {
+        "debate_contributions": 49,
+        "debates_participated": 34,
+        "written_questions": 99
+      },
+      "2023": {
+        "debate_contributions": 51,
+        "debates_participated": 28,
+        "written_questions": 28
+      },
+      "2024": {
+        "debate_contributions": 26,
+        "debates_participated": 13,
+        "oral_questions": 1,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 192,
+    "debates_participated": 117,
+    "early_day_motions": 0,
+    "oral_questions": 13,
+    "petitions_presented": 0,
+    "written_questions": 424
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 192,
+    "voting_participation_pct": 72.94,
+    "written_questions": 424
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Mental Health Bill (Joint Committee)",
+      "committee_id": 605,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 27,
+      "meetings_available": 27
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+      "committee_id": 347,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Draft Mental Health Bill (Joint Committee)",
+        "committee_id": 605,
+        "file": "committees/draft-mental-health-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-11"
+          }
+        ],
+        "slug": "draft-mental-health-bill-joint-committee"
+      },
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+        "committee_id": 347,
+        "file": "committees/international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3399,
+    "name": "Central Suffolk and North Ipswich"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 3932
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 3932,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dr Dan Poulter",
+    "display": "Dr Dan Poulter",
+    "full_title": "Dr Dan Poulter",
+    "list_as": "Poulter, Dr Dan"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health",
+        "department_url": "http://www.dh.gov.uk",
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health)",
+        "start_date": "2012-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2024-04-27"
+      },
+      {
+        "end_date": "2024-04-27",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Central Suffolk and North Ipswich",
+        "constituency_id": 3399,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Dr Dan Poulter is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3399/overview'>Central Suffolk and North Ipswich</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/3932/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 178,
+        "voting_participation_pct": 93.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 157,
+        "voting_participation_pct": 62.55
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 198,
+        "voting_participation_pct": 77.34
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 44,
+        "voting_participation_pct": 34.65
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 779,
+        "voting_participation_pct": 72.94
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 779,
+    "voting_participation_pct": 72.94
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

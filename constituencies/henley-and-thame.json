@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 54882.3,
+    "bng": {
+      "easting": 465037,
+      "northing": 191852
+    },
+    "centroid": {
+      "latitude": 51.62174,
+      "longitude": -1.06192
+    },
+    "geojson": "constituencies/boundaries/henley-and-thame.geojson",
+    "ons_code": "E14001280",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5296.json",
+    "member_id": 5296,
+    "name": "Freddie van Mierlo",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73749,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6267,
+      "result": "LD Gain",
+      "turnout": 53157,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4095,
+  "is_current": true,
+  "name": "Henley and Thame",
+  "name_cy": null,
+  "ons_code": "E14001280",
+  "outcodes": [
+    "HP14",
+    "HP18",
+    "OX10",
+    "OX2",
+    "OX3",
+    "OX33",
+    "OX39",
+    "OX4",
+    "OX44",
+    "OX49",
+    "OX9",
+    "RG4",
+    "RG8",
+    "RG9"
+  ],
+  "schema_version": 1,
+  "slug": "henley-and-thame",
+  "start_date": "2024-05-31"
+}

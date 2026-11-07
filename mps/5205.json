@@ -1,0 +1,218 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 25,
+        "oral_questions": 7,
+        "written_questions": 117
+      },
+      "2025": {
+        "debate_contributions": 81,
+        "debates_participated": 46,
+        "oral_questions": 13,
+        "written_questions": 151
+      },
+      "2026": {
+        "debate_contributions": 100,
+        "debates_participated": 45,
+        "oral_questions": 7,
+        "written_questions": 58
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 211,
+    "debates_participated": 116,
+    "early_day_motions": 0,
+    "oral_questions": 27,
+    "petitions_presented": 0,
+    "written_questions": 326
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 211,
+    "voting_participation_pct": 84.79,
+    "written_questions": 326
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-22"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/south-norfolk.json",
+    "id": 4304,
+    "name": "South Norfolk",
+    "ons_code": "E14001489",
+    "slug": "south-norfolk"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ben.goldsborough.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5205
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5205,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ben Goldsborough",
+    "full_title": "Ben Goldsborough MP",
+    "list_as": "Goldsborough, Ben"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "South Norfolk",
+        "constituency_id": 4304,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ben Goldsborough is the Labour MP for <a href='/constituency/4304/overview'>South Norfolk</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5205/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 55,
+        "voting_participation_pct": 75.34
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 285,
+        "voting_participation_pct": 88.51
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 195,
+        "voting_participation_pct": 82.63
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 535,
+        "voting_participation_pct": 84.79
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 535,
+    "voting_participation_pct": 84.79
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

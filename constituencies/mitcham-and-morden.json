@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 1831.1,
+    "bng": {
+      "easting": 528027,
+      "northing": 168564
+    },
+    "centroid": {
+      "latitude": 51.40166,
+      "longitude": -0.16087
+    },
+    "geojson": "constituencies/boundaries/mitcham-and-morden.geojson",
+    "ons_code": "E14001371",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/193.json",
+    "member_id": 193,
+    "name": "Dame Siobhain McDonagh",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77282,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 18761,
+      "result": "Lab Hold",
+      "turnout": 45255,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3614,
+      "end_date": "2024-05-30",
+      "member_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1986,
+      "end_date": "2010-05-06",
+      "member_id": 193,
+      "name": "Dame Siobhain McDonagh",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4186,
+  "is_current": true,
+  "name": "Mitcham and Morden",
+  "name_cy": null,
+  "ons_code": "E14001371",
+  "outcodes": [
+    "CR4",
+    "CR7",
+    "SM3",
+    "SM4",
+    "SW16",
+    "SW17",
+    "SW19",
+    "SW20"
+  ],
+  "schema_version": 1,
+  "slug": "mitcham-and-morden",
+  "start_date": "2024-05-31"
+}

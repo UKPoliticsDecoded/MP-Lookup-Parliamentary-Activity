@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 63394.0,
+    "bng": {
+      "easting": 278066,
+      "northing": 51406
+    },
+    "centroid": {
+      "latitude": 50.34989,
+      "longitude": -3.71523
+    },
+    "geojson": "constituencies/boundaries/south-devon.geojson",
+    "ons_code": "E14001484",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5216.json",
+    "member_id": 5216,
+    "name": "Caroline Voaden",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72261,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7127,
+      "result": "LD Gain",
+      "turnout": 49004,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4299,
+  "is_current": true,
+  "name": "South Devon",
+  "name_cy": null,
+  "ons_code": "E14001484",
+  "outcodes": [
+    "PL20",
+    "PL21",
+    "TQ10",
+    "TQ11",
+    "TQ12",
+    "TQ13",
+    "TQ3",
+    "TQ4",
+    "TQ5",
+    "TQ6",
+    "TQ7",
+    "TQ8",
+    "TQ9"
+  ],
+  "schema_version": 1,
+  "slug": "south-devon",
+  "start_date": "2024-05-31"
+}

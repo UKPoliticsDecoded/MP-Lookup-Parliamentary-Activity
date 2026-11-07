@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 3011.9,
+    "bng": {
+      "easting": 254828,
+      "northing": 664559
+    },
+    "centroid": {
+      "latitude": 55.8523,
+      "longitude": -4.32056
+    },
+    "geojson": "constituencies/boundaries/glasgow-south-west.geojson",
+    "ons_code": "S14000088",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5213.json",
+    "member_id": 5213,
+    "name": "Dr Zubir Ahmed",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68871,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3285,
+      "result": "Lab Gain",
+      "turnout": 35669,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 1209,
+      "end_date": "2024-05-30",
+      "member_id": 4463,
+      "name": "Chris Stephens",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4477,
+  "is_current": true,
+  "name": "Glasgow South West",
+  "name_cy": null,
+  "ons_code": "S14000088",
+  "outcodes": [
+    "G41",
+    "G46",
+    "G5",
+    "G51",
+    "G52",
+    "G53",
+    "G78"
+  ],
+  "schema_version": 1,
+  "slug": "glasgow-south-west",
+  "start_date": "2024-05-31"
+}

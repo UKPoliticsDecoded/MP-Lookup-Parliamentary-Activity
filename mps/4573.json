@@ -1,0 +1,322 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 33,
+        "debates_participated": 20,
+        "oral_questions": 1,
+        "written_questions": 114
+      },
+      "2021": {
+        "debate_contributions": 46,
+        "debates_participated": 25,
+        "written_questions": 63
+      },
+      "2022": {
+        "debate_contributions": 36,
+        "debates_participated": 18,
+        "written_questions": 228
+      },
+      "2023": {
+        "debate_contributions": 31,
+        "debates_participated": 18,
+        "written_questions": 232
+      },
+      "2024": {
+        "debate_contributions": 18,
+        "debates_participated": 7,
+        "oral_questions": 2,
+        "written_questions": 114
+      },
+      "2025": {
+        "debate_contributions": 48,
+        "debates_participated": 31,
+        "oral_questions": 4,
+        "written_questions": 119
+      },
+      "2026": {
+        "debate_contributions": 45,
+        "debates_participated": 19,
+        "oral_questions": 5,
+        "written_questions": 60
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 257,
+    "debates_participated": 138,
+    "early_day_motions": 0,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 930
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 257,
+    "voting_participation_pct": 47.03,
+    "written_questions": 930
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Draft Mental Health Bill (Joint Committee)",
+      "committee_id": 605,
+      "is_current": false,
+      "meetings_attended": 18,
+      "meetings_available": 18
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-27"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Draft Mental Health Bill (Joint Committee)",
+        "committee_id": 605,
+        "file": "committees/draft-mental-health-bill-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-11"
+          }
+        ],
+        "slug": "draft-mental-health-bill-joint-committee"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-20"
+          }
+        ],
+        "slug": "international-development"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/tooting.json",
+    "id": 4365,
+    "name": "Tooting",
+    "ons_code": "E14001550",
+    "slug": "tooting"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rosena.allinkhan.mp@parliament.uk",
+      "phone": "020 3621 2509",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency Office",
+      "email": "rosena@drrosena.co.uk",
+      "phone": "020 3621 2509",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.drrosena.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DrRosena"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/DrRosena"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4573
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4573,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2016-06-16",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dr Rosena Allin-Khan",
+    "display": "Dr Rosena Allin-Khan",
+    "full_title": "Dr Rosena Allin-Khan MP",
+    "list_as": "Allin-Khan, Dr Rosena"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Mental Health)",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport) (Sport)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2017-07-03",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport) (Sport)",
+        "start_date": "2016-10-09"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2016-06-16"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Tooting",
+        "constituency_id": 4365,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Tooting",
+        "constituency_id": 3806,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2016-06-16"
+      }
+    ]
+  },
+  "synopsis": "Dr Rosena Allin-Khan is the Labour MP for <a href='/constituency/4365/overview'>Tooting</a>, and has been an MP continually since 16 June 2016.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4573/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 124,
+        "voting_participation_pct": 65.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 196,
+        "voting_participation_pct": 80.99
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 119,
+        "voting_participation_pct": 47.41
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 91,
+        "voting_participation_pct": 35.55
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 83,
+        "voting_participation_pct": 41.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 111,
+        "voting_participation_pct": 34.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 73,
+        "voting_participation_pct": 30.93
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 583,
+        "voting_participation_pct": 54.59
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 216,
+        "voting_participation_pct": 34.23
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 799,
+    "voting_participation_pct": 47.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

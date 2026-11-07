@@ -1,0 +1,649 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 172,
+        "debates_participated": 78,
+        "oral_questions": 19,
+        "written_questions": 146
+      },
+      "2021": {
+        "debate_contributions": 299,
+        "debates_participated": 77,
+        "early_day_motions": 1,
+        "oral_questions": 18,
+        "written_questions": 227
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 100,
+        "debates_participated": 61,
+        "early_day_motions": 20,
+        "oral_questions": 11,
+        "written_questions": 206
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 123,
+        "debates_participated": 72,
+        "early_day_motions": 9,
+        "oral_questions": 21,
+        "written_questions": 205
+      },
+      "2024": {
+        "debate_contributions": 54,
+        "debates_participated": 25,
+        "early_day_motions": 11,
+        "oral_questions": 7,
+        "written_questions": 109
+      },
+      "2025": {
+        "debate_contributions": 52,
+        "debates_participated": 27,
+        "early_day_motions": 13,
+        "oral_questions": 5,
+        "written_questions": 86
+      },
+      "2026": {
+        "debate_contributions": 31,
+        "debates_participated": 18,
+        "early_day_motions": 6,
+        "oral_questions": 3,
+        "written_questions": 72
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 831,
+    "debates_participated": 358,
+    "early_day_motions": 60,
+    "oral_questions": 84,
+    "petitions_presented": 0,
+    "written_questions": 1051
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 831,
+    "voting_participation_pct": 72.81,
+    "written_questions": 1051
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Ballot Secrecy Bill [HL]",
+      "committee_id": 656,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Elections Bill",
+      "committee_id": 541,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 45,
+      "meetings_available": 45
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Neonatal Care (Leave and Pay) Bill",
+      "committee_id": 610,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Offenders (Day of Release from Detention) Bill",
+      "committee_id": 651,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+      "committee_id": 717,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Zoological Society of London (Leases) Bill",
+      "committee_id": 707,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-12-11"
+          }
+        ],
+        "slug": "ecclesiastical"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-18"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Ballot Secrecy Bill [HL]",
+        "committee_id": 656,
+        "file": "committees/ballot-secrecy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "ballot-secrecy-bill-hl"
+      },
+      {
+        "committee": "Elections Bill",
+        "committee_id": 541,
+        "file": "committees/elections-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "elections-bill"
+      },
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-19"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-07"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-22"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Neonatal Care (Leave and Pay) Bill",
+        "committee_id": 610,
+        "file": "committees/neonatal-care-leave-and-pay-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-20"
+          }
+        ],
+        "slug": "neonatal-care-leave-and-pay-bill"
+      },
+      {
+        "committee": "Offenders (Day of Release from Detention) Bill",
+        "committee_id": 651,
+        "file": "committees/offenders-day-of-release-from-detention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-01"
+          }
+        ],
+        "slug": "offenders-day-of-release-from-detention-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2023-10-18"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-18"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-11"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Special Envoy for Freedom of Religion or Belief Bill (Formerly known as International Freedom of Religion or Belief Bill)",
+        "committee_id": 717,
+        "file": "committees/special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-17"
+          }
+        ],
+        "slug": "special-envoy-for-freedom-of-religion-or-belief-bill-formerly-known-as-international-freedom-of-religion-or-belief-bill"
+      },
+      {
+        "committee": "Zoological Society of London (Leases) Bill",
+        "committee_id": 707,
+        "file": "committees/zoological-society-of-london-leases-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-21"
+          }
+        ],
+        "slug": "zoological-society-of-london-leases-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/lancaster-and-wyre.json",
+    "id": 4133,
+    "name": "Lancaster and Wyre",
+    "ons_code": "E14001318",
+    "slug": "lancaster-and-wyre"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "cat.smith.mp@parliament.uk",
+      "phone": "020 7219 6001",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "47 Scotforth Road, Lancaster",
+      "phone": "01524 566 551",
+      "postcode": "LA1 4SA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.catsmith.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/catsmithmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/CatSmithMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4436
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4436,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Cat Smith",
+    "display": "Cat Smith",
+    "full_title": "Cat Smith MP",
+    "list_as": "Smith, Cat"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2017-07-19",
+        "is_current": false,
+        "name": "Shadow Deputy Leader of the House of Commons",
+        "start_date": "2016-12-20"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office) (Young People and Voter Engagement)",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Junior Shadow Minister for Women and Equalities",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3871,
+        "name": "Wyre and Preston North",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lancaster and Wyre",
+        "constituency_id": 4133,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Lancaster and Fleetwood",
+        "constituency_id": 3564,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Cat Smith is the Labour MP for <a href='/constituency/4133/overview'>Lancaster and Wyre</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4436/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 145,
+        "voting_participation_pct": 76.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 170,
+        "voting_participation_pct": 67.73
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 195,
+        "voting_participation_pct": 76.17
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 141,
+        "voting_participation_pct": 70.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 235,
+        "voting_participation_pct": 72.98
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 135,
+        "voting_participation_pct": 57.2
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 812,
+        "voting_participation_pct": 76.03
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 425,
+        "voting_participation_pct": 67.35
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1237,
+    "voting_participation_pct": 72.81
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

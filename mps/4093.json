@@ -1,0 +1,296 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 8,
+        "debates_participated": 6,
+        "oral_questions": 4,
+        "written_questions": 36
+      },
+      "2021": {
+        "debate_contributions": 8,
+        "debates_participated": 8,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2022": {
+        "debate_contributions": 138,
+        "debates_participated": 15,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 3,
+        "debates_participated": 2,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2024": {
+        "debate_contributions": 2,
+        "debates_participated": 2,
+        "written_questions": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 159,
+    "debates_participated": 33,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 75
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 159,
+    "voting_participation_pct": 55.34,
+    "written_questions": 75
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Security Bill",
+      "committee_id": 607,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 26,
+      "meetings_available": 26
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Regulatory Reform",
+      "committee_id": 131,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-28"
+          },
+          {
+            "end": "2021-05-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "National Security Bill",
+        "committee_id": 607,
+        "file": "committees/national-security-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-12"
+          }
+        ],
+        "slug": "national-security-bill"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-17"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      },
+      {
+        "committee": "Regulatory Reform",
+        "committee_id": 131,
+        "file": "committees/regulatory-reform.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-01-16"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2017-11-28"
+          },
+          {
+            "end": "2021-05-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2021-05-20",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-03-04"
+          }
+        ],
+        "slug": "regulatory-reform"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3773,
+    "name": "Stevenage"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4093
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4093,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Stephen McPartland",
+    "display": "Stephen McPartland",
+    "full_title": "Rt Hon Stephen McPartland",
+    "list_as": "McPartland, Stephen"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Minister of State (Home Office) (Security)",
+        "start_date": "2022-07-07"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stevenage",
+        "constituency_id": 3773,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Stephen McPartland is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3773/overview'>Stevenage</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4093/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 128,
+        "voting_participation_pct": 67.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 184,
+        "voting_participation_pct": 76.03
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 140,
+        "voting_participation_pct": 55.78
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 60,
+        "voting_participation_pct": 23.44
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 77,
+        "voting_participation_pct": 60.63
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 591,
+        "voting_participation_pct": 55.34
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 591,
+    "voting_participation_pct": 55.34
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

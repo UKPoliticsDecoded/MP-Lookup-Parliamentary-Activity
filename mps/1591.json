@@ -1,0 +1,550 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "early_day_motions": 1,
+        "written_questions": 1
+      },
+      "2020": {
+        "debate_contributions": 147,
+        "debates_participated": 91,
+        "early_day_motions": 12,
+        "oral_questions": 7,
+        "written_questions": 212
+      },
+      "2021": {
+        "bills_sponsored": 3,
+        "debate_contributions": 87,
+        "debates_participated": 65,
+        "early_day_motions": 17,
+        "oral_questions": 1,
+        "written_questions": 136
+      },
+      "2022": {
+        "bills_sponsored": 4,
+        "debate_contributions": 271,
+        "debates_participated": 114,
+        "early_day_motions": 6,
+        "written_questions": 125
+      },
+      "2023": {
+        "bills_sponsored": 4,
+        "debate_contributions": 178,
+        "debates_participated": 112,
+        "early_day_motions": 6,
+        "oral_questions": 5,
+        "written_questions": 183
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 182,
+        "debates_participated": 111,
+        "early_day_motions": 13,
+        "oral_questions": 4,
+        "written_questions": 121
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 317,
+        "debates_participated": 138,
+        "early_day_motions": 21,
+        "oral_questions": 7,
+        "written_questions": 245
+      },
+      "2026": {
+        "bills_sponsored": 3,
+        "debate_contributions": 106,
+        "debates_participated": 81,
+        "early_day_motions": 38,
+        "oral_questions": 6,
+        "written_questions": 232
+      }
+    },
+    "bills_sponsored": 18,
+    "debate_contributions": 1288,
+    "debates_participated": 712,
+    "early_day_motions": 114,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 1255
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1288,
+    "voting_participation_pct": 65.04,
+    "written_questions": 1255
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+      "committee_id": 729,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Education (Careers Guidance in Schools) Bill",
+      "committee_id": 545,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Equipment Theft (Prevention) Bill",
+      "committee_id": 642,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Glue Traps (Offences) Bill",
+      "committee_id": 573,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Levelling-up and Regeneration Bill",
+      "committee_id": 598,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Offenders (Day of Release from Detention) Bill",
+      "committee_id": 651,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Community and Suspended Sentences (Notification of Details) Bill",
+        "committee_id": 729,
+        "file": "committees/community-and-suspended-sentences-notification-of-details-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "community-and-suspended-sentences-notification-of-details-bill"
+      },
+      {
+        "committee": "Education (Careers Guidance in Schools) Bill",
+        "committee_id": 545,
+        "file": "committees/education-careers-guidance-in-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-22"
+          }
+        ],
+        "slug": "education-careers-guidance-in-schools-bill"
+      },
+      {
+        "committee": "Equipment Theft (Prevention) Bill",
+        "committee_id": 642,
+        "file": "committees/equipment-theft-prevention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "equipment-theft-prevention-bill"
+      },
+      {
+        "committee": "Glue Traps (Offences) Bill",
+        "committee_id": 573,
+        "file": "committees/glue-traps-offences-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "glue-traps-offences-bill"
+      },
+      {
+        "committee": "Levelling-up and Regeneration Bill",
+        "committee_id": 598,
+        "file": "committees/levelling-up-and-regeneration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-15"
+          }
+        ],
+        "slug": "levelling-up-and-regeneration-bill"
+      },
+      {
+        "committee": "Offenders (Day of Release from Detention) Bill",
+        "committee_id": 651,
+        "file": "committees/offenders-day-of-release-from-detention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-01"
+          }
+        ],
+        "slug": "offenders-day-of-release-from-detention-bill"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/westmorland-and-lonsdale.json",
+    "id": 4395,
+    "name": "Westmorland and Lonsdale",
+    "ons_code": "E14001580",
+    "slug": "westmorland-and-lonsdale"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tim.farron.mp@parliament.uk",
+      "phone": "020 7219 8519",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Acland House, Yard 2, Stricklandgate, Kendal",
+      "email": "tim@timfarron.co.uk",
+      "phone": "01539 723403",
+      "postcode": "LA9 4ND",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.timfarron.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/timfarron"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1591
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1591,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2005-05-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Tim Farron",
+    "display": "Tim Farron",
+    "full_title": "Tim Farron MP",
+    "list_as": "Farron, Tim"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Food and Rural Affairs)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-11",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Housing, Communities and Local Government)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (North of England) (Northern Powerhouse)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-06",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Work and Pensions)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-08-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Communities and Local Government)",
+        "start_date": "2019-02-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-02-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2017-10-12"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State (Environment)",
+        "start_date": "2008-10-07"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2008-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs)",
+        "start_date": "2007-12-20"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2007-12-20",
+        "is_current": false,
+        "name": "Shadow Minister (Home Affairs)",
+        "start_date": "2007-04-01"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2006-03-05",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Children, Schools and Families)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2017-07-20",
+        "is_current": false,
+        "name": "Leader of the Liberal Democrats",
+        "start_date": "2015-07-16"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2014-12-31",
+        "is_current": false,
+        "name": "Party Chair, Liberal Democrats",
+        "start_date": "2011-01-01"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3161,
+        "name": "Westmorland and Lonsdale",
+        "startDate": "2001-06-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2667,
+        "name": "South Ribble",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2167,
+        "name": "North West Durham",
+        "startDate": "1992-04-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Westmorland and Lonsdale",
+        "constituency_id": 4395,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Westmorland and Lonsdale",
+        "constituency_id": 3850,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Westmorland and Lonsdale",
+        "constituency_id": 3161,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "Tim Farron is the Liberal Democrat MP for <a href='/constituency/4395/overview'>Westmorland and Lonsdale</a>, and has been an MP continually since 5 May 2005. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Environment, Food and Rural Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1591/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 141,
+        "voting_participation_pct": 74.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 169,
+        "voting_participation_pct": 67.33
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 172,
+        "voting_participation_pct": 67.19
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 102,
+        "voting_participation_pct": 51.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 189,
+        "voting_participation_pct": 58.7
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 122,
+        "voting_participation_pct": 51.69
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 766,
+        "voting_participation_pct": 71.72
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 339,
+        "voting_participation_pct": 53.72
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1105,
+    "voting_participation_pct": 65.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 430,
+        "debates_participated": 138,
+        "oral_questions": 19,
+        "petitions_presented": 2,
+        "written_questions": 715
+      },
+      "2021": {
+        "debate_contributions": 396,
+        "debates_participated": 114,
+        "oral_questions": 16,
+        "written_questions": 605
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 143,
+        "debates_participated": 105,
+        "oral_questions": 7,
+        "written_questions": 630
+      },
+      "2023": {
+        "debate_contributions": 153,
+        "debates_participated": 79,
+        "oral_questions": 23,
+        "written_questions": 550
+      },
+      "2024": {
+        "debate_contributions": 116,
+        "debates_participated": 78,
+        "oral_questions": 23,
+        "written_questions": 249
+      },
+      "2025": {
+        "debate_contributions": 115,
+        "debates_participated": 77,
+        "early_day_motions": 1,
+        "oral_questions": 7,
+        "petitions_presented": 1,
+        "written_questions": 231
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 108,
+        "debates_participated": 62,
+        "oral_questions": 7,
+        "written_questions": 119
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 1461,
+    "debates_participated": 653,
+    "early_day_motions": 1,
+    "oral_questions": 102,
+    "petitions_presented": 3,
+    "written_questions": 3099
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 1461,
+    "voting_participation_pct": 75.52,
+    "written_questions": 3099
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": true,
+      "meetings_attended": 13,
+      "meetings_available": 13
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Powers of Attorney Bill",
+      "committee_id": 655,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Powers of Attorney Bill",
+        "committee_id": 655,
+        "file": "committees/powers-of-attorney-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "powers-of-attorney-bill"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/newcastle-upon-tyne-central-and-west.json",
+    "id": 4192,
+    "name": "Newcastle upon Tyne Central and West",
+    "ons_code": "E14001377",
+    "slug": "newcastle-upon-tyne-central-and-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "chi.onwurah.mp@parliament.uk",
+      "phone": "020 7219 7114",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 25, 7-15 Pink Lane, Newcastle-upon-Tyne",
+      "phone": "0191 232 5838",
+      "postcode": "NE1 5DW",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://chionwurahmp.com/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/ChiOnwurah"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4124
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4124,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dame Chi Onwurah",
+    "full_title": "Dame Chi Onwurah MP",
+    "list_as": "Onwurah, Dame Chi"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Science, Research and Innovation)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Science, Research and Innovation)",
+        "start_date": "2020-04-09"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Department for Business, Energy and Industrial Strategy) (Industrial Strategy)",
+        "start_date": "2016-10-10"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2016-10-10",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2015-09-18"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2016-10-09",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2015-09-18"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2013-01-11"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2013-01-11",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Newcastle upon Tyne Central and West",
+        "constituency_id": 4192,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Newcastle upon Tyne Central",
+        "constituency_id": 3625,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Dame Chi Onwurah is the Labour MP for <a href='/constituency/4192/overview'>Newcastle upon Tyne Central and West</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4124/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 195,
+        "voting_participation_pct": 77.69
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 185,
+        "voting_participation_pct": 72.27
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 139,
+        "voting_participation_pct": 69.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 242,
+        "voting_participation_pct": 75.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 168,
+        "voting_participation_pct": 71.19
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 817,
+        "voting_participation_pct": 76.5
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 466,
+        "voting_participation_pct": 73.85
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1283,
+    "voting_participation_pct": 75.52
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

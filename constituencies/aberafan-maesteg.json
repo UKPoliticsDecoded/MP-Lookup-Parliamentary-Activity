@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 24160.6,
+    "bng": {
+      "easting": 281995,
+      "northing": 189550
+    },
+    "centroid": {
+      "latitude": 51.5924,
+      "longitude": -3.70491
+    },
+    "geojson": "constituencies/boundaries/aberafan-maesteg.geojson",
+    "ons_code": "W07000081",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4359.json",
+    "member_id": 4359,
+    "name": "Stephen Kinnock",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72580,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10354,
+      "result": "Lab Hold",
+      "turnout": 35755,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4496,
+  "is_current": true,
+  "name": "Aberafan Maesteg",
+  "name_cy": "Aberafan Maesteg",
+  "ons_code": "W07000081",
+  "outcodes": [
+    "CF33",
+    "CF34",
+    "CF36",
+    "SA11",
+    "SA12",
+    "SA13"
+  ],
+  "schema_version": 1,
+  "slug": "aberafan-maesteg",
+  "start_date": "2024-05-31"
+}

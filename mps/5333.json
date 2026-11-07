@@ -1,0 +1,232 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 34,
+        "debates_participated": 14,
+        "oral_questions": 2,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 186,
+        "debates_participated": 49
+      },
+      "2026": {
+        "debate_contributions": 240,
+        "debates_participated": 33
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 460,
+    "debates_participated": 96,
+    "early_day_motions": 0,
+    "oral_questions": 2,
+    "petitions_presented": 0,
+    "written_questions": 4
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 460,
+    "voting_participation_pct": 57.69,
+    "written_questions": 4
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "treasury"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/northampton-north.json",
+    "id": 4221,
+    "name": "Northampton North",
+    "ons_code": "E14001406",
+    "slug": "northampton-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lucy.rigby.mp@parliament.uk",
+      "phone": "0207 219 7605",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "lucy.rigby.casework@parliament.uk",
+      "phone": "01604 915131",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5333
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5333,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lucy Rigby",
+    "full_title": "Rt Hon Lucy Rigby KC MP",
+    "list_as": "Rigby, Lucy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Economic Secretary (HM Treasury)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2026-05-14"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2026-05-14",
+        "is_current": false,
+        "name": "Economic Secretary (HM Treasury)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Solicitor General (Attorney General's Office)",
+        "start_date": "2024-12-02"
+      }
+    ],
+    "ministerial_current": [
+      "Economic Secretary (HM Treasury)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Northampton North",
+        "constituency_id": 4221,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Lucy Rigby is the Labour MP for <a href='/constituency/4221/overview'>Northampton North</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Economic Secretary (HM Treasury).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5333/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 61,
+        "voting_participation_pct": 83.56
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 198,
+        "voting_participation_pct": 61.49
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 105,
+        "voting_participation_pct": 44.49
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 364,
+        "voting_participation_pct": 57.69
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 364,
+    "voting_participation_pct": 57.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

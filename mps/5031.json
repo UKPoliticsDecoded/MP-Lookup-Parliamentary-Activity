@@ -1,0 +1,348 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 49,
+        "debates_participated": 34,
+        "oral_questions": 7,
+        "written_questions": 17
+      },
+      "2025": {
+        "debate_contributions": 117,
+        "debates_participated": 51,
+        "oral_questions": 9,
+        "written_questions": 6
+      },
+      "2026": {
+        "debate_contributions": 28,
+        "debates_participated": 8
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 194,
+    "debates_participated": 93,
+    "early_day_motions": 0,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 23
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 194,
+    "voting_participation_pct": 89.38,
+    "written_questions": 23
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Joint Committee)",
+      "committee_id": 148,
+      "is_current": false,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Statutory Instruments (Select Committee)",
+      "committee_id": 149,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Statutory Instruments (Joint Committee)",
+        "committee_id": 148,
+        "file": "committees/statutory-instruments-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "statutory-instruments-joint-committee"
+      },
+      {
+        "committee": "Statutory Instruments (Select Committee)",
+        "committee_id": 149,
+        "file": "committees/statutory-instruments-select-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "statutory-instruments-select-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/gateshead-central-and-whickham.json",
+    "id": 4059,
+    "name": "Gateshead Central and Whickham",
+    "ons_code": "E14001244",
+    "slug": "gateshead-central-and-whickham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mark.ferguson.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0191 429 8200",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/people/Mark-Ferguson-for-Gateshead-Central-and-Whickham/61560612202018/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/markfergusonmp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/markfergusonmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5031
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5031,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Mark Ferguson",
+    "full_title": "Mark Ferguson MP",
+    "list_as": "Ferguson, Mark"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Secretary (Cabinet Office)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Gateshead Central and Whickham",
+        "constituency_id": 4059,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Mark Ferguson is the Labour MP for <a href='/constituency/4059/overview'>Gateshead Central and Whickham</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Parliamentary Secretary (Cabinet Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5031/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 295,
+        "voting_participation_pct": 91.61
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 199,
+        "voting_participation_pct": 84.32
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 564,
+        "voting_participation_pct": 89.38
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 564,
+    "voting_participation_pct": 89.38
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

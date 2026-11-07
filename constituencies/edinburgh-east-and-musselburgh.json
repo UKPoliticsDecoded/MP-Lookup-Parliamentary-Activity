@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 3197.9,
+    "bng": {
+      "easting": 331065,
+      "northing": 672603
+    },
+    "centroid": {
+      "latitude": 55.9415,
+      "longitude": -3.1052
+    },
+    "geojson": "constituencies/boundaries/edinburgh-east-and-musselburgh.geojson",
+    "ons_code": "S14000078",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5245.json",
+    "member_id": 5245,
+    "name": "Chris Murray",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76188,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3715,
+      "result": "Lab Gain",
+      "turnout": 45575,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4467,
+  "is_current": true,
+  "name": "Edinburgh East and Musselburgh",
+  "name_cy": null,
+  "ons_code": "S14000078",
+  "outcodes": [
+    "EH1",
+    "EH10",
+    "EH15",
+    "EH16",
+    "EH2",
+    "EH21",
+    "EH3",
+    "EH6",
+    "EH7",
+    "EH8",
+    "EH9",
+    "EH99"
+  ],
+  "schema_version": 1,
+  "slug": "edinburgh-east-and-musselburgh",
+  "start_date": "2024-05-31"
+}

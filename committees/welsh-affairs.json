@@ -1,0 +1,573 @@
+{
+  "activity": {
+    "current_members": 11,
+    "formal_meetings_held": 205,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 162
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 4716,
+      "name": "Ruth Jones"
+    }
+  ],
+  "contact": {
+    "address": "Welsh Affairs Committee, House of Commons, London, SW1A 0AA",
+    "email": "welshcom@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 162,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 30,
+        "meetings_available": 30
+      },
+      "file": "mps/4494.json",
+      "member_id": 4494,
+      "name": "Simon Hoare",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2018-11-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-10-16"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-01-13"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 20,
+        "meetings_available": 20
+      },
+      "file": "mps/4501.json",
+      "member_id": 4501,
+      "name": "Gerald Jones",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2016-11-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-07-13"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-11-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 161,
+        "meetings_available": 161
+      },
+      "file": "mps/4630.json",
+      "member_id": 4630,
+      "name": "Ben Lake",
+      "party": "Plaid Cymru",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 152,
+        "meetings_available": 152
+      },
+      "file": "mps/4716.json",
+      "member_id": 4716,
+      "name": "Ruth Jones",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-06-15"
+        },
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-09-09"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-09"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 36,
+        "meetings_available": 36
+      },
+      "file": "mps/5046.json",
+      "member_id": 5046,
+      "name": "Andrew Ranger",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 36,
+        "meetings_available": 36
+      },
+      "file": "mps/5085.json",
+      "member_id": 5085,
+      "name": "Llinos Medi",
+      "party": "Plaid Cymru",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 31,
+        "meetings_available": 31
+      },
+      "file": "mps/5104.json",
+      "member_id": 5104,
+      "name": "Gill German",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-01-06"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 36,
+        "meetings_available": 36
+      },
+      "file": "mps/5121.json",
+      "member_id": 5121,
+      "name": "Henry Tufnell",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 36,
+        "meetings_available": 36
+      },
+      "file": "mps/5177.json",
+      "member_id": 5177,
+      "name": "Ann Davies",
+      "party": "Plaid Cymru",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 36,
+        "meetings_available": 36
+      },
+      "file": "mps/5221.json",
+      "member_id": 5221,
+      "name": "Steve Witherden",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 36,
+        "meetings_available": 36
+      },
+      "file": "mps/5284.json",
+      "member_id": 5284,
+      "name": "David Chadwick",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/155.json",
+      "member_id": 155,
+      "name": "Geraint Davies",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2015-03-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2010-07-12"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 33,
+        "meetings_available": 33
+      },
+      "file": "mps/1398.json",
+      "member_id": 1398,
+      "name": "Wayne David",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2007-11-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2007-06-04"
+        },
+        {
+          "end": "2024-01-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-06-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/1554.json",
+      "member_id": 1554,
+      "name": "Stephen Crabb",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2007-12-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2005-07-17"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2020-01-27"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/4040.json",
+      "member_id": 4040,
+      "name": "Chris Evans",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2025-01-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 93,
+        "meetings_available": 93
+      },
+      "file": "mps/4623.json",
+      "member_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-10-16"
+        },
+        {
+          "end": "2022-06-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/4746.json",
+      "member_id": 4746,
+      "name": "Robin Millar",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/4766.json",
+      "member_id": 4766,
+      "name": "Dr Jamie Wallis",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/4800.json",
+      "member_id": 4800,
+      "name": "Simon Baynes",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/4809.json",
+      "member_id": 4809,
+      "name": "Beth Winter",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/4810.json",
+      "member_id": 4810,
+      "name": "Mr Rob Roberts",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 126,
+        "meetings_available": 126
+      },
+      "file": "mps/4859.json",
+      "member_id": 4859,
+      "name": "Virginia Crosbie",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-03-02"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 16,
+        "meetings_available": 16
+      },
+      "file": "mps/5113.json",
+      "member_id": 5113,
+      "name": "Claire Hughes",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2025-11-17",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/5241.json",
+      "member_id": 5241,
+      "name": "Aphra Brandreth",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2025-01-13",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-16"
+        }
+      ]
+    }
+  ],
+  "name": "Welsh Affairs Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The Welsh Affairs Committee is responsible for scrutinising the expenditure, administration and policies of the Wales Office, and the policies of the UK Government as a whole that have an impact in Wales.</p>\r\n<p>Follow us on social media&nbsp;<a href=\"https://bsky.app/profile/hoccommittees.parliament.uk\">Bluesky</a> | <a href=\"https://www.facebook.com/profile.php?id=61579513151155\">Facebook</a>&nbsp;|&nbsp;<a href=\"https://www.instagram.com/ukcommonscommittees\">Instagram</a>&nbsp;|&nbsp;<a href=\"https://www.linkedin.com/showcase/house-of-commons-committees\">LinkedIn</a> | <a href=\"https://www.reddit.com/user/UKCommonsCommittees/\">Reddit</a> | <a href=\"https://x.com/HoCcommitteesUK\">X</a> |&nbsp;<a href=\"https://www.youtube.com/playlist?list=PLj3mInRJqIekxA--aDW780T_TUCwjea4M\">YouTube</a><u></u></p>\r\n<p>Sign up to the <a href=\"https://mailchi.mp/email/committeecorridor\">weekly cross-committee newsletter, ‘Committee Corridor’</a></p>\r\n<p><a href=\"https://committees.parliament.uk/committee/162/welsh-affairs-committee/content/108750/diversity-of-witnesses-welsh-affairs-committee/\">Diversity of witnesses - Welsh Affairs Committee</a>&nbsp;/&nbsp;<a href=\"https://committees.parliament.uk/committee/162/welsh-affairs-committee/content/108733/amrywiaeth-tystion-pwyllgor-materion-cymreig/\">Amrywiaeth Tystion - Pwyllgor Materion Cymreig</a></p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "welsh-affairs",
+  "start_date": "1979-05-03",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Public Standing Orders - Departmental"
+  ]
+}

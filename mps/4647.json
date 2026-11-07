@@ -1,0 +1,379 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 49,
+        "debates_participated": 14
+      },
+      "2021": {
+        "debate_contributions": 156,
+        "debates_participated": 29
+      },
+      "2022": {
+        "debate_contributions": 237,
+        "debates_participated": 41,
+        "oral_questions": 1
+      },
+      "2023": {
+        "debate_contributions": 111,
+        "debates_participated": 20
+      },
+      "2024": {
+        "debate_contributions": 176,
+        "debates_participated": 44,
+        "written_questions": 19
+      },
+      "2025": {
+        "debate_contributions": 62,
+        "debates_participated": 37,
+        "oral_questions": 4,
+        "written_questions": 75
+      },
+      "2026": {
+        "debate_contributions": 42,
+        "debates_participated": 16,
+        "written_questions": 41
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 833,
+    "debates_participated": 201,
+    "early_day_motions": 0,
+    "oral_questions": 5,
+    "petitions_presented": 0,
+    "written_questions": 135
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 833,
+    "voting_participation_pct": 82.46,
+    "written_questions": 135
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Zoological Society of London (Leases) Bill",
+      "committee_id": 707,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      },
+      {
+        "committee": "Zoological Society of London (Leases) Bill",
+        "committee_id": 707,
+        "file": "committees/zoological-society-of-london-leases-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-21"
+          }
+        ],
+        "slug": "zoological-society-of-london-leases-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hornchurch-and-upminster.json",
+    "id": 4107,
+    "name": "Hornchurch and Upminster",
+    "ons_code": "E14001292",
+    "slug": "hornchurch-and-upminster"
+  },
+  "contact": [
+    {
+      "address": "House of Commons",
+      "email": "julia.lopez.mp@parliament.uk",
+      "phone": "0207 219 2631",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.julialopez.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/JuliaLopezMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4647
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4647,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Julia Lopez",
+    "display": "Julia Lopez",
+    "full_title": "Julia Lopez MP",
+    "list_as": "Lopez, Julia"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Culture, Media and Sport)",
+        "start_date": "2023-12-20"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Science, Innovation and Technology)",
+        "start_date": "2023-12-20"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2023-12-20",
+        "is_current": false,
+        "name": "Minister on Leave (Minister of State)",
+        "start_date": "2023-05-09"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2023-12-20",
+        "is_current": false,
+        "name": "Minister on Leave (Minister of State)",
+        "start_date": "2023-05-09"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2023-05-09",
+        "is_current": false,
+        "name": "Minister of State (Department for Science, Innovation and Technology)",
+        "start_date": "2023-03-07"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2023-05-09",
+        "is_current": false,
+        "name": "Minister of State (Department for Culture, Media and Sport)",
+        "start_date": "2023-02-07"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2023-02-07",
+        "is_current": false,
+        "name": "Minister of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2021-09-16"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "2020-02-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business, Innovation, Science and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Business, Innovation, Science and Trade)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Science, Innovation and Technology",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Culture, Media and Sport",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hornchurch and Upminster",
+        "constituency_id": 4107,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Hornchurch and Upminster",
+        "constituency_id": 3537,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Julia Lopez is the Conservative MP for <a href='/constituency/4107/overview'>Hornchurch and Upminster</a>, and has been an MP continually since 8 June 2017. \r\nShe currently undertakes the role of Shadow Minister (Business, Innovation, Science and Trade).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4647/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 168,
+        "voting_participation_pct": 88.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 220,
+        "voting_participation_pct": 90.91
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 216,
+        "voting_participation_pct": 86.06
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 217,
+        "voting_participation_pct": 84.77
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 164,
+        "voting_participation_pct": 82.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 234,
+        "voting_participation_pct": 72.67
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 180,
+        "voting_participation_pct": 76.27
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 937,
+        "voting_participation_pct": 87.73
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 464,
+        "voting_participation_pct": 73.53
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1401,
+    "voting_participation_pct": 82.46
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

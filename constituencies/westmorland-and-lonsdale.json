@@ -1,0 +1,83 @@
+{
+  "boundary": {
+    "area_hectares": 241202.1,
+    "bng": {
+      "easting": 353851,
+      "northing": 505255
+    },
+    "centroid": {
+      "latitude": 54.4406,
+      "longitude": -2.71306
+    },
+    "geojson": "constituencies/boundaries/westmorland-and-lonsdale.geojson",
+    "ons_code": "E14001580",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1591.json",
+    "member_id": 1591,
+    "name": "Tim Farron",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72029,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 21472,
+      "result": "LD Gain",
+      "turnout": 49533,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3850,
+      "end_date": "2024-05-30",
+      "member_id": 1591,
+      "name": "Tim Farron",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 3161,
+      "end_date": "2010-05-06",
+      "member_id": 1591,
+      "name": "Tim Farron",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4395,
+  "is_current": true,
+  "name": "Westmorland and Lonsdale",
+  "name_cy": null,
+  "ons_code": "E14001580",
+  "outcodes": [
+    "CA10",
+    "CA11",
+    "CA12",
+    "CA16",
+    "CA17",
+    "DL12",
+    "LA10",
+    "LA11",
+    "LA12",
+    "LA21",
+    "LA22",
+    "LA23",
+    "LA6",
+    "LA7",
+    "LA8",
+    "LA9"
+  ],
+  "schema_version": 1,
+  "slug": "westmorland-and-lonsdale",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 51267.8,
+    "bng": {
+      "easting": 438918,
+      "northing": 232636
+    },
+    "centroid": {
+      "latitude": 51.99082,
+      "longitude": -1.43462
+    },
+    "geojson": "constituencies/boundaries/banbury.geojson",
+    "ons_code": "E14001072",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5328.json",
+    "member_id": 5328,
+    "name": "Sean Woodcock",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73250,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3256,
+      "result": "Lab Gain",
+      "turnout": 48178,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3887,
+  "is_current": true,
+  "name": "Banbury",
+  "name_cy": null,
+  "ons_code": "E14001072",
+  "outcodes": [
+    "GL56",
+    "OX15",
+    "OX16",
+    "OX17",
+    "OX25",
+    "OX27",
+    "OX29",
+    "OX7"
+  ],
+  "schema_version": 1,
+  "slug": "banbury",
+  "start_date": "2024-05-31"
+}

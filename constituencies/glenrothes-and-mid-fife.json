@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 17320.4,
+    "bng": {
+      "easting": 328368,
+      "northing": 698666
+    },
+    "centroid": {
+      "latitude": 56.17522,
+      "longitude": -3.15535
+    },
+    "geojson": "constituencies/boundaries/glenrothes-and-mid-fife.geojson",
+    "ons_code": "S14000090",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5253.json",
+    "member_id": 5253,
+    "name": "Richard Baker",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70655,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2954,
+      "result": "Lab Gain",
+      "turnout": 36139,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4479,
+  "is_current": true,
+  "name": "Glenrothes and Mid Fife",
+  "name_cy": null,
+  "ons_code": "S14000090",
+  "outcodes": [
+    "KY1",
+    "KY12",
+    "KY2",
+    "KY4",
+    "KY5",
+    "KY6",
+    "KY7",
+    "KY8"
+  ],
+  "schema_version": 1,
+  "slug": "glenrothes-and-mid-fife",
+  "start_date": "2024-05-31"
+}

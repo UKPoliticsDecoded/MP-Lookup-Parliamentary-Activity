@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 53843.1,
+    "bng": {
+      "easting": 410473,
+      "northing": 387653
+    },
+    "centroid": {
+      "latitude": 53.38563,
+      "longitude": -1.844
+    },
+    "geojson": "constituencies/boundaries/high-peak.geojson",
+    "ons_code": "E14001287",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5115.json",
+    "member_id": 5115,
+    "name": "Jon Pearce",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74385,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7908,
+      "result": "Lab Gain",
+      "turnout": 49206,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3534,
+      "end_date": "2024-05-30",
+      "member_id": 4852,
+      "name": "Robert Largan",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4102,
+  "is_current": true,
+  "name": "High Peak",
+  "name_cy": null,
+  "ons_code": "E14001287",
+  "outcodes": [
+    "S33",
+    "SK13",
+    "SK14",
+    "SK17",
+    "SK22",
+    "SK23"
+  ],
+  "schema_version": 1,
+  "slug": "high-peak",
+  "start_date": "2024-05-31"
+}

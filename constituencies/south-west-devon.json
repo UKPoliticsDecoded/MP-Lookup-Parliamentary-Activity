@@ -1,0 +1,80 @@
+{
+  "boundary": {
+    "area_hectares": 39398.7,
+    "bng": {
+      "easting": 258144,
+      "northing": 60188
+    },
+    "centroid": {
+      "latitude": 50.42435,
+      "longitude": -3.9984
+    },
+    "geojson": "constituencies/boundaries/south-west-devon.geojson",
+    "ons_code": "E14001495",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5301.json",
+    "member_id": 5301,
+    "name": "Rebecca Smith",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77600,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2112,
+      "result": "Con Hold",
+      "turnout": 52242,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3755,
+      "end_date": "2024-05-30",
+      "member_id": 234,
+      "name": "Sir Gary Streeter",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2683,
+      "end_date": "2010-05-06",
+      "member_id": 234,
+      "name": "Sir Gary Streeter",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4310,
+  "is_current": true,
+  "name": "South West Devon",
+  "name_cy": null,
+  "ons_code": "E14001495",
+  "outcodes": [
+    "PL1",
+    "PL2",
+    "PL20",
+    "PL21",
+    "PL3",
+    "PL4",
+    "PL5",
+    "PL6",
+    "PL7",
+    "PL8",
+    "PL9",
+    "PL95",
+    "TQ10"
+  ],
+  "schema_version": 1,
+  "slug": "south-west-devon",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 1108.7,
+    "bng": {
+      "easting": 527687,
+      "northing": 172670
+    },
+    "centroid": {
+      "latitude": 51.43864,
+      "longitude": -0.16428
+    },
+    "geojson": "constituencies/boundaries/tooting.geojson",
+    "ons_code": "E14001550",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4573.json",
+    "member_id": 4573,
+    "name": "Dr Rosena Allin-Khan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76168,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 19487,
+      "result": "Lab Hold",
+      "turnout": 52943,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3806,
+      "end_date": "2024-05-30",
+      "member_id": 4573,
+      "name": "Dr Rosena Allin-Khan",
+      "start_date": "2016-06-16"
+    }
+  ],
+  "id": 4365,
+  "is_current": true,
+  "name": "Tooting",
+  "name_cy": null,
+  "ons_code": "E14001550",
+  "outcodes": [
+    "SW11",
+    "SW12",
+    "SW16",
+    "SW17",
+    "SW18"
+  ],
+  "schema_version": 1,
+  "slug": "tooting",
+  "start_date": "2024-05-31"
+}

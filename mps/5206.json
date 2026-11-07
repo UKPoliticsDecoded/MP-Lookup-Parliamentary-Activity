@@ -1,0 +1,176 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 12,
+        "oral_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 35,
+        "debates_participated": 26,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 22,
+        "debates_participated": 16,
+        "oral_questions": 4,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 73,
+    "debates_participated": 54,
+    "early_day_motions": 1,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 8
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 73,
+    "voting_participation_pct": 61.97,
+    "written_questions": 8
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 59,
+      "meetings_available": 59
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ayr-carrick-and-cumnock.json",
+    "id": 4439,
+    "name": "Ayr, Carrick and Cumnock",
+    "ons_code": "S14000107",
+    "slug": "ayr-carrick-and-cumnock"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "elaine.stewart.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "No 6 Lorne Arcade, Ayr",
+      "phone": "01292 502058",
+      "postcode": "KA7 1QL",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5206
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5206,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Elaine Stewart",
+    "full_title": "Elaine Stewart MP",
+    "list_as": "Stewart, Elaine"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ayr, Carrick and Cumnock",
+        "constituency_id": 4439,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Elaine Stewart is the Labour MP for <a href='/constituency/4439/overview'>Ayr, Carrick and Cumnock</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5206/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 60,
+        "voting_participation_pct": 82.19
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 199,
+        "voting_participation_pct": 61.8
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 132,
+        "voting_participation_pct": 55.93
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 391,
+        "voting_participation_pct": 61.97
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 391,
+    "voting_participation_pct": 61.97
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

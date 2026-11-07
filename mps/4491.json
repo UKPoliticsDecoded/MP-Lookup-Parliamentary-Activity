@@ -1,0 +1,417 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 62,
+        "debates_participated": 53,
+        "oral_questions": 16,
+        "written_questions": 267
+      },
+      "2021": {
+        "debate_contributions": 52,
+        "debates_participated": 43,
+        "oral_questions": 11,
+        "written_questions": 254
+      },
+      "2022": {
+        "debate_contributions": 62,
+        "debates_participated": 42,
+        "oral_questions": 16,
+        "written_questions": 409
+      },
+      "2023": {
+        "debate_contributions": 59,
+        "debates_participated": 41,
+        "oral_questions": 15,
+        "written_questions": 451
+      },
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 21,
+        "oral_questions": 5,
+        "written_questions": 112
+      },
+      "2025": {
+        "debate_contributions": 22,
+        "debates_participated": 11,
+        "written_questions": 32
+      },
+      "2026": {
+        "debate_contributions": 11,
+        "debates_participated": 8,
+        "oral_questions": 2,
+        "written_questions": 53
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 298,
+    "debates_participated": 219,
+    "early_day_motions": 0,
+    "oral_questions": 65,
+    "petitions_presented": 0,
+    "written_questions": 1578
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 298,
+    "voting_participation_pct": 81.87,
+    "written_questions": 1578
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "British Sign Language Bill",
+      "committee_id": 588,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": false,
+      "meetings_attended": 35,
+      "meetings_available": 35
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill [HL]",
+      "committee_id": 795,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "British Sign Language Bill",
+        "committee_id": 588,
+        "file": "committees/british-sign-language-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "british-sign-language-bill"
+      },
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Football Governance Bill [HL]",
+        "committee_id": 795,
+        "file": "committees/football-governance-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-14"
+          }
+        ],
+        "slug": "football-governance-bill-hl"
+      },
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/lewisham-north.json",
+    "id": 4147,
+    "name": "Lewisham North",
+    "ons_code": "E14001332",
+    "slug": "lewisham-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "vicky.foxcroft.mp@parliament.uk",
+      "phone": "020 7219 5934",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "020 8469 4638",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.vickyfoxcroft.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/vickyfoxcroftmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/VickyFoxcroftLabour"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/vickyfoxcroft"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4491
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4491,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Vicky Foxcroft",
+    "display": "Vicky Foxcroft",
+    "full_title": "Vicky Foxcroft MP",
+    "list_as": "Foxcroft, Vicky"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-06-19",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport) (Civil Society)",
+        "start_date": "2019-06-24"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2019-06-24",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lewisham North",
+        "constituency_id": 4147,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Lewisham, Deptford",
+        "constituency_id": 3577,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Vicky Foxcroft is the Labour MP for <a href='/constituency/4147/overview'>Lewisham North</a>, and has been an MP continually since 7 May 2015. \r\nShe currently holds the Government post of Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4491/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 206,
+        "voting_participation_pct": 80.47
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 144,
+        "voting_participation_pct": 72.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 283,
+        "voting_participation_pct": 87.89
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 195,
+        "voting_participation_pct": 82.63
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 843,
+        "voting_participation_pct": 78.93
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 548,
+        "voting_participation_pct": 86.85
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1391,
+    "voting_participation_pct": 81.87
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

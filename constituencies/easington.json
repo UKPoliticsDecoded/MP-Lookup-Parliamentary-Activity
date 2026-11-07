@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 14877.5,
+    "bng": {
+      "easting": 441536,
+      "northing": 542519
+    },
+    "centroid": {
+      "latitude": 54.77588,
+      "longitude": -1.35582
+    },
+    "geojson": "constituencies/boundaries/easington.geojson",
+    "ons_code": "E14001211",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3973.json",
+    "member_id": 3973,
+    "name": "Grahame Morris",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69395,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6542,
+      "result": "Lab Hold",
+      "turnout": 34324,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3458,
+      "end_date": "2024-05-30",
+      "member_id": 3973,
+      "name": "Grahame Morris",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4026,
+  "is_current": true,
+  "name": "Easington",
+  "name_cy": null,
+  "ons_code": "E14001211",
+  "outcodes": [
+    "DH6",
+    "SR7",
+    "SR8",
+    "TS27",
+    "TS28",
+    "TS29"
+  ],
+  "schema_version": 1,
+  "slug": "easington",
+  "start_date": "2024-05-31"
+}

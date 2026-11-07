@@ -1,0 +1,546 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 90,
+        "debates_participated": 67,
+        "oral_questions": 27,
+        "written_questions": 36
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 121,
+        "debates_participated": 61,
+        "oral_questions": 18,
+        "written_questions": 35
+      },
+      "2022": {
+        "debate_contributions": 91,
+        "debates_participated": 53,
+        "oral_questions": 15,
+        "written_questions": 61
+      },
+      "2023": {
+        "debate_contributions": 86,
+        "debates_participated": 62,
+        "oral_questions": 29,
+        "written_questions": 44
+      },
+      "2024": {
+        "debate_contributions": 35,
+        "debates_participated": 28,
+        "oral_questions": 11,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 9,
+        "debates_participated": 7,
+        "oral_questions": 5,
+        "written_questions": 2
+      },
+      "2026": {
+        "debate_contributions": 32,
+        "debates_participated": 23,
+        "oral_questions": 12,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 464,
+    "debates_participated": 301,
+    "early_day_motions": 0,
+    "oral_questions": 117,
+    "petitions_presented": 0,
+    "written_questions": 198
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 464,
+    "voting_participation_pct": 78.63,
+    "written_questions": 198
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 37,
+      "meetings_available": 37
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL]",
+      "committee_id": 576,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Charities Bill [HL] Second Reading Committee",
+      "committee_id": 574,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Dormant Assets Bill [HL]",
+      "committee_id": 568,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+      "committee_id": 673,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Football Governance Bill",
+      "committee_id": 727,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+      "committee_id": 559,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+      "committee_id": 531,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-28"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Charities Bill [HL]",
+        "committee_id": 576,
+        "file": "committees/charities-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-19"
+          }
+        ],
+        "slug": "charities-bill-hl"
+      },
+      {
+        "committee": "Charities Bill [HL] Second Reading Committee",
+        "committee_id": 574,
+        "file": "committees/charities-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "charities-bill-hl-second-reading"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Dormant Assets Bill [HL]",
+        "committee_id": 568,
+        "file": "committees/dormant-assets-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "dormant-assets-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+        "committee_id": 673,
+        "file": "committees/electronic-trade-documents-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl-second-reading"
+      },
+      {
+        "committee": "Football Governance Bill",
+        "committee_id": 727,
+        "file": "committees/football-governance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "football-governance-bill"
+      },
+      {
+        "committee": "Leasehold Reform (Ground Rent) Bill [HL]",
+        "committee_id": 559,
+        "file": "committees/leasehold-reform-ground-rent-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-01"
+          }
+        ],
+        "slug": "leasehold-reform-ground-rent-bill-hl"
+      },
+      {
+        "committee": "Rating (Coronavirus) and Directors Disqualification (Dissolved Companies) Bill",
+        "committee_id": 531,
+        "file": "committees/rating-coronavirus-and-directors-disqualification-dissolved-companies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-01"
+          }
+        ],
+        "slug": "rating-coronavirus-and-directors-disqualification-dissolved-companies-bill"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/manchester-withington.json",
+    "id": 4169,
+    "name": "Manchester Withington",
+    "ons_code": "E14001354",
+    "slug": "manchester-withington"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jeff.smith.mp@parliament.uk",
+      "phone": "020 7219 5878",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0161 445 0678",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://jeffsmithmp.com/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/jeffsmithmp.bsky.social"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4456
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4456,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Jeff Smith",
+    "display": "Jeff Smith",
+    "full_title": "Jeff Smith MP",
+    "list_as": "Smith, Jeff"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2023-11-28"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Clean Power and Consumers)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Digital, Culture, Media and Sport)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2021-09-19"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2021-09-19",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2021-05-14"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2021-05-14",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Manchester Withington",
+        "constituency_id": 4169,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Manchester, Withington",
+        "constituency_id": 3598,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Jeff Smith is the Labour MP for <a href='/constituency/4169/overview'>Manchester Withington</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4456/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 146,
+        "voting_participation_pct": 76.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 210,
+        "voting_participation_pct": 86.78
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 148,
+        "voting_participation_pct": 58.96
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 197,
+        "voting_participation_pct": 76.95
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 156,
+        "voting_participation_pct": 78.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 285,
+        "voting_participation_pct": 88.51
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 192,
+        "voting_participation_pct": 81.36
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 787,
+        "voting_participation_pct": 73.69
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 549,
+        "voting_participation_pct": 87.0
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1336,
+    "voting_participation_pct": 78.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

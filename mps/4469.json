@@ -1,0 +1,364 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 18,
+        "debates_participated": 11,
+        "early_day_motions": 11,
+        "oral_questions": 10,
+        "written_questions": 56
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 61,
+        "debates_participated": 35,
+        "early_day_motions": 9,
+        "oral_questions": 9,
+        "written_questions": 20
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 56,
+        "debates_participated": 27,
+        "early_day_motions": 29,
+        "oral_questions": 7,
+        "written_questions": 53
+      },
+      "2023": {
+        "debate_contributions": 30,
+        "debates_participated": 16,
+        "early_day_motions": 27,
+        "oral_questions": 6,
+        "written_questions": 61
+      },
+      "2024": {
+        "early_day_motions": 10,
+        "written_questions": 26
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 165,
+    "debates_participated": 89,
+    "early_day_motions": 86,
+    "oral_questions": 32,
+    "petitions_presented": 0,
+    "written_questions": 216
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 95.65,
+    "committee_memberships": 0,
+    "debate_contributions": 165,
+    "voting_participation_pct": 53.65,
+    "written_questions": 216
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Judicial Review and Courts Bill",
+      "committee_id": 548,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    },
+    {
+      "attendance_pct": 93.33,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 30
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "Judicial Review and Courts Bill",
+        "committee_id": 548,
+        "file": "committees/judicial-review-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-27"
+          }
+        ],
+        "slug": "judicial-review-and-courts-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-25"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-06"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2021-05-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1678,
+    "name": "Lanark and Hamilton East"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4469
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4469,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Angela Crawley",
+    "display": "Angela Crawley",
+    "full_title": "Angela Crawley",
+    "list_as": "Crawley, Angela"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Attorney General)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Defence Procurement)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Children and Families)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Equalities)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Pensions)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Youth affairs)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Child Maintenance)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Disabilities)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Family Support)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Housing)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Equalities, Women and Children)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lanark and Hamilton East",
+        "constituency_id": 1678,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Angela Crawley is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1678/overview'>Lanark and Hamilton East</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4469/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 126,
+        "voting_participation_pct": 66.32
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 151,
+        "voting_participation_pct": 62.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 105,
+        "voting_participation_pct": 41.83
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 95,
+        "voting_participation_pct": 37.11
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 94,
+        "voting_participation_pct": 74.02
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 573,
+        "voting_participation_pct": 53.65
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 573,
+    "voting_participation_pct": 53.65
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

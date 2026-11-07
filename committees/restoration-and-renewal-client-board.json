@@ -1,0 +1,737 @@
+{
+  "activity": {
+    "current_members": 7,
+    "formal_meetings_held": 16,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 16
+  },
+  "category": "Other",
+  "chairs": [
+    {
+      "member_id": 467,
+      "name": "Sir Lindsay Hoyle"
+    },
+    {
+      "member_id": 1141,
+      "name": "The Rt Hon. the Lord Forsyth of Drumlean"
+    }
+  ],
+  "contact": {
+    "email": "rrclientboard@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Joint",
+  "id": 616,
+  "is_current": true,
+  "lead_house": {
+    "isCommons": false,
+    "isLords": true
+  },
+  "members": [
+    {
+      "file": null,
+      "member_id": 333,
+      "name": "The Rt Hon. the Lord McLoughlin CH",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-31"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 16,
+        "meetings_available": 16
+      },
+      "file": "mps/467.json",
+      "member_id": 467,
+      "name": "Sir Lindsay Hoyle",
+      "party": "Speaker",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2022-10-17"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        },
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-07-22"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/529.json",
+      "member_id": 529,
+      "name": "Sir Alan Campbell",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-09-05"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1141,
+      "name": "The Rt Hon. the Lord Forsyth of Drumlean",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2026-02-03"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-02-03"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2542,
+      "name": "The Baroness Scott of Needham Market",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-31"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-05-14"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3179,
+      "name": "The Baroness Pitkeathley OBE",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-01-30"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 7,
+        "meetings_available": 7
+      },
+      "file": "mps/3928.json",
+      "member_id": 3928,
+      "name": "Nick Smith",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 7,
+        "meetings_available": 7
+      },
+      "file": "mps/3991.json",
+      "member_id": 3991,
+      "name": "Jesse Norman",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 7,
+        "meetings_available": 7
+      },
+      "file": "mps/4095.json",
+      "member_id": 4095,
+      "name": "Steve Barclay",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-12-04"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4170,
+      "name": "The Rt Hon. the Baroness Smith of Basildon",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4200,
+      "name": "The Rt Hon. the Lord True CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4293,
+      "name": "The Lord Purvis of Tweed",
+      "party": null,
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-07-25"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4354,
+      "name": "The Earl of Kinnoull",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-04-27"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4914,
+      "name": "The Lord Morse KCB",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-31"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/5083.json",
+      "member_id": 5083,
+      "name": "Bobby Dean",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-01-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 6,
+        "meetings_available": 6
+      },
+      "file": "mps/5257.json",
+      "member_id": 5257,
+      "name": "Rachel Blake",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2026-05-14",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-04"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-09-02"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 4,
+        "meetings_available": 4
+      },
+      "file": "mps/523.json",
+      "member_id": 523,
+      "name": "Mr Nicholas Brown",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2023-03-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 542,
+      "name": "The Rt Hon. the Lord Touhig",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-01-09",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/1493.json",
+      "member_id": 1493,
+      "name": "Sir Charles Walker",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/1521.json",
+      "member_id": 1521,
+      "name": "Mrs Sharon Hodgson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-03-08"
+        },
+        {
+          "end": "2024-12-04",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 1916,
+      "name": "The Rt Hon. the Lord Newby OBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        },
+        {
+          "end": "2025-07-25",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2506,
+      "name": "The Baroness McIntosh of Hudnall",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-09"
+        },
+        {
+          "end": "2025-01-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3867,
+      "name": "The Rt Hon. the Lord Judge",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-04-27",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/4017.json",
+      "member_id": 4017,
+      "name": "Penny Mordaunt",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4144,
+      "name": "The Rt Hon. the Lord Hill of Oareford CBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4148,
+      "name": "The Rt Hon. the Lord McFall of Alcluith",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2022-10-17"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        },
+        {
+          "end": "2026-02-03",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-07-22"
+        },
+        {
+          "end": "2026-02-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4161,
+      "name": "The Lord Gardiner of Kimble",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        },
+        {
+          "end": "2026-04-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4163,
+      "name": "The Lord German OBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/4263.json",
+      "member_id": 4263,
+      "name": "Lucy Powell",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": "2025-09-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-09-05"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/4417.json",
+      "member_id": 4417,
+      "name": "Deidre Brock",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4433,
+      "name": "Thangam Debbonaire",
+      "party": null,
+      "roles": [
+        {
+          "end": "2023-09-04",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4503.json",
+      "member_id": 4503,
+      "name": "Chris Philp",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-11-05",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-07-22"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4687,
+      "name": "The Lord Vaux of Harrowden",
+      "party": null,
+      "roles": [
+        {
+          "end": "2024-01-31",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 9,
+        "meetings_available": 9
+      },
+      "file": "mps/4741.json",
+      "member_id": 4741,
+      "name": "Nickie Aiken",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-10-17"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 5,
+        "meetings_available": 5
+      },
+      "file": "mps/5073.json",
+      "member_id": 5073,
+      "name": "Marie Goldman",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": "2026-01-07",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-15"
+        }
+      ]
+    }
+  ],
+  "name": "Restoration and Renewal Client Board",
+  "parent_committee_id": null,
+  "purpose": "<p>The R&amp;R Client Board, made up of members of both Houses’ Commissions, is responsible for making critical strategic choices and recommendations relating to the restoration and renewal of the Palace of Westminster.The Committee published its&nbsp;<a href=\"https://committees.parliament.uk/committee/616/restoration-and-renewal-client-board/publications/reports-responses/\">report on costed proposals in multiple formats</a>&nbsp;on 5 February 2026.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "restoration-and-renewal-client-board",
+  "start_date": "2022-10-17",
+  "sub_committee_ids": [],
+  "types": [
+    "Other"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 53580.5,
+    "bng": {
+      "easting": 434930,
+      "northing": 130031
+    },
+    "centroid": {
+      "latitude": 51.06854,
+      "longitude": -1.50284
+    },
+    "geojson": "constituencies/boundaries/romsey-and-southampton-north.geojson",
+    "ons_code": "E14001449",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4048.json",
+    "member_id": 4048,
+    "name": "Caroline Nokes",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71871,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2191,
+      "result": "Con Hold",
+      "turnout": 50027,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3704,
+      "end_date": "2024-05-30",
+      "member_id": 4048,
+      "name": "Caroline Nokes",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4264,
+  "is_current": true,
+  "name": "Romsey and Southampton North",
+  "name_cy": null,
+  "ons_code": "E14001449",
+  "outcodes": [
+    "RG28",
+    "SO15",
+    "SO16",
+    "SO17",
+    "SO18",
+    "SO20",
+    "SO21",
+    "SO50",
+    "SO51",
+    "SO52",
+    "SO53",
+    "SP10",
+    "SP11",
+    "SP4",
+    "SP5",
+    "SP9"
+  ],
+  "schema_version": 1,
+  "slug": "romsey-and-southampton-north",
+  "start_date": "2024-05-31"
+}

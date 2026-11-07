@@ -1,0 +1,191 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 10,
+        "debates_participated": 9,
+        "oral_questions": 2,
+        "written_questions": 37
+      },
+      "2025": {
+        "debate_contributions": 93,
+        "debates_participated": 64,
+        "early_day_motions": 3,
+        "oral_questions": 5,
+        "written_questions": 103
+      },
+      "2026": {
+        "debate_contributions": 88,
+        "debates_participated": 65,
+        "early_day_motions": 3,
+        "oral_questions": 9,
+        "written_questions": 82
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 191,
+    "debates_participated": 138,
+    "early_day_motions": 6,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 222
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 191,
+    "voting_participation_pct": 85.58,
+    "written_questions": 222
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/north-east-hertfordshire.json",
+    "id": 4208,
+    "name": "North East Hertfordshire",
+    "ons_code": "E14001393",
+    "slug": "north-east-hertfordshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "chris.hinchliff.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01462 415153",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/chrishinchliffmp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5244
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5244,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Chris Hinchliff",
+    "full_title": "Chris Hinchliff MP",
+    "list_as": "Hinchliff, Chris"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2025-11-07"
+      },
+      {
+        "end_date": "2025-11-07",
+        "party": "Independent",
+        "start_date": "2025-07-16"
+      },
+      {
+        "end_date": "2025-07-16",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North East Hertfordshire",
+        "constituency_id": 4208,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Chris Hinchliff is the Labour MP for <a href='/constituency/4208/overview'>North East Hertfordshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5244/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 68,
+        "voting_participation_pct": 93.15
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 281,
+        "voting_participation_pct": 87.27
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 191,
+        "voting_participation_pct": 80.93
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 540,
+        "voting_participation_pct": 85.58
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 540,
+    "voting_participation_pct": 85.58
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

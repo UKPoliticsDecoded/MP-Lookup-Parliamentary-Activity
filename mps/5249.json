@@ -1,0 +1,346 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 3,
+        "debate_contributions": 72,
+        "debates_participated": 49,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 52
+      },
+      "2025": {
+        "debate_contributions": 403,
+        "debates_participated": 154,
+        "early_day_motions": 9,
+        "oral_questions": 9,
+        "written_questions": 289
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 272,
+        "debates_participated": 124,
+        "early_day_motions": 8,
+        "oral_questions": 2,
+        "written_questions": 151
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 747,
+    "debates_participated": 327,
+    "early_day_motions": 21,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 492
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 747,
+    "voting_participation_pct": 80.03,
+    "written_questions": 492
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 38,
+      "meetings_available": 38
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Representation of the People Bill",
+      "committee_id": 835,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Representation of the People Bill",
+        "committee_id": 835,
+        "file": "committees/representation-of-the-people-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-03-11"
+          }
+        ],
+        "slug": "representation-of-the-people-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-herefordshire.json",
+    "id": 4210,
+    "name": "North Herefordshire",
+    "ons_code": "E14001395",
+    "slug": "north-herefordshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ellie.chowns.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://elliechowns.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/elliechowns.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/EllieChowns"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/elliechowns/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5249
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5249,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Ellie Chowns",
+    "full_title": "Dr Ellie Chowns MP",
+    "list_as": "Chowns, Dr Ellie"
+  },
+  "party": {
+    "abbreviation": "Green",
+    "id": 44,
+    "name": "Green Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Constitutional Affairs)",
+        "start_date": "2026-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Treasury)",
+        "start_date": "2026-06-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Party Westminster Leader",
+        "start_date": "2025-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Defence)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Green Spokesperson (Foreign Affairs)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Business and Trade)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Education)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Housing, Communities and Local Government)",
+        "start_date": "2024-07-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-06-01",
+        "is_current": false,
+        "name": "Green Spokesperson (Social Care)",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3646,
+        "name": "North Herefordshire",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Green Party",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Herefordshire",
+        "constituency_id": 4210,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Ellie Chowns is the Green Party MP for <a href='/constituency/4210/overview'>North Herefordshire</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the roles of Green Spokesperson (Foreign Affairs), Green Spokesperson (Defence), Green Party Westminster Leader, Green Spokesperson (Constitutional Affairs), and Green Spokesperson (Treasury).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5249/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 60,
+        "voting_participation_pct": 82.19
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 264,
+        "voting_participation_pct": 81.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 181,
+        "voting_participation_pct": 76.69
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 505,
+        "voting_participation_pct": 80.03
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 505,
+    "voting_participation_pct": 80.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

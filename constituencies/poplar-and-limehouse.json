@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 954.5,
+    "bng": {
+      "easting": 537748,
+      "northing": 180421
+    },
+    "centroid": {
+      "latitude": 51.50594,
+      "longitude": -0.01659
+    },
+    "geojson": "constituencies/boundaries/poplar-and-limehouse.geojson",
+    "ons_code": "E14001430",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4790.json",
+    "member_id": 4790,
+    "name": "Apsana Begum",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 84116,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12560,
+      "result": "Lab Hold",
+      "turnout": 43051,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3683,
+      "end_date": "2024-05-30",
+      "member_id": 4790,
+      "name": "Apsana Begum",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4245,
+  "is_current": true,
+  "name": "Poplar and Limehouse",
+  "name_cy": null,
+  "ons_code": "E14001430",
+  "outcodes": [
+    "E14",
+    "E1W",
+    "E22",
+    "E3",
+    "E98",
+    "EC3N"
+  ],
+  "schema_version": 1,
+  "slug": "poplar-and-limehouse",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,77 @@
+{
+  "boundary": {
+    "area_hectares": 14990.7,
+    "bng": {
+      "easting": 239912,
+      "northing": 661211
+    },
+    "centroid": {
+      "latitude": 55.81753,
+      "longitude": -4.5566
+    },
+    "geojson": "constituencies/boundaries/paisley-and-renfrewshire-south.geojson",
+    "ons_code": "S14000102",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5063.json",
+    "member_id": 5063,
+    "name": "Johanna Baxter",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71574,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6527,
+      "result": "Lab Gain",
+      "turnout": 41283,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 2286,
+      "end_date": "2024-05-30",
+      "member_id": 4421,
+      "name": "Mhairi Black",
+      "start_date": "2015-05-07"
+    },
+    {
+      "constituency_version_id": 2286,
+      "end_date": "2015-03-30",
+      "member_id": 632,
+      "name": "Mr Douglas Alexander",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4491,
+  "is_current": true,
+  "name": "Paisley and Renfrewshire South",
+  "name_cy": null,
+  "ons_code": "S14000102",
+  "outcodes": [
+    "G78",
+    "PA1",
+    "PA10",
+    "PA11",
+    "PA12",
+    "PA2",
+    "PA3",
+    "PA5",
+    "PA6",
+    "PA9"
+  ],
+  "schema_version": 1,
+  "slug": "paisley-and-renfrewshire-south",
+  "start_date": "2024-05-31"
+}

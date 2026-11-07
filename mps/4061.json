@@ -1,0 +1,439 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 316,
+        "debates_participated": 105,
+        "oral_questions": 19,
+        "written_questions": 168
+      },
+      "2021": {
+        "debate_contributions": 152,
+        "debates_participated": 57,
+        "oral_questions": 12,
+        "written_questions": 144
+      },
+      "2022": {
+        "debate_contributions": 128,
+        "debates_participated": 61,
+        "oral_questions": 15,
+        "written_questions": 266
+      },
+      "2023": {
+        "debate_contributions": 62,
+        "debates_participated": 31,
+        "oral_questions": 14,
+        "written_questions": 459
+      },
+      "2024": {
+        "debate_contributions": 124,
+        "debates_participated": 50,
+        "oral_questions": 15,
+        "written_questions": 34
+      },
+      "2025": {
+        "debate_contributions": 68,
+        "debates_participated": 51,
+        "oral_questions": 5,
+        "written_questions": 1
+      },
+      "2026": {
+        "debate_contributions": 70,
+        "debates_participated": 39,
+        "oral_questions": 6,
+        "written_questions": 8
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 920,
+    "debates_participated": 394,
+    "early_day_motions": 0,
+    "oral_questions": 86,
+    "petitions_presented": 0,
+    "written_questions": 1080
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 920,
+    "voting_participation_pct": 68.98,
+    "written_questions": 1080
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": true,
+      "meetings_attended": 38,
+      "meetings_available": 38
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Automated Vehicles Bill [HL]",
+      "committee_id": 714,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Professional Qualifications Bill [HL]",
+      "committee_id": 571,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Subsidy Control Bill",
+      "committee_id": 546,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-02"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Automated Vehicles Bill [HL]",
+        "committee_id": 714,
+        "file": "committees/automated-vehicles-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-13"
+          }
+        ],
+        "slug": "automated-vehicles-bill-hl"
+      },
+      {
+        "committee": "Professional Qualifications Bill [HL]",
+        "committee_id": 571,
+        "file": "committees/professional-qualifications-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "professional-qualifications-bill-hl"
+      },
+      {
+        "committee": "Subsidy Control Bill",
+        "committee_id": 546,
+        "file": "committees/subsidy-control-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-20"
+          }
+        ],
+        "slug": "subsidy-control-bill"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/sefton-central.json",
+    "id": 4278,
+    "name": "Sefton Central",
+    "ons_code": "E14001463",
+    "slug": "sefton-central"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "bill.esterson.mp@parliament.uk",
+      "phone": "020 7219 0463",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "First Floor, Old Building , 73 Liverpool Road , Crosby",
+      "phone": "0151 531 8433",
+      "postcode": "L23 5SE",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/share/1W78PF1ivB/?mibextid=wwXIfr"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Bill_Esterson"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4061
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4061,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Bill Esterson",
+    "display": "Bill Esterson",
+    "full_title": "Bill Esterson MP",
+    "list_as": "Esterson, Bill"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Department for Business, Energy and Industrial Strategy",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Business and Industrial Strategy)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Minister (International Trade)",
+        "start_date": "2016-10-18"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Energy and Industrial Strategy)",
+        "start_date": "2016-07-01"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2016-06-30",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sefton Central",
+        "constituency_id": 4278,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Sefton Central",
+        "constituency_id": 3719,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Bill Esterson is the Labour MP for <a href='/constituency/4278/overview'>Sefton Central</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4061/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 137,
+        "voting_participation_pct": 72.11
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 207,
+        "voting_participation_pct": 85.54
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 179,
+        "voting_participation_pct": 71.31
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 158,
+        "voting_participation_pct": 61.72
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 130,
+        "voting_participation_pct": 65.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 237,
+        "voting_participation_pct": 73.6
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 122,
+        "voting_participation_pct": 51.69
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 745,
+        "voting_participation_pct": 69.76
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 427,
+        "voting_participation_pct": 67.67
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1172,
+    "voting_participation_pct": 68.98
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

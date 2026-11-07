@@ -1,0 +1,86 @@
+{
+  "boundary": {
+    "area_hectares": 57790.8,
+    "bng": {
+      "easting": 141325,
+      "northing": 26415
+    },
+    "centroid": {
+      "latitude": 50.08141,
+      "longitude": -5.61722
+    },
+    "geojson": "constituencies/boundaries/st-ives.geojson",
+    "ons_code": "E14001511",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/227.json",
+    "member_id": 227,
+    "name": "Andrew George",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69978,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13786,
+      "result": "LD Gain",
+      "turnout": 48106,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3769,
+      "end_date": "2024-05-30",
+      "member_id": 4532,
+      "name": "Derek Thomas",
+      "start_date": "2015-05-07"
+    },
+    {
+      "constituency_version_id": 3769,
+      "end_date": "2015-03-30",
+      "member_id": 227,
+      "name": "Andrew George",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2756,
+      "end_date": "2010-05-06",
+      "member_id": 227,
+      "name": "Andrew George",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4326,
+  "is_current": true,
+  "name": "St Ives",
+  "name_cy": null,
+  "ons_code": "E14001511",
+  "outcodes": [
+    "TR10",
+    "TR11",
+    "TR12",
+    "TR13",
+    "TR14",
+    "TR16",
+    "TR17",
+    "TR18",
+    "TR19",
+    "TR20",
+    "TR26",
+    "TR27"
+  ],
+  "schema_version": 1,
+  "slug": "st-ives",
+  "start_date": "2024-05-31"
+}

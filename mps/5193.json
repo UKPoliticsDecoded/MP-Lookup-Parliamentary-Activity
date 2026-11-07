@@ -1,0 +1,216 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 7,
+        "debates_participated": 4,
+        "oral_questions": 1,
+        "written_questions": 63
+      },
+      "2025": {
+        "debate_contributions": 57,
+        "debates_participated": 42,
+        "oral_questions": 13,
+        "written_questions": 593
+      },
+      "2026": {
+        "debate_contributions": 50,
+        "debates_participated": 33,
+        "oral_questions": 17,
+        "written_questions": 486
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 114,
+    "debates_participated": 79,
+    "early_day_motions": 0,
+    "oral_questions": 31,
+    "petitions_presented": 0,
+    "written_questions": 1142
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 114,
+    "voting_participation_pct": 93.66,
+    "written_questions": 1142
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/buckingham-and-bletchley.json",
+    "id": 3956,
+    "name": "Buckingham and Bletchley",
+    "ons_code": "E14001141",
+    "slug": "buckingham-and-bletchley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "callum.anderson.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.callumanderson.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CallumAndersonMP/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/_CallumAnderson"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5193
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5193,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Callum Anderson",
+    "full_title": "Callum Anderson MP",
+    "list_as": "Anderson, Callum"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3754,
+        "name": "South West Bedfordshire",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Buckingham and Bletchley",
+        "constituency_id": 3956,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Callum Anderson is the Labour MP for <a href='/constituency/3956/overview'>Buckingham and Bletchley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5193/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 308,
+        "voting_participation_pct": 95.65
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 212,
+        "voting_participation_pct": 89.83
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 591,
+        "voting_participation_pct": 93.66
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 591,
+    "voting_participation_pct": 93.66
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

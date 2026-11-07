@@ -1,0 +1,349 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 23,
+        "debates_participated": 17,
+        "oral_questions": 13,
+        "written_questions": 1
+      },
+      "2021": {
+        "debate_contributions": 42,
+        "debates_participated": 26,
+        "oral_questions": 17
+      },
+      "2022": {
+        "debate_contributions": 31,
+        "debates_participated": 22,
+        "oral_questions": 11,
+        "written_questions": 12
+      },
+      "2023": {
+        "debate_contributions": 27,
+        "debates_participated": 14,
+        "oral_questions": 14,
+        "written_questions": 6
+      },
+      "2024": {
+        "debate_contributions": 8,
+        "debates_participated": 7,
+        "oral_questions": 1
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 131,
+    "debates_participated": 86,
+    "early_day_motions": 0,
+    "oral_questions": 56,
+    "petitions_presented": 0,
+    "written_questions": 19
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 99.41,
+    "committee_memberships": 0,
+    "debate_contributions": 131,
+    "voting_participation_pct": 76.59,
+    "written_questions": 19
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Employment (Allocation of Tips) Bill",
+      "committee_id": 615,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 99.25,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 133,
+      "meetings_available": 134
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": false,
+      "meetings_attended": 36,
+      "meetings_available": 36
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Leasehold and Freehold Reform Bill",
+      "committee_id": 693,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Employment (Allocation of Tips) Bill",
+        "committee_id": 615,
+        "file": "committees/employment-allocation-of-tips-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "employment-allocation-of-tips-bill"
+      },
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-17"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-20"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Leasehold and Freehold Reform Bill",
+        "committee_id": 693,
+        "file": "committees/leasehold-and-freehold-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "leasehold-and-freehold-reform-bill"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3341,
+    "name": "Blyth Valley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4749
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4749,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ian Levy",
+    "full_title": "Ian Levy",
+    "list_as": "Levy, Ian"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3998,
+        "name": "Cramlington and Killingworth",
+        "startDate": "2024-07-04T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3341,
+        "name": "Blyth Valley",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Blyth Valley",
+        "constituency_id": 3341,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Ian Levy is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3341/overview'>Blyth Valley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4749/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 170,
+        "voting_participation_pct": 89.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 188,
+        "voting_participation_pct": 77.69
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 176,
+        "voting_participation_pct": 70.12
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 189,
+        "voting_participation_pct": 73.83
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 818,
+        "voting_participation_pct": 76.59
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 818,
+    "voting_participation_pct": 76.59
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

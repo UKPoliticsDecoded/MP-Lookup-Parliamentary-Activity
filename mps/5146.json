@@ -1,0 +1,228 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 4,
+        "debates_participated": 4,
+        "oral_questions": 1,
+        "written_questions": 12
+      },
+      "2025": {
+        "debate_contributions": 23,
+        "debates_participated": 13,
+        "oral_questions": 2,
+        "written_questions": 17
+      },
+      "2026": {
+        "debate_contributions": 16,
+        "debates_participated": 13,
+        "written_questions": 42
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 43,
+    "debates_participated": 30,
+    "early_day_motions": 0,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 71
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 43,
+    "voting_participation_pct": 75.28,
+    "written_questions": 71
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 74,
+      "meetings_available": 74
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+      "committee_id": 776,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
+        "committee_id": 776,
+        "file": "committees/public-authorities-fraud-error-and-recovery-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "public-authorities-fraud-error-and-recovery-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/gedling.json",
+    "id": 4060,
+    "name": "Gedling",
+    "ons_code": "E14001245",
+    "slug": "gedling"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "michael.payne.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5146
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5146,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Michael Payne",
+    "full_title": "Michael Payne MP",
+    "list_as": "Payne, Michael"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3623,
+        "name": "Newark",
+        "startDate": "2014-06-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Gedling",
+        "constituency_id": 4060,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Michael Payne is the Labour MP for <a href='/constituency/4060/overview'>Gedling</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5146/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 246,
+        "voting_participation_pct": 76.4
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 157,
+        "voting_participation_pct": 66.53
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 475,
+        "voting_participation_pct": 75.28
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 475,
+    "voting_participation_pct": 75.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 73,
+        "debates_participated": 33,
+        "early_day_motions": 8,
+        "oral_questions": 6,
+        "written_questions": 45
+      },
+      "2021": {
+        "debate_contributions": 165,
+        "debates_participated": 46,
+        "early_day_motions": 46,
+        "oral_questions": 3,
+        "written_questions": 115
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 218,
+        "debates_participated": 77,
+        "early_day_motions": 11,
+        "oral_questions": 1,
+        "written_questions": 41
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 44,
+        "debates_participated": 34,
+        "early_day_motions": 9,
+        "oral_questions": 2,
+        "written_questions": 21
+      },
+      "2024": {
+        "debate_contributions": 73,
+        "debates_participated": 57,
+        "early_day_motions": 9,
+        "oral_questions": 5,
+        "written_questions": 28
+      },
+      "2025": {
+        "debate_contributions": 54,
+        "debates_participated": 43,
+        "early_day_motions": 6,
+        "oral_questions": 2,
+        "written_questions": 64
+      },
+      "2026": {
+        "debate_contributions": 47,
+        "debates_participated": 36,
+        "early_day_motions": 7,
+        "written_questions": 29
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 674,
+    "debates_participated": 326,
+    "early_day_motions": 96,
+    "oral_questions": 19,
+    "petitions_presented": 0,
+    "written_questions": 343
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 674,
+    "voting_participation_pct": 52.8,
+    "written_questions": 343
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Elections Bill",
+      "committee_id": 541,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+      "committee_id": 686,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Elections Bill",
+        "committee_id": 541,
+        "file": "committees/elections-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "elections-bill"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-12"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+        "committee_id": 686,
+        "file": "committees/foreign-affairs-sub-committee-on-the-overseas-territories.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-14"
+          }
+        ],
+        "slug": "foreign-affairs-sub-committee-on-the-overseas-territories"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/argyll-bute-and-south-lochaber.json",
+    "id": 4456,
+    "name": "Argyll, Bute and South Lochaber",
+    "ons_code": "S14000067",
+    "slug": "argyll-bute-and-south-lochaber"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "brendan.ohara.mp@parliament.uk",
+      "phone": "020 7219 8783",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.brendanoharamp.scot/ "
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/brendanoharamp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4371
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4371,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Brendan O'Hara",
+    "display": "Brendan O'Hara",
+    "full_title": "Brendan O'Hara MP",
+    "list_as": "O'Hara, Brendan"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Cabinet Office)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Culture, Media and Sport)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Middle East)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Foreign Affairs)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "SNP Chief Whip",
+        "start_date": "2023-01-17"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-01-17",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (International Development)",
+        "start_date": "2022-12-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-01-17",
+        "is_current": false,
+        "name": "Shadow SNP Deputy Spokesperson (Cabinet Office)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-01-17",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (International Human Rights and Conflict Resolution)",
+        "start_date": "2020-03-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-03-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Inclusive Society)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-05-17",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Culture and Media)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Defence)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Argyll, Bute and South Lochaber",
+        "constituency_id": 4456,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Argyll and Bute",
+        "constituency_id": 67,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Brendan O'Hara is the Scottish National Party MP for <a href='/constituency/4456/overview'>Argyll, Bute and South Lochaber</a>, and has been an MP continually since 7 May 2015. \r\nHe currently undertakes the roles of Shadow SNP Spokesperson (Cabinet Office), Shadow SNP Spokesperson (Culture, Media and Sport), and Shadow SNP Spokesperson (Middle East).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4371/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 124,
+        "voting_participation_pct": 65.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 156,
+        "voting_participation_pct": 64.46
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 154,
+        "voting_participation_pct": 61.35
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 181,
+        "voting_participation_pct": 70.7
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 132,
+        "voting_participation_pct": 66.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 82,
+        "voting_participation_pct": 25.47
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 66,
+        "voting_participation_pct": 27.97
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 713,
+        "voting_participation_pct": 66.76
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 184,
+        "voting_participation_pct": 29.16
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 897,
+    "voting_participation_pct": 52.8
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 829.6,
+    "bng": {
+      "easting": 534174,
+      "northing": 177128
+    },
+    "centroid": {
+      "latitude": 51.4772,
+      "longitude": -0.06931
+    },
+    "geojson": "constituencies/boundaries/peckham.geojson",
+    "ons_code": "E14001421",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5099.json",
+    "member_id": 5099,
+    "name": "Miatta Fahnbulleh",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72127,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15228,
+      "result": "Lab Hold",
+      "turnout": 38797,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4236,
+  "is_current": true,
+  "name": "Peckham",
+  "name_cy": null,
+  "ons_code": "E14001421",
+  "outcodes": [
+    "SE1",
+    "SE14",
+    "SE15",
+    "SE16",
+    "SE17",
+    "SE4",
+    "SE5"
+  ],
+  "schema_version": 1,
+  "slug": "peckham",
+  "start_date": "2024-05-31"
+}

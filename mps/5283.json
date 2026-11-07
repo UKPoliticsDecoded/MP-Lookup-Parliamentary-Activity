@@ -1,0 +1,181 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 51,
+        "debates_participated": 42,
+        "early_day_motions": 1,
+        "oral_questions": 5,
+        "written_questions": 14
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 187,
+        "debates_participated": 139,
+        "early_day_motions": 4,
+        "oral_questions": 12,
+        "written_questions": 155
+      },
+      "2026": {
+        "debate_contributions": 99,
+        "debates_participated": 80,
+        "early_day_motions": 3,
+        "oral_questions": 7,
+        "written_questions": 95
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 337,
+    "debates_participated": 261,
+    "early_day_motions": 8,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 264
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 337,
+    "voting_participation_pct": 71.0,
+    "written_questions": 264
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/mid-sussex.json",
+    "id": 4181,
+    "name": "Mid Sussex",
+    "ons_code": "E14001366",
+    "slug": "mid-sussex"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "alison.bennett.mp@parliament.uk",
+      "phone": "020 7219 4117",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01444 224458",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.alisonbennett.co.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AlisonBennettMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5283
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5283,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Alison Bennett",
+    "full_title": "Alison Bennett MP",
+    "list_as": "Bennett, Alison"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2026-10-05",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Care and Carers)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3295,
+        "name": "Arundel and South Downs",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Sussex",
+        "constituency_id": 4181,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Alison Bennett is the Liberal Democrat MP for <a href='/constituency/4181/overview'>Mid Sussex</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5283/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 39,
+        "voting_participation_pct": 53.42
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 242,
+        "voting_participation_pct": 75.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 167,
+        "voting_participation_pct": 70.76
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 448,
+        "voting_participation_pct": 71.0
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 448,
+    "voting_participation_pct": 71.0
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

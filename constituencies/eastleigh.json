@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 5128.6,
+    "bng": {
+      "easting": 446708,
+      "northing": 117185
+    },
+    "centroid": {
+      "latitude": 50.9522,
+      "longitude": -1.33641
+    },
+    "geojson": "constituencies/boundaries/eastleigh.geojson",
+    "ons_code": "E14001220",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5040.json",
+    "member_id": 5040,
+    "name": "Liz Jarvis",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 69965,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1546,
+      "result": "LD Gain",
+      "turnout": 46420,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3468,
+      "end_date": "2024-05-30",
+      "member_id": 4803,
+      "name": "Paul Holmes",
+      "start_date": "2019-12-12"
+    },
+    {
+      "constituency_version_id": 3468,
+      "end_date": "2019-11-06",
+      "member_id": 4513,
+      "name": "Mims Davies",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4035,
+  "is_current": true,
+  "name": "Eastleigh",
+  "name_cy": null,
+  "ons_code": "E14001220",
+  "outcodes": [
+    "SO18",
+    "SO19",
+    "SO21",
+    "SO30",
+    "SO32",
+    "SO50",
+    "SO52",
+    "SO53",
+    "SO97"
+  ],
+  "schema_version": 1,
+  "slug": "eastleigh",
+  "start_date": "2024-05-31"
+}

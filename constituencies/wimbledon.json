@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 2325.6,
+    "bng": {
+      "easting": 524184,
+      "northing": 169397
+    },
+    "centroid": {
+      "latitude": 51.41,
+      "longitude": -0.2158
+    },
+    "geojson": "constituencies/boundaries/wimbledon.geojson",
+    "ons_code": "E14001586",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5321.json",
+    "member_id": 5321,
+    "name": "Mr Paul Kohler",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76334,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12610,
+      "result": "LD Gain",
+      "turnout": 54985,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3853,
+      "end_date": "2024-05-30",
+      "member_id": 1585,
+      "name": "Stephen Hammond",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 3187,
+      "end_date": "2010-05-06",
+      "member_id": 1585,
+      "name": "Stephen Hammond",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4401,
+  "is_current": true,
+  "name": "Wimbledon",
+  "name_cy": null,
+  "ons_code": "E14001586",
+  "outcodes": [
+    "KT3",
+    "KT4",
+    "SM4",
+    "SW17",
+    "SW18",
+    "SW19",
+    "SW20"
+  ],
+  "schema_version": 1,
+  "slug": "wimbledon",
+  "start_date": "2024-05-31"
+}

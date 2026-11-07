@@ -1,0 +1,400 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 55,
+        "debates_participated": 30,
+        "early_day_motions": 8,
+        "oral_questions": 3,
+        "written_questions": 14
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 104,
+        "debates_participated": 57,
+        "early_day_motions": 8,
+        "oral_questions": 8,
+        "written_questions": 16
+      },
+      "2022": {
+        "debate_contributions": 171,
+        "debates_participated": 78,
+        "early_day_motions": 10,
+        "oral_questions": 9,
+        "written_questions": 14
+      },
+      "2023": {
+        "debate_contributions": 131,
+        "debates_participated": 72,
+        "early_day_motions": 21,
+        "oral_questions": 4,
+        "petitions_presented": 1,
+        "written_questions": 21
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 60,
+        "debates_participated": 31,
+        "early_day_motions": 6,
+        "oral_questions": 4,
+        "written_questions": 14
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 522,
+    "debates_participated": 269,
+    "early_day_motions": 53,
+    "oral_questions": 28,
+    "petitions_presented": 1,
+    "written_questions": 79
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 522,
+    "voting_participation_pct": 66.57,
+    "written_questions": 79
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Committee",
+      "committee_id": 24,
+      "is_current": false,
+      "meetings_attended": 73,
+      "meetings_available": 73
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Defence Sub-Committee",
+      "committee_id": 343,
+      "is_current": false,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill",
+      "committee_id": 613,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Select Committee on the Armed Forces Bill (2021)",
+      "committee_id": 509,
+      "is_current": false,
+      "meetings_attended": 9,
+      "meetings_available": 9
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Defence Committee",
+        "committee_id": 24,
+        "file": "committees/defence.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-12"
+          }
+        ],
+        "slug": "defence"
+      },
+      {
+        "committee": "Defence Sub-Committee",
+        "committee_id": 343,
+        "file": "committees/defence-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-12"
+          },
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-05"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-12"
+          }
+        ],
+        "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "Financial Services and Markets Bill",
+        "committee_id": 613,
+        "file": "committees/financial-services-and-markets-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-12"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill"
+      },
+      {
+        "committee": "Select Committee on the Armed Forces Bill (2021)",
+        "committee_id": 509,
+        "file": "committees/select-committee-on-the-armed-forces-bill-2021.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-02-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-22"
+          },
+          {
+            "end": "2021-04-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-02-25"
+          }
+        ],
+        "slug": "select-committee-on-the-armed-forces-bill-2021"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3117,
+    "name": "West Dunbartonshire"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4374
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4374,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Martin Docherty-Hughes",
+    "display": "Martin Docherty-Hughes",
+    "full_title": "Martin Docherty-Hughes",
+    "list_as": "Docherty-Hughes, Martin"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Defence)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-01-17",
+        "is_current": false,
+        "name": "SNP Chief Whip",
+        "start_date": "2022-12-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Defence Team Member)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Foreign Affairs Team Member)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (PPS to the Westminster Leader)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Industries of the Future and Blockchain Technologies)",
+        "start_date": "2018-07-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Industries for the future)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Voluntary Sector)",
+        "start_date": "2016-09-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4495,
+        "name": "West Dunbartonshire",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Dunbartonshire",
+        "constituency_id": 3117,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Martin Docherty-Hughes is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/3117/overview'>West Dunbartonshire</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4374/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 128,
+        "voting_participation_pct": 67.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 160,
+        "voting_participation_pct": 66.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 171,
+        "voting_participation_pct": 68.13
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 170,
+        "voting_participation_pct": 66.41
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 80,
+        "voting_participation_pct": 62.99
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 711,
+        "voting_participation_pct": 66.57
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 711,
+    "voting_participation_pct": 66.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

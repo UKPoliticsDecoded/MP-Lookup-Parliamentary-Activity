@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 30345.0,
+    "bng": {
+      "easting": 563990,
+      "northing": 154079
+    },
+    "centroid": {
+      "latitude": 51.26228,
+      "longitude": 0.349045
+    },
+    "geojson": "constituencies/boundaries/tonbridge.geojson",
+    "ons_code": "E14001549",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4462.json",
+    "member_id": 4462,
+    "name": "Tom Tugendhat",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72799,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11166,
+      "result": "Con Hold",
+      "turnout": 50328,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4364,
+  "is_current": true,
+  "name": "Tonbridge",
+  "name_cy": null,
+  "ons_code": "E14001549",
+  "outcodes": [
+    "DA13",
+    "DA3",
+    "ME18",
+    "ME19",
+    "ME6",
+    "TN1",
+    "TN10",
+    "TN11",
+    "TN12",
+    "TN14",
+    "TN15",
+    "TN2",
+    "TN3",
+    "TN4",
+    "TN5",
+    "TN8",
+    "TN9"
+  ],
+  "schema_version": 1,
+  "slug": "tonbridge",
+  "start_date": "2024-05-31"
+}

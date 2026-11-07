@@ -1,0 +1,595 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 52,
+        "debates_participated": 25,
+        "oral_questions": 2,
+        "written_questions": 7
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 15,
+        "debates_participated": 5,
+        "oral_questions": 2,
+        "written_questions": 2
+      },
+      "2022": {
+        "debate_contributions": 28,
+        "debates_participated": 9,
+        "oral_questions": 2,
+        "written_questions": 20
+      },
+      "2023": {
+        "debate_contributions": 32,
+        "debates_participated": 11,
+        "oral_questions": 3,
+        "written_questions": 16
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 52,
+        "debates_participated": 28,
+        "written_questions": 51
+      },
+      "2025": {
+        "debate_contributions": 223,
+        "debates_participated": 51,
+        "oral_questions": 1,
+        "written_questions": 122
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 103,
+        "debates_participated": 46,
+        "written_questions": 92
+      }
+    },
+    "bills_sponsored": 3,
+    "debate_contributions": 505,
+    "debates_participated": 175,
+    "early_day_motions": 0,
+    "oral_questions": 10,
+    "petitions_presented": 0,
+    "written_questions": 310
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 505,
+    "voting_participation_pct": 80.69,
+    "written_questions": 310
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+      "committee_id": 774,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Cultural Objects (Protection From Seizure) Bill",
+      "committee_id": 555,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": false,
+      "meetings_attended": 30,
+      "meetings_available": 30
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 827,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 97,
+      "meetings_available": 97
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Schemes Bill",
+      "committee_id": 814,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Regulatory Reform",
+      "committee_id": 131,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 726,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Bank Resolution (Recapitalisation) Bill [HL]",
+        "committee_id": 774,
+        "file": "committees/bank-resolution-recapitalisation-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-05"
+          }
+        ],
+        "slug": "bank-resolution-recapitalisation-bill-hl"
+      },
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-26",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-07-06"
+          },
+          {
+            "end": "2023-04-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Cultural Objects (Protection From Seizure) Bill",
+        "committee_id": 555,
+        "file": "committees/cultural-objects-protection-from-seizure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "cultural-objects-protection-from-seizure-bill"
+      },
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-12"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 827,
+        "file": "committees/finance-no-2-bill-827.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-02-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-827"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-04-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Pension Schemes Bill",
+        "committee_id": 814,
+        "file": "committees/pension-schemes-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-09-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-15"
+          }
+        ],
+        "slug": "pension-schemes-bill"
+      },
+      {
+        "committee": "Regulatory Reform",
+        "committee_id": 131,
+        "file": "committees/regulatory-reform.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-05-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "regulatory-reform"
+      },
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 726,
+        "file": "committees/space-industry-indemnities-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-01"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/wyre-forest.json",
+    "id": 4416,
+    "name": "Wyre Forest",
+    "ons_code": "E14001601",
+    "slug": "wyre-forest"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "mark.garnier.mp@parliament.uk",
+      "phone": "020 7219 7198",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "28A Bewdley Road North, Stourport-on-Severn, Worcestershire",
+      "phone": "01562 746771",
+      "postcode": "DY13 8PS",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.markgarnier.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Mark4WyreForest"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4074
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4074,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Mark Garnier",
+    "display": "Mark Garnier",
+    "full_title": "Mark Garnier MP",
+    "list_as": "Garnier, Mark"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for International Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-international-trade",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for International Trade)",
+        "start_date": "2016-07-17"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business, Innovation, Science and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Business, Innovation, Science and Trade)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Economic Secretary (Treasury)",
+        "start_date": "2024-11-06"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Work and Pensions)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Energy Security and Net Zero)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3272,
+        "name": "Wyre Forest",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Wyre Forest",
+        "constituency_id": 4416,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Wyre Forest",
+        "constituency_id": 3872,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Mark Garnier is the Conservative MP for <a href='/constituency/4416/overview'>Wyre Forest</a>, and has been an MP continually since 6 May 2010. \r\nHe currently undertakes the roles of Shadow Economic Secretary (Treasury), and Shadow Minister (Business, Innovation, Science and Trade).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4074/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 168,
+        "voting_participation_pct": 88.42
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 219,
+        "voting_participation_pct": 90.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 206,
+        "voting_participation_pct": 82.07
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 212,
+        "voting_participation_pct": 82.81
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 160,
+        "voting_participation_pct": 80.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 226,
+        "voting_participation_pct": 70.19
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 912,
+        "voting_participation_pct": 85.39
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 459,
+        "voting_participation_pct": 72.74
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1371,
+    "voting_participation_pct": 80.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

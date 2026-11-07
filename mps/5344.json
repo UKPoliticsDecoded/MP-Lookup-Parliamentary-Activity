@@ -1,0 +1,197 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 36,
+        "debates_participated": 19,
+        "oral_questions": 2,
+        "written_questions": 33
+      },
+      "2025": {
+        "debate_contributions": 96,
+        "debates_participated": 43,
+        "oral_questions": 4,
+        "written_questions": 82
+      },
+      "2026": {
+        "debate_contributions": 64,
+        "debates_participated": 28,
+        "oral_questions": 3,
+        "written_questions": 83
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 196,
+    "debates_participated": 90,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 198
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 196,
+    "voting_participation_pct": 67.35,
+    "written_questions": 198
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": true,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "health-and-social-care"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/chelsea-and-fulham.json",
+    "id": 3975,
+    "name": "Chelsea and Fulham",
+    "ons_code": "E14001160",
+    "slug": "chelsea-and-fulham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ben.coleman.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "020 7381 2047",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/ChelseaAndFulhamBenColeman"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/ChelFulhamBen"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/ChelFulhamBen"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5344
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5344,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ben Coleman",
+    "full_title": "Ben Coleman MP",
+    "list_as": "Coleman, Ben"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 491,
+        "name": "Broxbourne",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chelsea and Fulham",
+        "constituency_id": 3975,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Ben Coleman is the Labour MP for <a href='/constituency/3975/overview'>Chelsea and Fulham</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5344/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 209,
+        "voting_participation_pct": 64.91
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 150,
+        "voting_participation_pct": 63.56
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 425,
+        "voting_participation_pct": 67.35
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 425,
+    "voting_participation_pct": 67.35
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

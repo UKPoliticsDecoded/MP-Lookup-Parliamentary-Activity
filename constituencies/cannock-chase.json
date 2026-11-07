@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 7910.1,
+    "bng": {
+      "easting": 401261,
+      "northing": 311553
+    },
+    "centroid": {
+      "latitude": 52.70166,
+      "longitude": -1.98277
+    },
+    "geojson": "constituencies/boundaries/cannock-chase.geojson",
+    "ons_code": "E14001150",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5034.json",
+    "member_id": 5034,
+    "name": "Josh Newbury",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76974,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3125,
+      "result": "Lab Gain",
+      "turnout": 42953,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3387,
+      "end_date": "2024-05-30",
+      "member_id": 4454,
+      "name": "Dame Amanda Milling",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3965,
+  "is_current": true,
+  "name": "Cannock Chase",
+  "name_cy": null,
+  "ons_code": "E14001150",
+  "outcodes": [
+    "WS11",
+    "WS12",
+    "WS15",
+    "WS3",
+    "WS8"
+  ],
+  "schema_version": 1,
+  "slug": "cannock-chase",
+  "start_date": "2024-05-31"
+}

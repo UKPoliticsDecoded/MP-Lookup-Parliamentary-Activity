@@ -1,0 +1,226 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 31,
+        "debates_participated": 10,
+        "written_questions": 6
+      },
+      "2025": {
+        "debate_contributions": 82,
+        "debates_participated": 19
+      },
+      "2026": {
+        "debate_contributions": 212,
+        "debates_participated": 36
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 325,
+    "debates_participated": 65,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 6
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 325,
+    "voting_participation_pct": 77.97,
+    "written_questions": 6
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/inverclyde-and-renfrewshire-west.json",
+    "id": 4482,
+    "name": "Inverclyde and Renfrewshire West",
+    "ons_code": "S14000093",
+    "slug": "inverclyde-and-renfrewshire-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "martin.mccluskey.mp@parliament.uk",
+      "phone": "020 7219 8353",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Custom House, Custom House Quay, Greenock",
+      "phone": "01475 789223",
+      "postcode": "PA15 1AL",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.martinmccluskey.scot"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://facebook.com/martinmccluskey"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/martinmccluskeymp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/martinmccluskey"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5129
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5129,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Martin McCluskey",
+    "full_title": "Martin McCluskey MP",
+    "list_as": "McCluskey, Martin"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary of State (Department for Energy Security and Net Zero)",
+        "start_date": "2025-09-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2024-07-18"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary of State (Department for Energy Security and Net Zero)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1555,
+        "name": "Inverclyde",
+        "startDate": "2019-12-12T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1555,
+        "name": "Inverclyde",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Inverclyde and Renfrewshire West",
+        "constituency_id": 4482,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Martin McCluskey is the Labour MP for <a href='/constituency/4482/overview'>Inverclyde and Renfrewshire West</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Parliamentary Under-Secretary of State (Department for Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5129/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 242,
+        "voting_participation_pct": 75.16
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 492,
+        "voting_participation_pct": 77.97
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 492,
+    "voting_participation_pct": 77.97
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 98876.9,
+    "bng": {
+      "easting": 615789,
+      "northing": 277572
+    },
+    "centroid": {
+      "latitude": 52.35373,
+      "longitude": 1.167248
+    },
+    "geojson": "constituencies/boundaries/waveney-valley.geojson",
+    "ons_code": "E14001569",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5320.json",
+    "member_id": 5320,
+    "name": "Adrian Ramsay",
+    "party": "Green Party",
+    "party_abbreviation": "Green",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73056,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5594,
+      "result": "Green Gain",
+      "turnout": 49072,
+      "winning_party": "Green Party",
+      "winning_party_id": 44
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4384,
+  "is_current": true,
+  "name": "Waveney Valley",
+  "name_cy": null,
+  "ons_code": "E14001569",
+  "outcodes": [
+    "IP13",
+    "IP14",
+    "IP19",
+    "IP20",
+    "IP21",
+    "IP22",
+    "IP23",
+    "IP31",
+    "IP98",
+    "NR15",
+    "NR16",
+    "NR18",
+    "NR34",
+    "NR35"
+  ],
+  "schema_version": 1,
+  "slug": "waveney-valley",
+  "start_date": "2024-05-31"
+}

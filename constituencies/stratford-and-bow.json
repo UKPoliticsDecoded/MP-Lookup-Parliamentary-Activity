@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 1114.5,
+    "bng": {
+      "easting": 537732,
+      "northing": 184240
+    },
+    "centroid": {
+      "latitude": 51.54026,
+      "longitude": -0.01533
+    },
+    "geojson": "constituencies/boundaries/stratford-and-bow.geojson",
+    "ons_code": "E14001525",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5278.json",
+    "member_id": 5278,
+    "name": "Uma Kumaran",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80735,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11634,
+      "result": "Lab Hold",
+      "turnout": 43435,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4340,
+  "is_current": true,
+  "name": "Stratford and Bow",
+  "name_cy": null,
+  "ons_code": "E14001525",
+  "outcodes": [
+    "E1",
+    "E13",
+    "E15",
+    "E20",
+    "E3",
+    "E7",
+    "E9"
+  ],
+  "schema_version": 1,
+  "slug": "stratford-and-bow",
+  "start_date": "2024-05-31"
+}

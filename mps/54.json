@@ -1,0 +1,344 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 140,
+        "debates_participated": 87,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 139
+      },
+      "2021": {
+        "debate_contributions": 150,
+        "debates_participated": 100,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 117
+      },
+      "2022": {
+        "debate_contributions": 161,
+        "debates_participated": 102,
+        "early_day_motions": 2,
+        "oral_questions": 3,
+        "written_questions": 48
+      },
+      "2023": {
+        "debate_contributions": 169,
+        "debates_participated": 112,
+        "early_day_motions": 1,
+        "oral_questions": 2,
+        "written_questions": 22
+      },
+      "2024": {
+        "debate_contributions": 198,
+        "debates_participated": 145,
+        "oral_questions": 2,
+        "written_questions": 28
+      },
+      "2025": {
+        "debate_contributions": 352,
+        "debates_participated": 277,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 115
+      },
+      "2026": {
+        "debate_contributions": 266,
+        "debates_participated": 184,
+        "oral_questions": 3,
+        "written_questions": 106
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1436,
+    "debates_participated": 1007,
+    "early_day_motions": 8,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 575
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1436,
+    "voting_participation_pct": 78.16,
+    "written_questions": 575
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Intelligence and Security Committee of Parliament",
+      "committee_id": 97,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Intelligence and Security Committee of Parliament",
+        "committee_id": 97,
+        "file": "committees/intelligence-and-security-committee-of-parliament.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-09-13"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-13"
+          }
+        ],
+        "slug": "intelligence-and-security-committee-of-parliament"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-11-30"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2025-06-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-25"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/new-forest-east.json",
+    "id": 4188,
+    "name": "New Forest East",
+    "ons_code": "E14001373",
+    "slug": "new-forest-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, Westminster, London ",
+      "phone": "020 7219 4179",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.julianlewis.net"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 54
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 54,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Julian Lewis",
+    "display": "Sir Julian Lewis",
+    "full_title": "Rt Hon Sir Julian Lewis MP",
+    "list_as": "Lewis, Sir Julian"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2005-05-10",
+        "is_current": false,
+        "name": "Shadow Minister (Cabinet Office)",
+        "start_date": "2004-07-01"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2004-07-01",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2002-07-01"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2002-07-01",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2001-07-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 2887,
+        "name": "Swansea West",
+        "startDate": "1983-06-09T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2020-12-30"
+      },
+      {
+        "end_date": "2020-12-30",
+        "party": "Independent",
+        "start_date": "2020-07-15"
+      },
+      {
+        "end_date": "2020-07-16",
+        "party": "Conservative",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "New Forest East",
+        "constituency_id": 4188,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "New Forest East",
+        "constituency_id": 3621,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "New Forest East",
+        "constituency_id": 2040,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Julian Lewis is the Conservative MP for <a href='/constituency/4188/overview'>New Forest East</a>, and has been an MP continually since 1 May 1997.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/54/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 147,
+        "voting_participation_pct": 77.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 197,
+        "voting_participation_pct": 81.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 199,
+        "voting_participation_pct": 79.28
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 199,
+        "voting_participation_pct": 77.73
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 149,
+        "voting_participation_pct": 74.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 245,
+        "voting_participation_pct": 76.09
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 190,
+        "voting_participation_pct": 80.51
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 841,
+        "voting_participation_pct": 78.75
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 487,
+        "voting_participation_pct": 77.18
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1328,
+    "voting_participation_pct": 78.16
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 4,
+        "debate_contributions": 698,
+        "debates_participated": 34
+      },
+      "2021": {
+        "bills_sponsored": 4,
+        "debate_contributions": 261,
+        "debates_participated": 33
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 662,
+        "debates_participated": 27
+      },
+      "2023": {
+        "debate_contributions": 1160,
+        "debates_participated": 40
+      },
+      "2024": {
+        "debate_contributions": 719,
+        "debates_participated": 40,
+        "early_day_motions": 1
+      },
+      "2025": {
+        "debate_contributions": 23,
+        "debates_participated": 22
+      },
+      "2026": {
+        "debate_contributions": 30,
+        "debates_participated": 23,
+        "oral_questions": 3
+      }
+    },
+    "bills_sponsored": 9,
+    "debate_contributions": 3553,
+    "debates_participated": 219,
+    "early_day_motions": 1,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 3553,
+    "voting_participation_pct": 20.54,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/richmond-and-northallerton.json",
+    "id": 4259,
+    "name": "Richmond and Northallerton",
+    "ons_code": "E14001444",
+    "slug": "richmond-and-northallerton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rishi.sunak.mp@parliament.uk",
+      "phone": "020 7219 5437",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Unit 1, Omega Business Village, Northallerton ",
+      "email": "rishi.sunak.mp@parliament.uk",
+      "phone": "01609 765330",
+      "postcode": "DL6 2NJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.rishisunak.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/rishisunak"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4483
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4483,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Rishi Sunak",
+    "display": "Rishi Sunak",
+    "full_title": "Rt Hon Rishi Sunak MP",
+    "list_as": "Sunak, Rishi"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Prime Minister, First Lord of the Treasury, Minister for the Civil Service, and Minister for the Union",
+        "start_date": "2022-10-25"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-07-05",
+        "is_current": false,
+        "name": "Chancellor of the Exchequer",
+        "start_date": "2020-02-13"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Chief Secretary to the Treasury",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2018-01-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-11-02",
+        "is_current": false,
+        "name": "Leader of HM Official Opposition",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2024-11-02",
+        "is_current": false,
+        "name": "Leader of the Conservative Party",
+        "start_date": "2022-10-24"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Richmond and Northallerton",
+        "constituency_id": 4259,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Richmond (Yorks)",
+        "constituency_id": 3698,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Rishi Sunak is the Conservative MP for <a href='/constituency/4259/overview'>Richmond and Northallerton</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4483/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 76,
+        "voting_participation_pct": 40.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 145,
+        "voting_participation_pct": 59.92
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 50,
+        "voting_participation_pct": 19.92
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 26,
+        "voting_participation_pct": 10.16
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 31,
+        "voting_participation_pct": 15.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 10,
+        "voting_participation_pct": 3.11
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 9,
+        "voting_participation_pct": 3.81
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 326,
+        "voting_participation_pct": 30.52
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 23,
+        "voting_participation_pct": 3.65
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 349,
+    "voting_participation_pct": 20.54
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

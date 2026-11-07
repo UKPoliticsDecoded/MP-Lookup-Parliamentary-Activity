@@ -1,0 +1,277 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 8,
+        "oral_questions": 2
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 183,
+        "debates_participated": 65,
+        "oral_questions": 9,
+        "written_questions": 86
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 89,
+        "debates_participated": 60,
+        "oral_questions": 5,
+        "written_questions": 59
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 288,
+    "debates_participated": 133,
+    "early_day_motions": 0,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 145
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 288,
+    "voting_participation_pct": 68.46,
+    "written_questions": 145
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 133,
+      "meetings_available": 133
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill",
+      "committee_id": 742,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+      "committee_id": 743,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill",
+        "committee_id": 742,
+        "file": "committees/terrorism-protection-of-premises-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+        "committee_id": 743,
+        "file": "committees/terrorism-protection-of-premises-bill-programming-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill-programming-sub-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/weald-of-kent.json",
+    "id": 4385,
+    "name": "Weald of Kent",
+    "ons_code": "E14001570",
+    "slug": "weald-of-kent"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "katie.lam.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.katieforkent.com/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/katieforkent"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/katieforkent/?hl=en"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/Katie_Lam_MP?lang=en"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5285
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5285,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Katie Lam",
+    "full_title": "Katie Lam MP",
+    "list_as": "Lam, Katie"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Secretary of State for Housing, Communities and Local Government",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Weald of Kent",
+        "constituency_id": 4385,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Katie Lam is the Conservative MP for <a href='/constituency/4385/overview'>Weald of Kent</a>, and has been an MP continually since 4 July 2024. \r\nShe currently undertakes the role of Shadow Secretary of State for Housing, Communities and Local Government.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5285/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 58,
+        "voting_participation_pct": 79.45
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 207,
+        "voting_participation_pct": 64.29
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 167,
+        "voting_participation_pct": 70.76
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 432,
+        "voting_participation_pct": 68.46
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 432,
+    "voting_participation_pct": 68.46
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

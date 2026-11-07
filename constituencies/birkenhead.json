@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 3200.3,
+    "bng": {
+      "easting": 330780,
+      "northing": 386907
+    },
+    "centroid": {
+      "latitude": 53.37448,
+      "longitude": -3.0419
+    },
+    "geojson": "constituencies/boundaries/birkenhead.geojson",
+    "ons_code": "E14001091",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4083.json",
+    "member_id": 4083,
+    "name": "Alison McGovern",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78091,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13798,
+      "result": "Lab Hold",
+      "turnout": 43134,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3324,
+      "end_date": "2024-05-30",
+      "member_id": 4755,
+      "name": "Mick Whitley",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3906,
+  "is_current": true,
+  "name": "Birkenhead",
+  "name_cy": null,
+  "ons_code": "E14001091",
+  "outcodes": [
+    "CH25",
+    "CH26",
+    "CH41",
+    "CH42",
+    "CH43",
+    "CH44",
+    "CH63"
+  ],
+  "schema_version": 1,
+  "slug": "birkenhead",
+  "start_date": "2024-05-31"
+}

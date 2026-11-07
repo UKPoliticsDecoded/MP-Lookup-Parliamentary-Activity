@@ -1,0 +1,470 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 31,
+        "debates_participated": 13
+      },
+      "2020": {
+        "debate_contributions": 1302,
+        "debates_participated": 697
+      },
+      "2021": {
+        "debate_contributions": 1226,
+        "debates_participated": 631,
+        "petitions_presented": 2
+      },
+      "2022": {
+        "debate_contributions": 2024,
+        "debates_participated": 971,
+        "petitions_presented": 2
+      },
+      "2023": {
+        "debate_contributions": 1956,
+        "debates_participated": 997
+      },
+      "2024": {
+        "debate_contributions": 1940,
+        "debates_participated": 921
+      },
+      "2025": {
+        "debate_contributions": 2295,
+        "debates_participated": 1062,
+        "petitions_presented": 5
+      },
+      "2026": {
+        "debate_contributions": 1813,
+        "debates_participated": 812
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 12587,
+    "debates_participated": 6104,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 9,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 6,
+    "debate_contributions": 12587,
+    "voting_participation_pct": 0.0,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": true,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Members Estimate Committee",
+      "committee_id": 107,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Client Board",
+      "committee_id": 616,
+      "is_current": true,
+      "meetings_attended": 16,
+      "meetings_available": 16
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": true,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": true,
+      "meetings_attended": 24,
+      "meetings_available": 24
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Conference (2022)",
+      "committee_id": 609,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2019-11-04"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Members Estimate Committee",
+        "committee_id": 107,
+        "file": "committees/members-estimate.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-11-04"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-07-09"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-09"
+          }
+        ],
+        "slug": "members-estimate"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-10-17"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-17"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-07-22"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-22"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2019-11-04"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-11-04"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      },
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2019-11-04"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2019-12-17"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      },
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-10-14"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-14"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Speaker's Conference (2022)",
+        "committee_id": 609,
+        "file": "committees/speaker-s-conference-2022.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2022-10-19"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-19"
+          }
+        ],
+        "slug": "speaker-s-conference-2022"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/chorley.json",
+    "id": 3985,
+    "name": "Chorley",
+    "ons_code": "E14001170",
+    "slug": "chorley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Speaker's office",
+      "url": "https://www.parliament.uk/business/commons/the-speaker/contact-speaker-house-of-commons/"
+    },
+    {
+      "address": "35-39 Market Street, Chorley",
+      "email": "Lindsay.hoyle.mp@parliament.uk",
+      "phone": "01257 271555",
+      "postcode": "PR7 2SW",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/LindsayHoyle_MP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 467
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 467,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Lindsay",
+    "display": "Sir Lindsay Hoyle",
+    "full_title": "Rt Hon Sir Lindsay Hoyle MP",
+    "list_as": "Hoyle, Sir Lindsay"
+  },
+  "party": {
+    "abbreviation": "Spk",
+    "id": 47,
+    "name": "Speaker"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Speaker of the House of Commons",
+        "start_date": "2019-11-04"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2019-11-04",
+        "is_current": false,
+        "name": "Deputy Speaker and Chairman of Ways and Means",
+        "start_date": "2010-06-08"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Speaker",
+        "start_date": "2019-11-04"
+      },
+      {
+        "end_date": "2019-11-04",
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chorley",
+        "constituency_id": 3985,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Chorley",
+        "constituency_id": 3413,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Chorley",
+        "constituency_id": 681,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Lindsay Hoyle is the MP for <a href='/constituency/3985/overview'>Chorley</a>, and has been an MP continually since 1 May 1997. \r\nHe is Speaker of the House of Commons.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/467/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 0,
+    "note": "No recorded votes: typical of the Speaker/Deputy Speakers, abstentionist parties or members with a non-voting role.",
+    "voting_participation_pct": 0.0
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

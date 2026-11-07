@@ -1,0 +1,237 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 2
+      },
+      "2025": {
+        "debate_contributions": 153,
+        "debates_participated": 78,
+        "early_day_motions": 3,
+        "oral_questions": 1,
+        "written_questions": 60
+      },
+      "2026": {
+        "debate_contributions": 106,
+        "debates_participated": 62,
+        "oral_questions": 5,
+        "written_questions": 27
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 280,
+    "debates_participated": 157,
+    "early_day_motions": 4,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 89
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 280,
+    "voting_participation_pct": 76.07,
+    "written_questions": 89
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": true,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-03"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-20"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/morecambe-and-lunesdale.json",
+    "id": 4187,
+    "name": "Morecambe and Lunesdale",
+    "ons_code": "E14001372",
+    "slug": "morecambe-and-lunesdale"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lizzi.collinge.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "www.LizziCollinge.com"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/lizzicollinge.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LizziCollinge"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/lizzicollinge/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5225
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5225,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lizzi Collinge",
+    "full_title": "Lizzi Collinge MP",
+    "list_as": "Collinge, Lizzi"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Morecambe and Lunesdale",
+        "constituency_id": 4187,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lizzi Collinge is the Labour MP for <a href='/constituency/4187/overview'>Morecambe and Lunesdale</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5225/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 249,
+        "voting_participation_pct": 77.33
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 172,
+        "voting_participation_pct": 72.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 480,
+        "voting_participation_pct": 76.07
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 480,
+    "voting_participation_pct": 76.07
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

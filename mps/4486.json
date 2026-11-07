@@ -1,0 +1,250 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 53,
+        "debates_participated": 26,
+        "early_day_motions": 6,
+        "oral_questions": 6,
+        "written_questions": 37
+      },
+      "2021": {
+        "debate_contributions": 84,
+        "debates_participated": 43,
+        "early_day_motions": 7,
+        "oral_questions": 6,
+        "written_questions": 3
+      },
+      "2022": {
+        "debate_contributions": 71,
+        "debates_participated": 38,
+        "early_day_motions": 2,
+        "oral_questions": 6,
+        "written_questions": 5
+      },
+      "2023": {
+        "debate_contributions": 96,
+        "debates_participated": 43,
+        "early_day_motions": 8,
+        "oral_questions": 7,
+        "written_questions": 4
+      },
+      "2024": {
+        "debate_contributions": 42,
+        "debates_participated": 23,
+        "early_day_motions": 3,
+        "oral_questions": 5
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 346,
+    "debates_participated": 173,
+    "early_day_motions": 26,
+    "oral_questions": 30,
+    "petitions_presented": 0,
+    "written_questions": 49
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 346,
+    "voting_participation_pct": 53.75,
+    "written_questions": 49
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-23"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1826,
+    "name": "Livingston"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4486
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4486,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Hannah Bardell",
+    "display": "Hannah Bardell",
+    "full_title": "Hannah Bardell",
+    "list_as": "Bardell, Hannah"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Foreign Affairs Team Member)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (International Development Team Member)",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Digital, Culture, Media and Sport)",
+        "start_date": "2018-05-17"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-05-17",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Trade and Investment)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Business, Innovation and Skills)",
+        "start_date": "2015-10-19"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2015-10-19",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Fair Work and Employment)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4484,
+        "name": "Livingston",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Livingston",
+        "constituency_id": 1826,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Hannah Bardell is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1826/overview'>Livingston</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4486/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 127,
+        "voting_participation_pct": 66.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 144,
+        "voting_participation_pct": 59.5
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 104,
+        "voting_participation_pct": 41.43
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 129,
+        "voting_participation_pct": 50.39
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 68,
+        "voting_participation_pct": 53.54
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 574,
+        "voting_participation_pct": 53.75
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 574,
+    "voting_participation_pct": 53.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

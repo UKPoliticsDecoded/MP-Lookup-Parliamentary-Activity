@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 143879.8,
+    "bng": {
+      "easting": 348792,
+      "northing": 251360
+    },
+    "centroid": {
+      "latitude": 52.15813,
+      "longitude": -2.74996
+    },
+    "geojson": "constituencies/boundaries/north-herefordshire.geojson",
+    "ons_code": "E14001395",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5249.json",
+    "member_id": 5249,
+    "name": "Dr Ellie Chowns",
+    "party": "Green Party",
+    "party_abbreviation": "Green",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72797,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5894,
+      "result": "Green Gain",
+      "turnout": 50362,
+      "winning_party": "Green Party",
+      "winning_party_id": 44
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3646,
+      "end_date": "2024-05-30",
+      "member_id": 1428,
+      "name": "Sir Bill Wiggin",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4210,
+  "is_current": true,
+  "name": "North Herefordshire",
+  "name_cy": null,
+  "ons_code": "E14001395",
+  "outcodes": [
+    "HR1",
+    "HR3",
+    "HR4",
+    "HR5",
+    "HR6",
+    "HR7",
+    "HR8",
+    "HR9",
+    "LD8",
+    "SY7",
+    "SY8",
+    "WR13",
+    "WR14",
+    "WR15",
+    "WR6"
+  ],
+  "schema_version": 1,
+  "slug": "north-herefordshire",
+  "start_date": "2024-05-31"
+}

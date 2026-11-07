@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 6101.6,
+    "bng": {
+      "easting": 449829,
+      "northing": 337765
+    },
+    "centroid": {
+      "latitude": 52.93499,
+      "longitude": -1.26007
+    },
+    "geojson": "constituencies/boundaries/broxtowe.geojson",
+    "ons_code": "E14001140",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5058.json",
+    "member_id": 5058,
+    "name": "Juliet Campbell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70440,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8403,
+      "result": "Lab Gain",
+      "turnout": 47838,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3375,
+      "end_date": "2024-05-30",
+      "member_id": 4794,
+      "name": "Darren Henry",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3955,
+  "is_current": true,
+  "name": "Broxtowe",
+  "name_cy": null,
+  "ons_code": "E14001140",
+  "outcodes": [
+    "DE7",
+    "NG10",
+    "NG16",
+    "NG2",
+    "NG8",
+    "NG80",
+    "NG9",
+    "NG90"
+  ],
+  "schema_version": 1,
+  "slug": "broxtowe",
+  "start_date": "2024-05-31"
+}

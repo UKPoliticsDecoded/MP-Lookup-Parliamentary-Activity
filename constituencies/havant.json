@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 4738.4,
+    "bng": {
+      "easting": 471155,
+      "northing": 107783
+    },
+    "centroid": {
+      "latitude": 50.86517,
+      "longitude": -0.99025
+    },
+    "geojson": "constituencies/boundaries/havant.geojson",
+    "ons_code": "E14001275",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4484.json",
+    "member_id": 4484,
+    "name": "Alan Mak",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72323,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 92,
+      "result": "Con Hold",
+      "turnout": 42186,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3522,
+      "end_date": "2024-05-30",
+      "member_id": 4484,
+      "name": "Alan Mak",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4090,
+  "is_current": true,
+  "name": "Havant",
+  "name_cy": null,
+  "ons_code": "E14001275",
+  "outcodes": [
+    "PO10",
+    "PO11",
+    "PO6",
+    "PO7",
+    "PO9"
+  ],
+  "schema_version": 1,
+  "slug": "havant",
+  "start_date": "2024-05-31"
+}

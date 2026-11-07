@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 37860.5,
+    "bng": {
+      "easting": 592905,
+      "northing": 157583
+    },
+    "centroid": {
+      "latitude": 51.28471,
+      "longitude": 0.764887
+    },
+    "geojson": "constituencies/boundaries/faversham-and-mid-kent.geojson",
+    "ons_code": "E14001235",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4527.json",
+    "member_id": 4527,
+    "name": "Helen Whately",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74301,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1469,
+      "result": "Con Hold",
+      "turnout": 46594,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3483,
+      "end_date": "2024-05-30",
+      "member_id": 4527,
+      "name": "Helen Whately",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4050,
+  "is_current": true,
+  "name": "Faversham and Mid Kent",
+  "name_cy": null,
+  "ons_code": "E14001235",
+  "outcodes": [
+    "CT2",
+    "ME10",
+    "ME13",
+    "ME14",
+    "ME15",
+    "ME16",
+    "ME17",
+    "ME20",
+    "ME5",
+    "ME7",
+    "ME9",
+    "TN27"
+  ],
+  "schema_version": 1,
+  "slug": "faversham-and-mid-kent",
+  "start_date": "2024-05-31"
+}

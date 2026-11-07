@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 57259.9,
+    "bng": {
+      "easting": 453018,
+      "northing": 129648
+    },
+    "centroid": {
+      "latitude": 51.06372,
+      "longitude": -1.24477
+    },
+    "geojson": "constituencies/boundaries/winchester.geojson",
+    "ons_code": "E14001587",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5304.json",
+    "member_id": 5304,
+    "name": "Dr Danny Chambers",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78289,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13821,
+      "result": "LD Gain",
+      "turnout": 57076,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3854,
+      "end_date": "2024-05-30",
+      "member_id": 4067,
+      "name": "Steve Brine",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4402,
+  "is_current": true,
+  "name": "Winchester",
+  "name_cy": null,
+  "ons_code": "E14001587",
+  "outcodes": [
+    "GU32",
+    "PO17",
+    "PO7",
+    "PO8",
+    "SO20",
+    "SO21",
+    "SO22",
+    "SO23",
+    "SO24",
+    "SO25",
+    "SO32",
+    "SO50",
+    "SO51",
+    "SO53"
+  ],
+  "schema_version": 1,
+  "slug": "winchester",
+  "start_date": "2024-05-31"
+}

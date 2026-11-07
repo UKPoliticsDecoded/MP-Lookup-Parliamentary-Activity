@@ -1,0 +1,345 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 265,
+        "debates_participated": 43
+      },
+      "2021": {
+        "debate_contributions": 460,
+        "debates_participated": 48
+      },
+      "2022": {
+        "debate_contributions": 187,
+        "debates_participated": 36,
+        "written_questions": 3
+      },
+      "2023": {
+        "bills_sponsored": 2,
+        "debate_contributions": 283,
+        "debates_participated": 43
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 358,
+        "debates_participated": 31,
+        "written_questions": 32
+      },
+      "2025": {
+        "debate_contributions": 53,
+        "debates_participated": 22,
+        "early_day_motions": 1,
+        "written_questions": 11
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 30,
+        "debates_participated": 13,
+        "written_questions": 24
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 1636,
+    "debates_participated": 236,
+    "early_day_motions": 1,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 70
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1636,
+    "voting_participation_pct": 75.75,
+    "written_questions": 70
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No. 2) Bill",
+      "committee_id": 667,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Police, Crime, Sentencing and Courts Bill",
+      "committee_id": 522,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Finance (No. 2) Bill",
+        "committee_id": 667,
+        "file": "committees/finance-no-2-bill-667.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-10"
+          }
+        ],
+        "slug": "finance-no-2-bill-667"
+      },
+      {
+        "committee": "Police, Crime, Sentencing and Courts Bill",
+        "committee_id": 522,
+        "file": "committees/police-crime-sentencing-and-courts-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-05-12"
+          }
+        ],
+        "slug": "police-crime-sentencing-and-courts-bill"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-25"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/louth-and-horncastle.json",
+    "id": 4158,
+    "name": "Louth and Horncastle",
+    "ons_code": "E14001343",
+    "slug": "louth-and-horncastle"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "Victoria@victoriaatkins.org.uk ",
+      "phone": "020 7219 5897",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.victoriaatkins.org.uk/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4399
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4399,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Victoria Atkins",
+    "display": "Victoria Atkins",
+    "full_title": "Rt Hon Victoria Atkins MP",
+    "list_as": "Atkins, Victoria"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Secretary of State for Health and Social Care",
+        "start_date": "2023-11-13"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2023-11-13",
+        "is_current": false,
+        "name": "Financial Secretary (HM Treasury)",
+        "start_date": "2022-10-27"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2022-03-08",
+        "is_current": false,
+        "name": "Minister for Afghan resettlement",
+        "start_date": "2021-09-17"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2022-07-06",
+        "is_current": false,
+        "name": "Minister of State (Ministry of Justice)",
+        "start_date": "2021-09-16"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Minister for Women",
+        "start_date": "2018-01-16"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2021-09-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "2017-11-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2024-11-05"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-11-05",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Health and Social Care",
+        "start_date": "2024-07-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Louth and Horncastle",
+        "constituency_id": 4158,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Louth and Horncastle",
+        "constituency_id": 3587,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Victoria Atkins is the Conservative MP for <a href='/constituency/4158/overview'>Louth and Horncastle</a>, and has been an MP continually since 7 May 2015. \r\nShe currently undertakes the role of Shadow Secretary of State for Environment, Food and Rural Affairs.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4399/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 170,
+        "voting_participation_pct": 89.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 218,
+        "voting_participation_pct": 90.08
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 233,
+        "voting_participation_pct": 91.02
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 153,
+        "voting_participation_pct": 76.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 168,
+        "voting_participation_pct": 52.17
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 142,
+        "voting_participation_pct": 60.17
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 925,
+        "voting_participation_pct": 86.61
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 362,
+        "voting_participation_pct": 57.37
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1287,
+    "voting_participation_pct": 75.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

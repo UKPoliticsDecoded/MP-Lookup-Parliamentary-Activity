@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 1317.7,
+    "bng": {
+      "easting": 465418,
+      "northing": 99876
+    },
+    "centroid": {
+      "latitude": 50.79475,
+      "longitude": -1.07317
+    },
+    "geojson": "constituencies/boundaries/portsmouth-south.geojson",
+    "ons_code": "E14001432",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4653.json",
+    "member_id": 4653,
+    "name": "Stephen Morgan",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73711,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13155,
+      "result": "Lab Hold",
+      "turnout": 38928,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3685,
+      "end_date": "2024-05-30",
+      "member_id": 4653,
+      "name": "Stephen Morgan",
+      "start_date": "2017-06-08"
+    },
+    {
+      "constituency_version_id": 3685,
+      "end_date": "2017-05-03",
+      "member_id": 4459,
+      "name": "Mrs Flick Drummond",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4247,
+  "is_current": true,
+  "name": "Portsmouth South",
+  "name_cy": null,
+  "ons_code": "E14001432",
+  "outcodes": [
+    "PO1",
+    "PO2",
+    "PO3",
+    "PO4",
+    "PO5"
+  ],
+  "schema_version": 1,
+  "slug": "portsmouth-south",
+  "start_date": "2024-05-31"
+}

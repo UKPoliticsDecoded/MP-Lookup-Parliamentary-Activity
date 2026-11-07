@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 19589.8,
+    "bng": {
+      "easting": 384106,
+      "northing": 276388
+    },
+    "centroid": {
+      "latitude": 52.3853,
+      "longitude": -2.23494
+    },
+    "geojson": "constituencies/boundaries/wyre-forest.geojson",
+    "ons_code": "E14001601",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4074.json",
+    "member_id": 4074,
+    "name": "Mark Garnier",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77329,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 812,
+      "result": "Con Hold",
+      "turnout": 45158,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3872,
+      "end_date": "2024-05-30",
+      "member_id": 4074,
+      "name": "Mark Garnier",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4416,
+  "is_current": true,
+  "name": "Wyre Forest",
+  "name_cy": null,
+  "ons_code": "E14001601",
+  "outcodes": [
+    "DY10",
+    "DY11",
+    "DY12",
+    "DY13",
+    "DY14",
+    "DY7",
+    "DY8",
+    "DY9",
+    "WR6",
+    "WR9",
+    "WV98"
+  ],
+  "schema_version": 1,
+  "slug": "wyre-forest",
+  "start_date": "2024-05-31"
+}

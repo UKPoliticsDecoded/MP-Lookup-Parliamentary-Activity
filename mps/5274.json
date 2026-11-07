@@ -1,0 +1,285 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 36,
+        "debates_participated": 21,
+        "oral_questions": 4,
+        "written_questions": 19
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 93,
+        "debates_participated": 76,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 47
+      },
+      "2026": {
+        "debate_contributions": 71,
+        "debates_participated": 57,
+        "oral_questions": 12,
+        "written_questions": 11
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 200,
+    "debates_participated": 154,
+    "early_day_motions": 1,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 77
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 200,
+    "voting_participation_pct": 83.2,
+    "written_questions": 77
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 44,
+      "meetings_available": 44
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+      "committee_id": 783,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill",
+      "committee_id": 742,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+      "committee_id": 743,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-04-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Business, Innovation, Science and Trade Sub-Committee on Economic Security, Arms and Export Controls",
+        "committee_id": 783,
+        "file": "committees/business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-05-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill",
+        "committee_id": 742,
+        "file": "committees/terrorism-protection-of-premises-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill"
+      },
+      {
+        "committee": "Terrorism (Protection of Premises) Bill: Programming sub committee",
+        "committee_id": 743,
+        "file": "committees/terrorism-protection-of-premises-bill-programming-sub-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-23"
+          }
+        ],
+        "slug": "terrorism-protection-of-premises-bill-programming-sub-committee"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dudley.json",
+    "id": 4019,
+    "name": "Dudley",
+    "ons_code": "E14001204",
+    "slug": "dudley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sonia.kumar.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01384 885959",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/SoniaKumarMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/soniakumarmp/"
+    },
+    {
+      "type": "LinkedIn",
+      "url": "https://www.linkedin.com/company/soniakumarmp/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5274
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5274,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sonia Kumar",
+    "full_title": "Sonia Kumar MP",
+    "list_as": "Kumar, Sonia"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dudley",
+        "constituency_id": 4019,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Sonia Kumar is the Labour MP for <a href='/constituency/4019/overview'>Dudley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5274/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 252,
+        "voting_participation_pct": 78.26
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 206,
+        "voting_participation_pct": 87.29
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 525,
+        "voting_participation_pct": 83.2
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 525,
+    "voting_participation_pct": 83.2
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

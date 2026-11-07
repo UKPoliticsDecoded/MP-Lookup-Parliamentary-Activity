@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 19392.9,
+    "bng": {
+      "easting": 438097,
+      "northing": 517043
+    },
+    "centroid": {
+      "latitude": 54.54722,
+      "longitude": -1.41259
+    },
+    "geojson": "constituencies/boundaries/stockton-west.geojson",
+    "ons_code": "E14001519",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4844.json",
+    "member_id": 4844,
+    "name": "Matt Vickers",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71868,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2139,
+      "result": "Con Hold",
+      "turnout": 48638,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4334,
+  "is_current": true,
+  "name": "Stockton West",
+  "name_cy": null,
+  "ons_code": "E14001519",
+  "outcodes": [
+    "DL1",
+    "DL2",
+    "DL3",
+    "TS15",
+    "TS16",
+    "TS17",
+    "TS18",
+    "TS19",
+    "TS21",
+    "TS8"
+  ],
+  "schema_version": 1,
+  "slug": "stockton-west",
+  "start_date": "2024-05-31"
+}

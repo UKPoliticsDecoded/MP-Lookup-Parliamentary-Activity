@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 27010.1,
+    "bng": {
+      "easting": 167292,
+      "northing": 40667
+    },
+    "centroid": {
+      "latitude": 50.22011,
+      "longitude": -5.2636
+    },
+    "geojson": "constituencies/boundaries/camborne-and-redruth.geojson",
+    "ons_code": "E14001148",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5208.json",
+    "member_id": 5208,
+    "name": "Perran Moon",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74342,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7806,
+      "result": "Lab Gain",
+      "turnout": 47785,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3385,
+      "end_date": "2024-05-30",
+      "member_id": 3934,
+      "name": "George Eustice",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3963,
+  "is_current": true,
+  "name": "Camborne and Redruth",
+  "name_cy": null,
+  "ons_code": "E14001148",
+  "outcodes": [
+    "TR10",
+    "TR11",
+    "TR12",
+    "TR14",
+    "TR15",
+    "TR16",
+    "TR27",
+    "TR3",
+    "TR4",
+    "TR5",
+    "TR6"
+  ],
+  "schema_version": 1,
+  "slug": "camborne-and-redruth",
+  "start_date": "2024-05-31"
+}

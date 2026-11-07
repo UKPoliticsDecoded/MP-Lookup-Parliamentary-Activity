@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 14209.5,
+    "bng": {
+      "easting": 274119,
+      "northing": 675772
+    },
+    "centroid": {
+      "latitude": 55.95841,
+      "longitude": -4.01786
+    },
+    "geojson": "constituencies/boundaries/cumbernauld-and-kirkintilloch.geojson",
+    "ons_code": "S14000072",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5309.json",
+    "member_id": 5309,
+    "name": "Katrina Murray",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70350,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4144,
+      "result": "Lab Gain",
+      "turnout": 40976,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4461,
+  "is_current": true,
+  "name": "Cumbernauld and Kirkintilloch",
+  "name_cy": null,
+  "ons_code": "S14000072",
+  "outcodes": [
+    "FK1",
+    "FK4",
+    "FK6",
+    "G33",
+    "G64",
+    "G65",
+    "G66",
+    "G67",
+    "G68",
+    "G69",
+    "G70"
+  ],
+  "schema_version": 1,
+  "slug": "cumbernauld-and-kirkintilloch",
+  "start_date": "2024-05-31"
+}

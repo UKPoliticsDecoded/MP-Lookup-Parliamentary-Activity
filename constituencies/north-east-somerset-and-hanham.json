@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 20913.1,
+    "bng": {
+      "easting": 362388,
+      "northing": 164194
+    },
+    "centroid": {
+      "latitude": 51.37554,
+      "longitude": -2.54176
+    },
+    "geojson": "constituencies/boundaries/north-east-somerset-and-hanham.geojson",
+    "ons_code": "E14001394",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/221.json",
+    "member_id": 221,
+    "name": "Dan Norris",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73889,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5319,
+      "result": "Lab Gain",
+      "turnout": 51125,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4209,
+  "is_current": true,
+  "name": "North East Somerset and Hanham",
+  "name_cy": null,
+  "ons_code": "E14001394",
+  "outcodes": [
+    "BA1",
+    "BA2",
+    "BA3",
+    "BS14",
+    "BS15",
+    "BS30",
+    "BS31",
+    "BS39",
+    "BS40",
+    "BS41"
+  ],
+  "schema_version": 1,
+  "slug": "north-east-somerset-and-hanham",
+  "start_date": "2024-05-31"
+}

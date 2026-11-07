@@ -1,0 +1,204 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 28,
+        "debates_participated": 22,
+        "oral_questions": 8,
+        "written_questions": 4
+      },
+      "2025": {
+        "debate_contributions": 253,
+        "debates_participated": 96,
+        "oral_questions": 7,
+        "written_questions": 5
+      },
+      "2026": {
+        "debate_contributions": 224,
+        "debates_participated": 41
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 505,
+    "debates_participated": 159,
+    "early_day_motions": 0,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 9
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 505,
+    "voting_participation_pct": 77.65,
+    "written_questions": 9
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/stockton-north.json",
+    "id": 4333,
+    "name": "Stockton North",
+    "ons_code": "E14001518",
+    "slug": "stockton-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "chris.mcdonald.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5116
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5116,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Chris McDonald",
+    "full_title": "Chris McDonald MP",
+    "list_as": "McDonald, Chris"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2026-07-23"
+      },
+      {
+        "department": "Department for Business, Innovation, Science and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Business, Innovation, Science and Trade)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Business and Trade)",
+        "start_date": "2025-09-11"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Energy Security and Net Zero)",
+        "start_date": "2025-09-11"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department of Health and Social Care)",
+      "Minister of State (Department for Business, Innovation, Science and Trade)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stockton North",
+        "constituency_id": 4333,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Chris McDonald is the Labour MP for <a href='/constituency/4333/overview'>Stockton North</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government posts of Minister of State (Department for Business, Innovation, Science and Trade), and Minister of State (Department of Health and Social Care).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5116/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 248,
+        "voting_participation_pct": 77.02
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 490,
+        "voting_participation_pct": 77.65
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 490,
+    "voting_participation_pct": 77.65
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

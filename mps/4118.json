@@ -1,0 +1,288 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 61,
+        "debates_participated": 18,
+        "oral_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 12,
+        "debates_participated": 8,
+        "oral_questions": 2,
+        "petitions_presented": 5
+      },
+      "2022": {
+        "debate_contributions": 31,
+        "debates_participated": 16,
+        "oral_questions": 2,
+        "petitions_presented": 1
+      },
+      "2023": {
+        "debate_contributions": 14,
+        "debates_participated": 7
+      },
+      "2024": {
+        "debate_contributions": 19,
+        "debates_participated": 11,
+        "oral_questions": 2,
+        "written_questions": 34
+      },
+      "2025": {
+        "debate_contributions": 66,
+        "debates_participated": 50,
+        "oral_questions": 11,
+        "petitions_presented": 1,
+        "written_questions": 111
+      },
+      "2026": {
+        "debate_contributions": 59,
+        "debates_participated": 44,
+        "oral_questions": 9,
+        "written_questions": 227
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 262,
+    "debates_participated": 154,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 7,
+    "written_questions": 372
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 262,
+    "voting_participation_pct": 73.22,
+    "written_questions": 372
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "British Citizenship (Northern Ireland) Bill",
+      "committee_id": 716,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "British Citizenship (Northern Ireland) Bill",
+        "committee_id": 716,
+        "file": "committees/british-citizenship-northern-ireland-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-04-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-03-20"
+          }
+        ],
+        "slug": "british-citizenship-northern-ireland-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/skipton-and-ripon.json",
+    "id": 4290,
+    "name": "Skipton and Ripon",
+    "ons_code": "E14001475",
+    "slug": "skipton-and-ripon"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "julian.smith.mp@parliament.uk",
+      "phone": "020 7219 7145",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.juliansmith.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/juliansmithofficial"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/julian.smith.mp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/JulianSmithuk"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4118
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4118,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sir Julian Smith",
+    "full_title": "Rt Hon Sir Julian Smith MP",
+    "list_as": "Smith, Sir Julian"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2020-02-13",
+        "is_current": false,
+        "name": "Secretary of State for Northern Ireland",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Parliamentary Secretary to the Treasury and Chief Whip",
+        "start_date": "2017-11-02"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2017-11-02",
+        "is_current": false,
+        "name": "Treasurer of HM Household (Deputy Chief Whip, House of Commons)",
+        "start_date": "2017-06-13"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2017-06-13",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2016-07-17"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2016-07-17",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2015-05-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Skipton and Ripon",
+        "constituency_id": 4290,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Skipton and Ripon",
+        "constituency_id": 3731,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Julian Smith is the Conservative MP for <a href='/constituency/4290/overview'>Skipton and Ripon</a>, and has been an MP continually since 6 May 2010.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4118/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 220,
+        "voting_participation_pct": 90.91
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 181,
+        "voting_participation_pct": 72.11
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 163,
+        "voting_participation_pct": 63.67
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 122,
+        "voting_participation_pct": 61.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 233,
+        "voting_participation_pct": 72.36
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 191,
+        "voting_participation_pct": 80.93
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 784,
+        "voting_participation_pct": 73.41
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 460,
+        "voting_participation_pct": 72.9
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1244,
+    "voting_participation_pct": 73.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

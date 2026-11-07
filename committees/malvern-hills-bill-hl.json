@@ -1,0 +1,110 @@
+{
+  "activity": {
+    "current_members": 0,
+    "formal_meetings_held": 33,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 33
+  },
+  "category": "Select",
+  "chairs": [],
+  "contact": {
+    "address": "Private Bill Office, House of Lords, London SW1A 0PW",
+    "email": "hlprivatebills@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Lords",
+  "id": 761,
+  "is_current": true,
+  "lead_house": null,
+  "members": [],
+  "membership_history": [
+    {
+      "file": null,
+      "member_id": 1980,
+      "name": "The Lord Inglewood MRICS",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 2004,
+      "name": "The Rt Hon. the Lord Hope of Craighead KT",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-22",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2025-10-15"
+        },
+        {
+          "end": "2026-04-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 3154,
+      "name": "The Lord Ponsonby of Shulbrede",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 4285,
+      "name": "The Baroness Bakewell of Hardington Mandeville MBE",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-15"
+        }
+      ]
+    },
+    {
+      "file": null,
+      "member_id": 5399,
+      "name": "The Lord Evans of Guisborough",
+      "party": null,
+      "roles": [
+        {
+          "end": "2026-04-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-10-15"
+        }
+      ]
+    }
+  ],
+  "name": "Malvern Hills Bill [HL] Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The Committee on the Malvern Hills Bill [HL] was set up to oversee the Bill’s petitioning period. The Committee provides individuals and bodies directly and specially affected by the Bill with the opportunity to object to the Bill’s specific provisions and to seek its amendment.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "malvern-hills-bill-hl",
+  "start_date": "2025-01-22",
+  "sub_committee_ids": [],
+  "types": [
+    "(HL) Legislation Office",
+    "Private/hybrid bill committee"
+  ]
+}

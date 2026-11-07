@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 58846.4,
+    "bng": {
+      "easting": 545788,
+      "northing": 250998
+    },
+    "centroid": {
+      "latitude": 52.13806,
+      "longitude": 0.128854
+    },
+    "geojson": "constituencies/boundaries/south-cambridgeshire.geojson",
+    "ons_code": "E14001481",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5078.json",
+    "member_id": 5078,
+    "name": "Pippa Heylings",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77327,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10641,
+      "result": "LD Gain",
+      "turnout": 54885,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3738,
+      "end_date": "2024-05-30",
+      "member_id": 4801,
+      "name": "Anthony Browne",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4296,
+  "is_current": true,
+  "name": "South Cambridgeshire",
+  "name_cy": null,
+  "ons_code": "E14001481",
+  "outcodes": [
+    "CB1",
+    "CB10",
+    "CB2",
+    "CB21",
+    "CB22",
+    "CB23",
+    "CB24",
+    "CB25",
+    "CB3",
+    "CB5",
+    "CB8",
+    "SG19",
+    "SG7",
+    "SG8"
+  ],
+  "schema_version": 1,
+  "slug": "south-cambridgeshire",
+  "start_date": "2024-05-31"
+}

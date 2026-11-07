@@ -1,0 +1,292 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 4,
+        "debates_participated": 3,
+        "oral_questions": 1,
+        "written_questions": 1
+      },
+      "2025": {
+        "debate_contributions": 23,
+        "debates_participated": 14,
+        "oral_questions": 5,
+        "written_questions": 26
+      },
+      "2026": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 28,
+    "debates_participated": 18,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 27
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 2,
+    "debate_contributions": 28,
+    "voting_participation_pct": 80.03,
+    "written_questions": 27
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Immigration and Asylum Bill",
+      "committee_id": 843,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Controlled Drugs (Procedure for Specification) Bill",
+      "committee_id": 807,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Office (Accountability) Bill",
+      "committee_id": 819,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-02"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Immigration and Asylum Bill",
+        "committee_id": 843,
+        "file": "committees/immigration-and-asylum-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-09-09"
+          }
+        ],
+        "slug": "immigration-and-asylum-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Controlled Drugs (Procedure for Specification) Bill",
+        "committee_id": 807,
+        "file": "committees/controlled-drugs-procedure-for-specification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "controlled-drugs-procedure-for-specification-bill"
+      },
+      {
+        "committee": "Public Office (Accountability) Bill",
+        "committee_id": 819,
+        "file": "committees/public-office-accountability-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-12-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-11-12"
+          }
+        ],
+        "slug": "public-office-accountability-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ossett-and-denby-dale.json",
+    "id": 4233,
+    "name": "Ossett and Denby Dale",
+    "ons_code": "E14001418",
+    "slug": "ossett-and-denby-dale"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jade.botterill.mp@parliament.uk",
+      "phone": "0207 219 7012",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "3 Wellgate Centre, Ossett",
+      "email": "jade.botterill.mp@parliament.uk ",
+      "phone": "01924 208354",
+      "postcode": "WF5 8NS",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5236
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5236,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jade Botterill",
+    "full_title": "Jade Botterill MP",
+    "list_as": "Botterill, Jade"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2026-06-12"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-06-12",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Government Whip, Lord Commissioner of HM Treasury"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ossett and Denby Dale",
+        "constituency_id": 4233,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jade Botterill is the Labour MP for <a href='/constituency/4233/overview'>Ossett and Denby Dale</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Government Whip, Lord Commissioner of HM Treasury.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5236/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 262,
+        "voting_participation_pct": 81.37
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 173,
+        "voting_participation_pct": 73.31
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 505,
+        "voting_participation_pct": 80.03
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 505,
+    "voting_participation_pct": 80.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

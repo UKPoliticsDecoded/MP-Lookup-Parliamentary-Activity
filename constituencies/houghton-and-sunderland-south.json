@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 6882.6,
+    "bng": {
+      "easting": 436069,
+      "northing": 550949
+    },
+    "centroid": {
+      "latitude": 54.85205,
+      "longitude": -1.43976
+    },
+    "geojson": "constituencies/boundaries/houghton-and-sunderland-south.geojson",
+    "ons_code": "E14001295",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4046.json",
+    "member_id": 4046,
+    "name": "Bridget Phillipson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78448,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7169,
+      "result": "Lab Hold",
+      "turnout": 40032,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3540,
+      "end_date": "2024-05-30",
+      "member_id": 4046,
+      "name": "Bridget Phillipson",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4110,
+  "is_current": true,
+  "name": "Houghton and Sunderland South",
+  "name_cy": null,
+  "ons_code": "E14001295",
+  "outcodes": [
+    "DH4",
+    "DH5",
+    "SR2",
+    "SR3",
+    "SR4",
+    "SR5",
+    "SR7"
+  ],
+  "schema_version": 1,
+  "slug": "houghton-and-sunderland-south",
+  "start_date": "2024-05-31"
+}

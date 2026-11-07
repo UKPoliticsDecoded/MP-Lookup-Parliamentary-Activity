@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 90888.7,
+    "bng": {
+      "easting": 420968,
+      "northing": 355924
+    },
+    "centroid": {
+      "latitude": 53.10012,
+      "longitude": -1.68829
+    },
+    "geojson": "constituencies/boundaries/derbyshire-dales.geojson",
+    "ons_code": "E14001195",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5342.json",
+    "member_id": 5342,
+    "name": "John Whitby",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73324,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 350,
+      "result": "Lab Gain",
+      "turnout": 51272,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3444,
+      "end_date": "2024-05-30",
+      "member_id": 4816,
+      "name": "Miss Sarah Dines",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4010,
+  "is_current": true,
+  "name": "Derbyshire Dales",
+  "name_cy": null,
+  "ons_code": "E14001195",
+  "outcodes": [
+    "DE13",
+    "DE4",
+    "DE45",
+    "DE56",
+    "DE6",
+    "DE65",
+    "S11",
+    "S32",
+    "S33",
+    "S42",
+    "SK17",
+    "ST14"
+  ],
+  "schema_version": 1,
+  "slug": "derbyshire-dales",
+  "start_date": "2024-05-31"
+}

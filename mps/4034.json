@@ -1,0 +1,350 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 26,
+        "debates_participated": 17,
+        "early_day_motions": 1,
+        "oral_questions": 4,
+        "written_questions": 18
+      },
+      "2021": {
+        "debate_contributions": 38,
+        "debates_participated": 19,
+        "oral_questions": 4,
+        "written_questions": 22
+      },
+      "2022": {
+        "debate_contributions": 26,
+        "debates_participated": 13,
+        "oral_questions": 2,
+        "petitions_presented": 1,
+        "written_questions": 28
+      },
+      "2023": {
+        "debate_contributions": 23,
+        "debates_participated": 17,
+        "written_questions": 6
+      },
+      "2024": {
+        "debate_contributions": 3,
+        "debates_participated": 3,
+        "early_day_motions": 1,
+        "written_questions": 3
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 116,
+    "debates_participated": 69,
+    "early_day_motions": 2,
+    "oral_questions": 10,
+    "petitions_presented": 1,
+    "written_questions": 77
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 116,
+    "voting_participation_pct": 65.82,
+    "written_questions": 77
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Societies Act 1986 (Amendment) Bill",
+      "committee_id": 703,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 15,
+      "meetings_available": 15
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Building Societies Act 1986 (Amendment) Bill",
+        "committee_id": 703,
+        "file": "committees/building-societies-act-1986-amendment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-31"
+          }
+        ],
+        "slug": "building-societies-act-1986-amendment-bill"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-09"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-22"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3594,
+    "name": "Makerfield"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4034
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4034,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Yvonne Fovargue",
+    "display": "Yvonne Fovargue",
+    "full_title": "Yvonne Fovargue",
+    "list_as": "Fovargue, Yvonne"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2019-03-14",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Communities and Local Government)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2015-09-18"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2015-03-30",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2014-10-20"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2014-10-20",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Transport)",
+        "start_date": "2013-01-11"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2013-01-11",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2011-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Makerfield",
+        "constituency_id": 3594,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Yvonne Fovargue is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3594/overview'>Makerfield</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4034/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 1,
+        "voting_participation_pct": 50.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 116,
+        "voting_participation_pct": 61.05
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 140,
+        "voting_participation_pct": 55.78
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 187,
+        "voting_participation_pct": 73.05
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 47,
+        "voting_participation_pct": 37.01
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 703,
+        "voting_participation_pct": 65.82
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 703,
+    "voting_participation_pct": 65.82
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

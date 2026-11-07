@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 112222.2,
+    "bng": {
+      "easting": 140371,
+      "northing": 487604
+    },
+    "centroid": {
+      "latitude": 54.21761,
+      "longitude": -5.9826
+    },
+    "geojson": "constituencies/boundaries/south-down.geojson",
+    "ons_code": "N05000015",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4636.json",
+    "member_id": 4636,
+    "name": "Chris Hazzard",
+    "party": "Sinn Féin",
+    "party_abbreviation": "SF",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76248,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9280,
+      "result": "SF Hold",
+      "turnout": 45243,
+      "winning_party": "Sinn Féin",
+      "winning_party_id": 30
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3741,
+      "end_date": "2024-05-30",
+      "member_id": 4636,
+      "name": "Chris Hazzard",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4435,
+  "is_current": true,
+  "name": "South Down",
+  "name_cy": null,
+  "ons_code": "N05000015",
+  "outcodes": [
+    "BT24",
+    "BT25",
+    "BT30",
+    "BT31",
+    "BT32",
+    "BT33",
+    "BT34",
+    "BT35",
+    "BT63"
+  ],
+  "schema_version": 1,
+  "slug": "south-down",
+  "start_date": "2024-05-31"
+}

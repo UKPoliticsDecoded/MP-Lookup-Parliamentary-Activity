@@ -1,0 +1,381 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 50,
+        "debates_participated": 36,
+        "early_day_motions": 1,
+        "oral_questions": 10,
+        "written_questions": 3
+      },
+      "2021": {
+        "debate_contributions": 121,
+        "debates_participated": 82,
+        "early_day_motions": 7,
+        "oral_questions": 17,
+        "written_questions": 42
+      },
+      "2022": {
+        "debate_contributions": 127,
+        "debates_participated": 83,
+        "early_day_motions": 14,
+        "oral_questions": 19,
+        "petitions_presented": 1,
+        "written_questions": 65
+      },
+      "2023": {
+        "debate_contributions": 29,
+        "debates_participated": 17,
+        "early_day_motions": 16,
+        "oral_questions": 2,
+        "written_questions": 87
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 327,
+    "debates_participated": 218,
+    "early_day_motions": 38,
+    "oral_questions": 48,
+    "petitions_presented": 1,
+    "written_questions": 197
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 327,
+    "voting_participation_pct": 67.15,
+    "written_questions": 197
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+      "committee_id": 630,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 40,
+      "meetings_available": 40
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": false,
+      "meetings_attended": 33,
+      "meetings_available": 33
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+        "committee_id": 630,
+        "file": "committees/co-operatives-mutuals-and-friendly-societies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "co-operatives-mutuals-and-friendly-societies-bill"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-07-13"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3700,
+    "name": "Rochdale"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 450
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 450,
+  "membership": {
+    "end_date": "2024-01-17",
+    "end_reason": "Death",
+    "start_date": "2017-06-08",
+    "status": null
+  },
+  "name": {
+    "address_as": "Tony Lloyd",
+    "display": "Tony Lloyd",
+    "full_title": "Tony Lloyd",
+    "list_as": "Lloyd, Tony"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "1999-07-29",
+        "is_current": false,
+        "name": "Minister of State (Foreign and Commonwealth Office)",
+        "start_date": "1997-05-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Scotland",
+        "start_date": "2019-12-19"
+      },
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2020-04-28",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Northern Ireland",
+        "start_date": "2018-03-23"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2018-03-23",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government) (Housing)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Housing)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "1997-05-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Foreign and Commonwealth Affairs)",
+        "start_date": "1995-07-01"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "1995-07-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "1994-07-01"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "1994-07-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Education)",
+        "start_date": "1992-07-01"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "1989-07-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Transport)",
+        "start_date": "1988-07-01"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "1992-07-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Work and Pensions)",
+        "start_date": "1988-07-01"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "1987-07-01",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "1986-07-01"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Chair, Parliamentary Labour Party",
+        "start_date": "2006-12-05"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-01-17",
+        "party": "Labour",
+        "start_date": "1983-06-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rochdale",
+        "constituency_id": 3700,
+        "end_date": "2024-01-17",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      },
+      {
+        "constituency": "Manchester Central",
+        "constituency_id": 3596,
+        "end_date": "2012-10-22",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Manchester Central",
+        "constituency_id": 1881,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Stretford",
+        "constituency_id": 2842,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1983-06-09"
+      }
+    ]
+  },
+  "synopsis": "Tony Lloyd died in service 17th January 2024, as the Labour MP for <a href='/constituency/3700/overview'>Rochdale</a>.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/450/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 126,
+        "voting_participation_pct": 50.2
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 179,
+        "voting_participation_pct": 69.92
+      },
+      "2024": {
+        "divisions_eligible": 27,
+        "divisions_voted": 5,
+        "voting_participation_pct": 18.52
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 968,
+        "divisions_voted": 650,
+        "voting_participation_pct": 67.15
+      }
+    },
+    "divisions_eligible": 968,
+    "divisions_voted": 650,
+    "voting_participation_pct": 67.15
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

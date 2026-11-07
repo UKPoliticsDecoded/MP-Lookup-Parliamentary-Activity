@@ -1,13 +1,13 @@
 # UK Politics Decoded Parliamentary Dataset
 
-MP Lookup Parliamentary Activity Dataset
-The Parliamentary Term Statistics tab provides structured, JSON only analytics for debates, contributions, divisions, speeches, interventions, and party level activity across parliamentary terms. Powered by the Hansard Timeline Stats API, Hansard Debate API, and Members API, it offers a rolling 7 years of reliable parliamentary trend data, Free of charge.
+An open, machine-readable dataset describing every UK Member of Parliament, their
+constituency, committee work and parliamentary activity over a rolling 7-year window.
+It is plain JSON in this repository: no database, no API key, no server. Fetch the
+files over HTTPS (or clone the repo) and use them directly.
 
-We currently use this dataset for a MP lookup tool on the ukpoliticsdecoded.uk website. https://ukpoliticsdecoded.uk
-
-Fetch files over HTTPS (or clone the repo) and use them directly.
-
-The files are generated and refreshed automatically from official UK Parliament and ONS open data. Every commit contains only files whose content really changed, so the git history doubles as a change log.
+The files are generated and refreshed automatically from official UK Parliament and
+ONS open data. Every commit contains only files whose content really changed, so the
+git history doubles as a change log.
 
 > **Not an official Parliament product.** This is derived data. Check the
 > [source APIs](#data-sources) for anything where accuracy matters.
@@ -24,8 +24,10 @@ https://raw.githubusercontent.com/UKPoliticsDecoded/MP-Lookup-Parliamentary-Acti
 
 1. Take the outcode (the part before the space, e.g. `AB10` from `AB10 1AA`).
 2. Read `postcodes/postcode_constituencies.json` → `outcodes["AB10"].constituencies`
-   gives constituency slug(s). If `unique` is `false` the outcode spans several constituencies, resolve the full postcode with
-   [Postcodes.io](https://postcodes.io) (`parliamentary_constituency` field), then map the name with `postcodes/constituency_lookup.json`.
+   gives constituency slug(s). If `unique` is `false` the outcode spans several
+   constituencies; resolve the full postcode with
+   [Postcodes.io](https://postcodes.io) (`parliamentary_constituency` field), then map
+   the name with `postcodes/constituency_lookup.json`.
 3. Open `constituencies/{slug}.json` → `current_mp.file` points to the MP file.
 
 **Find an MP by name or party:** use `mps/index.json` (one compact row per MP), then open
@@ -89,18 +91,26 @@ clean. Dates are ISO 8601 (`YYYY-MM-DD`).
 
 ## How the statistics are defined
 
-- **Voting participation** = divisions voted in ÷ Commons divisions the MP was eligible for (held while they were an MP), as a percentage. Tellers count as votes.
-  Absence is not necessarily non-attendance: MPs can be paired, ill, on maternity or paternity leave, or serving as Speaker or Deputy Speaker (who do not normally vote).
-- **Committee attendance** = formal meetings attended ÷ meetings for which Parliament published an attendance list while the MP was a member. Meetings without a published list are excluded, and `attendance_pct` is `null` when there is nothing to measure.
-- **Activity counts** are taken from Hansard contributions, written and oral question records, early day motions and the Bills API within the window. Counts are per calendar year in `annual`.
-- The window is rolling (default 7 years, see `meta.json → window`). Earlier history is not included.
+- **Voting participation** = divisions voted in ÷ Commons divisions the MP was
+  eligible for (held while they were an MP), as a percentage. Tellers count as votes.
+  Absence is not necessarily non-attendance: MPs can be paired, ill, on maternity or
+  paternity leave, or serving as Speaker or Deputy Speaker (who do not normally vote).
+- **Committee attendance** = formal meetings attended ÷ meetings for which Parliament
+  published an attendance list while the MP was a member. Meetings without a published
+  list are excluded, and `attendance_pct` is `null` when there is nothing to measure.
+- **Activity counts** are taken from Hansard contributions, written and oral question
+  records, early day motions and the Bills API within the window. Counts are per
+  calendar year in `annual`.
+- The window is rolling (default 7 years, see `meta.json → window`). Earlier history is
+  not included.
 
 ## Known limitations
 
 - Postcodes are published at **outcode** level, so some outcodes span several
   constituencies (`unique: false`). Use Postcodes.io for exact postcode matching.
 - Petitions presented are inferred from Hansard petition debate sections.
-- No source exists for MP interventions or bills supported (only sponsored), so these are not provided.
+- No source exists for MP interventions or bills supported (only sponsored), so these
+  are not provided.
 - Committee attendance only exists for meetings where Parliament publishes it.
 - Former MPs are included only if they served within the window.
 - Election results come from the Parliament Members API.
@@ -130,6 +140,7 @@ The full, current list is in `meta.json → limitations`.
 
 Contains Parliamentary information licensed under the
 [Open Parliament Licence v3.0](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/).
-Boundary data contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) (Source: Office for National Statistics).
-Postcode data courtesy of Postcodes.io.
+Boundary data contains public sector information licensed under the
+[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+(Source: Office for National Statistics). Postcode data courtesy of Postcodes.io.
 Please credit "UK Politics Decoded" and the underlying sources when you reuse the data.

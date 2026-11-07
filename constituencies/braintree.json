@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 51615.4,
+    "bng": {
+      "easting": 574854,
+      "northing": 230991
+    },
+    "centroid": {
+      "latitude": 51.94993,
+      "longitude": 0.542924
+    },
+    "geojson": "constituencies/boundaries/braintree.geojson",
+    "ons_code": "E14001121",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4366.json",
+    "member_id": 4366,
+    "name": "Sir James Cleverly",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77673,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3670,
+      "result": "Con Hold",
+      "turnout": 49028,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3356,
+      "end_date": "2024-05-30",
+      "member_id": 4366,
+      "name": "Sir James Cleverly",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3936,
+  "is_current": true,
+  "name": "Braintree",
+  "name_cy": null,
+  "ons_code": "E14001121",
+  "outcodes": [
+    "CB10",
+    "CB9",
+    "CM3",
+    "CM6",
+    "CM7",
+    "CM77",
+    "CM8",
+    "CO10",
+    "CO6",
+    "CO8",
+    "CO9"
+  ],
+  "schema_version": 1,
+  "slug": "braintree",
+  "start_date": "2024-05-31"
+}

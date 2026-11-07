@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 3882.4,
+    "bng": {
+      "easting": 430294,
+      "northing": 281733
+    },
+    "centroid": {
+      "latitude": 52.43275,
+      "longitude": -1.55584
+    },
+    "geojson": "constituencies/boundaries/coventry-north-west.geojson",
+    "ons_code": "E14001181",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4779.json",
+    "member_id": 4779,
+    "name": "Taiwo Owatemi",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75036,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11174,
+      "result": "Lab Hold",
+      "turnout": 42030,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3428,
+      "end_date": "2024-05-30",
+      "member_id": 4779,
+      "name": "Taiwo Owatemi",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3996,
+  "is_current": true,
+  "name": "Coventry North West",
+  "name_cy": null,
+  "ons_code": "E14001181",
+  "outcodes": [
+    "CV1",
+    "CV4",
+    "CV5",
+    "CV6",
+    "CV7"
+  ],
+  "schema_version": 1,
+  "slug": "coventry-north-west",
+  "start_date": "2024-05-31"
+}

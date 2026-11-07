@@ -1,0 +1,205 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 54,
+        "debates_participated": 43,
+        "early_day_motions": 4,
+        "oral_questions": 4,
+        "written_questions": 23
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 166,
+        "debates_participated": 135,
+        "early_day_motions": 12,
+        "oral_questions": 10,
+        "written_questions": 127
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 115,
+        "debates_participated": 82,
+        "early_day_motions": 13,
+        "oral_questions": 7,
+        "written_questions": 162
+      }
+    },
+    "bills_sponsored": 4,
+    "debate_contributions": 335,
+    "debates_participated": 260,
+    "early_day_motions": 29,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 312
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 335,
+    "voting_participation_pct": 69.89,
+    "written_questions": 312
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+      "committee_id": 744,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill [HL]",
+        "committee_id": 744,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-11-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-06"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bicester-and-woodstock.json",
+    "id": 3905,
+    "name": "Bicester and Woodstock",
+    "ons_code": "E14001090",
+    "slug": "bicester-and-woodstock"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "calum.miller.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01869520123",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/calummillerld.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/CalumMillerBW"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/calummillerld/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/CalumMillerLD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5346
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5346,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Calum Miller",
+    "full_title": "Calum Miller MP",
+    "list_as": "Miller, Calum"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Foreign Affairs)",
+        "start_date": "2024-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bicester and Woodstock",
+        "constituency_id": 3905,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Calum Miller is the Liberal Democrat MP for <a href='/constituency/3905/overview'>Bicester and Woodstock</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Liberal Democrat Spokesperson (Foreign Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5346/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 44,
+        "voting_participation_pct": 60.27
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 228,
+        "voting_participation_pct": 70.81
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 441,
+        "voting_participation_pct": 69.89
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 441,
+    "voting_participation_pct": 69.89
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

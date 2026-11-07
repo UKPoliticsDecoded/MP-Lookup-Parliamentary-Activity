@@ -1,0 +1,283 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 110,
+        "debates_participated": 35
+      },
+      "2021": {
+        "debate_contributions": 205,
+        "debates_participated": 37
+      },
+      "2022": {
+        "debate_contributions": 473,
+        "debates_participated": 37
+      },
+      "2023": {
+        "debate_contributions": 30,
+        "debates_participated": 28
+      },
+      "2024": {
+        "debate_contributions": 75,
+        "debates_participated": 45,
+        "written_questions": 6
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 893,
+    "debates_participated": 182,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 6
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 893,
+    "voting_participation_pct": 90.92,
+    "written_questions": 6
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-04"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-04"
+          }
+        ],
+        "slug": "committee-on-standards"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3660,
+    "name": "Northampton North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4116
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4116,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir Michael Ellis",
+    "display": "Sir Michael Ellis",
+    "full_title": "Rt Hon Sir Michael Ellis",
+    "list_as": "Ellis, Sir Michael"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2022-10-25",
+        "is_current": false,
+        "name": "Attorney General",
+        "start_date": "2022-09-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Minister of State (Cabinet Office) (Attends Cabinet)",
+        "start_date": "2022-02-08"
+      },
+      {
+        "department": "HM Treasury",
+        "department_url": "https://www.gov.uk/government/organisations/hm-treasury",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Paymaster General",
+        "start_date": "2021-09-16"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2021-09-15",
+        "is_current": false,
+        "name": "Solicitor General (Attorney General's Office)",
+        "start_date": "2021-09-10"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2021-09-10",
+        "is_current": false,
+        "name": "Attorney General",
+        "start_date": "2021-03-03"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2021-03-03",
+        "is_current": false,
+        "name": "Solicitor General (Attorney General's Office)",
+        "start_date": "2019-07-26"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2019-07-26",
+        "is_current": false,
+        "name": "Minister of State (Department for Transport)",
+        "start_date": "2019-05-23"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2019-05-23",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Digital, Culture, Media and Sport)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2016-07-17"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Deputy Leader of the House of Commons",
+        "start_date": "2016-07-17"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Northampton North",
+        "constituency_id": 3660,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Michael Ellis is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3660/overview'>Northampton North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4116/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 184,
+        "voting_participation_pct": 96.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 206,
+        "voting_participation_pct": 82.07
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 250,
+        "voting_participation_pct": 97.66
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 114,
+        "voting_participation_pct": 89.76
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 971,
+        "voting_participation_pct": 90.92
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 971,
+    "voting_participation_pct": 90.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

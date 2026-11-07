@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 3630.9,
+    "bng": {
+      "easting": 458437,
+      "northing": 101444
+    },
+    "centroid": {
+      "latitude": 50.80959,
+      "longitude": -1.17196
+    },
+    "geojson": "constituencies/boundaries/gosport.geojson",
+    "ons_code": "E14001252",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4008.json",
+    "member_id": 4008,
+    "name": "Dame Caroline Dinenage",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73261,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6054,
+      "result": "Con Hold",
+      "turnout": 44277,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3498,
+      "end_date": "2024-05-30",
+      "member_id": 4008,
+      "name": "Dame Caroline Dinenage",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4067,
+  "is_current": true,
+  "name": "Gosport",
+  "name_cy": null,
+  "ons_code": "E14001252",
+  "outcodes": [
+    "PO12",
+    "PO13",
+    "PO14"
+  ],
+  "schema_version": 1,
+  "slug": "gosport",
+  "start_date": "2024-05-31"
+}

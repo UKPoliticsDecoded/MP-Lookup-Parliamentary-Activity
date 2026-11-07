@@ -1,0 +1,140 @@
+{
+  "activity": {
+    "current_members": 5,
+    "formal_meetings_held": 1,
+    "mean_member_attendance_pct": null,
+    "meetings_with_attendance_published": 0
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 4460,
+      "name": "Ms Nusrat Ghani"
+    }
+  ],
+  "contact": {
+    "address": "Private Bill Office, House of Commons, London SW1A 0AA",
+    "email": "PrBOHOC@parliament.uk",
+    "phone": "020 7219 3250"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 825,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4362.json",
+      "member_id": 4362,
+      "name": "Edward Argar",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-02-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4460.json",
+      "member_id": 4460,
+      "name": "Ms Nusrat Ghani",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2026-02-12"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-02-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4742.json",
+      "member_id": 4742,
+      "name": "Stuart Anderson",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-02-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5237.json",
+      "member_id": 5237,
+      "name": "Chris Vince",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-02-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5359.json",
+      "member_id": 5359,
+      "name": "Neil Duncan-Jordan",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-02-12"
+        }
+      ]
+    }
+  ],
+  "membership_history": [],
+  "name": "Cheltenham Borough Council (Markets) Bill",
+  "parent_committee_id": null,
+  "purpose": "<p>The Select Committee on the Cheltenham Borough Council (Markets) Bill was set up to oversee the Bill’s petitioning period. The Committee provides individuals and bodies directly and specially affected by the Bill with the opportunity to object to the Bill’s specific provisions and to seek its amendment, or to petition against its alteration. The Committee will hear from petitioners against the Bill, and the Bill’s promoters, before reporting the Bill, and any amendments, to the House.</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "cheltenham-borough-council-markets-bill",
+  "start_date": "2026-01-21",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Private Bill Standing Orders or Private/Hybrid Bill proceedings"
+  ]
+}

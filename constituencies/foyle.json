@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 12080.9,
+    "bng": {
+      "easting": 61711,
+      "northing": 580956
+    },
+    "centroid": {
+      "latitude": 55.00724,
+      "longitude": -7.29189
+    },
+    "geojson": "constituencies/boundaries/foyle.geojson",
+    "ons_code": "N05000008",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4846.json",
+    "member_id": 4846,
+    "name": "Colum Eastwood",
+    "party": "Social Democratic & Labour Party",
+    "party_abbreviation": "SDLP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73496,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4166,
+      "result": "SDLP Hold",
+      "turnout": 38358,
+      "winning_party": "Social Democratic & Labour Party",
+      "winning_party_id": 31
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3490,
+      "end_date": "2024-05-30",
+      "member_id": 4846,
+      "name": "Colum Eastwood",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4428,
+  "is_current": true,
+  "name": "Foyle",
+  "name_cy": null,
+  "ons_code": "N05000008",
+  "outcodes": [
+    "BT47",
+    "BT48"
+  ],
+  "schema_version": 1,
+  "slug": "foyle",
+  "start_date": "2024-05-31"
+}

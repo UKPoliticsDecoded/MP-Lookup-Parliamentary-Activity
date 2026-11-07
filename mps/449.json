@@ -1,0 +1,450 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 76,
+        "debates_participated": 30,
+        "oral_questions": 3,
+        "written_questions": 13
+      },
+      "2021": {
+        "debate_contributions": 46,
+        "debates_participated": 23,
+        "oral_questions": 4,
+        "written_questions": 6
+      },
+      "2022": {
+        "debate_contributions": 63,
+        "debates_participated": 32,
+        "oral_questions": 3,
+        "written_questions": 3
+      },
+      "2023": {
+        "debate_contributions": 35,
+        "debates_participated": 22,
+        "oral_questions": 3,
+        "written_questions": 3
+      },
+      "2024": {
+        "debate_contributions": 53,
+        "debates_participated": 24,
+        "oral_questions": 5
+      },
+      "2025": {
+        "debate_contributions": 90,
+        "debates_participated": 44,
+        "oral_questions": 4
+      },
+      "2026": {
+        "debate_contributions": 65,
+        "debates_participated": 31,
+        "oral_questions": 2,
+        "written_questions": 1
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 428,
+    "debates_participated": 206,
+    "early_day_motions": 0,
+    "oral_questions": 24,
+    "petitions_presented": 0,
+    "written_questions": 26
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 428,
+    "voting_participation_pct": 59.09,
+    "written_questions": 26
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 730,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 128,
+      "meetings_available": 128
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+      "committee_id": 686,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+      "committee_id": 567,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 75,
+      "meetings_available": 75
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Workers (Predictable Terms and Conditions) Bill",
+      "committee_id": 658,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-06-25"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 730,
+        "file": "committees/courts-remote-hearings-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-08"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Foreign Affairs Sub-Committee on the Overseas Territories",
+        "committee_id": 686,
+        "file": "committees/foreign-affairs-sub-committee-on-the-overseas-territories.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-14"
+          }
+        ],
+        "slug": "foreign-affairs-sub-committee-on-the-overseas-territories"
+      },
+      {
+        "committee": "Motor Vehicles (Compulsory Insurance) Bill",
+        "committee_id": 567,
+        "file": "committees/motor-vehicles-compulsory-insurance-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-15"
+          }
+        ],
+        "slug": "motor-vehicles-compulsory-insurance-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2007-10-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2006-11-27"
+          },
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-12"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-13"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
+      },
+      {
+        "committee": "Workers (Predictable Terms and Conditions) Bill",
+        "committee_id": 658,
+        "file": "committees/workers-predictable-terms-and-conditions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "workers-predictable-terms-and-conditions-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/blackley-and-middleton-south.json",
+    "id": 3918,
+    "name": "Blackley and Middleton South",
+    "ons_code": "E14001103",
+    "slug": "blackley-and-middleton-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "graham.stringer.mp@parliament.uk",
+      "phone": "020 7219 5235",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "North Manchester Sixth Form College, Rochdale Road, Manchester",
+      "email": "graham.stringer.mp@parliament.uk",
+      "phone": "0161 202 6600",
+      "postcode": "M9 4AF",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 449
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 449,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Graham Stringer",
+    "display": "Graham Stringer",
+    "full_title": "Graham Stringer MP",
+    "list_as": "Stringer, Graham"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2002-05-29",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2001-06-12"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2001-06-07",
+        "is_current": false,
+        "name": "Parliamentary Secretary (Cabinet Office)",
+        "start_date": "1999-11-09"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Blackley and Middleton South",
+        "constituency_id": 3918,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Blackley and Broughton",
+        "constituency_id": 3336,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Manchester, Blackley",
+        "constituency_id": 1889,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Graham Stringer is the Labour MP for <a href='/constituency/3918/overview'>Blackley and Middleton South</a>, and has been an MP continually since 1 May 1997.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/449/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 89,
+        "voting_participation_pct": 46.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 192,
+        "voting_participation_pct": 79.34
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 153,
+        "voting_participation_pct": 60.96
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 142,
+        "voting_participation_pct": 55.47
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 133,
+        "voting_participation_pct": 66.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 162,
+        "voting_participation_pct": 50.31
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 133,
+        "voting_participation_pct": 56.36
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 647,
+        "voting_participation_pct": 60.58
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 357,
+        "voting_participation_pct": 56.58
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1004,
+    "voting_participation_pct": 59.09
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

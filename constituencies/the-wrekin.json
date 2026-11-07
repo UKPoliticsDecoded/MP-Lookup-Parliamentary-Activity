@@ -1,0 +1,81 @@
+{
+  "boundary": {
+    "area_hectares": 50690.3,
+    "bng": {
+      "easting": 366652,
+      "northing": 317650
+    },
+    "centroid": {
+      "latitude": 52.75543,
+      "longitude": -2.49555
+    },
+    "geojson": "constituencies/boundaries/the-wrekin.geojson",
+    "ons_code": "E14001543",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1576.json",
+    "member_id": 1576,
+    "name": "Mark Pritchard",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78942,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 883,
+      "result": "Con Hold",
+      "turnout": 50020,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3800,
+      "end_date": "2024-05-30",
+      "member_id": 1576,
+      "name": "Mark Pritchard",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2916,
+      "end_date": "2010-05-06",
+      "member_id": 1576,
+      "name": "Mark Pritchard",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4358,
+  "is_current": true,
+  "name": "The Wrekin",
+  "name_cy": null,
+  "ons_code": "E14001543",
+  "outcodes": [
+    "ST19",
+    "SY13",
+    "SY4",
+    "TF1",
+    "TF10",
+    "TF11",
+    "TF2",
+    "TF4",
+    "TF5",
+    "TF6",
+    "TF9",
+    "WV6",
+    "WV7",
+    "WV8"
+  ],
+  "schema_version": 1,
+  "slug": "the-wrekin",
+  "start_date": "2024-05-31"
+}

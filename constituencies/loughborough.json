@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 12181.4,
+    "bng": {
+      "easting": 453939,
+      "northing": 319923
+    },
+    "centroid": {
+      "latitude": 52.77423,
+      "longitude": -1.20187
+    },
+    "geojson": "constituencies/boundaries/loughborough.geojson",
+    "ons_code": "E14001342",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5259.json",
+    "member_id": 5259,
+    "name": "Dr Jeevun Sandher",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68961,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4960,
+      "result": "Lab Gain",
+      "turnout": 42259,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3586,
+      "end_date": "2024-05-30",
+      "member_id": 4839,
+      "name": "Jane Hunt",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4157,
+  "is_current": true,
+  "name": "Loughborough",
+  "name_cy": null,
+  "ons_code": "E14001342",
+  "outcodes": [
+    "LE11",
+    "LE12",
+    "LE14",
+    "LE67",
+    "LE7"
+  ],
+  "schema_version": 1,
+  "slug": "loughborough",
+  "start_date": "2024-05-31"
+}

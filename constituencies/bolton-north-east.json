@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 4091.5,
+    "bng": {
+      "easting": 372644,
+      "northing": 411243
+    },
+    "centroid": {
+      "latitude": 53.59705,
+      "longitude": -2.41481
+    },
+    "geojson": "constituencies/boundaries/bolton-north-east.geojson",
+    "ons_code": "E14001110",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5095.json",
+    "member_id": 5095,
+    "name": "Kirith Entwistle",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 80011,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6653,
+      "result": "Lab Gain",
+      "turnout": 43359,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3344,
+      "end_date": "2024-05-30",
+      "member_id": 4815,
+      "name": "Mark Logan",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3925,
+  "is_current": true,
+  "name": "Bolton North East",
+  "name_cy": null,
+  "ons_code": "E14001110",
+  "outcodes": [
+    "BL1",
+    "BL11",
+    "BL2",
+    "BL3",
+    "BL5",
+    "BL7",
+    "BL8",
+    "M26"
+  ],
+  "schema_version": 1,
+  "slug": "bolton-north-east",
+  "start_date": "2024-05-31"
+}

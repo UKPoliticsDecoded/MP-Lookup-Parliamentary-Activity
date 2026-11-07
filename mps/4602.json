@@ -1,0 +1,537 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 5,
+        "debates_participated": 2
+      },
+      "2020": {
+        "bills_sponsored": 2,
+        "debate_contributions": 164,
+        "debates_participated": 107,
+        "early_day_motions": 6,
+        "oral_questions": 15,
+        "written_questions": 94
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 210,
+        "debates_participated": 137,
+        "early_day_motions": 11,
+        "oral_questions": 14,
+        "written_questions": 119
+      },
+      "2022": {
+        "bills_sponsored": 4,
+        "debate_contributions": 276,
+        "debates_participated": 145,
+        "early_day_motions": 9,
+        "oral_questions": 19,
+        "written_questions": 242
+      },
+      "2023": {
+        "debate_contributions": 250,
+        "debates_participated": 126,
+        "early_day_motions": 6,
+        "oral_questions": 25,
+        "written_questions": 231
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 269,
+        "debates_participated": 133,
+        "early_day_motions": 11,
+        "oral_questions": 13,
+        "written_questions": 104
+      },
+      "2025": {
+        "debate_contributions": 233,
+        "debates_participated": 146,
+        "early_day_motions": 3,
+        "oral_questions": 19,
+        "written_questions": 85
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 138,
+        "debates_participated": 79,
+        "early_day_motions": 9,
+        "oral_questions": 7,
+        "written_questions": 68
+      }
+    },
+    "bills_sponsored": 10,
+    "debate_contributions": 1545,
+    "debates_participated": 875,
+    "early_day_motions": 55,
+    "oral_questions": 112,
+    "petitions_presented": 0,
+    "written_questions": 943
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 1545,
+    "voting_participation_pct": 69.63,
+    "written_questions": 943
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Energy Security and Net Zero Committee",
+      "committee_id": 664,
+      "is_current": true,
+      "meetings_attended": 67,
+      "meetings_available": 67
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+      "committee_id": 708,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Licensing Hours Extensions Bill",
+      "committee_id": 704,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Prison Media Bill",
+      "committee_id": 731,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Programme Board",
+      "committee_id": 652,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+      "committee_id": 627,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Energy Security and Net Zero Committee",
+        "committee_id": 664,
+        "file": "committees/energy-security-and-net-zero.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Commonwealth Parliamentary Association and International Committee of the Red Cross (Status) Bill",
+        "committee_id": 708,
+        "file": "committees/commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-03-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-28"
+          }
+        ],
+        "slug": "commonwealth-parliamentary-association-and-international-committee-of-the-red-cross-status-bill"
+      },
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      },
+      {
+        "committee": "Licensing Hours Extensions Bill",
+        "committee_id": 704,
+        "file": "committees/licensing-hours-extensions-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "licensing-hours-extensions-bill"
+      },
+      {
+        "committee": "Prison Media Bill",
+        "committee_id": 731,
+        "file": "committees/prison-media-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "prison-media-bill"
+      },
+      {
+        "committee": "Restoration and Renewal Programme Board",
+        "committee_id": 652,
+        "file": "committees/restoration-and-renewal-programme-board.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-07"
+          }
+        ],
+        "slug": "restoration-and-renewal-programme-board"
+      },
+      {
+        "committee": "Worker Protection (Amendment of Equality Act 2010) Bill",
+        "committee_id": 627,
+        "file": "committees/worker-protection-amendment-of-equality-act-2010-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-16"
+          }
+        ],
+        "slug": "worker-protection-amendment-of-equality-act-2010-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bath.json",
+    "id": 3895,
+    "name": "Bath",
+    "ons_code": "E14001080",
+    "slug": "bath"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "wera.hobhouse.mp@parliament.uk",
+      "phone": "020 7219 2093",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "31 James Street West, Bath",
+      "email": "office@werahobhouse.co.uk",
+      "phone": "01225 307024",
+      "postcode": "BA1 2BT",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://werahobhouse.org.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/werahobhouse.org.uk"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/WeraHobhouse"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4602
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4602,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Wera Hobhouse",
+    "display": "Wera Hobhouse",
+    "full_title": "Wera Hobhouse MP",
+    "list_as": "Hobhouse, Wera"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Energy and Climate Change)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Transport)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Liberal Democrat Shadow Leader of the House of Commons",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-07-10",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Women and Equalities)",
+        "start_date": "2020-09-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Energy)",
+        "start_date": "2020-01-06"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-01-06",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Transport)",
+        "start_date": "2019-08-21"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2020-09-07",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Environment and Climate Change)",
+        "start_date": "2019-02-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-08-21",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Justice)",
+        "start_date": "2019-02-07"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2019-02-08",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Housing, Communities and Local Government)",
+        "start_date": "2017-06-16"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3645,
+        "name": "North East Somerset",
+        "startDate": "2015-05-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3533,
+        "name": "Heywood and Middleton",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bath",
+        "constituency_id": 3895,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Bath",
+        "constituency_id": 3308,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Wera Hobhouse is the Liberal Democrat MP for <a href='/constituency/3895/overview'>Bath</a>, and has been an MP continually since 8 June 2017.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4602/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 133,
+        "voting_participation_pct": 70.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 213,
+        "voting_participation_pct": 88.02
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 196,
+        "voting_participation_pct": 78.09
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 189,
+        "voting_participation_pct": 73.83
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 110,
+        "voting_participation_pct": 55.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 206,
+        "voting_participation_pct": 63.98
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 134,
+        "voting_participation_pct": 56.78
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 805,
+        "voting_participation_pct": 75.37
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 378,
+        "voting_participation_pct": 59.9
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1183,
+    "voting_participation_pct": 69.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

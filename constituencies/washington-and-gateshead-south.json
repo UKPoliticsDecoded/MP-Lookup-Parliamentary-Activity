@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 6941.9,
+    "bng": {
+      "easting": 427841,
+      "northing": 556783
+    },
+    "centroid": {
+      "latitude": 54.905,
+      "longitude": -1.56734
+    },
+    "geojson": "constituencies/boundaries/washington-and-gateshead-south.geojson",
+    "ons_code": "E14001567",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1521.json",
+    "member_id": 1521,
+    "name": "Mrs Sharon Hodgson",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70972,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6913,
+      "result": "Lab Hold",
+      "turnout": 37021,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4382,
+  "is_current": true,
+  "name": "Washington and Gateshead South",
+  "name_cy": null,
+  "ons_code": "E14001567",
+  "outcodes": [
+    "DH2",
+    "DH3",
+    "DH4",
+    "DH9",
+    "NE11",
+    "NE16",
+    "NE36",
+    "NE37",
+    "NE38",
+    "NE85",
+    "NE9",
+    "SR5"
+  ],
+  "schema_version": 1,
+  "slug": "washington-and-gateshead-south",
+  "start_date": "2024-05-31"
+}

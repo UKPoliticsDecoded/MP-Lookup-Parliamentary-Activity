@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 49026.5,
+    "bng": {
+      "easting": 502069,
+      "northing": 410089
+    },
+    "centroid": {
+      "latitude": 53.57749,
+      "longitude": -0.4599
+    },
+    "geojson": "constituencies/boundaries/brigg-and-immingham.geojson",
+    "ons_code": "E14001128",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/3957.json",
+    "member_id": 3957,
+    "name": "Martin Vickers",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73099,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3243,
+      "result": "Con Hold",
+      "turnout": 42508,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3943,
+  "is_current": true,
+  "name": "Brigg and Immingham",
+  "name_cy": null,
+  "ons_code": "E14001128",
+  "outcodes": [
+    "DN15",
+    "DN18",
+    "DN19",
+    "DN20",
+    "DN31",
+    "DN33",
+    "DN35",
+    "DN36",
+    "DN37",
+    "DN38",
+    "DN39",
+    "DN40",
+    "DN41",
+    "LN8"
+  ],
+  "schema_version": 1,
+  "slug": "brigg-and-immingham",
+  "start_date": "2024-05-31"
+}

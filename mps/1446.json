@@ -1,0 +1,661 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 342,
+        "debates_participated": 164,
+        "oral_questions": 13,
+        "written_questions": 25
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 264,
+        "debates_participated": 110,
+        "oral_questions": 13,
+        "written_questions": 24
+      },
+      "2022": {
+        "debate_contributions": 351,
+        "debates_participated": 185,
+        "oral_questions": 10,
+        "written_questions": 46
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 249,
+        "debates_participated": 99,
+        "oral_questions": 5,
+        "written_questions": 24
+      },
+      "2024": {
+        "debate_contributions": 239,
+        "debates_participated": 83,
+        "oral_questions": 2,
+        "petitions_presented": 28,
+        "written_questions": 71
+      },
+      "2025": {
+        "debate_contributions": 704,
+        "debates_participated": 86
+      },
+      "2026": {
+        "debate_contributions": 420,
+        "debates_participated": 37
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 2569,
+    "debates_participated": 764,
+    "early_day_motions": 0,
+    "oral_questions": 43,
+    "petitions_presented": 28,
+    "written_questions": 190
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 2569,
+    "voting_participation_pct": 61.92,
+    "written_questions": 190
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child Support Collection (Domestic Abuse) Bill",
+      "committee_id": 633,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Cultural Objects (Protection From Seizure) Bill",
+      "committee_id": 555,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 117,
+      "meetings_available": 117
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+      "committee_id": 491,
+      "is_current": false,
+      "meetings_attended": 17,
+      "meetings_available": 17
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Local Government (Disqualification) Bill",
+      "committee_id": 556,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Child Support Collection (Domestic Abuse) Bill",
+        "committee_id": 633,
+        "file": "committees/child-support-collection-domestic-abuse-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "child-support-collection-domestic-abuse-bill"
+      },
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-12"
+          },
+          {
+            "end": "2022-06-14",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-05-19"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-07",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-05-06"
+          },
+          {
+            "end": "2023-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-06"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Cultural Objects (Protection From Seizure) Bill",
+        "committee_id": 555,
+        "file": "committees/cultural-objects-protection-from-seizure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-09"
+          }
+        ],
+        "slug": "cultural-objects-protection-from-seizure-bill"
+      },
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Joint Committee on the Fixed-Term Parliaments Act",
+        "committee_id": 491,
+        "file": "committees/joint-committee-on-the-fixed-term-parliaments-act.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-11-10"
+          }
+        ],
+        "slug": "joint-committee-on-the-fixed-term-parliaments-act"
+      },
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-11-06"
+          },
+          {
+            "end": "2023-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-20"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Local Government (Disqualification) Bill",
+        "committee_id": 556,
+        "file": "committees/local-government-disqualification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-24"
+          }
+        ],
+        "slug": "local-government-disqualification-bill"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-11-10"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-31"
+          },
+          {
+            "end": "2023-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-05-06"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rhondda-and-ogmore.json",
+    "id": 4522,
+    "name": "Rhondda and Ogmore",
+    "ons_code": "W07000107",
+    "slug": "rhondda-and-ogmore"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "chris.bryant.mp@parliament.uk",
+      "phone": "020 7219 8315",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "9 Compton Road, Tonypandy",
+      "email": "garethw.hughes@parliament.uk",
+      "phone": "01443 442521",
+      "postcode": "CF40 1BE",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.chrisbryant.org.uk/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1446
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1446,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Chris Bryant",
+    "display": "Chris Bryant",
+    "full_title": "Rt Hon Chris Bryant MP",
+    "list_as": "Bryant, Chris"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Secretary of State for Northern Ireland",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Minister of State (Department for Business and Trade)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Culture, Media and Sport)",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Department for Science, Innovation and Technology)",
+        "start_date": "2024-07-08"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Europe)",
+        "start_date": "2009-10-13"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2009-10-13",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Foreign and Commonwealth Office)",
+        "start_date": "2009-06-09"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2009-06-05",
+        "is_current": false,
+        "name": "Deputy Leader of the House of Commons",
+        "start_date": "2008-10-05"
+      }
+    ],
+    "ministerial_current": [
+      "Secretary of State for Northern Ireland"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Creative Industries and Digital)",
+        "start_date": "2023-09-06"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2016-06-26",
+        "is_current": false,
+        "name": "Shadow Leader of the House of Commons",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Culture, Media and Sport",
+        "start_date": "2015-05-08"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2015-05-08",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2014-12-03"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2014-12-03",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Home Affairs)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": "",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Justice) (Political and Constitutional Reform)",
+        "start_date": "2010-10-08"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": "",
+        "end_date": "2010-10-08",
+        "is_current": false,
+        "name": "Shadow Minister (Europe)",
+        "start_date": "2010-05-12"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3269,
+        "name": "Wycombe",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rhondda and Ogmore",
+        "constituency_id": 4522,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Rhondda",
+        "constituency_id": 3696,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Rhondda",
+        "constituency_id": 2416,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Chris Bryant is the Labour MP for <a href='/constituency/4522/overview'>Rhondda and Ogmore</a>, and has been an MP continually since 7 June 2001. \r\nHe currently holds the Government post of Secretary of State for Northern Ireland.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1446/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 171,
+        "voting_participation_pct": 68.13
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 151,
+        "voting_participation_pct": 58.98
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 108,
+        "voting_participation_pct": 54.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 188,
+        "voting_participation_pct": 58.39
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 94,
+        "voting_participation_pct": 39.83
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 727,
+        "voting_participation_pct": 68.07
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 325,
+        "voting_participation_pct": 51.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1052,
+    "voting_participation_pct": 61.92
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

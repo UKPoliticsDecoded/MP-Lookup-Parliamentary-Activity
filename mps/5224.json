@@ -1,0 +1,277 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 1,
+        "debates_participated": 1,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 82,
+        "debates_participated": 18
+      },
+      "2026": {
+        "debate_contributions": 220,
+        "debates_participated": 55,
+        "petitions_presented": 4
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 303,
+    "debates_participated": 74,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 4,
+    "written_questions": 7
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 303,
+    "voting_participation_pct": 84.79,
+    "written_questions": 7
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Bus Services (No. 2) Bill [HL]",
+      "committee_id": 804,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data (Use and Access) Bill [HL]",
+      "committee_id": 781,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Sustainable Aviation Fuel Bill",
+      "committee_id": 812,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      },
+      {
+        "committee": "Bus Services (No. 2) Bill [HL]",
+        "committee_id": 804,
+        "file": "committees/bus-services-no-2-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-24"
+          }
+        ],
+        "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Data (Use and Access) Bill [HL]",
+        "committee_id": 781,
+        "file": "committees/data-use-and-access-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-26"
+          }
+        ],
+        "slug": "data-use-and-access-bill-hl"
+      },
+      {
+        "committee": "Sustainable Aviation Fuel Bill",
+        "committee_id": 812,
+        "file": "committees/sustainable-aviation-fuel-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-07-10"
+          }
+        ],
+        "slug": "sustainable-aviation-fuel-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/halifax.json",
+    "id": 4077,
+    "name": "Halifax",
+    "ons_code": "E14001262",
+    "slug": "halifax"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "kate.dearden.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "www.kateforhalifax.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/KateDeardenMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/Kate_Dearden"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5224
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5224,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Kate Dearden",
+    "full_title": "Kate Dearden MP",
+    "list_as": "Dearden, Kate"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Business, Innovation, Science and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Business, Innovation, Science and Trade)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Business and Trade",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-and-trade",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Business and Trade)",
+        "start_date": "2025-09-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2024-07-18"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department for Business, Innovation, Science and Trade)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Halifax",
+        "constituency_id": 4077,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Kate Dearden is the Labour (Co-op) MP for <a href='/constituency/4077/overview'>Halifax</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Minister of State (Department for Business, Innovation, Science and Trade).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5224/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 293,
+        "voting_participation_pct": 90.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 171,
+        "voting_participation_pct": 72.46
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 535,
+        "voting_participation_pct": 84.79
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 535,
+    "voting_participation_pct": 84.79
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 3567.8,
+    "bng": {
+      "easting": 384048,
+      "northing": 216342
+    },
+    "centroid": {
+      "latitude": 51.84545,
+      "longitude": -2.23296
+    },
+    "geojson": "constituencies/boundaries/gloucester.geojson",
+    "ons_code": "E14001248",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5349.json",
+    "member_id": 5349,
+    "name": "Alex McIntyre",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79475,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3431,
+      "result": "Lab Gain",
+      "turnout": 45692,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3497,
+      "end_date": "2024-05-30",
+      "member_id": 3990,
+      "name": "Richard Graham",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4063,
+  "is_current": true,
+  "name": "Gloucester",
+  "name_cy": null,
+  "ons_code": "E14001248",
+  "outcodes": [
+    "GL1",
+    "GL2",
+    "GL3",
+    "GL4"
+  ],
+  "schema_version": 1,
+  "slug": "gloucester",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,189 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 120,
+        "debates_participated": 60,
+        "oral_questions": 3,
+        "written_questions": 177
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 214,
+        "debates_participated": 138,
+        "oral_questions": 10,
+        "written_questions": 585
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 89,
+        "debates_participated": 33,
+        "oral_questions": 1,
+        "written_questions": 602
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 423,
+    "debates_participated": 231,
+    "early_day_motions": 0,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 1364
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 423,
+    "voting_participation_pct": 69.1,
+    "written_questions": 1364
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/west-suffolk.json",
+    "id": 4393,
+    "name": "West Suffolk",
+    "ons_code": "E14001578",
+    "slug": "west-suffolk"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "nick.timothy.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5062
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5062,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Nick Timothy",
+    "full_title": "Nick Timothy MP",
+    "list_as": "Timothy, Nick"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Secretary of State for Justice",
+        "start_date": "2026-01-15"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-01-15",
+        "is_current": false,
+        "name": "Opposition Assistant Whip (Commons)",
+        "start_date": "2024-11-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "West Suffolk",
+        "constituency_id": 4393,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Nick Timothy is the Conservative MP for <a href='/constituency/4393/overview'>West Suffolk</a>, and has been an MP continually since 4 July 2024. \r\nHe currently undertakes the role of Shadow Secretary of State for Justice.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5062/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 56,
+        "voting_participation_pct": 76.71
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 223,
+        "voting_participation_pct": 69.25
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 157,
+        "voting_participation_pct": 66.53
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 436,
+        "voting_participation_pct": 69.1
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 436,
+    "voting_participation_pct": 69.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

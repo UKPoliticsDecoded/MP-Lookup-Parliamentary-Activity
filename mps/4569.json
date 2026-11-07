@@ -1,0 +1,353 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 53,
+        "debates_participated": 29,
+        "oral_questions": 1,
+        "written_questions": 49
+      },
+      "2021": {
+        "debate_contributions": 36,
+        "debates_participated": 20,
+        "written_questions": 64
+      },
+      "2022": {
+        "debate_contributions": 39,
+        "debates_participated": 15,
+        "written_questions": 51
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 95,
+        "debates_participated": 30,
+        "oral_questions": 1,
+        "written_questions": 77
+      },
+      "2024": {
+        "debate_contributions": 249,
+        "debates_participated": 41,
+        "oral_questions": 2,
+        "written_questions": 27
+      },
+      "2025": {
+        "debate_contributions": 265,
+        "debates_participated": 55,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 442
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 185,
+        "debates_participated": 50,
+        "oral_questions": 1,
+        "written_questions": 19
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 922,
+    "debates_participated": 240,
+    "early_day_motions": 1,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 729
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 922,
+    "voting_participation_pct": 70.45,
+    "written_questions": 729
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": true,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+      "committee_id": 749,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2025-09-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-27"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Non-Domestic Rating (Multipliers and Private Schools) Bill",
+        "committee_id": 749,
+        "file": "committees/non-domestic-rating-multipliers-and-private-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "non-domestic-rating-multipliers-and-private-schools-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/oldham-west-chadderton-and-royton.json",
+    "id": 4231,
+    "name": "Oldham West, Chadderton and Royton",
+    "ons_code": "E14001416",
+    "slug": "oldham-west-chadderton-and-royton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jim.mcmahon.mp@parliament.uk ",
+      "phone": "020 7219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Chadderton Town Hall, Middleton Road, Chadderton, Oldham",
+      "email": "jim.mcmahon.mp@parliament.uk",
+      "phone": "0161 652 8485",
+      "postcode": "OL9 6PP",
+      "type": "Constituency office"
+    },
+    {
+      "address": "Ministry of Housing, Communities and Local Government",
+      "type": "Government department",
+      "website": "https://www.gov.uk/guidance/contact-the-ministry-of-housing-communities-and-local-government"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jimmcmahon.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/JimfromOldham"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4569
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4569,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-12-03",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jim McMahon",
+    "full_title": "Jim McMahon MP",
+    "list_as": "McMahon, Jim"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Housing, Communities and Local Government)",
+        "start_date": "2026-07-22"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister of State (Housing, Communities and Local Government)",
+        "start_date": "2024-07-09"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-07-09",
+        "is_current": false,
+        "name": "Minister of State (Department for Levelling Up, Housing and Communities)",
+        "start_date": "2024-07-06"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Housing, Communities and Local Government)"
+    ],
+    "opposition": [
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Levelling Up, Housing, Communities and Local Government)",
+        "start_date": "2023-11-28"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Transport",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2020-04-06",
+        "is_current": false,
+        "name": "Shadow Minister (Housing, Communities and Local Government) (Devolution)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Shadow Minister (Communities and Local Government) (Devolution)",
+        "start_date": "2016-10-09"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-12-03"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Oldham West, Chadderton and Royton",
+        "constituency_id": 4231,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Oldham West and Royton",
+        "constituency_id": 3671,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-12-03"
+      }
+    ]
+  },
+  "synopsis": "Jim McMahon is the Labour (Co-op) MP for <a href='/constituency/4231/overview'>Oldham West, Chadderton and Royton</a>, and has been an MP continually since 3 December 2015. \r\nHe currently holds the Government post of Parliamentary Under-Secretary (Housing, Communities and Local Government).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4569/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 139,
+        "voting_participation_pct": 73.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 205,
+        "voting_participation_pct": 84.71
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 119,
+        "voting_participation_pct": 47.41
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 159,
+        "voting_participation_pct": 62.11
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 136,
+        "voting_participation_pct": 68.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 251,
+        "voting_participation_pct": 77.95
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 188,
+        "voting_participation_pct": 79.66
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 695,
+        "voting_participation_pct": 65.07
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 502,
+        "voting_participation_pct": 79.56
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1197,
+    "voting_participation_pct": 70.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

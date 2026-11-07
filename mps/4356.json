@@ -1,0 +1,385 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 11
+      },
+      "2020": {
+        "debate_contributions": 27,
+        "debates_participated": 9,
+        "early_day_motions": 1,
+        "written_questions": 43
+      },
+      "2021": {
+        "debate_contributions": 44,
+        "debates_participated": 14,
+        "written_questions": 137
+      },
+      "2022": {
+        "debate_contributions": 128,
+        "debates_participated": 35,
+        "written_questions": 408
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 116,
+        "debates_participated": 27,
+        "written_questions": 124
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 219,
+        "debates_participated": 25,
+        "written_questions": 1
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 273,
+        "debates_participated": 28
+      },
+      "2026": {
+        "bills_sponsored": 3,
+        "debate_contributions": 173,
+        "debates_participated": 15
+      }
+    },
+    "bills_sponsored": 8,
+    "debate_contributions": 980,
+    "debates_participated": 153,
+    "early_day_motions": 1,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 724
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 980,
+    "voting_participation_pct": 63.1,
+    "written_questions": 724
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee on the Electoral Commission",
+      "committee_id": 144,
+      "is_current": true,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Speaker's Committee on the Electoral Commission",
+        "committee_id": 144,
+        "file": "committees/speaker-s-committee-on-the-electoral-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2025-09-05",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-07-20"
+          }
+        ],
+        "slug": "speaker-s-committee-on-the-electoral-commission"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/ashton-under-lyne.json",
+    "id": 3885,
+    "name": "Ashton-under-Lyne",
+    "ons_code": "E14001070",
+    "slug": "ashton-under-lyne"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "angela.rayner.mp@parliament.uk",
+      "phone": "020 7219 8782",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Ashton Market Hall, Market Street, Ashton-under-Lyne",
+      "phone": "0161 342 5800",
+      "postcode": "OL6 7JU",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.angelarayner.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/angelarayner"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4356
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4356,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Angela Rayner",
+    "display": "Angela Rayner",
+    "full_title": "Rt Hon Angela Rayner MP",
+    "list_as": "Rayner, Angela"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": null,
+        "is_current": true,
+        "name": "Secretary of State for Housing, Communities and Local Government",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Ministry of Housing, Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Secretary of State for Housing, Communities and Local Government",
+        "start_date": "2024-07-09"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Deputy Prime Minister",
+        "start_date": "2024-07-05"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-07-09",
+        "is_current": false,
+        "name": "Secretary of State for Levelling Up, Housing and Communities",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [
+      "Secretary of State for Housing, Communities and Local Government"
+    ],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Deputy Prime Minister",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Department for Levelling Up, Housing and Communities",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Levelling Up, Housing, Communities & Local Government",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Minister for the Cabinet Office and Chancellor of the Duchy of Lancaster",
+        "start_date": "2021-05-09"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for the Future of Work",
+        "start_date": "2021-05-09"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2021-05-09",
+        "is_current": false,
+        "name": "National campaign co-ordinator",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Deputy Leader of the Official Opposition",
+        "start_date": "2020-04-05"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office) (Women and Equalities)",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2020-04-04",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Education",
+        "start_date": "2016-06-27"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2016-01-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2016-01-07",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2021-05-09",
+        "is_current": false,
+        "name": "Party Chair, Labour Party",
+        "start_date": "2020-04-05"
+      },
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": "2025-09-05",
+        "is_current": false,
+        "name": "Deputy Leader of the Labour Party",
+        "start_date": "2020-04-04"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ashton-under-Lyne",
+        "constituency_id": 3885,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Ashton-under-Lyne",
+        "constituency_id": 3298,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Angela Rayner is the Labour MP for <a href='/constituency/3885/overview'>Ashton-under-Lyne</a>, and has been an MP continually since 7 May 2015. \r\nShe currently holds the Government post of Secretary of State for Housing, Communities and Local Government.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4356/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 121,
+        "voting_participation_pct": 63.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 192,
+        "voting_participation_pct": 79.34
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 188,
+        "voting_participation_pct": 74.9
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 178,
+        "voting_participation_pct": 69.53
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 101,
+        "voting_participation_pct": 50.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 137,
+        "voting_participation_pct": 42.55
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 153,
+        "voting_participation_pct": 64.83
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 753,
+        "voting_participation_pct": 70.51
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 319,
+        "voting_participation_pct": 50.55
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1072,
+    "voting_participation_pct": 63.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

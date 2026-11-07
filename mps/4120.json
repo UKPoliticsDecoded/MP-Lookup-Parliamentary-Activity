@@ -1,0 +1,343 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 157,
+        "debates_participated": 77,
+        "early_day_motions": 2,
+        "oral_questions": 3,
+        "written_questions": 138
+      },
+      "2021": {
+        "debate_contributions": 81,
+        "debates_participated": 30,
+        "written_questions": 74
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 77,
+        "debates_participated": 45,
+        "oral_questions": 4,
+        "written_questions": 100
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 315,
+    "debates_participated": 152,
+    "early_day_motions": 2,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 312
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 315,
+    "voting_participation_pct": 83.78,
+    "written_questions": 312
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Privileges",
+      "committee_id": 289,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee on Standards",
+      "committee_id": 290,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Genetic Technology (Precision Breeding) Bill",
+      "committee_id": 601,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 41,
+      "meetings_available": 41
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Privileges",
+        "committee_id": 289,
+        "file": "committees/committee-of-privileges.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-26"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2018-10-23"
+          },
+          {
+            "end": "2020-05-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-of-privileges"
+      },
+      {
+        "committee": "Committee on Standards",
+        "committee_id": 290,
+        "file": "committees/committee-on-standards.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-26"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2018-10-15"
+          },
+          {
+            "end": "2020-05-06",
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2020-01-27"
+          },
+          {
+            "end": "2020-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "committee-on-standards"
+      },
+      {
+        "committee": "Genetic Technology (Precision Breeding) Bill",
+        "committee_id": 601,
+        "file": "committees/genetic-technology-precision-breeding-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-07-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-22"
+          }
+        ],
+        "slug": "genetic-technology-precision-breeding-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "public-accounts"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-27"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3785,
+    "name": "Stretford and Urmston"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4120
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4120,
+  "membership": {
+    "end_date": "2022-11-10",
+    "end_reason": "Resignation (Northstead)",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Kate Green",
+    "display": "Kate Green",
+    "full_title": "Kate Green",
+    "list_as": "Green, Kate"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Education",
+        "start_date": "2020-06-27"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2020-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2016-06-27",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office) (Women and Equalities)",
+        "start_date": "2015-09-14"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2015-09-14",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2013-10-07"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2013-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities)",
+        "start_date": "2011-10-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 691,
+        "name": "Cities of London and Westminster",
+        "startDate": "1997-05-01T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2022-11-10",
+        "party": "Labour",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Stretford and Urmston",
+        "constituency_id": 3785,
+        "end_date": "2022-11-10",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "Kate Green is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3785/overview'>Stretford and Urmston</a>, and left the Commons on 10 November 2022.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4120/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 147,
+        "voting_participation_pct": 77.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 207,
+        "divisions_voted": 173,
+        "voting_participation_pct": 83.57
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 641,
+        "divisions_voted": 537,
+        "voting_participation_pct": 83.78
+      }
+    },
+    "divisions_eligible": 641,
+    "divisions_voted": 537,
+    "voting_participation_pct": 83.78
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

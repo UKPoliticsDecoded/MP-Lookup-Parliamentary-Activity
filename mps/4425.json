@@ -1,0 +1,382 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 30,
+        "debates_participated": 17,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 92
+      },
+      "2021": {
+        "debate_contributions": 19,
+        "debates_participated": 13,
+        "written_questions": 32
+      },
+      "2022": {
+        "debate_contributions": 35,
+        "debates_participated": 12,
+        "written_questions": 7
+      },
+      "2023": {
+        "debate_contributions": 14,
+        "debates_participated": 8,
+        "written_questions": 34
+      },
+      "2024": {
+        "debate_contributions": 81,
+        "debates_participated": 20,
+        "written_questions": 47
+      },
+      "2025": {
+        "debate_contributions": 130,
+        "debates_participated": 28
+      },
+      "2026": {
+        "debate_contributions": 72,
+        "debates_participated": 16,
+        "oral_questions": 3
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 381,
+    "debates_participated": 114,
+    "early_day_motions": 2,
+    "oral_questions": 4,
+    "petitions_presented": 0,
+    "written_questions": 212
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 381,
+    "voting_participation_pct": 72.4,
+    "written_questions": 212
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-07-18"
+          },
+          {
+            "end": "2022-06-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-25"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cardiff-east.json",
+    "id": 4504,
+    "name": "Cardiff East",
+    "ons_code": "W07000089",
+    "slug": "cardiff-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jo.stevens.mp@parliament.uk",
+      "phone": "020 7219 8290",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "116 Albany Road, Roath, Cardiff",
+      "phone": "02921 329736",
+      "postcode": "CF24 3RU",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.jostevens.co.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/jostevenslabour"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4425
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4425,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Jo Stevens",
+    "display": "Jo Stevens",
+    "full_title": "Rt Hon Jo Stevens MP",
+    "list_as": "Stevens, Jo"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Secretary of State for Wales",
+        "start_date": "2024-07-05"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Wales",
+        "start_date": "2021-11-29"
+      },
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Digital, Culture, Media and Sport",
+        "start_date": "2020-04-06"
+      },
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": "2017-01-27",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Wales",
+        "start_date": "2016-10-06"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2016-01-13"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2016-10-06",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2016-01-07"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cardiff East",
+        "constituency_id": 4504,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Cardiff Central",
+        "constituency_id": 3389,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Jo Stevens is the Labour MP for <a href='/constituency/4504/overview'>Cardiff East</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4425/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 138,
+        "voting_participation_pct": 72.63
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 212,
+        "voting_participation_pct": 87.6
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 163,
+        "voting_participation_pct": 64.94
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 201,
+        "voting_participation_pct": 78.52
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 149,
+        "voting_participation_pct": 74.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 202,
+        "voting_participation_pct": 62.73
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 163,
+        "voting_participation_pct": 69.07
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 805,
+        "voting_participation_pct": 75.37
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 425,
+        "voting_participation_pct": 67.35
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1230,
+    "voting_participation_pct": 72.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

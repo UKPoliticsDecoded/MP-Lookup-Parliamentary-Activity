@@ -1,0 +1,220 @@
+{
+  "activity": {
+    "annual": {
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 36,
+        "debates_participated": 26,
+        "early_day_motions": 2,
+        "oral_questions": 4,
+        "written_questions": 7
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 210,
+        "debates_participated": 135,
+        "early_day_motions": 15,
+        "oral_questions": 13,
+        "written_questions": 56
+      },
+      "2025": {
+        "bills_sponsored": 2,
+        "debate_contributions": 228,
+        "debates_participated": 172,
+        "early_day_motions": 43,
+        "oral_questions": 15,
+        "written_questions": 79
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 120,
+        "debates_participated": 85,
+        "early_day_motions": 50,
+        "oral_questions": 11,
+        "written_questions": 135
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 594,
+    "debates_participated": 418,
+    "early_day_motions": 110,
+    "oral_questions": 43,
+    "petitions_presented": 0,
+    "written_questions": 277
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 594,
+    "voting_participation_pct": 62.49,
+    "written_questions": 277
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environment, Food and Rural Affairs Committee",
+      "committee_id": 52,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Environment, Food and Rural Affairs Committee",
+        "committee_id": 52,
+        "file": "committees/environment-food-and-rural-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "environment-food-and-rural-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/glastonbury-and-somerton.json",
+    "id": 4062,
+    "name": "Glastonbury and Somerton",
+    "ons_code": "E14001247",
+    "slug": "glastonbury-and-somerton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.dyke.mp@parliament.uk ",
+      "phone": "020 3545 2414",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.sarahdyke.uk/sarah"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/SarahDykeLD"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4995
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4995,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2023-07-20",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Dyke",
+    "full_title": "Sarah Dyke MP",
+    "list_as": "Dyke, Sarah"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Liberal Democrat Spokesperson (Rural Affairs)",
+        "start_date": "2025-10-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2023-07-20"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glastonbury and Somerton",
+        "constituency_id": 4062,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Somerton and Frome",
+        "constituency_id": 3735,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2023-07-20"
+      }
+    ]
+  },
+  "synopsis": "Sarah Dyke is the Liberal Democrat MP for <a href='/constituency/4062/overview'>Glastonbury and Somerton</a>, and has been an MP continually since 20 July 2023. \r\nShe currently undertakes the role of Liberal Democrat Spokesperson (Rural Affairs).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4995/Thumbnail",
+  "voting": {
+    "annual": {
+      "2023": {
+        "divisions_eligible": 79,
+        "divisions_voted": 62,
+        "voting_participation_pct": 78.48
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 113,
+        "voting_participation_pct": 56.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 203,
+        "voting_participation_pct": 63.04
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 145,
+        "voting_participation_pct": 61.44
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 206,
+        "divisions_voted": 143,
+        "voting_participation_pct": 69.42
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 380,
+        "voting_participation_pct": 60.22
+      }
+    },
+    "divisions_eligible": 837,
+    "divisions_voted": 523,
+    "voting_participation_pct": 62.49
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

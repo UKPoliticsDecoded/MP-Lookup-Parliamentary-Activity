@@ -1,0 +1,393 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 58,
+        "debates_participated": 38,
+        "oral_questions": 16,
+        "written_questions": 59
+      },
+      "2021": {
+        "debate_contributions": 52,
+        "debates_participated": 39,
+        "oral_questions": 15,
+        "written_questions": 32
+      },
+      "2022": {
+        "debate_contributions": 32,
+        "debates_participated": 24,
+        "oral_questions": 7,
+        "written_questions": 25
+      },
+      "2023": {
+        "debate_contributions": 48,
+        "debates_participated": 24,
+        "oral_questions": 6,
+        "written_questions": 30
+      },
+      "2024": {
+        "debate_contributions": 31,
+        "debates_participated": 15,
+        "oral_questions": 6,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 223,
+    "debates_participated": 141,
+    "early_day_motions": 0,
+    "oral_questions": 50,
+    "petitions_presented": 0,
+    "written_questions": 155
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 223,
+    "voting_participation_pct": 85.49,
+    "written_questions": 155
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Sentience) Bill [HL]",
+      "committee_id": 586,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "European Statutory Instruments Committee",
+      "committee_id": 393,
+      "is_current": false,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+      "committee_id": 662,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+      "committee_id": 585,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Sentience) Bill [HL]",
+        "committee_id": 586,
+        "file": "committees/animal-welfare-sentience-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-10",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-09"
+          }
+        ],
+        "slug": "animal-welfare-sentience-bill-hl"
+      },
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2018-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-12"
+          },
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-14"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "European Statutory Instruments Committee",
+        "committee_id": 393,
+        "file": "committees/european-statutory-instruments.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2018-07-18"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-02-10"
+          }
+        ],
+        "slug": "european-statutory-instruments"
+      },
+      {
+        "committee": "Lifelong Learning (Higher Education Fee Limits) Bill",
+        "committee_id": 662,
+        "file": "committees/lifelong-learning-higher-education-fee-limits-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-15"
+          }
+        ],
+        "slug": "lifelong-learning-higher-education-fee-limits-bill"
+      },
+      {
+        "committee": "Taxis and Private Hire Vehicles (Disabled Persons) Bill",
+        "committee_id": 585,
+        "file": "committees/taxis-and-private-hire-vehicles-disabled-persons-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-02-09",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-02"
+          }
+        ],
+        "slug": "taxis-and-private-hire-vehicles-disabled-persons-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3323,
+    "name": "Bexleyheath and Crayford"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1198
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 1198,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir David Evennett",
+    "display": "Sir David Evennett",
+    "full_title": "Rt Hon Sir David Evennett",
+    "list_as": "Evennett, Sir David"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-10-27",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2022-07-08"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2016-07-17",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Culture, Media and Sport)",
+        "start_date": "2016-01-01"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2012-09-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Business, Innovation and Skills",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-business-innovation-skills",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Minister (Business, Innovation and Skills)",
+        "start_date": "2009-01-19"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2009-01-19",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 239,
+        "name": "Bexleyheath and Crayford",
+        "startDate": "2001-06-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 239,
+        "name": "Bexleyheath and Crayford",
+        "startDate": "1997-05-01T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1336,
+        "name": "Hackney South and Shoreditch",
+        "startDate": "1979-05-03T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "1983-06-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bexleyheath and Crayford",
+        "constituency_id": 3323,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Bexleyheath and Crayford",
+        "constituency_id": 239,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      },
+      {
+        "constituency": "Erith and Crayford",
+        "constituency_id": 1096,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1983-06-09"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir David Evennett is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3323/overview'>Bexleyheath and Crayford</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1198/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 182,
+        "voting_participation_pct": 95.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 191,
+        "voting_participation_pct": 76.1
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 222,
+        "voting_participation_pct": 86.72
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 100,
+        "voting_participation_pct": 78.74
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 913,
+        "voting_participation_pct": 85.49
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 913,
+    "voting_participation_pct": 85.49
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

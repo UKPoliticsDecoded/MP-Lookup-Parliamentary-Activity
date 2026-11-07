@@ -1,0 +1,234 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 31,
+        "debates_participated": 26,
+        "oral_questions": 5,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 223,
+        "debates_participated": 64,
+        "oral_questions": 4,
+        "written_questions": 13
+      },
+      "2026": {
+        "debate_contributions": 198,
+        "debates_participated": 32
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 452,
+    "debates_participated": 122,
+    "early_day_motions": 0,
+    "oral_questions": 9,
+    "petitions_presented": 0,
+    "written_questions": 20
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 452,
+    "voting_participation_pct": 70.05,
+    "written_questions": 20
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rother-valley.json",
+    "id": 4266,
+    "name": "Rother Valley",
+    "ons_code": "E14001451",
+    "slug": "rother-valley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "jake.richards.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "39 Laughton Road, Dinnington",
+      "phone": "01909 384605",
+      "postcode": "S25 2PN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.jakerichards.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Richards4RotherValley"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@jakerichardsmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://www.x.com/jakebenrichards"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5082
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5082,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Jake Richards",
+    "full_title": "Jake Richards MP",
+    "list_as": "Richards, Jake"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Ministry of Justice)",
+        "start_date": "2025-09-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Ministry of Justice)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rother Valley",
+        "constituency_id": 4266,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Jake Richards is the Labour MP for <a href='/constituency/4266/overview'>Rother Valley</a>, and has been an MP continually since 4 July 2024. \r\nHe currently holds the Government post of Parliamentary Under-Secretary (Ministry of Justice).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5082/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 66,
+        "voting_participation_pct": 90.41
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 256,
+        "voting_participation_pct": 79.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 120,
+        "voting_participation_pct": 50.85
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 442,
+        "voting_participation_pct": 70.05
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 442,
+    "voting_participation_pct": 70.05
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

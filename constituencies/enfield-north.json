@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 4094.7,
+    "bng": {
+      "easting": 533630,
+      "northing": 197952
+    },
+    "centroid": {
+      "latitude": 51.66446,
+      "longitude": -0.06923
+    },
+    "geojson": "constituencies/boundaries/enfield-north.geojson",
+    "ons_code": "E14001225",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4822.json",
+    "member_id": 4822,
+    "name": "Feryal Clark",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78770,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12736,
+      "result": "Lab Hold",
+      "turnout": 43492,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3474,
+      "end_date": "2024-05-30",
+      "member_id": 4822,
+      "name": "Feryal Clark",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4040,
+  "is_current": true,
+  "name": "Enfield North",
+  "name_cy": null,
+  "ons_code": "E14001225",
+  "outcodes": [
+    "EN1",
+    "EN2",
+    "EN3",
+    "EN4",
+    "EN6",
+    "EN7",
+    "EN8",
+    "EN9"
+  ],
+  "schema_version": 1,
+  "slug": "enfield-north",
+  "start_date": "2024-05-31"
+}

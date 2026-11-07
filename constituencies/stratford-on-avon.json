@@ -1,0 +1,78 @@
+{
+  "boundary": {
+    "area_hectares": 62827.3,
+    "bng": {
+      "easting": 415754,
+      "northing": 251537
+    },
+    "centroid": {
+      "latitude": 52.16189,
+      "longitude": -1.7711
+    },
+    "geojson": "constituencies/boundaries/stratford-on-avon.geojson",
+    "ons_code": "E14001526",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5122.json",
+    "member_id": 5122,
+    "name": "Manuela Perteghella",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75714,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7122,
+      "result": "LD Gain",
+      "turnout": 52959,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3783,
+      "end_date": "2024-05-30",
+      "member_id": 4113,
+      "name": "Nadhim Zahawi",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4341,
+  "is_current": true,
+  "name": "Stratford-on-Avon",
+  "name_cy": null,
+  "ons_code": "E14001526",
+  "outcodes": [
+    "B47",
+    "B48",
+    "B49",
+    "B50",
+    "B80",
+    "B94",
+    "B95",
+    "B96",
+    "B97",
+    "B98",
+    "CV35",
+    "CV36",
+    "CV37",
+    "GL55",
+    "GL56",
+    "OX15",
+    "OX7",
+    "WR11"
+  ],
+  "schema_version": 1,
+  "slug": "stratford-on-avon",
+  "start_date": "2024-05-31"
+}

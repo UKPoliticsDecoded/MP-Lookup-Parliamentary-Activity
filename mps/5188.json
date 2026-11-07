@@ -1,0 +1,259 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 23,
+        "debates_participated": 18,
+        "early_day_motions": 3,
+        "oral_questions": 5,
+        "written_questions": 35
+      },
+      "2025": {
+        "debate_contributions": 74,
+        "debates_participated": 52,
+        "early_day_motions": 2,
+        "oral_questions": 6,
+        "written_questions": 65
+      },
+      "2026": {
+        "debate_contributions": 40,
+        "debates_participated": 29,
+        "early_day_motions": 4,
+        "oral_questions": 3,
+        "written_questions": 39
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 137,
+    "debates_participated": 99,
+    "early_day_motions": 9,
+    "oral_questions": 14,
+    "petitions_presented": 0,
+    "written_questions": 139
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 137,
+    "voting_participation_pct": 78.45,
+    "written_questions": 139
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": true,
+      "meetings_attended": 39,
+      "meetings_available": 39
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-24"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/edinburgh-north-and-leith.json",
+    "id": 4468,
+    "name": "Edinburgh North and Leith",
+    "ons_code": "S14000079",
+    "slug": "edinburgh-north-and-leith"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tracy.gilbert.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/TracyGilbertENL/"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/tracy.gilbert.leith/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/tracygilbert72"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5188
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5188,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Tracy Gilbert",
+    "full_title": "Tracy Gilbert MP",
+    "list_as": "Gilbert, Tracy"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edinburgh North and Leith",
+        "constituency_id": 4468,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Tracy Gilbert is the Labour MP for <a href='/constituency/4468/overview'>Edinburgh North and Leith</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5188/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 256,
+        "voting_participation_pct": 79.5
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 169,
+        "voting_participation_pct": 71.61
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 495,
+        "voting_participation_pct": 78.45
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 495,
+    "voting_participation_pct": 78.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

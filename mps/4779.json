@@ -1,0 +1,472 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 61,
+        "debates_participated": 49,
+        "oral_questions": 12,
+        "written_questions": 81
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 74,
+        "debates_participated": 46,
+        "oral_questions": 9,
+        "written_questions": 56
+      },
+      "2022": {
+        "debate_contributions": 68,
+        "debates_participated": 55,
+        "oral_questions": 6,
+        "written_questions": 24
+      },
+      "2023": {
+        "debate_contributions": 40,
+        "debates_participated": 26,
+        "oral_questions": 4,
+        "written_questions": 71
+      },
+      "2024": {
+        "written_questions": 45
+      },
+      "2025": {
+        "debate_contributions": 23,
+        "debates_participated": 6
+      },
+      "2026": {
+        "debate_contributions": 8,
+        "debates_participated": 3,
+        "written_questions": 8
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 274,
+    "debates_participated": 185,
+    "early_day_motions": 0,
+    "oral_questions": 31,
+    "petitions_presented": 0,
+    "written_questions": 285
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 274,
+    "voting_participation_pct": 74.4,
+    "written_questions": 285
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Energy Bill [HL]",
+      "committee_id": 669,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 145,
+      "meetings_available": 145
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Trade Committee",
+      "committee_id": 367,
+      "is_current": false,
+      "meetings_attended": 48,
+      "meetings_available": 48
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+      "committee_id": 529,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 7,
+      "meetings_available": 7
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Tobacco and Vapes Bill",
+      "committee_id": 753,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Energy Bill [HL]",
+        "committee_id": 669,
+        "file": "committees/energy-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-17"
+          }
+        ],
+        "slug": "energy-bill-hl"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "International Trade Committee",
+        "committee_id": 367,
+        "file": "committees/international-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-13",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-08"
+          }
+        ],
+        "slug": "international-trade"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      },
+      {
+        "committee": "Northern Ireland (Ministers, Elections and Petitions of Concern) Bill",
+        "committee_id": 529,
+        "file": "committees/northern-ireland-ministers-elections-and-petitions-of-concern-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-07-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-06-28"
+          }
+        ],
+        "slug": "northern-ireland-ministers-elections-and-petitions-of-concern-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-04-20"
+          }
+        ],
+        "slug": "petitions"
+      },
+      {
+        "committee": "Tobacco and Vapes Bill",
+        "committee_id": 753,
+        "file": "committees/tobacco-and-vapes-bill-753.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "tobacco-and-vapes-bill-753"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/coventry-north-west.json",
+    "id": 3996,
+    "name": "Coventry North West",
+    "ons_code": "E14001181",
+    "slug": "coventry-north-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "taiwo.owatemi.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office ",
+      "email": "Taiwo.owatemi.mp@parliament.uk",
+      "phone": "024 7767 2089",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://taiwoowatemi.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/TaiwoOwatemiMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/taiwo_owatemi/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/TaiwoOwatemi"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/channel/UCwt3TinSgA023bLJhBtSQkw"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4779
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4779,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Taiwo Owatemi",
+    "full_title": "Taiwo Owatemi MP",
+    "list_as": "Owatemi, Taiwo"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2026-07-22",
+        "is_current": false,
+        "name": "Government Whip, Lord Commissioner of HM Treasury",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2022-09-07",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office)",
+        "start_date": "2021-09-21"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Coventry North West",
+        "constituency_id": 3996,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Coventry North West",
+        "constituency_id": 3428,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Taiwo Owatemi is the Labour MP for <a href='/constituency/3996/overview'>Coventry North West</a>, and has been an MP continually since 12 December 2019.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4779/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 144,
+        "voting_participation_pct": 75.79
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 209,
+        "voting_participation_pct": 86.36
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 165,
+        "voting_participation_pct": 65.74
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 155,
+        "voting_participation_pct": 60.55
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 145,
+        "voting_participation_pct": 72.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 276,
+        "voting_participation_pct": 85.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 168,
+        "voting_participation_pct": 71.19
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 764,
+        "voting_participation_pct": 71.54
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 500,
+        "voting_participation_pct": 79.24
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1264,
+    "voting_participation_pct": 74.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

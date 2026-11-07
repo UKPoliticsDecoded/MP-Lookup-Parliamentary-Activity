@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 1911.6,
+    "bng": {
+      "easting": 408501,
+      "northing": 282513
+    },
+    "centroid": {
+      "latitude": 52.44053,
+      "longitude": -1.87636
+    },
+    "geojson": "constituencies/boundaries/birmingham-hall-green-and-moseley.geojson",
+    "ons_code": "E14001094",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4747.json",
+    "member_id": 4747,
+    "name": "Tahir Ali",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76936,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5656,
+      "result": "Lab Hold",
+      "turnout": 41606,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3909,
+  "is_current": true,
+  "name": "Birmingham Hall Green and Moseley",
+  "name_cy": null,
+  "ons_code": "E14001094",
+  "outcodes": [
+    "B10",
+    "B11",
+    "B12",
+    "B13",
+    "B14",
+    "B28"
+  ],
+  "schema_version": 1,
+  "slug": "birmingham-hall-green-and-moseley",
+  "start_date": "2024-05-31"
+}

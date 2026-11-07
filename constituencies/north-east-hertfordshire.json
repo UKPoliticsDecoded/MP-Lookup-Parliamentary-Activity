@@ -1,0 +1,82 @@
+{
+  "boundary": {
+    "area_hectares": 50154.6,
+    "bng": {
+      "easting": 533034,
+      "northing": 227734
+    },
+    "centroid": {
+      "latitude": 51.93223,
+      "longitude": -0.06642
+    },
+    "geojson": "constituencies/boundaries/north-east-hertfordshire.geojson",
+    "ons_code": "E14001393",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5244.json",
+    "member_id": 5244,
+    "name": "Chris Hinchliff",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77697,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1923,
+      "result": "Lab Gain",
+      "turnout": 52520,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3644,
+      "end_date": "2024-05-30",
+      "member_id": 69,
+      "name": "Sir Oliver Heald",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2137,
+      "end_date": "2010-05-06",
+      "member_id": 69,
+      "name": "Sir Oliver Heald",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4208,
+  "is_current": true,
+  "name": "North East Hertfordshire",
+  "name_cy": null,
+  "ons_code": "E14001393",
+  "outcodes": [
+    "AL6",
+    "AL9",
+    "CM23",
+    "SG10",
+    "SG11",
+    "SG12",
+    "SG13",
+    "SG14",
+    "SG2",
+    "SG3",
+    "SG4",
+    "SG6",
+    "SG7",
+    "SG8",
+    "SG9"
+  ],
+  "schema_version": 1,
+  "slug": "north-east-hertfordshire",
+  "start_date": "2024-05-31"
+}

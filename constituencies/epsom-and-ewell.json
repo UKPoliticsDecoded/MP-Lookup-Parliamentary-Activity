@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 5859.2,
+    "bng": {
+      "easting": 519316,
+      "northing": 159545
+    },
+    "centroid": {
+      "latitude": 51.3225,
+      "longitude": -0.28906
+    },
+    "geojson": "constituencies/boundaries/epsom-and-ewell.geojson",
+    "ons_code": "E14001227",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5336.json",
+    "member_id": 5336,
+    "name": "Helen Maguire",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76513,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3686,
+      "result": "LD Gain",
+      "turnout": 54525,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4042,
+  "is_current": true,
+  "name": "Epsom and Ewell",
+  "name_cy": null,
+  "ons_code": "E14001227",
+  "outcodes": [
+    "KT17",
+    "KT18",
+    "KT19",
+    "KT21",
+    "KT22",
+    "KT23",
+    "KT4",
+    "SM2",
+    "SM3"
+  ],
+  "schema_version": 1,
+  "slug": "epsom-and-ewell",
+  "start_date": "2024-05-31"
+}

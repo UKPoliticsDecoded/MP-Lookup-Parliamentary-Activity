@@ -1,0 +1,78 @@
+{
+  "boundary": {
+    "area_hectares": 66447.1,
+    "bng": {
+      "easting": 434535,
+      "northing": 251188
+    },
+    "centroid": {
+      "latitude": 52.1579,
+      "longitude": -1.49658
+    },
+    "geojson": "constituencies/boundaries/kenilworth-and-southam.geojson",
+    "ons_code": "E14001309",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1560.json",
+    "member_id": 1560,
+    "name": "Sir Jeremy Wright",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74923,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6574,
+      "result": "Con Hold",
+      "turnout": 53320,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3554,
+      "end_date": "2024-05-30",
+      "member_id": 1560,
+      "name": "Sir Jeremy Wright",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4124,
+  "is_current": true,
+  "name": "Kenilworth and Southam",
+  "name_cy": null,
+  "ons_code": "E14001309",
+  "outcodes": [
+    "B93",
+    "B94",
+    "B95",
+    "CV22",
+    "CV23",
+    "CV3",
+    "CV31",
+    "CV32",
+    "CV33",
+    "CV34",
+    "CV35",
+    "CV36",
+    "CV4",
+    "CV47",
+    "CV8",
+    "NN11",
+    "OX15",
+    "OX17"
+  ],
+  "schema_version": 1,
+  "slug": "kenilworth-and-southam",
+  "start_date": "2024-05-31"
+}

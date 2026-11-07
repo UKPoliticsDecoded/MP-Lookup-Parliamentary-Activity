@@ -1,0 +1,280 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 39,
+        "debates_participated": 21,
+        "early_day_motions": 6,
+        "oral_questions": 5,
+        "written_questions": 48
+      },
+      "2021": {
+        "debate_contributions": 21,
+        "debates_participated": 13,
+        "early_day_motions": 3,
+        "written_questions": 89
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 64,
+        "debates_participated": 35,
+        "early_day_motions": 4,
+        "written_questions": 81
+      },
+      "2023": {
+        "debate_contributions": 59,
+        "debates_participated": 35,
+        "early_day_motions": 7,
+        "oral_questions": 1,
+        "written_questions": 113
+      },
+      "2024": {
+        "debate_contributions": 30,
+        "debates_participated": 16,
+        "early_day_motions": 2,
+        "written_questions": 32
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 214,
+    "debates_participated": 121,
+    "early_day_motions": 22,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 363
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 214,
+    "voting_participation_pct": 67.51,
+    "written_questions": 363
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2009-10-13"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3562,
+    "name": "Knowsley"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 481
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 481,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "1986-11-13",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir George Howarth",
+    "display": "Sir George Howarth",
+    "full_title": "Rt Hon Sir George Howarth",
+    "list_as": "Howarth, Sir George"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Northern Ireland Office",
+        "department_url": "https://www.gov.uk/government/organisations/northern-ireland-office",
+        "end_date": "2001-06-07",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Northern Ireland Office)",
+        "start_date": "1999-07-29"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "1999-07-29",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Home Office)",
+        "start_date": "1997-05-06"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "1997-06-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Home Affairs)",
+        "start_date": "1994-06-01"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "1994-06-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "1989-06-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "1986-11-13"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Knowsley",
+        "constituency_id": 3562,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Knowsley North and Sefton East",
+        "constituency_id": 1665,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Knowsley North",
+        "constituency_id": 1664,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1986-11-13"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir George Howarth died on 3rd July 2026. He was most recently the Labour MP for <a href='/constituency/3562/overview'>Knowsley</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/481/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 123,
+        "voting_participation_pct": 64.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 197,
+        "voting_participation_pct": 81.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 141,
+        "voting_participation_pct": 56.18
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 177,
+        "voting_participation_pct": 69.14
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 83,
+        "voting_participation_pct": 65.35
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 721,
+        "voting_participation_pct": 67.51
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 721,
+    "voting_participation_pct": 67.51
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

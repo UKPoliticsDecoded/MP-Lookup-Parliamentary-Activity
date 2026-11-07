@@ -1,0 +1,62 @@
+{
+  "boundary": {
+    "area_hectares": 4923.6,
+    "bng": {
+      "easting": 473892,
+      "northing": 169821
+    },
+    "centroid": {
+      "latitude": 51.42259,
+      "longitude": -0.93865
+    },
+    "geojson": "constituencies/boundaries/earley-and-woodley.geojson",
+    "ons_code": "E14001210",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5267.json",
+    "member_id": 5267,
+    "name": "Yuan Yang",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73548,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 848,
+      "result": "Lab Gain",
+      "turnout": 45914,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4025,
+  "is_current": true,
+  "name": "Earley and Woodley",
+  "name_cy": null,
+  "ons_code": "E14001210",
+  "outcodes": [
+    "RG1",
+    "RG10",
+    "RG19",
+    "RG2",
+    "RG27",
+    "RG4",
+    "RG41",
+    "RG5",
+    "RG6",
+    "RG7"
+  ],
+  "schema_version": 1,
+  "slug": "earley-and-woodley",
+  "start_date": "2024-05-31"
+}

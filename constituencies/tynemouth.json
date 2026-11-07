@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 3332.0,
+    "bng": {
+      "easting": 434812,
+      "northing": 570698
+    },
+    "centroid": {
+      "latitude": 55.0296,
+      "longitude": -1.45695
+    },
+    "geojson": "constituencies/boundaries/tynemouth.geojson",
+    "ons_code": "E14001557",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/529.json",
+    "member_id": 529,
+    "name": "Sir Alan Campbell",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73194,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15455,
+      "result": "Lab Hold",
+      "turnout": 48418,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3815,
+      "end_date": "2024-05-30",
+      "member_id": 529,
+      "name": "Sir Alan Campbell",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2979,
+      "end_date": "2010-05-06",
+      "member_id": 529,
+      "name": "Sir Alan Campbell",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4372,
+  "is_current": true,
+  "name": "Tynemouth",
+  "name_cy": null,
+  "ons_code": "E14001557",
+  "outcodes": [
+    "NE25",
+    "NE26",
+    "NE27",
+    "NE28",
+    "NE29",
+    "NE30"
+  ],
+  "schema_version": 1,
+  "slug": "tynemouth",
+  "start_date": "2024-05-31"
+}

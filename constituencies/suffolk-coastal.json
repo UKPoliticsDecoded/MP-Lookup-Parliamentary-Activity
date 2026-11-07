@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 67172.3,
+    "bng": {
+      "easting": 634302,
+      "northing": 246490
+    },
+    "centroid": {
+      "latitude": 52.0672,
+      "longitude": 1.417097
+    },
+    "geojson": "constituencies/boundaries/suffolk-coastal.geojson",
+    "ons_code": "E14001530",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5160.json",
+    "member_id": 5160,
+    "name": "Jenny Riddell-Carpenter",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74522,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1070,
+      "result": "Lab Gain",
+      "turnout": 49451,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4345,
+  "is_current": true,
+  "name": "Suffolk Coastal",
+  "name_cy": null,
+  "ons_code": "E14001530",
+  "outcodes": [
+    "IP10",
+    "IP11",
+    "IP12",
+    "IP13",
+    "IP15",
+    "IP16",
+    "IP17",
+    "IP18",
+    "IP19",
+    "IP3",
+    "IP4",
+    "IP5",
+    "NR33",
+    "NR34"
+  ],
+  "schema_version": 1,
+  "slug": "suffolk-coastal",
+  "start_date": "2024-05-31"
+}

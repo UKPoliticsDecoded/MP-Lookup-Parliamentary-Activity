@@ -1,0 +1,388 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 20,
+        "debates_participated": 17,
+        "early_day_motions": 12,
+        "oral_questions": 5,
+        "written_questions": 89
+      },
+      "2021": {
+        "debate_contributions": 50,
+        "debates_participated": 39,
+        "early_day_motions": 7,
+        "oral_questions": 4,
+        "written_questions": 108
+      },
+      "2022": {
+        "debate_contributions": 42,
+        "debates_participated": 34,
+        "early_day_motions": 21,
+        "oral_questions": 5,
+        "written_questions": 88
+      },
+      "2023": {
+        "debate_contributions": 38,
+        "debates_participated": 23,
+        "early_day_motions": 14,
+        "oral_questions": 9,
+        "written_questions": 51
+      },
+      "2024": {
+        "debate_contributions": 87,
+        "debates_participated": 50,
+        "early_day_motions": 10,
+        "oral_questions": 9,
+        "written_questions": 71
+      },
+      "2025": {
+        "debate_contributions": 96,
+        "debates_participated": 68,
+        "early_day_motions": 11,
+        "oral_questions": 5,
+        "written_questions": 184
+      },
+      "2026": {
+        "debate_contributions": 40,
+        "debates_participated": 32,
+        "early_day_motions": 8,
+        "oral_questions": 2,
+        "written_questions": 63
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 373,
+    "debates_participated": 263,
+    "early_day_motions": 83,
+    "oral_questions": 39,
+    "petitions_presented": 0,
+    "written_questions": 654
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 373,
+    "voting_participation_pct": 45.62,
+    "written_questions": 654
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committees on Arms Export Controls",
+      "committee_id": 15,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Committee",
+      "committee_id": 98,
+      "is_current": false,
+      "meetings_attended": 91,
+      "meetings_available": 91
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+      "committee_id": 347,
+      "is_current": false,
+      "meetings_attended": 14,
+      "meetings_available": 14
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committees on Arms Export Controls",
+        "committee_id": 15,
+        "file": "committees/committees-on-arms-export-controls.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-10"
+          },
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-07-06"
+          }
+        ],
+        "slug": "committees-on-arms-export-controls"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-13"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "International Development Committee",
+        "committee_id": 98,
+        "file": "committees/international-development.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "international-development"
+      },
+      {
+        "committee": "International Development Sub-Committee on the Work of the Independent Commission for Aid Impact",
+        "committee_id": 347,
+        "file": "committees/international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-13"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-10"
+          }
+        ],
+        "slug": "international-development-sub-committee-on-the-work-of-the-independent-commission-for-aid-impact"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/dundee-central.json",
+    "id": 4464,
+    "name": "Dundee Central",
+    "ons_code": "S14000075",
+    "slug": "dundee-central"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "chris.law.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "2 Marshall Street, Lochee, Dundee",
+      "phone": "01382 848906",
+      "postcode": "DD2 3BR",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://chrislaw.scot/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/ChrisLawSNP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/chrislawsnp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4403
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4403,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Chris Law",
+    "display": "Chris Law",
+    "full_title": "Chris Law MP",
+    "list_as": "Law, Chris"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Business)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (International Development)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow SNP Spokesperson (Trade)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2018-07-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Climate Justice)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (International Development)",
+        "start_date": "2017-06-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Dundee Central",
+        "constituency_id": 4464,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Dundee West",
+        "constituency_id": 927,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Chris Law is the Scottish National Party MP for <a href='/constituency/4464/overview'>Dundee Central</a>, and has been an MP continually since 7 May 2015. \r\nHe currently undertakes the roles of Shadow SNP Spokesperson (Business), Shadow SNP Spokesperson (International Development), and Shadow SNP Spokesperson (Trade).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4403/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 129,
+        "voting_participation_pct": 67.89
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 146,
+        "voting_participation_pct": 60.33
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 97,
+        "voting_participation_pct": 38.65
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 155,
+        "voting_participation_pct": 60.55
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 112,
+        "voting_participation_pct": 56.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 78,
+        "voting_participation_pct": 24.22
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 56,
+        "voting_participation_pct": 23.73
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 604,
+        "voting_participation_pct": 56.55
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 171,
+        "voting_participation_pct": 27.1
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 775,
+    "voting_participation_pct": 45.62
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 9154.6,
+    "bng": {
+      "easting": 362731,
+      "northing": 392971
+    },
+    "centroid": {
+      "latitude": 53.43221,
+      "longitude": -2.5624
+    },
+    "geojson": "constituencies/boundaries/warrington-north.geojson",
+    "ons_code": "E14001564",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4799.json",
+    "member_id": 4799,
+    "name": "Charlotte Nichols",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70601,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9190,
+      "result": "Lab Hold",
+      "turnout": 40041,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3829,
+      "end_date": "2024-05-30",
+      "member_id": 4799,
+      "name": "Charlotte Nichols",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4379,
+  "is_current": true,
+  "name": "Warrington North",
+  "name_cy": null,
+  "ons_code": "E14001564",
+  "outcodes": [
+    "WA1",
+    "WA12",
+    "WA2",
+    "WA3",
+    "WA5",
+    "WA55",
+    "WA9"
+  ],
+  "schema_version": 1,
+  "slug": "warrington-north",
+  "start_date": "2024-05-31"
+}

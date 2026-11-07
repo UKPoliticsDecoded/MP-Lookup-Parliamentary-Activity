@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 42090.7,
+    "bng": {
+      "easting": 473161,
+      "northing": 406862
+    },
+    "centroid": {
+      "latitude": 53.55331,
+      "longitude": -0.89715
+    },
+    "geojson": "constituencies/boundaries/doncaster-east-and-the-isle-of-axholme.geojson",
+    "ons_code": "E14001199",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5233.json",
+    "member_id": 5233,
+    "name": "Lee Pitcher",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70154,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2311,
+      "result": "Lab Gain",
+      "turnout": 39132,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4014,
+  "is_current": true,
+  "name": "Doncaster East and the Isle of Axholme",
+  "name_cy": null,
+  "ons_code": "E14001199",
+  "outcodes": [
+    "DN10",
+    "DN11",
+    "DN14",
+    "DN17",
+    "DN3",
+    "DN4",
+    "DN7",
+    "DN8",
+    "DN9"
+  ],
+  "schema_version": 1,
+  "slug": "doncaster-east-and-the-isle-of-axholme",
+  "start_date": "2024-05-31"
+}

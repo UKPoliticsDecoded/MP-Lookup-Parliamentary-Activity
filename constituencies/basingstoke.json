@@ -1,0 +1,75 @@
+{
+  "boundary": {
+    "area_hectares": 7778.6,
+    "bng": {
+      "easting": 459017,
+      "northing": 150217
+    },
+    "centroid": {
+      "latitude": 51.24808,
+      "longitude": -1.1558
+    },
+    "geojson": "constituencies/boundaries/basingstoke.geojson",
+    "ons_code": "E14001078",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5248.json",
+    "member_id": 5248,
+    "name": "Luke Murphy",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78487,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6484,
+      "result": "Lab Gain",
+      "turnout": 48989,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3306,
+      "end_date": "2024-05-30",
+      "member_id": 1480,
+      "name": "Dame Maria Miller",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 149,
+      "end_date": "2010-05-06",
+      "member_id": 1480,
+      "name": "Dame Maria Miller",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 3893,
+  "is_current": true,
+  "name": "Basingstoke",
+  "name_cy": null,
+  "ons_code": "E14001078",
+  "outcodes": [
+    "RG21",
+    "RG22",
+    "RG23",
+    "RG24",
+    "RG25",
+    "RG26",
+    "RG27",
+    "SO21"
+  ],
+  "schema_version": 1,
+  "slug": "basingstoke",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,436 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 11
+      },
+      "2020": {
+        "debate_contributions": 190,
+        "debates_participated": 36,
+        "written_questions": 326
+      },
+      "2021": {
+        "debate_contributions": 67,
+        "debates_participated": 31,
+        "written_questions": 425
+      },
+      "2022": {
+        "bills_sponsored": 2,
+        "debate_contributions": 151,
+        "debates_participated": 72,
+        "oral_questions": 9,
+        "written_questions": 368
+      },
+      "2023": {
+        "debate_contributions": 114,
+        "debates_participated": 74,
+        "oral_questions": 11,
+        "written_questions": 453
+      },
+      "2024": {
+        "debate_contributions": 181,
+        "debates_participated": 35,
+        "written_questions": 520
+      },
+      "2025": {
+        "debate_contributions": 469,
+        "debates_participated": 56
+      },
+      "2026": {
+        "debate_contributions": 330,
+        "debates_participated": 36
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 1502,
+    "debates_participated": 340,
+    "early_day_motions": 0,
+    "oral_questions": 20,
+    "petitions_presented": 0,
+    "written_questions": 2103
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 1502,
+    "voting_participation_pct": 65.1,
+    "written_questions": 2103
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+      "committee_id": 657,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Armed Forces Commissioner Bill",
+      "committee_id": 750,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+      "committee_id": 673,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Firearms Bill",
+      "committee_id": 661,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Veterans Advisory and Pensions Committees Bill",
+      "committee_id": 659,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animals (Low-Welfare Activities Abroad) Bill",
+        "committee_id": 657,
+        "file": "committees/animals-low-welfare-activities-abroad-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-01"
+          }
+        ],
+        "slug": "animals-low-welfare-activities-abroad-bill"
+      },
+      {
+        "committee": "Armed Forces Commissioner Bill",
+        "committee_id": 750,
+        "file": "committees/armed-forces-commissioner-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-12-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "armed-forces-commissioner-bill"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL] Second Reading Committee",
+        "committee_id": 673,
+        "file": "committees/electronic-trade-documents-bill-hl-second-reading.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-07"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl-second-reading"
+      },
+      {
+        "committee": "Firearms Bill",
+        "committee_id": 661,
+        "file": "committees/firearms-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "firearms-bill"
+      },
+      {
+        "committee": "Veterans Advisory and Pensions Committees Bill",
+        "committee_id": 659,
+        "file": "committees/veterans-advisory-and-pensions-committees-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "veterans-advisory-and-pensions-committees-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/plymouth-sutton-and-devonport.json",
+    "id": 4242,
+    "name": "Plymouth Sutton and Devonport",
+    "ons_code": "E14001427",
+    "slug": "plymouth-sutton-and-devonport"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "luke.pollard.mp@parliament.uk",
+      "phone": "0207 219 2749",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "13 Frankfort Gate, Plymouth",
+      "email": "luke.pollard.mp@parliament.uk",
+      "phone": "01752 717 255",
+      "postcode": "PL1 1QA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.lukepollard.org/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/lukepollard.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LukePollard/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/LukePollard"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4682
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4682,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Luke Pollard",
+    "display": "Luke Pollard",
+    "full_title": "Luke Pollard MP",
+    "list_as": "Pollard, Luke"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour (Co-op)"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Ministry of Defence)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Ministry of Defence) (Minister for the Armed Forces)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Ministry of Defence)"
+    ],
+    "opposition": [
+      {
+        "department": "Ministry of Defence",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Defence)",
+        "start_date": "2022-02-03"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2021-11-29",
+        "is_current": false,
+        "name": "Shadow Secretary of State for Environment, Food and Rural Affairs",
+        "start_date": "2020-01-07"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2020-01-07",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs) (Fisheries, Flooding and Water)",
+        "start_date": "2018-07-30"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3680,
+        "name": "Plymouth, Sutton and Devonport",
+        "startDate": "2015-05-07T00:00:00"
+      },
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3755,
+        "name": "South West Devon",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Plymouth Sutton and Devonport",
+        "constituency_id": 4242,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Plymouth, Sutton and Devonport",
+        "constituency_id": 3680,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Luke Pollard is the Labour (Co-op) MP for <a href='/constituency/4242/overview'>Plymouth Sutton and Devonport</a>, and has been an MP continually since 8 June 2017. \r\nHe currently holds the Government post of Minister of State (Ministry of Defence).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4682/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 146,
+        "voting_participation_pct": 76.84
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 200,
+        "voting_participation_pct": 82.64
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 184,
+        "voting_participation_pct": 73.31
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 155,
+        "voting_participation_pct": 60.55
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 101,
+        "voting_participation_pct": 50.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 195,
+        "voting_participation_pct": 60.56
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 123,
+        "voting_participation_pct": 52.12
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 754,
+        "voting_participation_pct": 70.6
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 352,
+        "voting_participation_pct": 55.78
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1106,
+    "voting_participation_pct": 65.1
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

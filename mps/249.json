@@ -1,0 +1,472 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 56,
+        "debates_participated": 34,
+        "oral_questions": 5,
+        "written_questions": 24
+      },
+      "2021": {
+        "debate_contributions": 27,
+        "debates_participated": 24,
+        "oral_questions": 1,
+        "written_questions": 17
+      },
+      "2022": {
+        "debate_contributions": 66,
+        "debates_participated": 29,
+        "oral_questions": 2,
+        "written_questions": 17
+      },
+      "2023": {
+        "debate_contributions": 38,
+        "debates_participated": 20,
+        "petitions_presented": 1,
+        "written_questions": 10
+      },
+      "2024": {
+        "debate_contributions": 60,
+        "debates_participated": 25,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 59,
+        "debates_participated": 31,
+        "oral_questions": 3,
+        "written_questions": 22
+      },
+      "2026": {
+        "debate_contributions": 49,
+        "debates_participated": 23,
+        "written_questions": 8
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 355,
+    "debates_participated": 186,
+    "early_day_motions": 0,
+    "oral_questions": 11,
+    "petitions_presented": 1,
+    "written_questions": 105
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 355,
+    "voting_participation_pct": 76.28,
+    "written_questions": 105
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Liaison Committee (Commons)",
+      "committee_id": 103,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 339,
+      "meetings_available": 339
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Equipment Theft (Prevention) Bill",
+      "committee_id": 642,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Programme Board",
+      "committee_id": 652,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Liaison Committee (Commons)",
+        "committee_id": 103,
+        "file": "committees/liaison-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2010-07-19"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-04"
+          }
+        ],
+        "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-17"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "1999-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "1997-07-25"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          },
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2024-09-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Equipment Theft (Prevention) Bill",
+        "committee_id": 642,
+        "file": "committees/equipment-theft-prevention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "equipment-theft-prevention-bill"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-20"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-09"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Restoration and Renewal Programme Board",
+        "committee_id": 652,
+        "file": "committees/restoration-and-renewal-programme-board.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-23"
+          }
+        ],
+        "slug": "restoration-and-renewal-programme-board"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/north-cotswolds.json",
+    "id": 4201,
+    "name": "North Cotswolds",
+    "ons_code": "E14001386",
+    "slug": "north-cotswolds"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "cliftonbrowng@parliament.uk",
+      "phone": "020 7219 5147",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.cliftonbrown.co.uk"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 249
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 249,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "1992-04-09",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Sir Geoffrey",
+    "display": "Sir Geoffrey Clifton-Brown",
+    "full_title": "Sir Geoffrey Clifton-Brown MP",
+    "list_as": "Clifton-Brown, Sir Geoffrey"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Foreign and Commonwealth Affairs)",
+        "start_date": "2009-07-27"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Shadow Secretary of State for International Development",
+        "start_date": "2007-07-02"
+      },
+      {
+        "department": "Foreign and Commonwealth Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-office",
+        "end_date": "2007-07-02",
+        "is_current": false,
+        "name": "Shadow Minister (Foreign and Commonwealth Affairs)",
+        "start_date": "2005-12-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2005-12-08",
+        "is_current": false,
+        "name": "Opposition Deputy Chief Whip (Commons)",
+        "start_date": "2005-05-10"
+      },
+      {
+        "department": "Department for Communities and Local Government",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-communities-and-local-government",
+        "end_date": "2004-07-01",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Communities and Local Government)",
+        "start_date": "2001-12-01"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2001-07-31",
+        "is_current": false,
+        "name": "Shadow Spokesperson (Environment, Food and Rural Affairs)",
+        "start_date": "2001-01-01"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2001-01-01",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "1999-01-01"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "1992-04-09"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "North Cotswolds",
+        "constituency_id": 4201,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "The Cotswolds",
+        "constituency_id": 3799,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Cotswold",
+        "constituency_id": 754,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      },
+      {
+        "constituency": "Cirencester and Tewkesbury",
+        "constituency_id": 689,
+        "end_date": "1997-05-01",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "1992-04-09"
+      }
+    ]
+  },
+  "synopsis": "Sir Geoffrey Clifton-Brown is the Conservative MP for <a href='/constituency/4201/overview'>North Cotswolds</a>, and has been an MP continually since 9 April 1992.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/249/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 161,
+        "voting_participation_pct": 84.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 201,
+        "voting_participation_pct": 83.06
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 210,
+        "voting_participation_pct": 83.67
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 207,
+        "voting_participation_pct": 80.86
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 145,
+        "voting_participation_pct": 72.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 222,
+        "voting_participation_pct": 68.94
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 150,
+        "voting_participation_pct": 63.56
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 879,
+        "voting_participation_pct": 82.3
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 417,
+        "voting_participation_pct": 66.09
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1296,
+    "voting_participation_pct": 76.28
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

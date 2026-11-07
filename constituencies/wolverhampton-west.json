@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 3061.9,
+    "bng": {
+      "easting": 389258,
+      "northing": 298982
+    },
+    "centroid": {
+      "latitude": 52.58854,
+      "longitude": -2.15998
+    },
+    "geojson": "constituencies/boundaries/wolverhampton-west.geojson",
+    "ons_code": "E14001596",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5230.json",
+    "member_id": 5230,
+    "name": "Warinder Juss",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77851,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7868,
+      "result": "Lab Gain",
+      "turnout": 43657,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4411,
+  "is_current": true,
+  "name": "Wolverhampton West",
+  "name_cy": null,
+  "ons_code": "E14001596",
+  "outcodes": [
+    "WV1",
+    "WV10",
+    "WV2",
+    "WV3",
+    "WV4",
+    "WV6",
+    "WV8",
+    "WV9",
+    "WV98"
+  ],
+  "schema_version": 1,
+  "slug": "wolverhampton-west",
+  "start_date": "2024-05-31"
+}

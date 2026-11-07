@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 6760.4,
+    "bng": {
+      "easting": 580545,
+      "northing": 192649
+    },
+    "centroid": {
+      "latitude": 51.60374,
+      "longitude": 0.605717
+    },
+    "geojson": "constituencies/boundaries/rayleigh-and-wickford.geojson",
+    "ons_code": "E14001437",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1444.json",
+    "member_id": 1444,
+    "name": "Mr Mark Francois",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76576,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5621,
+      "result": "Con Hold",
+      "turnout": 47978,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3690,
+      "end_date": "2024-05-30",
+      "member_id": 1444,
+      "name": "Mr Mark Francois",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4252,
+  "is_current": true,
+  "name": "Rayleigh and Wickford",
+  "name_cy": null,
+  "ons_code": "E14001437",
+  "outcodes": [
+    "SS11",
+    "SS12",
+    "SS14",
+    "SS4",
+    "SS5",
+    "SS6",
+    "SS9"
+  ],
+  "schema_version": 1,
+  "slug": "rayleigh-and-wickford",
+  "start_date": "2024-05-31"
+}

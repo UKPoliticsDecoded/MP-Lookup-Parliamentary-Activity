@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 3853.3,
+    "bng": {
+      "easting": 430894,
+      "northing": 430978
+    },
+    "centroid": {
+      "latitude": 53.77424,
+      "longitude": -1.53272
+    },
+    "geojson": "constituencies/boundaries/leeds-south.geojson",
+    "ons_code": "E14001323",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/413.json",
+    "member_id": 413,
+    "name": "Hilary Benn",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75953,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11279,
+      "result": "Lab Hold",
+      "turnout": 31678,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4138,
+  "is_current": true,
+  "name": "Leeds South",
+  "name_cy": null,
+  "ons_code": "E14001323",
+  "outcodes": [
+    "LS1",
+    "LS10",
+    "LS11",
+    "LS12",
+    "LS15",
+    "LS2",
+    "LS27",
+    "LS88",
+    "LS9",
+    "LS98",
+    "LS99"
+  ],
+  "schema_version": 1,
+  "slug": "leeds-south",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,221 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 15,
+        "debates_participated": 11,
+        "oral_questions": 4,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 27,
+        "debates_participated": 23,
+        "oral_questions": 7,
+        "written_questions": 30
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 67,
+        "debates_participated": 24,
+        "oral_questions": 10,
+        "written_questions": 10
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 109,
+    "debates_participated": 58,
+    "early_day_motions": 0,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 50
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 109,
+    "voting_participation_pct": 85.9,
+    "written_questions": 50
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+      "committee_id": 784,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Bill [HL]",
+        "committee_id": 784,
+        "file": "committees/institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-05"
+          }
+        ],
+        "slug": "institute-for-apprenticeships-and-technical-education-transfer-of-functions-etc-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rochester-and-strood.json",
+    "id": 4262,
+    "name": "Rochester and Strood",
+    "ons_code": "E14001447",
+    "slug": "rochester-and-strood"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lauren.edwards.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "0207 219 7667",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.laurenedwards.uk"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/laurenedwardsmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61567060693878"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/laurenedwards.mp"
+    },
+    {
+      "type": "Threads",
+      "url": "https://www.threads.net/@laurenedwards.mp"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5298
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5298,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lauren Edwards",
+    "full_title": "Lauren Edwards MP",
+    "list_as": "Edwards, Lauren"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rochester and Strood",
+        "constituency_id": 4262,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lauren Edwards is the Labour MP for <a href='/constituency/4262/overview'>Rochester and Strood</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5298/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 265,
+        "voting_participation_pct": 82.3
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 207,
+        "voting_participation_pct": 87.71
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 542,
+        "voting_participation_pct": 85.9
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 542,
+    "voting_participation_pct": 85.9
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 3172.9,
+    "bng": {
+      "easting": 636923,
+      "northing": 167727
+    },
+    "centroid": {
+      "latitude": 51.35918,
+      "longitude": 1.401751
+    },
+    "geojson": "constituencies/boundaries/east-thanet.geojson",
+    "ons_code": "E14001216",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5123.json",
+    "member_id": 5123,
+    "name": "Ms Polly Billington",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74927,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6971,
+      "result": "Lab Gain",
+      "turnout": 42713,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4031,
+  "is_current": true,
+  "name": "East Thanet",
+  "name_cy": null,
+  "ons_code": "E14001216",
+  "outcodes": [
+    "CT10",
+    "CT11",
+    "CT12",
+    "CT7",
+    "CT8",
+    "CT9"
+  ],
+  "schema_version": 1,
+  "slug": "east-thanet",
+  "start_date": "2024-05-31"
+}

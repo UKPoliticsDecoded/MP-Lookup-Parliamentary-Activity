@@ -1,0 +1,201 @@
+{
+  "activity": {
+    "annual": {
+      "2026": {
+        "debate_contributions": 2,
+        "debates_participated": 2,
+        "written_questions": 2
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 2,
+    "debates_participated": 2,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 2
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 2,
+    "voting_participation_pct": 80.49,
+    "written_questions": 2
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+      "committee_id": 856,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Housing, Communities and Local Government Committee",
+      "committee_id": 17,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Social Housing Bill [Lords]",
+      "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Building Safety (Remediation of Unsafe Cladding etc) Bill",
+        "committee_id": 856,
+        "file": "committees/building-safety-remediation-of-unsafe-cladding-etc-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-04"
+          }
+        ],
+        "slug": "building-safety-remediation-of-unsafe-cladding-etc-bill"
+      },
+      {
+        "committee": "Housing, Communities and Local Government Committee",
+        "committee_id": 17,
+        "file": "committees/housing-communities-and-local-government.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-26"
+          }
+        ],
+        "slug": "housing-communities-and-local-government"
+      },
+      {
+        "committee": "Social Housing Bill [Lords]",
+        "committee_id": 849,
+        "file": "committees/social-housing-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-22"
+          }
+        ],
+        "slug": "social-housing-bill-lords"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/holborn-and-st-pancras.json",
+    "id": 4105,
+    "name": "Holborn and St Pancras",
+    "ons_code": "E14001290",
+    "slug": "holborn-and-st-pancras"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sagal.abdiwali.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "email": "sagal.constituency@parliament.uk",
+      "phone": "020 7388 7862",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5484
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5484,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2026-10-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sagal Abdi-Wali",
+    "full_title": "Sagal Abdi-Wali MP",
+    "list_as": "Abdi-Wali, Sagal"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2026-10-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Holborn and St Pancras",
+        "constituency_id": 4105,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2026-10-08"
+      }
+    ]
+  },
+  "synopsis": "Sagal Abdi-Wali is the Labour MP for <a href='/constituency/4105/overview'>Holborn and St Pancras</a>, and has been an MP continually since 8 October 2026.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5484/Thumbnail",
+  "voting": {
+    "annual": {
+      "2026": {
+        "divisions_eligible": 41,
+        "divisions_voted": 33,
+        "voting_participation_pct": 80.49
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 41,
+        "divisions_voted": 33,
+        "voting_participation_pct": 80.49
+      }
+    },
+    "divisions_eligible": 41,
+    "divisions_voted": 33,
+    "voting_participation_pct": 80.49
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

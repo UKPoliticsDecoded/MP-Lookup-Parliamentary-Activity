@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 5518.9,
+    "bng": {
+      "easting": 151724,
+      "northing": 529081
+    },
+    "centroid": {
+      "latitude": 54.59517,
+      "longitude": -5.84357
+    },
+    "geojson": "constituencies/boundaries/belfast-east.geojson",
+    "ons_code": "N05000001",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4360.json",
+    "member_id": 4360,
+    "name": "Gavin Robinson",
+    "party": "Democratic Unionist Party",
+    "party_abbreviation": "DUP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72917,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2676,
+      "result": "DUP Hold",
+      "turnout": 42706,
+      "winning_party": "Democratic Unionist Party",
+      "winning_party_id": 7
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3314,
+      "end_date": "2024-05-30",
+      "member_id": 4360,
+      "name": "Gavin Robinson",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4421,
+  "is_current": true,
+  "name": "Belfast East",
+  "name_cy": null,
+  "ons_code": "N05000001",
+  "outcodes": [
+    "BT16",
+    "BT18",
+    "BT23",
+    "BT3",
+    "BT4",
+    "BT5",
+    "BT6",
+    "BT8"
+  ],
+  "schema_version": 1,
+  "slug": "belfast-east",
+  "start_date": "2024-05-31"
+}

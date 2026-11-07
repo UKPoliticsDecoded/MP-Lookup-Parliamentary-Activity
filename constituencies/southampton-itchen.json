@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 2069.2,
+    "bng": {
+      "easting": 445456,
+      "northing": 112145
+    },
+    "centroid": {
+      "latitude": 50.90698,
+      "longitude": -1.35486
+    },
+    "geojson": "constituencies/boundaries/southampton-itchen.geojson",
+    "ons_code": "E14001499",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5270.json",
+    "member_id": 5270,
+    "name": "Darren Paffey",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68379,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6105,
+      "result": "Lab Gain",
+      "turnout": 38053,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3760,
+      "end_date": "2024-05-30",
+      "member_id": 4478,
+      "name": "Royston Smith",
+      "start_date": "2015-05-07"
+    },
+    {
+      "constituency_version_id": 2704,
+      "end_date": "1992-04-09",
+      "member_id": 242,
+      "name": "Sir Christopher Chope",
+      "start_date": "1983-06-09"
+    }
+  ],
+  "id": 4314,
+  "is_current": true,
+  "name": "Southampton Itchen",
+  "name_cy": null,
+  "ons_code": "E14001499",
+  "outcodes": [
+    "SO14",
+    "SO15",
+    "SO18",
+    "SO19"
+  ],
+  "schema_version": 1,
+  "slug": "southampton-itchen",
+  "start_date": "2024-05-31"
+}

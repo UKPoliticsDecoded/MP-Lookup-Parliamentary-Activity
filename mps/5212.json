@@ -1,0 +1,265 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 56,
+        "debates_participated": 34,
+        "early_day_motions": 6,
+        "oral_questions": 1,
+        "written_questions": 15
+      },
+      "2025": {
+        "debate_contributions": 215,
+        "debates_participated": 135,
+        "early_day_motions": 26,
+        "oral_questions": 4,
+        "written_questions": 333
+      },
+      "2026": {
+        "debate_contributions": 206,
+        "debates_participated": 97,
+        "early_day_motions": 44,
+        "oral_questions": 2,
+        "written_questions": 268
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 477,
+    "debates_participated": 266,
+    "early_day_motions": 76,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 616
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 477,
+    "voting_participation_pct": 83.04,
+    "written_questions": 616
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Space Industry (Indemnities) Bill",
+      "committee_id": 803,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Transport Committee",
+      "committee_id": 153,
+      "is_current": true,
+      "meetings_attended": 133,
+      "meetings_available": 133
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+      "committee_id": 800,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Rare Cancers Bill",
+      "committee_id": 808,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Space Industry (Indemnities) Bill",
+        "committee_id": 803,
+        "file": "committees/space-industry-indemnities-bill-803.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-18"
+          }
+        ],
+        "slug": "space-industry-indemnities-bill-803"
+      },
+      {
+        "committee": "Transport Committee",
+        "committee_id": 153,
+        "file": "committees/transport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "transport"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Absent Voting (Elections in Scotland and Wales) Bill",
+        "committee_id": 800,
+        "file": "committees/absent-voting-elections-in-scotland-and-wales-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "absent-voting-elections-in-scotland-and-wales-bill"
+      },
+      {
+        "committee": "Rare Cancers Bill",
+        "committee_id": 808,
+        "file": "committees/rare-cancers-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "rare-cancers-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/edinburgh-south-west.json",
+    "id": 4470,
+    "name": "Edinburgh South West",
+    "ons_code": "S14000081",
+    "slug": "edinburgh-south-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "scott.arthur.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "139 Dundee Street, Edinburgh",
+      "phone": "0131 322 3225",
+      "postcode": "EH11 1BP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://drscottarthur.scot/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/DrScottArthur"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/DrScottArthurMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5212
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5212,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Scott Arthur",
+    "full_title": "Dr Scott Arthur MP",
+    "list_as": "Arthur, Dr Scott"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Edinburgh South West",
+        "constituency_id": 4470,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dr Scott Arthur is the Labour MP for <a href='/constituency/4470/overview'>Edinburgh South West</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5212/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 73,
+        "voting_participation_pct": 100.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 254,
+        "voting_participation_pct": 78.88
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 197,
+        "voting_participation_pct": 83.47
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 524,
+        "voting_participation_pct": 83.04
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 524,
+    "voting_participation_pct": 83.04
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

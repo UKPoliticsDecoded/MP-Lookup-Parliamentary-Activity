@@ -1,0 +1,193 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 207,
+        "debates_participated": 33
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 125,
+        "debates_participated": 34
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 188,
+        "debates_participated": 20
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 520,
+    "debates_participated": 87,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 520,
+    "voting_participation_pct": 48.03,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3603,
+    "name": "Mid Bedfordshire"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 1481
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 1481,
+  "membership": {
+    "end_date": "2023-08-29",
+    "end_reason": "Resignation (Chiltern)",
+    "start_date": "2005-05-05",
+    "status": null
+  },
+  "name": {
+    "address_as": null,
+    "display": "Ms Nadine Dorries",
+    "full_title": "Rt Hon Nadine Dorries",
+    "list_as": "Dorries, Ms Nadine"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Digital, Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Secretary of State for Digital, Culture, Media and Sport",
+        "start_date": "2021-09-15"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2021-09-15",
+        "is_current": false,
+        "name": "Minister of State (Department of Health and Social Care)",
+        "start_date": "2020-05-06"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2020-05-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department of Health and Social Care)",
+        "start_date": "2019-07-27"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1417,
+        "name": "Hazel Grove",
+        "startDate": "2001-06-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2023-08-29",
+        "party": "Conservative",
+        "start_date": "2013-05-08"
+      },
+      {
+        "end_date": "2013-05-08",
+        "party": "Independent",
+        "start_date": "2012-11-06"
+      },
+      {
+        "end_date": "2012-11-06",
+        "party": "Conservative",
+        "start_date": "2005-05-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Bedfordshire",
+        "constituency_id": 3603,
+        "end_date": "2023-08-29",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Mid Bedfordshire",
+        "constituency_id": 1946,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2005-05-05"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Ms Nadine Dorries is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3603/overview'>Mid Bedfordshire</a>, and left the Commons on 29 August 2023.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1481/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 160,
+        "voting_participation_pct": 84.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 188,
+        "voting_participation_pct": 77.69
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 58,
+        "voting_participation_pct": 23.11
+      },
+      "2023": {
+        "divisions_eligible": 177,
+        "divisions_voted": 6,
+        "voting_participation_pct": 3.39
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 862,
+        "divisions_voted": 414,
+        "voting_participation_pct": 48.03
+      }
+    },
+    "divisions_eligible": 862,
+    "divisions_voted": 414,
+    "voting_participation_pct": 48.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

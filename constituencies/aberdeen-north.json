@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 9982.6,
+    "bng": {
+      "easting": 389227,
+      "northing": 811060
+    },
+    "centroid": {
+      "latitude": 57.1902,
+      "longitude": -2.17988
+    },
+    "geojson": "constituencies/boundaries/aberdeen-north.geojson",
+    "ons_code": "S14000060",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4357.json",
+    "member_id": 4357,
+    "name": "Kirsty Blackman",
+    "party": "Scottish National Party",
+    "party_abbreviation": "SNP",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75925,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 1760,
+      "result": "SNP Hold",
+      "turnout": 42095,
+      "winning_party": "Scottish National Party",
+      "winning_party_id": 29
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 14,
+      "end_date": "2024-05-30",
+      "member_id": 4357,
+      "name": "Kirsty Blackman",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 4449,
+  "is_current": true,
+  "name": "Aberdeen North",
+  "name_cy": null,
+  "ons_code": "S14000060",
+  "outcodes": [
+    "AB10",
+    "AB15",
+    "AB16",
+    "AB21",
+    "AB22",
+    "AB23",
+    "AB24",
+    "AB25"
+  ],
+  "schema_version": 1,
+  "slug": "aberdeen-north",
+  "start_date": "2024-05-31"
+}

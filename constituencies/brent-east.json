@@ -1,0 +1,56 @@
+{
+  "boundary": {
+    "area_hectares": 1833.3,
+    "bng": {
+      "easting": 521765,
+      "northing": 185698
+    },
+    "centroid": {
+      "latitude": 51.55703,
+      "longitude": -0.24494
+    },
+    "geojson": "constituencies/boundaries/brent-east.geojson",
+    "ons_code": "E14001122",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/1489.json",
+    "member_id": 1489,
+    "name": "Dawn Butler",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77547,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13047,
+      "result": "Lab Hold",
+      "turnout": 37802,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3937,
+  "is_current": true,
+  "name": "Brent East",
+  "name_cy": null,
+  "ons_code": "E14001122",
+  "outcodes": [
+    "NW10",
+    "NW2",
+    "NW6",
+    "NW9"
+  ],
+  "schema_version": 1,
+  "slug": "brent-east",
+  "start_date": "2024-05-31"
+}

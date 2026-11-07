@@ -1,0 +1,352 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 34,
+        "debates_participated": 27,
+        "oral_questions": 7,
+        "written_questions": 73
+      },
+      "2021": {
+        "debate_contributions": 63,
+        "debates_participated": 51,
+        "oral_questions": 9,
+        "written_questions": 103
+      },
+      "2022": {
+        "debate_contributions": 81,
+        "debates_participated": 59,
+        "oral_questions": 5,
+        "written_questions": 237
+      },
+      "2023": {
+        "debate_contributions": 89,
+        "debates_participated": 43,
+        "oral_questions": 7,
+        "written_questions": 94
+      },
+      "2024": {
+        "debate_contributions": 83,
+        "debates_participated": 13,
+        "written_questions": 47
+      },
+      "2025": {
+        "debate_contributions": 87,
+        "debates_participated": 20
+      },
+      "2026": {
+        "debate_contributions": 100,
+        "debates_participated": 24
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 537,
+    "debates_participated": 237,
+    "early_day_motions": 0,
+    "oral_questions": 28,
+    "petitions_presented": 0,
+    "written_questions": 554
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 537,
+    "voting_participation_pct": 64.57,
+    "written_questions": 554
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Approved Premises (Substance Testing) Bill",
+      "committee_id": 566,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Prisoners Bill",
+      "committee_id": 674,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Approved Premises (Substance Testing) Bill",
+        "committee_id": 566,
+        "file": "committees/approved-premises-substance-testing-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-12-08"
+          }
+        ],
+        "slug": "approved-premises-substance-testing-bill"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
+        "committee": "Victims and Prisoners Bill",
+        "committee_id": 674,
+        "file": "committees/victims-and-prisoners-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "victims-and-prisoners-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/lewisham-west-and-east-dulwich.json",
+    "id": 4148,
+    "name": "Lewisham West and East Dulwich",
+    "ons_code": "E14001333",
+    "slug": "lewisham-west-and-east-dulwich"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "ellie.reeves.mp@parliament.uk",
+      "phone": "020 7219 2589",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "020 7219 2668",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/elliereeves"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4620
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4620,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ellie Reeves",
+    "display": "Ellie Reeves",
+    "full_title": "Rt Hon Ellie Reeves KC MP",
+    "list_as": "Reeves, Ellie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Attorney General",
+        "start_date": "2026-07-20"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2026-07-20",
+        "is_current": false,
+        "name": "Solicitor General (Attorney General's Office)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Cabinet Office",
+        "department_url": "https://www.gov.uk/government/organisations/cabinet-office",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Minister without Portfolio (Cabinet Office)",
+        "start_date": "2024-07-06"
+      }
+    ],
+    "ministerial_current": [
+      "Attorney General"
+    ],
+    "opposition": [
+      {
+        "department": "HM Official Opposition",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Deputy National Campaign Co-ordinator",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2021-12-04"
+      },
+      {
+        "department": "Attorney General's Office",
+        "department_url": "https://www.gov.uk/government/organisations/attorney-generals-office",
+        "end_date": "2021-12-04",
+        "is_current": false,
+        "name": "Shadow Solicitor General",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": [
+      {
+        "department": null,
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Party Chair, Labour Party",
+        "start_date": "2024-07-06"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lewisham West and East Dulwich",
+        "constituency_id": 4148,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Lewisham West and Penge",
+        "constituency_id": 3576,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Ellie Reeves is the Labour MP for <a href='/constituency/4148/overview'>Lewisham West and East Dulwich</a>, and has been an MP continually since 8 June 2017. \r\nShe currently holds the Government post of Attorney General. \r\nIn addition, she is Party Chair, Labour Party.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4620/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 191,
+        "voting_participation_pct": 78.93
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 157,
+        "voting_participation_pct": 62.55
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 161,
+        "voting_participation_pct": 62.89
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 111,
+        "voting_participation_pct": 55.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 173,
+        "voting_participation_pct": 53.73
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 162,
+        "voting_participation_pct": 68.64
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 708,
+        "voting_participation_pct": 66.29
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 389,
+        "voting_participation_pct": 61.65
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1097,
+    "voting_participation_pct": 64.57
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

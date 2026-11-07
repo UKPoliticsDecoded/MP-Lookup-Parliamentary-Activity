@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 2638.7,
+    "bng": {
+      "easting": 429278,
+      "northing": 566123
+    },
+    "centroid": {
+      "latitude": 54.98885,
+      "longitude": -1.54399
+    },
+    "geojson": "constituencies/boundaries/newcastle-upon-tyne-east-and-wallsend.geojson",
+    "ons_code": "E14001378",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4126.json",
+    "member_id": 4126,
+    "name": "Mary Glindon",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76245,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12817,
+      "result": "Lab Hold",
+      "turnout": 42321,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 2061,
+      "end_date": "2010-05-06",
+      "member_id": 523,
+      "name": "Mr Nicholas Brown",
+      "start_date": "1997-05-01"
+    }
+  ],
+  "id": 4193,
+  "is_current": true,
+  "name": "Newcastle upon Tyne East and Wallsend",
+  "name_cy": null,
+  "ons_code": "E14001378",
+  "outcodes": [
+    "NE1",
+    "NE12",
+    "NE2",
+    "NE28",
+    "NE6",
+    "NE7"
+  ],
+  "schema_version": 1,
+  "slug": "newcastle-upon-tyne-east-and-wallsend",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,60 @@
+{
+  "boundary": {
+    "area_hectares": 1382.6,
+    "bng": {
+      "easting": 531264,
+      "northing": 170801
+    },
+    "centroid": {
+      "latitude": 51.42103,
+      "longitude": -0.11353
+    },
+    "geojson": "constituencies/boundaries/streatham-and-croydon-north.geojson",
+    "ons_code": "E14001527",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4268.json",
+    "member_id": 4268,
+    "name": "Steve Reed",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 82829,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 15603,
+      "result": "Lab Hold",
+      "turnout": 44553,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4342,
+  "is_current": true,
+  "name": "Streatham and Croydon North",
+  "name_cy": null,
+  "ons_code": "E14001527",
+  "outcodes": [
+    "CR4",
+    "CR7",
+    "SE19",
+    "SE25",
+    "SE27",
+    "SW12",
+    "SW16",
+    "SW2"
+  ],
+  "schema_version": 1,
+  "slug": "streatham-and-croydon-north",
+  "start_date": "2024-05-31"
+}

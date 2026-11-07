@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 12603.5,
+    "bng": {
+      "easting": 507281,
+      "northing": 153748
+    },
+    "centroid": {
+      "latitude": 51.27279,
+      "longitude": -0.46344
+    },
+    "geojson": "constituencies/boundaries/guildford.geojson",
+    "ons_code": "E14001258",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5313.json",
+    "member_id": 5313,
+    "name": "Zöe Franklin",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70662,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8429,
+      "result": "LD Gain",
+      "turnout": 48294,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3505,
+      "end_date": "2024-05-30",
+      "member_id": 4840,
+      "name": "Angela Richardson",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4073,
+  "is_current": true,
+  "name": "Guildford",
+  "name_cy": null,
+  "ons_code": "E14001258",
+  "outcodes": [
+    "GU1",
+    "GU2",
+    "GU23",
+    "GU3",
+    "GU4",
+    "KT11",
+    "KT23",
+    "KT24",
+    "RH5"
+  ],
+  "schema_version": 1,
+  "slug": "guildford",
+  "start_date": "2024-05-31"
+}

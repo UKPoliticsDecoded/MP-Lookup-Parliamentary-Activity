@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 16542.8,
+    "bng": {
+      "easting": 498198,
+      "northing": 185455
+    },
+    "centroid": {
+      "latitude": 51.55944,
+      "longitude": -0.58484
+    },
+    "geojson": "constituencies/boundaries/beaconsfield.geojson",
+    "ons_code": "E14001082",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4759.json",
+    "member_id": 4759,
+    "name": "Joy Morrissey",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72751,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5455,
+      "result": "Con Hold",
+      "turnout": 47726,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3311,
+      "end_date": "2024-05-30",
+      "member_id": 4759,
+      "name": "Joy Morrissey",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 3897,
+  "is_current": true,
+  "name": "Beaconsfield",
+  "name_cy": null,
+  "ons_code": "E14001082",
+  "outcodes": [
+    "HP10",
+    "HP7",
+    "HP9",
+    "SL0",
+    "SL1",
+    "SL2",
+    "SL3",
+    "SL4",
+    "SL6",
+    "SL7",
+    "SL8",
+    "SL9",
+    "UB8",
+    "UB9"
+  ],
+  "schema_version": 1,
+  "slug": "beaconsfield",
+  "start_date": "2024-05-31"
+}

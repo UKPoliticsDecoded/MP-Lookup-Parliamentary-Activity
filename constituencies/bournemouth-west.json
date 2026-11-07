@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 2625.6,
+    "bng": {
+      "easting": 406917,
+      "northing": 93989
+    },
+    "centroid": {
+      "latitude": 50.74545,
+      "longitude": -1.90331
+    },
+    "geojson": "constituencies/boundaries/bournemouth-west.geojson",
+    "ons_code": "E14001116",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5202.json",
+    "member_id": 5202,
+    "name": "Jessica Toale",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70259,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 3224,
+      "result": "Lab Gain",
+      "turnout": 39418,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3351,
+      "end_date": "2024-05-30",
+      "member_id": 3922,
+      "name": "Sir Conor Burns",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3931,
+  "is_current": true,
+  "name": "Bournemouth West",
+  "name_cy": null,
+  "ons_code": "E14001116",
+  "outcodes": [
+    "BH1",
+    "BH10",
+    "BH11",
+    "BH12",
+    "BH13",
+    "BH14",
+    "BH17",
+    "BH2",
+    "BH3",
+    "BH4",
+    "BH8",
+    "BH9"
+  ],
+  "schema_version": 1,
+  "slug": "bournemouth-west",
+  "start_date": "2024-05-31"
+}

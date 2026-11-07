@@ -1,0 +1,72 @@
+{
+  "boundary": {
+    "area_hectares": 5699.8,
+    "bng": {
+      "easting": 504122,
+      "northing": 205121
+    },
+    "centroid": {
+      "latitude": 51.73514,
+      "longitude": -0.49356
+    },
+    "geojson": "constituencies/boundaries/hemel-hempstead.geojson",
+    "ons_code": "E14001278",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5348.json",
+    "member_id": 5348,
+    "name": "David Taylor",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 71035,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4857,
+      "result": "Lab Gain",
+      "turnout": 44108,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3525,
+      "end_date": "2024-05-30",
+      "member_id": 1528,
+      "name": "Sir Mike Penning",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1421,
+      "end_date": "2010-05-06",
+      "member_id": 1528,
+      "name": "Sir Mike Penning",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4093,
+  "is_current": true,
+  "name": "Hemel Hempstead",
+  "name_cy": null,
+  "ons_code": "E14001278",
+  "outcodes": [
+    "HP1",
+    "HP2",
+    "HP3",
+    "HP5",
+    "WD4"
+  ],
+  "schema_version": 1,
+  "slug": "hemel-hempstead",
+  "start_date": "2024-05-31"
+}

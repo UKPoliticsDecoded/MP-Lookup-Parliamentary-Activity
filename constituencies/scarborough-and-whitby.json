@@ -1,0 +1,71 @@
+{
+  "boundary": {
+    "area_hectares": 73921.8,
+    "bng": {
+      "easting": 485776,
+      "northing": 506114
+    },
+    "centroid": {
+      "latitude": 54.44321,
+      "longitude": -0.67886
+    },
+    "geojson": "constituencies/boundaries/scarborough-and-whitby.geojson",
+    "ons_code": "E14001461",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5254.json",
+    "member_id": 5254,
+    "name": "Alison Hume",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74544,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5408,
+      "result": "Lab Gain",
+      "turnout": 44221,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3716,
+      "end_date": "2024-05-30",
+      "member_id": 1562,
+      "name": "Sir Robert Goodwill",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 2535,
+      "end_date": "2010-05-06",
+      "member_id": 1562,
+      "name": "Sir Robert Goodwill",
+      "start_date": "2005-05-05"
+    }
+  ],
+  "id": 4276,
+  "is_current": true,
+  "name": "Scarborough and Whitby",
+  "name_cy": null,
+  "ons_code": "E14001461",
+  "outcodes": [
+    "TS13",
+    "YO13",
+    "YO21",
+    "YO22"
+  ],
+  "schema_version": 1,
+  "slug": "scarborough-and-whitby",
+  "start_date": "2024-05-31"
+}

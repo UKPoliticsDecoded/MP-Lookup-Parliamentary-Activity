@@ -1,0 +1,73 @@
+{
+  "boundary": {
+    "area_hectares": 26044.1,
+    "bng": {
+      "easting": 535708,
+      "northing": 149768
+    },
+    "centroid": {
+      "latitude": 51.23096,
+      "longitude": -0.05766
+    },
+    "geojson": "constituencies/boundaries/east-surrey.geojson",
+    "ons_code": "E14001215",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4806.json",
+    "member_id": 4806,
+    "name": "Claire Coutinho",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73307,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7450,
+      "result": "Con Hold",
+      "turnout": 49196,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3464,
+      "end_date": "2024-05-30",
+      "member_id": 4806,
+      "name": "Claire Coutinho",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4030,
+  "is_current": true,
+  "name": "East Surrey",
+  "name_cy": null,
+  "ons_code": "E14001215",
+  "outcodes": [
+    "CR3",
+    "CR5",
+    "CR6",
+    "CR8",
+    "RH1",
+    "RH10",
+    "RH19",
+    "RH6",
+    "RH7",
+    "RH8",
+    "RH9",
+    "TN16",
+    "TN8"
+  ],
+  "schema_version": 1,
+  "slug": "east-surrey",
+  "start_date": "2024-05-31"
+}

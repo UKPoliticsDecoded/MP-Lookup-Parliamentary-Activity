@@ -1,0 +1,192 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 10,
+        "debates_participated": 7,
+        "early_day_motions": 1,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 32,
+        "debates_participated": 25,
+        "early_day_motions": 1,
+        "oral_questions": 7,
+        "written_questions": 8
+      },
+      "2026": {
+        "debate_contributions": 25,
+        "debates_participated": 21,
+        "oral_questions": 5,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 67,
+    "debates_participated": 53,
+    "early_day_motions": 2,
+    "oral_questions": 12,
+    "petitions_presented": 0,
+    "written_questions": 27
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 67,
+    "voting_participation_pct": 76.23,
+    "written_questions": 27
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 29,
+      "meetings_available": 29
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "work-and-pensions"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/corby-and-east-northamptonshire.json",
+    "id": 3994,
+    "name": "Corby and East Northamptonshire",
+    "ons_code": "E14001179",
+    "slug": "corby-and-east-northamptonshire"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "lee.barron.mp@parliament.uk",
+      "phone": "0207 219 6672",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.leebarronmp.com"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/lbarron"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/LeeBarronMP"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/LeeBarronMP"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@LeeBarronMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5315
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5315,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Lee Barron",
+    "full_title": "Lee Barron MP",
+    "list_as": "Barron, Lee"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Corby and East Northamptonshire",
+        "constituency_id": 3994,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Lee Barron is the Labour MP for <a href='/constituency/3994/overview'>Corby and East Northamptonshire</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5315/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 59,
+        "voting_participation_pct": 80.82
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 247,
+        "voting_participation_pct": 76.71
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 175,
+        "voting_participation_pct": 74.15
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 481,
+        "voting_participation_pct": 76.23
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 481,
+    "voting_participation_pct": 76.23
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "boundary": {
+    "area_hectares": 256633.9,
+    "bng": {
+      "easting": 40601,
+      "northing": 510274
+    },
+    "centroid": {
+      "latitude": 54.36026,
+      "longitude": -7.53348
+    },
+    "geojson": "constituencies/boundaries/fermanagh-and-south-tyrone.geojson",
+    "ons_code": "N05000007",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5261.json",
+    "member_id": 5261,
+    "name": "Pat Cullen",
+    "party": "Sinn Féin",
+    "party_abbreviation": "SF",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 77828,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4571,
+      "result": "SF Hold",
+      "turnout": 51076,
+      "winning_party": "Sinn Féin",
+      "winning_party_id": 30
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3485,
+      "end_date": "2024-05-30",
+      "member_id": 1416,
+      "name": "Michelle Gildernew",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 1145,
+      "end_date": "2010-05-06",
+      "member_id": 1416,
+      "name": "Michelle Gildernew",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 4427,
+  "is_current": true,
+  "name": "Fermanagh and South Tyrone",
+  "name_cy": null,
+  "ons_code": "N05000007",
+  "outcodes": [
+    "BT60",
+    "BT61",
+    "BT68",
+    "BT70",
+    "BT71",
+    "BT74",
+    "BT75",
+    "BT76",
+    "BT78",
+    "BT92",
+    "BT93",
+    "BT94"
+  ],
+  "schema_version": 1,
+  "slug": "fermanagh-and-south-tyrone",
+  "start_date": "2024-05-31"
+}

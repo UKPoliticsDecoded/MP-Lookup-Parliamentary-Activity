@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 53470.1,
+    "bng": {
+      "easting": 308266,
+      "northing": 510109
+    },
+    "centroid": {
+      "latitude": 54.47802,
+      "longitude": -3.41724
+    },
+    "geojson": "constituencies/boundaries/whitehaven-and-workington.geojson",
+    "ons_code": "E14001583",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5033.json",
+    "member_id": 5033,
+    "name": "Josh MacAlister",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73198,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 13286,
+      "result": "Lab Gain",
+      "turnout": 41840,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4398,
+  "is_current": true,
+  "name": "Whitehaven and Workington",
+  "name_cy": null,
+  "ons_code": "E14001583",
+  "outcodes": [
+    "CA13",
+    "CA14",
+    "CA19",
+    "CA20",
+    "CA21",
+    "CA22",
+    "CA23",
+    "CA24",
+    "CA25",
+    "CA26",
+    "CA27",
+    "CA28",
+    "CA95"
+  ],
+  "schema_version": 1,
+  "slug": "whitehaven-and-workington",
+  "start_date": "2024-05-31"
+}

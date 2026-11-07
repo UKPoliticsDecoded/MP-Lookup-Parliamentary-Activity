@@ -1,0 +1,256 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 26,
+        "early_day_motions": 2,
+        "oral_questions": 5,
+        "written_questions": 5
+      },
+      "2025": {
+        "debate_contributions": 100,
+        "debates_participated": 73,
+        "early_day_motions": 7,
+        "oral_questions": 11,
+        "written_questions": 22
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 135,
+        "debates_participated": 73,
+        "oral_questions": 12,
+        "written_questions": 18
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 272,
+    "debates_participated": 172,
+    "early_day_motions": 9,
+    "oral_questions": 28,
+    "petitions_presented": 0,
+    "written_questions": 45
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 2,
+    "debate_contributions": 272,
+    "voting_participation_pct": 87.32,
+    "written_questions": 45
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+      "committee_id": 829,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health Bill",
+      "committee_id": 839,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Cyber Security and Resilience (Network and Information Systems) Bill",
+        "committee_id": 829,
+        "file": "committees/cyber-security-and-resilience-network-and-information-systems-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-21"
+          }
+        ],
+        "slug": "cyber-security-and-resilience-network-and-information-systems-bill"
+      },
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "Health Bill",
+        "committee_id": 839,
+        "file": "committees/health-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2026-07-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-06-11"
+          }
+        ],
+        "slug": "health-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/lichfield.json",
+    "id": 4150,
+    "name": "Lichfield",
+    "ons_code": "E14001335",
+    "slug": "lichfield"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "dave.robertson.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5126
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5126,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dave Robertson",
+    "full_title": "Dave Robertson MP",
+    "list_as": "Robertson, Dave"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3579,
+        "name": "Lichfield",
+        "startDate": "2019-12-12T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Lichfield",
+        "constituency_id": 4150,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Dave Robertson is the Labour MP for <a href='/constituency/4150/overview'>Lichfield</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5126/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 70,
+        "voting_participation_pct": 95.89
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 268,
+        "voting_participation_pct": 83.23
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 213,
+        "voting_participation_pct": 90.25
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 551,
+        "voting_participation_pct": 87.32
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 551,
+    "voting_participation_pct": 87.32
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

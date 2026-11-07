@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 13661.7,
+    "bng": {
+      "easting": 426553,
+      "northing": 388893
+    },
+    "centroid": {
+      "latitude": 53.39622,
+      "longitude": -1.60214
+    },
+    "geojson": "constituencies/boundaries/sheffield-hallam.geojson",
+    "ons_code": "E14001468",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4864.json",
+    "member_id": 4864,
+    "name": "Olivia Blake",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72900,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8189,
+      "result": "Lab Hold",
+      "turnout": 51601,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3725,
+      "end_date": "2024-05-30",
+      "member_id": 4864,
+      "name": "Olivia Blake",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4283,
+  "is_current": true,
+  "name": "Sheffield Hallam",
+  "name_cy": null,
+  "ons_code": "E14001468",
+  "outcodes": [
+    "S10",
+    "S11",
+    "S17",
+    "S35",
+    "S6",
+    "S7",
+    "S8"
+  ],
+  "schema_version": 1,
+  "slug": "sheffield-hallam",
+  "start_date": "2024-05-31"
+}

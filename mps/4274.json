@@ -1,0 +1,131 @@
+{
+  "activity": {
+    "annual": {},
+    "bills_sponsored": 0,
+    "debate_contributions": 0,
+    "debates_participated": 0,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 0,
+    "voting_participation_pct": 0.0,
+    "written_questions": 0
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "id": 3608,
+    "name": "Mid Ulster"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4274
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4274,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2013-03-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Francie Molloy",
+    "display": "Francie Molloy",
+    "full_title": "Francie Molloy",
+    "list_as": "Molloy, Francie"
+  },
+  "party": {
+    "abbreviation": "SF",
+    "id": 30,
+    "name": "Sinn Féin"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Sinn Féin",
+        "start_date": "2013-03-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Mid Ulster",
+        "constituency_id": 3608,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2013-03-07"
+      }
+    ]
+  },
+  "synopsis": "Francie Molloy is no longer a Member, but was most recently the Sinn Féin MP for <a href='/constituency/3608/overview'>Mid Ulster</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4274/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 0,
+    "note": "No recorded votes: typical of the Speaker/Deputy Speakers, abstentionist parties or members with a non-voting role.",
+    "voting_participation_pct": 0.0
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

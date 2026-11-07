@@ -1,0 +1,309 @@
+{
+  "activity": {
+    "annual": {
+      "2021": {
+        "debate_contributions": 9,
+        "debates_participated": 7,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 19
+      },
+      "2022": {
+        "bills_sponsored": 4,
+        "debate_contributions": 55,
+        "debates_participated": 37,
+        "early_day_motions": 3,
+        "oral_questions": 18,
+        "written_questions": 59
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 33,
+        "debates_participated": 26,
+        "early_day_motions": 1,
+        "oral_questions": 13,
+        "written_questions": 19
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 31,
+        "debates_participated": 24,
+        "early_day_motions": 2,
+        "oral_questions": 10,
+        "written_questions": 81
+      },
+      "2025": {
+        "debate_contributions": 42,
+        "debates_participated": 27,
+        "oral_questions": 9,
+        "written_questions": 54
+      },
+      "2026": {
+        "debate_contributions": 25,
+        "debates_participated": 16,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 37
+      }
+    },
+    "bills_sponsored": 6,
+    "debate_contributions": 195,
+    "debates_participated": 137,
+    "early_day_motions": 8,
+    "oral_questions": 59,
+    "petitions_presented": 0,
+    "written_questions": 269
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 195,
+    "voting_participation_pct": 72.03,
+    "written_questions": 269
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 74,
+      "meetings_available": 74
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Child Support Collection (Domestic Abuse) Bill",
+      "committee_id": 633,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Terminally Ill Adults (End of Life) Bill",
+      "committee_id": 758,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Child Support Collection (Domestic Abuse) Bill",
+        "committee_id": 633,
+        "file": "committees/child-support-collection-domestic-abuse-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "child-support-collection-domestic-abuse-bill"
+      },
+      {
+        "committee": "Terminally Ill Adults (End of Life) Bill",
+        "committee_id": 758,
+        "file": "committees/terminally-ill-adults-end-of-life-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "terminally-ill-adults-end-of-life-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/chesham-and-amersham.json",
+    "id": 3977,
+    "name": "Chesham and Amersham",
+    "ons_code": "E14001162",
+    "slug": "chesham-and-amersham"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "sarah.green.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.sarahgreen.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/LDSarahGreen/?locale=en_GB"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4918
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4918,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2021-06-17",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sarah Green",
+    "full_title": "Sarah Green MP",
+    "list_as": "Green, Sarah"
+  },
+  "party": {
+    "abbreviation": "LD",
+    "id": 17,
+    "name": "Liberal Democrat"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (International Trade)",
+        "start_date": "2022-07-11"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-09-18",
+        "is_current": false,
+        "name": "Liberal Democrat Spokesperson (Wales)",
+        "start_date": "2022-07-11"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3294,
+        "name": "Arfon",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Liberal Democrat",
+        "start_date": "2021-06-17"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Chesham and Amersham",
+        "constituency_id": 3977,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Chesham and Amersham",
+        "constituency_id": 3407,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2021-06-17"
+      }
+    ]
+  },
+  "synopsis": "Sarah Green is the Liberal Democrat MP for <a href='/constituency/3977/overview'>Chesham and Amersham</a>, and has been an MP continually since 17 June 2021.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4918/Thumbnail",
+  "voting": {
+    "annual": {
+      "2021": {
+        "divisions_eligible": 122,
+        "divisions_voted": 111,
+        "voting_participation_pct": 90.98
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 201,
+        "voting_participation_pct": 80.08
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 168,
+        "voting_participation_pct": 65.62
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 231,
+        "voting_participation_pct": 71.74
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 159,
+        "voting_participation_pct": 67.37
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 756,
+        "divisions_voted": 572,
+        "voting_participation_pct": 75.66
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 427,
+        "voting_participation_pct": 67.67
+      }
+    },
+    "divisions_eligible": 1387,
+    "divisions_voted": 999,
+    "voting_participation_pct": 72.03
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

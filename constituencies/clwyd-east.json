@@ -1,0 +1,64 @@
+{
+  "boundary": {
+    "area_hectares": 64477.6,
+    "bng": {
+      "easting": 316706,
+      "northing": 362272
+    },
+    "centroid": {
+      "latitude": 53.15106,
+      "longitude": -3.24694
+    },
+    "geojson": "constituencies/boundaries/clwyd-east.geojson",
+    "ons_code": "W07000094",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5181.json",
+    "member_id": 5181,
+    "name": "Becky Gittins",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76637,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4622,
+      "result": "Lab Gain",
+      "turnout": 47822,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4509,
+  "is_current": true,
+  "name": "Clwyd East",
+  "name_cy": "Dwyrain Clwyd",
+  "ons_code": "W07000094",
+  "outcodes": [
+    "CH6",
+    "CH7",
+    "CH8",
+    "LL11",
+    "LL14",
+    "LL15",
+    "LL16",
+    "LL17",
+    "LL18",
+    "LL19",
+    "LL20",
+    "LL21"
+  ],
+  "schema_version": 1,
+  "slug": "clwyd-east",
+  "start_date": "2024-05-31"
+}

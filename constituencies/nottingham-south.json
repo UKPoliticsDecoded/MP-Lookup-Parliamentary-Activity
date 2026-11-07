@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 3237.0,
+    "bng": {
+      "easting": 454918,
+      "northing": 338035
+    },
+    "centroid": {
+      "latitude": 52.93693,
+      "longitude": -1.18432
+    },
+    "geojson": "constituencies/boundaries/nottingham-south.geojson",
+    "ons_code": "E14001412",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4029.json",
+    "member_id": 4029,
+    "name": "Lilian Greenwood",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 64255,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10294,
+      "result": "Lab Hold",
+      "turnout": 32879,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3666,
+      "end_date": "2024-05-30",
+      "member_id": 4029,
+      "name": "Lilian Greenwood",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4227,
+  "is_current": true,
+  "name": "Nottingham South",
+  "name_cy": null,
+  "ons_code": "E14001412",
+  "outcodes": [
+    "NG11",
+    "NG12",
+    "NG13",
+    "NG2",
+    "NG7",
+    "NG8",
+    "NG80",
+    "NG9",
+    "NG90"
+  ],
+  "schema_version": 1,
+  "slug": "nottingham-south",
+  "start_date": "2024-05-31"
+}

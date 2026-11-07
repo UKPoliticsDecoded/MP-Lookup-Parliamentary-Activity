@@ -1,0 +1,162 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 20,
+        "debates_participated": 18,
+        "early_day_motions": 7,
+        "oral_questions": 1,
+        "written_questions": 22
+      },
+      "2025": {
+        "debate_contributions": 119,
+        "debates_participated": 89,
+        "early_day_motions": 21,
+        "oral_questions": 16,
+        "written_questions": 63
+      },
+      "2026": {
+        "debate_contributions": 110,
+        "debates_participated": 82,
+        "early_day_motions": 17,
+        "oral_questions": 6,
+        "written_questions": 44
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 249,
+    "debates_participated": 189,
+    "early_day_motions": 45,
+    "oral_questions": 23,
+    "petitions_presented": 0,
+    "written_questions": 129
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 249,
+    "voting_participation_pct": 73.85,
+    "written_questions": 129
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/alloa-and-grangemouth.json",
+    "id": 4453,
+    "name": "Alloa and Grangemouth",
+    "ons_code": "S14000064",
+    "slug": "alloa-and-grangemouth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "brian.leishman.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01259 726 407",
+      "type": "Constituency office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5196
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5196,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Brian Leishman",
+    "full_title": "Brian Leishman MP",
+    "list_as": "Leishman, Brian"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2025-11-07"
+      },
+      {
+        "end_date": "2025-11-07",
+        "party": "Independent",
+        "start_date": "2025-07-16"
+      },
+      {
+        "end_date": "2025-07-16",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Alloa and Grangemouth",
+        "constituency_id": 4453,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Brian Leishman is the Labour MP for <a href='/constituency/4453/overview'>Alloa and Grangemouth</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5196/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 67,
+        "voting_participation_pct": 91.78
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 234,
+        "voting_participation_pct": 72.67
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 165,
+        "voting_participation_pct": 69.92
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 466,
+        "voting_participation_pct": 73.85
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 466,
+    "voting_participation_pct": 73.85
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

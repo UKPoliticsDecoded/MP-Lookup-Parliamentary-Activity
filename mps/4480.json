@@ -1,0 +1,445 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "written_questions": 7
+      },
+      "2020": {
+        "debate_contributions": 48,
+        "debates_participated": 36,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 136
+      },
+      "2021": {
+        "bills_sponsored": 2,
+        "debate_contributions": 52,
+        "debates_participated": 25,
+        "oral_questions": 6,
+        "written_questions": 119
+      },
+      "2022": {
+        "debate_contributions": 68,
+        "debates_participated": 34,
+        "early_day_motions": 1,
+        "oral_questions": 6,
+        "written_questions": 54
+      },
+      "2023": {
+        "debate_contributions": 37,
+        "debates_participated": 25,
+        "oral_questions": 9,
+        "written_questions": 31
+      },
+      "2024": {
+        "debate_contributions": 64,
+        "debates_participated": 39,
+        "oral_questions": 6,
+        "written_questions": 25
+      },
+      "2025": {
+        "debate_contributions": 66,
+        "debates_participated": 36,
+        "oral_questions": 3,
+        "written_questions": 22
+      },
+      "2026": {
+        "debate_contributions": 52,
+        "debates_participated": 22,
+        "early_day_motions": 1,
+        "oral_questions": 3,
+        "written_questions": 29
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 387,
+    "debates_participated": 217,
+    "early_day_motions": 3,
+    "oral_questions": 39,
+    "petitions_presented": 0,
+    "written_questions": 423
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 96.83,
+    "committee_memberships": 2,
+    "debate_contributions": 387,
+    "voting_participation_pct": 73.4,
+    "written_questions": 423
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 0.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Courts (Remote Hearings) Bill",
+      "committee_id": 810,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Criminal Justice Bill",
+      "committee_id": 689,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 50,
+      "meetings_available": 50
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Neonatal Care (Leave and Pay) Bill",
+      "committee_id": 610,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Women and Equalities Committee",
+      "committee_id": 328,
+      "is_current": false,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-20"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Courts (Remote Hearings) Bill",
+        "committee_id": 810,
+        "file": "committees/courts-remote-hearings-bill-810.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-07-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-26"
+          }
+        ],
+        "slug": "courts-remote-hearings-bill-810"
+      },
+      {
+        "committee": "Criminal Justice Bill",
+        "committee_id": 689,
+        "file": "committees/criminal-justice-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-12-06"
+          }
+        ],
+        "slug": "criminal-justice-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-07"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "Neonatal Care (Leave and Pay) Bill",
+        "committee_id": 610,
+        "file": "committees/neonatal-care-leave-and-pay-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-07-20"
+          }
+        ],
+        "slug": "neonatal-care-leave-and-pay-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      },
+      {
+        "committee": "Women and Equalities Committee",
+        "committee_id": 328,
+        "file": "committees/women-and-equalities.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "women-and-equalities"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/neath-and-swansea-east.json",
+    "id": 4518,
+    "name": "Neath and Swansea East",
+    "ons_code": "W07000103",
+    "slug": "neath-and-swansea-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "carolyn.harris.mp@parliament.uk",
+      "phone": "020 7219 4316",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Constituency office",
+      "phone": "01792 462054",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "http://www.carolynharris.org.uk/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/carolynharris24"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4480
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4480,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Carolyn Harris",
+    "display": "Carolyn Harris",
+    "full_title": "Carolyn Harris MP",
+    "list_as": "Harris, Carolyn"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Government Equalities Office",
+        "department_url": "https://www.gov.uk/government/organisations/government-equalities-office",
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Shadow Minister (Equalities Office) (Women and Equalities)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2017-07-03",
+        "is_current": false,
+        "name": "Shadow Minister (Home Affairs)",
+        "start_date": "2016-10-09"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Neath and Swansea East",
+        "constituency_id": 4518,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Swansea East",
+        "constituency_id": 3792,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Carolyn Harris is the Labour MP for <a href='/constituency/4518/overview'>Neath and Swansea East</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4480/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 0,
+        "voting_participation_pct": 0.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 134,
+        "voting_participation_pct": 70.53
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 203,
+        "voting_participation_pct": 83.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 163,
+        "voting_participation_pct": 64.94
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 167,
+        "voting_participation_pct": 65.23
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 140,
+        "voting_participation_pct": 70.0
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 257,
+        "voting_participation_pct": 79.81
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 183,
+        "voting_participation_pct": 77.54
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 748,
+        "voting_participation_pct": 70.04
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 499,
+        "voting_participation_pct": 79.08
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1247,
+    "voting_participation_pct": 73.4
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

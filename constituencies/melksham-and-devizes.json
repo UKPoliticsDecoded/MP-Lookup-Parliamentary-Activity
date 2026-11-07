@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 41717.0,
+    "bng": {
+      "easting": 397194,
+      "northing": 161497
+    },
+    "centroid": {
+      "latitude": 51.35253,
+      "longitude": -2.04167
+    },
+    "geojson": "constituencies/boundaries/melksham-and-devizes.geojson",
+    "ons_code": "E14001356",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5214.json",
+    "member_id": 5214,
+    "name": "Brian Mathew",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73482,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 2401,
+      "result": "LD Gain",
+      "turnout": 51203,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4171,
+  "is_current": true,
+  "name": "Melksham and Devizes",
+  "name_cy": null,
+  "ons_code": "E14001356",
+  "outcodes": [
+    "BA13",
+    "BA14",
+    "BA15",
+    "BA2",
+    "SN10",
+    "SN11",
+    "SN12",
+    "SN13",
+    "SN14",
+    "SN15",
+    "SN8"
+  ],
+  "schema_version": 1,
+  "slug": "melksham-and-devizes",
+  "start_date": "2024-05-31"
+}

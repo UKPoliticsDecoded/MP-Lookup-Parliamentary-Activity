@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 15855.2,
+    "bng": {
+      "easting": 394021,
+      "northing": 338339
+    },
+    "centroid": {
+      "latitude": 52.94242,
+      "longitude": -2.09041
+    },
+    "geojson": "constituencies/boundaries/stoke-on-trent-south.geojson",
+    "ons_code": "E14001522",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5334.json",
+    "member_id": 5334,
+    "name": "Dr Allison Gardner",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 70002,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 627,
+      "result": "Lab Gain",
+      "turnout": 40942,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3779,
+      "end_date": "2024-05-30",
+      "member_id": 4643,
+      "name": "Jack Brereton",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4337,
+  "is_current": true,
+  "name": "Stoke-on-Trent South",
+  "name_cy": null,
+  "ons_code": "E14001522",
+  "outcodes": [
+    "ST10",
+    "ST11",
+    "ST12",
+    "ST14",
+    "ST15",
+    "ST21",
+    "ST3",
+    "ST4",
+    "ST5"
+  ],
+  "schema_version": 1,
+  "slug": "stoke-on-trent-south",
+  "start_date": "2024-05-31"
+}

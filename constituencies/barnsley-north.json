@@ -1,0 +1,57 @@
+{
+  "boundary": {
+    "area_hectares": 7513.5,
+    "bng": {
+      "easting": 436476,
+      "northing": 408971
+    },
+    "centroid": {
+      "latitude": 53.57609,
+      "longitude": -1.4506
+    },
+    "geojson": "constituencies/boundaries/barnsley-north.geojson",
+    "ons_code": "E14001074",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4243.json",
+    "member_id": 4243,
+    "name": "Dan Jarvis",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 78274,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7811,
+      "result": "Lab Hold",
+      "turnout": 36894,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3889,
+  "is_current": true,
+  "name": "Barnsley North",
+  "name_cy": null,
+  "ons_code": "E14001074",
+  "outcodes": [
+    "S63",
+    "S70",
+    "S71",
+    "S72",
+    "S75"
+  ],
+  "schema_version": 1,
+  "slug": "barnsley-north",
+  "start_date": "2024-05-31"
+}

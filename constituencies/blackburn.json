@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 3930.4,
+    "bng": {
+      "easting": 367092,
+      "northing": 427991
+    },
+    "centroid": {
+      "latitude": 53.74726,
+      "longitude": -2.50047
+    },
+    "geojson": "constituencies/boundaries/blackburn.geojson",
+    "ons_code": "E14001102",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5231.json",
+    "member_id": 5231,
+    "name": "Mr Adnan Hussain",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73263,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 132,
+      "result": "Ind Gain",
+      "turnout": 38887,
+      "winning_party": "Independent",
+      "winning_party_id": 8
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3335,
+      "end_date": "2024-05-30",
+      "member_id": 4363,
+      "name": "Kate Hollern",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3917,
+  "is_current": true,
+  "name": "Blackburn",
+  "name_cy": null,
+  "ons_code": "E14001102",
+  "outcodes": [
+    "BB1",
+    "BB2",
+    "BB3"
+  ],
+  "schema_version": 1,
+  "slug": "blackburn",
+  "start_date": "2024-05-31"
+}

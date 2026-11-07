@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 3047.4,
+    "bng": {
+      "easting": 475987,
+      "northing": 262587
+    },
+    "centroid": {
+      "latitude": 52.25623,
+      "longitude": -0.88818
+    },
+    "geojson": "constituencies/boundaries/northampton-north.geojson",
+    "ons_code": "E14001406",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5333.json",
+    "member_id": 5333,
+    "name": "Lucy Rigby",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 75575,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9014,
+      "result": "Lab Gain",
+      "turnout": 41813,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3660,
+      "end_date": "2024-05-30",
+      "member_id": 4116,
+      "name": "Sir Michael Ellis",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4221,
+  "is_current": true,
+  "name": "Northampton North",
+  "name_cy": null,
+  "ons_code": "E14001406",
+  "outcodes": [
+    "NN1",
+    "NN2",
+    "NN3",
+    "NN4",
+    "NN5"
+  ],
+  "schema_version": 1,
+  "slug": "northampton-north",
+  "start_date": "2024-05-31"
+}

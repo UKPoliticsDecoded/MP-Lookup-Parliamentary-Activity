@@ -1,0 +1,341 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 124,
+        "debates_participated": 48,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 19
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 93,
+        "debates_participated": 29,
+        "written_questions": 91
+      },
+      "2022": {
+        "debate_contributions": 195,
+        "debates_participated": 68,
+        "oral_questions": 4,
+        "written_questions": 88
+      },
+      "2023": {
+        "debate_contributions": 48,
+        "debates_participated": 38,
+        "oral_questions": 4,
+        "written_questions": 42
+      },
+      "2024": {
+        "debate_contributions": 37,
+        "debates_participated": 23,
+        "oral_questions": 2,
+        "written_questions": 12
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 497,
+    "debates_participated": 206,
+    "early_day_motions": 1,
+    "oral_questions": 11,
+    "petitions_presented": 0,
+    "written_questions": 252
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 497,
+    "voting_participation_pct": 73.41,
+    "written_questions": 252
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Equipment Theft (Prevention) Bill",
+      "committee_id": 642,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Firearms Bill",
+      "committee_id": 661,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Home Affairs Committee",
+      "committee_id": 83,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Security Bill",
+      "committee_id": 607,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Nationality and Borders Bill",
+      "committee_id": 543,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-10-16"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Equipment Theft (Prevention) Bill",
+        "committee_id": 642,
+        "file": "committees/equipment-theft-prevention-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "equipment-theft-prevention-bill"
+      },
+      {
+        "committee": "Firearms Bill",
+        "committee_id": 661,
+        "file": "committees/firearms-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-03-08"
+          }
+        ],
+        "slug": "firearms-bill"
+      },
+      {
+        "committee": "Home Affairs Committee",
+        "committee_id": 83,
+        "file": "committees/home-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "home-affairs"
+      },
+      {
+        "committee": "National Security Bill",
+        "committee_id": 607,
+        "file": "committees/national-security-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-06-29"
+          }
+        ],
+        "slug": "national-security-bill"
+      },
+      {
+        "committee": "Nationality and Borders Bill",
+        "committee_id": 543,
+        "file": "committees/nationality-and-borders-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-04",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-16"
+          }
+        ],
+        "slug": "nationality-and-borders-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3509,
+    "name": "Halifax"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4472
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 4472,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Holly Lynch",
+    "display": "Holly Lynch",
+    "full_title": "Holly Lynch",
+    "list_as": "Lynch, Holly"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Deputy Chief Whip (Commons)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2018-07-30",
+        "is_current": false,
+        "name": "Shadow Minister (Environment, Food and Rural Affairs) (Flooding and Coastal Communities)",
+        "start_date": "2017-07-03"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2016-10-09",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2015-09-18"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Halifax",
+        "constituency_id": 3509,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Holly Lynch is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3509/overview'>Halifax</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4472/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 139,
+        "voting_participation_pct": 73.16
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 201,
+        "voting_participation_pct": 83.06
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 189,
+        "voting_participation_pct": 75.3
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 170,
+        "voting_participation_pct": 66.41
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 83,
+        "voting_participation_pct": 65.35
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 784,
+        "voting_participation_pct": 73.41
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 784,
+    "voting_participation_pct": 73.41
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

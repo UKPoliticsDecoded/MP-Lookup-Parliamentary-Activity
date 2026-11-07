@@ -1,0 +1,191 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 29,
+        "debates_participated": 15,
+        "early_day_motions": 3,
+        "oral_questions": 4,
+        "written_questions": 20
+      },
+      "2025": {
+        "debate_contributions": 71,
+        "debates_participated": 46,
+        "early_day_motions": 11,
+        "oral_questions": 11,
+        "written_questions": 27
+      },
+      "2026": {
+        "debate_contributions": 46,
+        "debates_participated": 35,
+        "early_day_motions": 2,
+        "oral_questions": 6,
+        "written_questions": 9
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 146,
+    "debates_participated": 96,
+    "early_day_motions": 16,
+    "oral_questions": 21,
+    "petitions_presented": 0,
+    "written_questions": 56
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 146,
+    "voting_participation_pct": 73.85,
+    "written_questions": 56
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Administration and Constitutional Affairs Committee",
+      "committee_id": 327,
+      "is_current": true,
+      "meetings_attended": 58,
+      "meetings_available": 58
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Administration and Constitutional Affairs Committee",
+        "committee_id": 327,
+        "file": "committees/public-administration-and-constitutional-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-administration-and-constitutional-affairs"
+      }
+    ],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/glenrothes-and-mid-fife.json",
+    "id": 4479,
+    "name": "Glenrothes and Mid Fife",
+    "ons_code": "S14000090",
+    "slug": "glenrothes-and-mid-fife"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "richard.baker.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Baker4GlenrothesMidFife"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/RichardBakerMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5253
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5253,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Richard Baker",
+    "full_title": "Richard Baker MP",
+    "list_as": "Baker, Richard"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 14,
+        "name": "Aberdeen North",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glenrothes and Mid Fife",
+        "constituency_id": 4479,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Richard Baker is the Labour MP for <a href='/constituency/4479/overview'>Glenrothes and Mid Fife</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5253/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 72,
+        "voting_participation_pct": 98.63
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 267,
+        "voting_participation_pct": 82.92
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 127,
+        "voting_participation_pct": 53.81
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 466,
+        "voting_participation_pct": 73.85
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 466,
+    "voting_participation_pct": 73.85
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

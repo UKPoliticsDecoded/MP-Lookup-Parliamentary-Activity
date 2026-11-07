@@ -1,0 +1,69 @@
+{
+  "boundary": {
+    "area_hectares": 67154.7,
+    "bng": {
+      "easting": 347132,
+      "northing": 151708
+    },
+    "centroid": {
+      "latitude": 51.26206,
+      "longitude": -2.75907
+    },
+    "geojson": "constituencies/boundaries/wells-and-mendip-hills.geojson",
+    "ons_code": "E14001572",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4089.json",
+    "member_id": 4089,
+    "name": "Tessa Munt",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 73538,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11121,
+      "result": "LD Gain",
+      "turnout": 50368,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4387,
+  "is_current": true,
+  "name": "Wells and Mendip Hills",
+  "name_cy": null,
+  "ons_code": "E14001572",
+  "outcodes": [
+    "BA16",
+    "BA3",
+    "BA4",
+    "BA5",
+    "BA6",
+    "BS21",
+    "BS24",
+    "BS25",
+    "BS26",
+    "BS27",
+    "BS28",
+    "BS29",
+    "BS39",
+    "BS40",
+    "BS49",
+    "TA7",
+    "TA9"
+  ],
+  "schema_version": 1,
+  "slug": "wells-and-mendip-hills",
+  "start_date": "2024-05-31"
+}

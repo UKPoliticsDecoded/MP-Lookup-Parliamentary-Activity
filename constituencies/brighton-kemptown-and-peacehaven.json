@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 3982.8,
+    "bng": {
+      "easting": 534575,
+      "northing": 104474
+    },
+    "centroid": {
+      "latitude": 50.82416,
+      "longitude": -0.09068
+    },
+    "geojson": "constituencies/boundaries/brighton-kemptown-and-peacehaven.geojson",
+    "ons_code": "E14001129",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5276.json",
+    "member_id": 5276,
+    "name": "Chris Ward",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 68784,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 9663,
+      "result": "Lab Hold",
+      "turnout": 40686,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3944,
+  "is_current": true,
+  "name": "Brighton Kemptown and Peacehaven",
+  "name_cy": null,
+  "ons_code": "E14001129",
+  "outcodes": [
+    "BN1",
+    "BN10",
+    "BN2",
+    "BN51",
+    "BN7",
+    "BN88",
+    "BN9"
+  ],
+  "schema_version": 1,
+  "slug": "brighton-kemptown-and-peacehaven",
+  "start_date": "2024-05-31"
+}

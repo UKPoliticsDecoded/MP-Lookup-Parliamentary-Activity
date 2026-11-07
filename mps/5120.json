@@ -1,0 +1,175 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 40,
+        "debates_participated": 33,
+        "early_day_motions": 10,
+        "oral_questions": 3,
+        "written_questions": 12
+      },
+      "2025": {
+        "debate_contributions": 183,
+        "debates_participated": 148,
+        "early_day_motions": 17,
+        "oral_questions": 7,
+        "written_questions": 93
+      },
+      "2026": {
+        "bills_sponsored": 1,
+        "debate_contributions": 115,
+        "debates_participated": 98,
+        "early_day_motions": 19,
+        "oral_questions": 6,
+        "written_questions": 132
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 338,
+    "debates_participated": 279,
+    "early_day_motions": 46,
+    "oral_questions": 16,
+    "petitions_presented": 0,
+    "written_questions": 237
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 338,
+    "voting_participation_pct": 57.69,
+    "written_questions": 237
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/leicester-south.json",
+    "id": 4142,
+    "name": "Leicester South",
+    "ons_code": "E14001327",
+    "slug": "leicester-south"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "shockat.adam.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "8 De Montfort Street, Leicester",
+      "phone": "0116 507 8089",
+      "postcode": "LE1 7GA",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/shockatadam"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/shockatadam/"
+    },
+    {
+      "type": "TikTok",
+      "url": "https://www.tiktok.com/@shockatadam"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/shockatadam"
+    },
+    {
+      "type": "Youtube",
+      "url": "https://www.youtube.com/@ShockatAdam"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5120
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5120,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Shockat Adam",
+    "full_title": "Shockat Adam MP",
+    "list_as": "Adam, Shockat"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leicester South",
+        "constituency_id": 4142,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Shockat Adam is the Independent MP for <a href='/constituency/4142/overview'>Leicester South</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5120/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 52,
+        "voting_participation_pct": 71.23
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 198,
+        "voting_participation_pct": 61.49
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 114,
+        "voting_participation_pct": 48.31
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 364,
+        "voting_participation_pct": 57.69
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 364,
+    "voting_participation_pct": 57.69
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

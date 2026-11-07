@@ -1,0 +1,499 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 44,
+        "debates_participated": 29,
+        "early_day_motions": 2,
+        "oral_questions": 1,
+        "written_questions": 31
+      },
+      "2021": {
+        "debate_contributions": 65,
+        "debates_participated": 28,
+        "early_day_motions": 1,
+        "oral_questions": 1,
+        "written_questions": 39
+      },
+      "2022": {
+        "debate_contributions": 36,
+        "debates_participated": 15,
+        "early_day_motions": 2,
+        "written_questions": 18
+      },
+      "2023": {
+        "debate_contributions": 34,
+        "debates_participated": 18,
+        "oral_questions": 1,
+        "written_questions": 26
+      },
+      "2024": {
+        "debate_contributions": 16,
+        "debates_participated": 8
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 195,
+    "debates_participated": 98,
+    "early_day_motions": 5,
+    "oral_questions": 3,
+    "petitions_presented": 0,
+    "written_questions": 114
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 195,
+    "voting_participation_pct": 84.11,
+    "written_questions": 114
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Committee of Selection",
+      "committee_id": 381,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Restoration and Renewal Programme Board",
+      "committee_id": 652,
+      "is_current": true,
+      "meetings_attended": 26,
+      "meetings_available": 26
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Administration Committee",
+      "committee_id": 2,
+      "is_current": false,
+      "meetings_attended": 10,
+      "meetings_available": 10
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Finance Committee (Commons)",
+      "committee_id": 325,
+      "is_current": false,
+      "meetings_attended": 52,
+      "meetings_available": 52
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Glue Traps (Offences) Bill",
+      "committee_id": 573,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+      "committee_id": 619,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Committee of Selection",
+        "committee_id": 381,
+        "file": "committees/committee-of-selection.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-12"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "committee-of-selection"
+      },
+      {
+        "committee": "Restoration and Renewal Programme Board",
+        "committee_id": 652,
+        "file": "committees/restoration-and-renewal-programme-board.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-23"
+          }
+        ],
+        "slug": "restoration-and-renewal-programme-board"
+      },
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Administration Committee",
+        "committee_id": 2,
+        "file": "committees/administration.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2015-03-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2012-01-23"
+          },
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-20"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "administration"
+      },
+      {
+        "committee": "Finance Committee (Commons)",
+        "committee_id": 325,
+        "file": "committees/finance-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Glue Traps (Offences) Bill",
+        "committee_id": 573,
+        "file": "committees/glue-traps-offences-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-01-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-12"
+          }
+        ],
+        "slug": "glue-traps-offences-bill"
+      },
+      {
+        "committee": "Pension Dashboards (Prohibition of Indemnification) Bill",
+        "committee_id": 619,
+        "file": "committees/pension-dashboards-prohibition-of-indemnification-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-10-26"
+          }
+        ],
+        "slug": "pension-dashboards-prohibition-of-indemnification-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/alyn-and-deeside.json",
+    "id": 4497,
+    "name": "Alyn and Deeside",
+    "ons_code": "W07000082",
+    "slug": "alyn-and-deeside"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tamim@parliament.uk",
+      "phone": "020 7219 8174",
+      "postcode": "SW1A 0AA",
+      "preferred": true,
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Deeside Enterprise Centre, Rowleys Drive, Shotton, Deeside, Flintshire ",
+      "phone": "01244 819854",
+      "postcode": "CH5 1PP",
+      "type": "Constituency office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/MarkTamiMP"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 1383
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 1383,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2001-06-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Sir Mark Tami",
+    "full_title": "Rt Hon Sir Mark Tami MP",
+    "list_as": "Tami, Sir Mark"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": null,
+        "is_current": true,
+        "name": "Treasurer of HM Household (Deputy Chief Whip, House of Commons)",
+        "start_date": "2024-07-10"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2010-05-06",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2007-07-02"
+      }
+    ],
+    "ministerial_current": [
+      "Treasurer of HM Household (Deputy Chief Whip, House of Commons)"
+    ],
+    "opposition": [
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Opposition Deputy Chief Whip (Commons)",
+        "start_date": "2023-09-05"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Opposition Pairing Whip (Commons)",
+        "start_date": "2020-04-10"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-04-10",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2020-02-12"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2020-02-12",
+        "is_current": false,
+        "name": "Opposition Pairing Whip (Commons)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2015-09-18",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2001-06-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Alyn and Deeside",
+        "constituency_id": 4497,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Alyn and Deeside",
+        "constituency_id": 3292,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Alyn and Deeside",
+        "constituency_id": 52,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2001-06-07"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Mark Tami is the Labour MP for <a href='/constituency/4497/overview'>Alyn and Deeside</a>, and has been an MP continually since 7 June 2001. \r\nHe currently holds the Government post of Treasurer of HM Household (Deputy Chief Whip, House of Commons).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/1383/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 140,
+        "voting_participation_pct": 73.68
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 214,
+        "voting_participation_pct": 88.43
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 208,
+        "voting_participation_pct": 82.87
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 195,
+        "voting_participation_pct": 76.17
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 153,
+        "voting_participation_pct": 76.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 297,
+        "voting_participation_pct": 92.24
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 220,
+        "voting_participation_pct": 93.22
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 845,
+        "voting_participation_pct": 79.12
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 584,
+        "voting_participation_pct": 92.55
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1429,
+    "voting_participation_pct": 84.11
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

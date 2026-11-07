@@ -1,0 +1,66 @@
+{
+  "boundary": {
+    "area_hectares": 3929.4,
+    "bng": {
+      "easting": 387556,
+      "northing": 385605
+    },
+    "centroid": {
+      "latitude": 53.36718,
+      "longitude": -2.18847
+    },
+    "geojson": "constituencies/boundaries/cheadle.geojson",
+    "ons_code": "E14001158",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5090.json",
+    "member_id": 5090,
+    "name": "Tom Morrison",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74383,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 12235,
+      "result": "LD Gain",
+      "turnout": 50731,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3403,
+      "end_date": "2024-05-30",
+      "member_id": 4406,
+      "name": "Mary Robinson",
+      "start_date": "2015-05-07"
+    }
+  ],
+  "id": 3973,
+  "is_current": true,
+  "name": "Cheadle",
+  "name_cy": null,
+  "ons_code": "E14001158",
+  "outcodes": [
+    "M22",
+    "SK12",
+    "SK2",
+    "SK3",
+    "SK7",
+    "SK8"
+  ],
+  "schema_version": 1,
+  "slug": "cheadle",
+  "start_date": "2024-05-31"
+}

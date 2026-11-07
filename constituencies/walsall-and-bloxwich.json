@@ -1,0 +1,59 @@
+{
+  "boundary": {
+    "area_hectares": 3191.9,
+    "bng": {
+      "easting": 400850,
+      "northing": 300117
+    },
+    "centroid": {
+      "latitude": 52.59886,
+      "longitude": -1.98887
+    },
+    "geojson": "constituencies/boundaries/walsall-and-bloxwich.geojson",
+    "ons_code": "E14001562",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4076.json",
+    "member_id": 4076,
+    "name": "Valerie Vaz",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74951,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 4914,
+      "result": "Lab Gain",
+      "turnout": 37191,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4377,
+  "is_current": true,
+  "name": "Walsall and Bloxwich",
+  "name_cy": null,
+  "ons_code": "E14001562",
+  "outcodes": [
+    "B43",
+    "WS1",
+    "WS2",
+    "WS3",
+    "WS4",
+    "WS5",
+    "WV12"
+  ],
+  "schema_version": 1,
+  "slug": "walsall-and-bloxwich",
+  "start_date": "2024-05-31"
+}

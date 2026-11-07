@@ -1,0 +1,439 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 64,
+        "debates_participated": 44,
+        "oral_questions": 10,
+        "written_questions": 8
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 51,
+        "debates_participated": 32,
+        "oral_questions": 8,
+        "written_questions": 12
+      },
+      "2022": {
+        "debate_contributions": 46,
+        "debates_participated": 32,
+        "oral_questions": 4
+      },
+      "2023": {
+        "debate_contributions": 61,
+        "debates_participated": 30,
+        "oral_questions": 3,
+        "petitions_presented": 17,
+        "written_questions": 31
+      },
+      "2024": {
+        "debate_contributions": 80,
+        "debates_participated": 40,
+        "oral_questions": 1,
+        "written_questions": 81
+      },
+      "2025": {
+        "debate_contributions": 129,
+        "debates_participated": 76,
+        "oral_questions": 3,
+        "written_questions": 129
+      },
+      "2026": {
+        "debate_contributions": 78,
+        "debates_participated": 34,
+        "oral_questions": 1,
+        "written_questions": 139
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 509,
+    "debates_participated": 288,
+    "early_day_motions": 0,
+    "oral_questions": 30,
+    "petitions_presented": 17,
+    "written_questions": 400
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 509,
+    "voting_participation_pct": 81.22,
+    "written_questions": 400
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 28,
+      "meetings_available": 28
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Health and Care Bill",
+      "committee_id": 536,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+      "committee_id": 634,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procurement Bill [HL]",
+      "committee_id": 643,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Security and Telecommunications Infrastructure Bill",
+      "committee_id": 590,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Unauthorised Entry to Football Matches Bill",
+      "committee_id": 806,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-12-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-29"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Health and Care Bill",
+        "committee_id": 536,
+        "file": "committees/health-and-care-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-09-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-20"
+          }
+        ],
+        "slug": "health-and-care-bill"
+      },
+      {
+        "committee": "Online Safety (Re-committed Clauses and Schedules) Bill",
+        "committee_id": 634,
+        "file": "committees/online-safety-re-committed-clauses-and-schedules-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-12-07"
+          }
+        ],
+        "slug": "online-safety-re-committed-clauses-and-schedules-bill"
+      },
+      {
+        "committee": "Procurement Bill [HL]",
+        "committee_id": 643,
+        "file": "committees/procurement-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-02-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-25"
+          }
+        ],
+        "slug": "procurement-bill-hl"
+      },
+      {
+        "committee": "Product Security and Telecommunications Infrastructure Bill",
+        "committee_id": 590,
+        "file": "committees/product-security-and-telecommunications-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-03-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-02"
+          }
+        ],
+        "slug": "product-security-and-telecommunications-infrastructure-bill"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      },
+      {
+        "committee": "Unauthorised Entry to Football Matches Bill",
+        "committee_id": 806,
+        "file": "committees/unauthorised-entry-to-football-matches-bill-806.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-25"
+          }
+        ],
+        "slug": "unauthorised-entry-to-football-matches-bill-806"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/meriden-and-solihull-east.json",
+    "id": 4173,
+    "name": "Meriden and Solihull East",
+    "ons_code": "E14001358",
+    "slug": "meriden-and-solihull-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "saqib.bhatti@parliament.uk",
+      "phone": "0207 219 3423",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "631 Warwick Road, Solihull",
+      "email": "saqib.bhatti@parliament.uk",
+      "phone": "0121 711 7029",
+      "postcode": "B91 1AR",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.saqibbhatti.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/saqibbhattiofficial"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/bhatti_saqib"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4818
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4818,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Saqib Bhatti",
+    "full_title": "Saqib Bhatti MP",
+    "list_as": "Bhatti, Saqib"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Science, Innovation and Technology)",
+        "start_date": "2023-11-13"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2025-07-22"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2025-07-22",
+        "is_current": false,
+        "name": "Shadow Minister (Culture, Media and Sport)",
+        "start_date": "2024-11-06"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Health and Social Care)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Department for Science, Innovation and Technology",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology",
+        "end_date": "2024-11-06",
+        "is_current": false,
+        "name": "Shadow Minister (Science, Innovation and Technology)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Meriden and Solihull East",
+        "constituency_id": 4173,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Meriden",
+        "constituency_id": 3601,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Saqib Bhatti is the Conservative MP for <a href='/constituency/4173/overview'>Meriden and Solihull East</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Education).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4818/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 181,
+        "voting_participation_pct": 95.26
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 208,
+        "voting_participation_pct": 85.95
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 218,
+        "voting_participation_pct": 86.85
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 232,
+        "voting_participation_pct": 90.62
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 167,
+        "voting_participation_pct": 83.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 212,
+        "voting_participation_pct": 65.84
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 160,
+        "voting_participation_pct": 67.8
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 954,
+        "voting_participation_pct": 89.33
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 426,
+        "voting_participation_pct": 67.51
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1380,
+    "voting_participation_pct": 81.22
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "boundary": {
+    "area_hectares": 1127.1,
+    "bng": {
+      "easting": 358489,
+      "northing": 174042
+    },
+    "centroid": {
+      "latitude": 51.46381,
+      "longitude": -2.59893
+    },
+    "geojson": "constituencies/boundaries/bristol-central.geojson",
+    "ons_code": "E14001131",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5102.json",
+    "member_id": 5102,
+    "name": "Carla Denyer",
+    "party": "Green Party",
+    "party_abbreviation": "Green",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 62735,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 10407,
+      "result": "Green Gain",
+      "turnout": 43365,
+      "winning_party": "Green Party",
+      "winning_party_id": 44
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 3946,
+  "is_current": true,
+  "name": "Bristol Central",
+  "name_cy": null,
+  "ons_code": "E14001131",
+  "outcodes": [
+    "BS1",
+    "BS2",
+    "BS6",
+    "BS7",
+    "BS8",
+    "BS98"
+  ],
+  "schema_version": 1,
+  "slug": "bristol-central",
+  "start_date": "2024-05-31"
+}

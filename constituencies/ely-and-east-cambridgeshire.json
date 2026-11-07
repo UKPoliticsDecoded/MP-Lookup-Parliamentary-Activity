@@ -1,0 +1,61 @@
+{
+  "boundary": {
+    "area_hectares": 72831.5,
+    "bng": {
+      "easting": 555576,
+      "northing": 275765
+    },
+    "centroid": {
+      "latitude": 52.35788,
+      "longitude": 0.283149
+    },
+    "geojson": "constituencies/boundaries/ely-and-east-cambridgeshire.geojson",
+    "ons_code": "E14001224",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5182.json",
+    "member_id": 5182,
+    "name": "Charlotte Cane",
+    "party": "Liberal Democrat",
+    "party_abbreviation": "LD",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79112,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 495,
+      "result": "LD Gain",
+      "turnout": 52369,
+      "winning_party": "Liberal Democrat",
+      "winning_party_id": 17
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4039,
+  "is_current": true,
+  "name": "Ely and East Cambridgeshire",
+  "name_cy": null,
+  "ons_code": "E14001224",
+  "outcodes": [
+    "CB24",
+    "CB25",
+    "CB4",
+    "CB6",
+    "CB7",
+    "CB8",
+    "IP28",
+    "PE28",
+    "PE38"
+  ],
+  "schema_version": 1,
+  "slug": "ely-and-east-cambridgeshire",
+  "start_date": "2024-05-31"
+}

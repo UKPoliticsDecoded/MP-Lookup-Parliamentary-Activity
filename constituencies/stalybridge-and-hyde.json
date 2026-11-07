@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 6332.8,
+    "bng": {
+      "easting": 398013,
+      "northing": 398062
+    },
+    "centroid": {
+      "latitude": 53.47929,
+      "longitude": -2.0314
+    },
+    "geojson": "constituencies/boundaries/stalybridge-and-hyde.geojson",
+    "ons_code": "E14001515",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4119.json",
+    "member_id": 4119,
+    "name": "Jonathan Reynolds",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72265,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8539,
+      "result": "Lab Hold",
+      "turnout": 37239,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3772,
+      "end_date": "2024-05-30",
+      "member_id": 4119,
+      "name": "Jonathan Reynolds",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 4330,
+  "is_current": true,
+  "name": "Stalybridge and Hyde",
+  "name_cy": null,
+  "ons_code": "E14001515",
+  "outcodes": [
+    "OL5",
+    "OL6",
+    "SK14",
+    "SK15",
+    "SK16"
+  ],
+  "schema_version": 1,
+  "slug": "stalybridge-and-hyde",
+  "start_date": "2024-05-31"
+}

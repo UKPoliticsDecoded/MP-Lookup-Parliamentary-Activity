@@ -1,0 +1,67 @@
+{
+  "boundary": {
+    "area_hectares": 10313.5,
+    "bng": {
+      "easting": 380429,
+      "northing": 348031
+    },
+    "centroid": {
+      "latitude": 53.02921,
+      "longitude": -2.29326
+    },
+    "geojson": "constituencies/boundaries/newcastle-under-lyme.geojson",
+    "ons_code": "E14001380",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5168.json",
+    "member_id": 5168,
+    "name": "Adam Jogee",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 67815,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5069,
+      "result": "Lab Gain",
+      "turnout": 39618,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3628,
+      "end_date": "2024-05-30",
+      "member_id": 4837,
+      "name": "Aaron Bell",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4195,
+  "is_current": true,
+  "name": "Newcastle-under-Lyme",
+  "name_cy": null,
+  "ons_code": "E14001380",
+  "outcodes": [
+    "CW2",
+    "CW3",
+    "ST4",
+    "ST5",
+    "ST55",
+    "ST6",
+    "ST7"
+  ],
+  "schema_version": 1,
+  "slug": "newcastle-under-lyme",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,63 @@
+{
+  "boundary": {
+    "area_hectares": 214008.4,
+    "bng": {
+      "easting": 404419,
+      "northing": 619639
+    },
+    "centroid": {
+      "latitude": 55.47056,
+      "longitude": -1.93166
+    },
+    "geojson": "constituencies/boundaries/north-northumberland.geojson",
+    "ons_code": "E14001397",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5218.json",
+    "member_id": 5218,
+    "name": "David Smith",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74190,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 5067,
+      "result": "Lab Gain",
+      "turnout": 48843,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [],
+  "id": 4212,
+  "is_current": true,
+  "name": "North Northumberland",
+  "name_cy": null,
+  "ons_code": "E14001397",
+  "outcodes": [
+    "NE19",
+    "NE48",
+    "NE61",
+    "NE65",
+    "NE66",
+    "NE67",
+    "NE68",
+    "NE69",
+    "NE70",
+    "NE71",
+    "TD5"
+  ],
+  "schema_version": 1,
+  "slug": "north-northumberland",
+  "start_date": "2024-05-31"
+}

@@ -1,0 +1,290 @@
+{
+  "activity": {
+    "annual": {
+      "2023": {
+        "debate_contributions": 17,
+        "debates_participated": 11,
+        "oral_questions": 5,
+        "written_questions": 2
+      },
+      "2024": {
+        "debate_contributions": 219,
+        "debates_participated": 49,
+        "oral_questions": 2,
+        "written_questions": 10
+      },
+      "2025": {
+        "debate_contributions": 532,
+        "debates_participated": 73
+      },
+      "2026": {
+        "debate_contributions": 271,
+        "debates_participated": 49
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1039,
+    "debates_participated": 182,
+    "early_day_motions": 0,
+    "oral_questions": 7,
+    "petitions_presented": 0,
+    "written_questions": 12
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1039,
+    "voting_participation_pct": 63.98,
+    "written_questions": 12
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Planning and Infrastructure Bill",
+      "committee_id": 788,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Scottish Affairs Committee",
+      "committee_id": 136,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      },
+      {
+        "committee": "Planning and Infrastructure Bill",
+        "committee_id": 788,
+        "file": "committees/planning-and-infrastructure-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-22",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-04-24"
+          }
+        ],
+        "slug": "planning-and-infrastructure-bill"
+      },
+      {
+        "committee": "Scottish Affairs Committee",
+        "committee_id": 136,
+        "file": "committees/scottish-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-22"
+          }
+        ],
+        "slug": "scottish-affairs"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/rutherglen.json",
+    "id": 4493,
+    "name": "Rutherglen",
+    "ons_code": "S14000104",
+    "slug": "rutherglen"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "michael.shanks.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Aspire Business Centre, 16 Farmeloan Road, Rutherglen",
+      "phone": "0141 319 8998",
+      "postcode": "G73 1JL",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://instagram.com/michaelshanksmp"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/mgshanks"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4998
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4998,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2023-10-05",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Michael Shanks",
+    "full_title": "Michael Shanks MP",
+    "list_as": "Shanks, Michael"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Energy Security and Net Zero)",
+        "start_date": "2025-09-06"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2025-09-06",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Energy Security and Net Zero)",
+        "start_date": "2024-07-09"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department for Energy Security and Net Zero)"
+    ],
+    "opposition": [
+      {
+        "department": "Scotland Office",
+        "department_url": "https://www.gov.uk/government/organisations/scotland-office",
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow Minister (Scotland)",
+        "start_date": "2023-11-28"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1207,
+        "name": "Glasgow North West",
+        "startDate": "2017-06-08T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2023-10-05"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Rutherglen",
+        "constituency_id": 4493,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Rutherglen and Hamilton West",
+        "constituency_id": 2501,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2023-10-05"
+      }
+    ]
+  },
+  "synopsis": "Michael Shanks is the Labour MP for <a href='/constituency/4493/overview'>Rutherglen</a>, and has been an MP continually since 5 October 2023. \r\nHe currently holds the Government post of Minister of State (Department for Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4998/Thumbnail",
+  "voting": {
+    "annual": {
+      "2023": {
+        "divisions_eligible": 61,
+        "divisions_voted": 45,
+        "voting_participation_pct": 73.77
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 151,
+        "voting_participation_pct": 75.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 195,
+        "voting_participation_pct": 60.56
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 133,
+        "voting_participation_pct": 56.36
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 188,
+        "divisions_voted": 133,
+        "voting_participation_pct": 70.74
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 391,
+        "voting_participation_pct": 61.97
+      }
+    },
+    "divisions_eligible": 819,
+    "divisions_voted": 524,
+    "voting_participation_pct": 63.98
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

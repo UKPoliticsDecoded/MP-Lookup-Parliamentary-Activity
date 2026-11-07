@@ -1,0 +1,484 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 113,
+        "debates_participated": 70,
+        "oral_questions": 15,
+        "written_questions": 201
+      },
+      "2021": {
+        "debate_contributions": 96,
+        "debates_participated": 63,
+        "oral_questions": 21,
+        "written_questions": 110
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 142,
+        "debates_participated": 74,
+        "oral_questions": 15,
+        "written_questions": 93
+      },
+      "2023": {
+        "debate_contributions": 147,
+        "debates_participated": 76,
+        "oral_questions": 30,
+        "written_questions": 60
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 193,
+        "debates_participated": 92,
+        "oral_questions": 25,
+        "written_questions": 119
+      },
+      "2025": {
+        "debate_contributions": 539,
+        "debates_participated": 162,
+        "oral_questions": 13,
+        "written_questions": 536
+      },
+      "2026": {
+        "bills_sponsored": 2,
+        "debate_contributions": 248,
+        "debates_participated": 86,
+        "oral_questions": 11,
+        "written_questions": 577
+      }
+    },
+    "bills_sponsored": 5,
+    "debate_contributions": 1478,
+    "debates_participated": 623,
+    "early_day_motions": 0,
+    "oral_questions": 130,
+    "petitions_presented": 0,
+    "written_questions": 1696
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1478,
+    "voting_participation_pct": 85.29,
+    "written_questions": 1696
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Animal Welfare (Kept Animals) Bill",
+      "committee_id": 551,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+      "committee_id": 680,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electricity and Gas Transmission (Compensation) Bill",
+      "committee_id": 641,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Relations (Flexible Working) Bill",
+      "committee_id": 632,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Health and Social Care Committee",
+      "committee_id": 81,
+      "is_current": false,
+      "meetings_attended": 102,
+      "meetings_available": 102
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+      "committee_id": 620,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Retained EU Law (Revocation and Reform Bill)",
+      "committee_id": 621,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Secure 16 to 19 Academies Bill",
+      "committee_id": 723,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Animal Welfare (Kept Animals) Bill",
+        "committee_id": 551,
+        "file": "committees/animal-welfare-kept-animals-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-11-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-11-03"
+          }
+        ],
+        "slug": "animal-welfare-kept-animals-bill"
+      },
+      {
+        "committee": "Economic Activity of Public Bodies (Overseas Matters) Bill",
+        "committee_id": 680,
+        "file": "committees/economic-activity-of-public-bodies-overseas-matters-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-14",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-07-19"
+          }
+        ],
+        "slug": "economic-activity-of-public-bodies-overseas-matters-bill"
+      },
+      {
+        "committee": "Electricity and Gas Transmission (Compensation) Bill",
+        "committee_id": 641,
+        "file": "committees/electricity-and-gas-transmission-compensation-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-01-25",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-23"
+          }
+        ],
+        "slug": "electricity-and-gas-transmission-compensation-bill"
+      },
+      {
+        "committee": "Employment Relations (Flexible Working) Bill",
+        "committee_id": 632,
+        "file": "committees/employment-relations-flexible-working-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-12-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-30"
+          }
+        ],
+        "slug": "employment-relations-flexible-working-bill"
+      },
+      {
+        "committee": "Health and Social Care Committee",
+        "committee_id": 81,
+        "file": "committees/health-and-social-care.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "health-and-social-care"
+      },
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      },
+      {
+        "committee": "Protection from Redundancy (Pregnancy and Family Leave) Bill",
+        "committee_id": 620,
+        "file": "committees/protection-from-redundancy-pregnancy-and-family-leave-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-02",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-01"
+          }
+        ],
+        "slug": "protection-from-redundancy-pregnancy-and-family-leave-bill"
+      },
+      {
+        "committee": "Retained EU Law (Revocation and Reform Bill)",
+        "committee_id": 621,
+        "file": "committees/retained-eu-law-revocation-and-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-02"
+          }
+        ],
+        "slug": "retained-eu-law-revocation-and-reform-bill"
+      },
+      {
+        "committee": "Secure 16 to 19 Academies Bill",
+        "committee_id": 723,
+        "file": "committees/secure-16-to-19-academies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-04-24"
+          }
+        ],
+        "slug": "secure-16-to-19-academies-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/hinckley-and-bosworth.json",
+    "id": 4103,
+    "name": "Hinckley and Bosworth",
+    "ons_code": "E14001288",
+    "slug": "hinckley-and-bosworth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "luke.evans.mp@parliament.uk",
+      "phone": "0207 219 3000",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.drlukeevans.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/drlukeevansmp/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/drlukeevans"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4781
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 4781,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2019-12-12",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Dr Luke Evans",
+    "full_title": "Dr Luke Evans MP",
+    "list_as": "Evans, Dr Luke"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": null,
+        "is_current": true,
+        "name": "Shadow Minister (Energy Security and Net Zero)",
+        "start_date": "2026-08-31"
+      },
+      {
+        "department": "Department of Health and Social Care",
+        "department_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+        "end_date": "2026-08-31",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Health and Social Care)",
+        "start_date": "2024-11-19"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2024-11-18",
+        "is_current": false,
+        "name": "Opposition Whip (Commons)",
+        "start_date": "2024-07-19"
+      },
+      {
+        "department": "Department for Culture, Media and Sport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-culture-media-sport",
+        "end_date": "2024-11-18",
+        "is_current": false,
+        "name": "Shadow Parliamentary Under Secretary (Culture, Media and Sport)",
+        "start_date": "2024-07-19"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 3325,
+        "name": "Birmingham, Edgbaston",
+        "startDate": "2015-05-07T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Conservative",
+        "start_date": "2019-12-12"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Hinckley and Bosworth",
+        "constituency_id": 4103,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Bosworth",
+        "constituency_id": 3349,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2019-12-12"
+      }
+    ]
+  },
+  "synopsis": "Dr Luke Evans is the Conservative MP for <a href='/constituency/4103/overview'>Hinckley and Bosworth</a>, and has been an MP continually since 12 December 2019. \r\nHe currently undertakes the role of Shadow Minister (Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4781/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 179,
+        "voting_participation_pct": 94.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 215,
+        "voting_participation_pct": 88.84
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 221,
+        "voting_participation_pct": 88.05
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 231,
+        "voting_participation_pct": 90.23
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 163,
+        "voting_participation_pct": 81.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 249,
+        "voting_participation_pct": 77.33
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 189,
+        "voting_participation_pct": 80.08
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 959,
+        "voting_participation_pct": 89.79
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 490,
+        "voting_participation_pct": 77.65
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1449,
+    "voting_participation_pct": 85.29
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

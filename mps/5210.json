@@ -1,0 +1,258 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 64,
+        "debates_participated": 39,
+        "early_day_motions": 3,
+        "oral_questions": 1,
+        "written_questions": 268
+      },
+      "2025": {
+        "debate_contributions": 353,
+        "debates_participated": 157,
+        "oral_questions": 9,
+        "written_questions": 206
+      },
+      "2026": {
+        "debate_contributions": 122,
+        "debates_participated": 82,
+        "oral_questions": 8,
+        "written_questions": 236
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 539,
+    "debates_participated": 278,
+    "early_day_motions": 3,
+    "oral_questions": 18,
+    "petitions_presented": 0,
+    "written_questions": 710
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
+    "debate_contributions": 539,
+    "voting_participation_pct": 81.3,
+    "written_questions": 710
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Border Security, Asylum and Immigration Bill",
+      "committee_id": 778,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Children’s Wellbeing and Schools Bill",
+      "committee_id": 757,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Water (Special Measures) Bill [HL]",
+      "committee_id": 755,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-17"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Border Security, Asylum and Immigration Bill",
+        "committee_id": 778,
+        "file": "committees/border-security-asylum-and-immigration-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-03-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-12"
+          }
+        ],
+        "slug": "border-security-asylum-and-immigration-bill"
+      },
+      {
+        "committee": "Children’s Wellbeing and Schools Bill",
+        "committee_id": 757,
+        "file": "committees/childrens-wellbeing-and-schools-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-15"
+          }
+        ],
+        "slug": "childrens-wellbeing-and-schools-bill"
+      },
+      {
+        "committee": "Water (Special Measures) Bill [HL]",
+        "committee_id": 755,
+        "file": "committees/water-special-measures-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "water-special-measures-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/bournemouth-east.json",
+    "id": 3930,
+    "name": "Bournemouth East",
+    "ons_code": "E14001115",
+    "slug": "bournemouth-east"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "tom.hayes.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "595 Christchurch Road, Boscombe, Bournemouth",
+      "phone": "01202 029181",
+      "postcode": "BH1 4AN",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.tomhayes.org.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/TomHayesMP/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5210
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5210,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Tom Hayes",
+    "full_title": "Tom Hayes MP",
+    "list_as": "Hayes, Tom"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Bournemouth East",
+        "constituency_id": 3930,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Tom Hayes is the Labour MP for <a href='/constituency/3930/overview'>Bournemouth East</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5210/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 264,
+        "voting_participation_pct": 81.99
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 178,
+        "voting_participation_pct": 75.42
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 513,
+        "voting_participation_pct": 81.3
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 513,
+    "voting_participation_pct": 81.3
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

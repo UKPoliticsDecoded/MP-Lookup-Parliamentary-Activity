@@ -1,0 +1,76 @@
+{
+  "boundary": {
+    "area_hectares": 2454.6,
+    "bng": {
+      "easting": 406022,
+      "northing": 291857
+    },
+    "centroid": {
+      "latitude": 52.52457,
+      "longitude": -1.91266
+    },
+    "geojson": "constituencies/boundaries/birmingham-perry-barr.geojson",
+    "ons_code": "E14001098",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5357.json",
+    "member_id": 5357,
+    "name": "Ayoub Khan",
+    "party": "Independent",
+    "party_abbreviation": "Ind",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76350,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 507,
+      "result": "Ind Gain",
+      "turnout": 37476,
+      "winning_party": "Independent",
+      "winning_party_id": 8
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3331,
+      "end_date": "2024-05-30",
+      "member_id": 1392,
+      "name": "Mr Khalid Mahmood",
+      "start_date": "2010-05-06"
+    },
+    {
+      "constituency_version_id": 292,
+      "end_date": "2010-05-06",
+      "member_id": 1392,
+      "name": "Mr Khalid Mahmood",
+      "start_date": "2001-06-07"
+    }
+  ],
+  "id": 3913,
+  "is_current": true,
+  "name": "Birmingham Perry Barr",
+  "name_cy": null,
+  "ons_code": "E14001098",
+  "outcodes": [
+    "B19",
+    "B20",
+    "B21",
+    "B23",
+    "B42",
+    "B43",
+    "B44",
+    "B6",
+    "B66"
+  ],
+  "schema_version": 1,
+  "slug": "birmingham-perry-barr",
+  "start_date": "2024-05-31"
+}

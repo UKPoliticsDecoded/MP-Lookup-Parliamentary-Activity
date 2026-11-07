@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 28947.4,
+    "bng": {
+      "easting": 460769,
+      "northing": 331079
+    },
+    "centroid": {
+      "latitude": 52.87378,
+      "longitude": -1.09857
+    },
+    "geojson": "constituencies/boundaries/rushcliffe.geojson",
+    "ons_code": "E14001457",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5047.json",
+    "member_id": 5047,
+    "name": "James Naish",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 79160,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 7426,
+      "result": "Lab Gain",
+      "turnout": 57744,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3711,
+      "end_date": "2024-05-30",
+      "member_id": 4808,
+      "name": "Ruth Edwards",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4272,
+  "is_current": true,
+  "name": "Rushcliffe",
+  "name_cy": null,
+  "ons_code": "E14001457",
+  "outcodes": [
+    "DE74",
+    "LE12",
+    "LE14",
+    "NG11",
+    "NG12",
+    "NG13",
+    "NG2",
+    "NG80"
+  ],
+  "schema_version": 1,
+  "slug": "rushcliffe",
+  "start_date": "2024-05-31"
+}

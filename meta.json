@@ -1,0 +1,33 @@
+{
+  "counts": {
+    "committees": 500,
+    "constituencies": 650,
+    "mps": 1001,
+    "outcodes": 2756
+  },
+  "generated_at": "2026-11-07T09:54:42+00:00",
+  "last_job": "bootstrap",
+  "limitations": [
+    "Postcodes are published at outcode level; full-postcode resolution needs one Postcodes.io call for outcodes spanning several constituencies.",
+    "Petitions presented are inferred from Hansard petition debate sections.",
+    "Committee attendance exists only for meetings where Parliament publishes attendance.",
+    "Election information comes from the Parliament Members API (the Electoral Commission API exposes polling stations/ballots only)."
+  ],
+  "schema_version": 1,
+  "sources": [
+    "Parliament Members API",
+    "Parliament Committees API",
+    "Commons Votes API",
+    "Hansard API",
+    "Written Questions / Statements API",
+    "Oral Questions and Motions API",
+    "Bills API",
+    "ONS Open Geography Portal",
+    "Postcodes.io"
+  ],
+  "window": {
+    "end": "2026-11-07",
+    "history_years": 7,
+    "start": "2019-11-07"
+  }
+}

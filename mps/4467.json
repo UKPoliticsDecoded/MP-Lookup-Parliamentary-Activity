@@ -1,0 +1,368 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "debate_contributions": 127,
+        "debates_participated": 63,
+        "early_day_motions": 39,
+        "oral_questions": 4,
+        "written_questions": 108
+      },
+      "2021": {
+        "debate_contributions": 51,
+        "debates_participated": 33,
+        "early_day_motions": 17,
+        "oral_questions": 2,
+        "written_questions": 165
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 138,
+        "debates_participated": 67,
+        "early_day_motions": 19,
+        "oral_questions": 3,
+        "written_questions": 212
+      },
+      "2023": {
+        "bills_sponsored": 1,
+        "debate_contributions": 115,
+        "debates_participated": 68,
+        "early_day_motions": 22,
+        "oral_questions": 6,
+        "written_questions": 121
+      },
+      "2024": {
+        "debate_contributions": 75,
+        "debates_participated": 27,
+        "early_day_motions": 11,
+        "written_questions": 75
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 507,
+    "debates_participated": 259,
+    "early_day_motions": 108,
+    "oral_questions": 15,
+    "petitions_presented": 0,
+    "written_questions": 681
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 507,
+    "voting_participation_pct": 59.74,
+    "written_questions": 681
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Finance (No.2) Bill",
+      "committee_id": 733,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Finance Bill",
+      "committee_id": 691,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Foreign Affairs Committee",
+      "committee_id": 78,
+      "is_current": false,
+      "meetings_attended": 20,
+      "meetings_available": 20
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Australia and New Zealand) Bill",
+      "committee_id": 611,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": false,
+      "meetings_attended": 34,
+      "meetings_available": 34
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Treasury Sub-Committee on Financial Services Regulations",
+      "committee_id": 600,
+      "is_current": false,
+      "meetings_attended": 4,
+      "meetings_available": 4
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Finance (No.2) Bill",
+        "committee_id": 733,
+        "file": "committees/finance-no-2-bill-733.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-05-15"
+          }
+        ],
+        "slug": "finance-no-2-bill-733"
+      },
+      {
+        "committee": "Finance Bill",
+        "committee_id": 691,
+        "file": "committees/finance-bill-691.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-10"
+          }
+        ],
+        "slug": "finance-bill-691"
+      },
+      {
+        "committee": "Foreign Affairs Committee",
+        "committee_id": 78,
+        "file": "committees/foreign-affairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-09-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-09"
+          }
+        ],
+        "slug": "foreign-affairs"
+      },
+      {
+        "committee": "Trade (Australia and New Zealand) Bill",
+        "committee_id": 611,
+        "file": "committees/trade-australia-and-new-zealand-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-18",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "trade-australia-and-new-zealand-bill"
+      },
+      {
+        "committee": "Treasury Committee",
+        "committee_id": 158,
+        "file": "committees/treasury.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-12"
+          }
+        ],
+        "slug": "treasury"
+      },
+      {
+        "committee": "Treasury Sub-Committee on Financial Services Regulations",
+        "committee_id": 600,
+        "file": "committees/treasury-sub-committee-on-financial-services-regulations.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-09-12"
+          }
+        ],
+        "slug": "treasury-sub-committee-on-financial-services-regulations"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1561,
+    "name": "Inverness, Nairn, Badenoch and Strathspey"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4467
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4467,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Drew Hendry",
+    "display": "Drew Hendry",
+    "full_title": "Drew Hendry",
+    "list_as": "Hendry, Drew"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2024-05-30",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Economy)",
+        "start_date": "2023-09-04"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2023-09-04",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Foreign Affairs)",
+        "start_date": "2022-12-12"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2022-12-12",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Trade)",
+        "start_date": "2021-02-01"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-02-01",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (Business, Energy and Industrial Strategy)",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Westminster Group Leader (Transport)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4483,
+        "name": "Inverness, Skye and West Ross-shire",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Inverness, Nairn, Badenoch and Strathspey",
+        "constituency_id": 1561,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Drew Hendry is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1561/overview'>Inverness, Nairn, Badenoch and Strathspey</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4467/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 1,
+        "voting_participation_pct": 50.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 128,
+        "voting_participation_pct": 67.37
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 136,
+        "voting_participation_pct": 56.2
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 140,
+        "voting_participation_pct": 55.78
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 142,
+        "voting_participation_pct": 55.47
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 91,
+        "voting_participation_pct": 71.65
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 638,
+        "voting_participation_pct": 59.74
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 638,
+    "voting_participation_pct": 59.74
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

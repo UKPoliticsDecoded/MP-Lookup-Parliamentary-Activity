@@ -1,0 +1,65 @@
+{
+  "boundary": {
+    "area_hectares": 2861.8,
+    "bng": {
+      "easting": 531231,
+      "northing": 107527
+    },
+    "centroid": {
+      "latitude": 50.85237,
+      "longitude": -0.13704
+    },
+    "geojson": "constituencies/boundaries/brighton-pavilion.geojson",
+    "ons_code": "E14001130",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5314.json",
+    "member_id": 5314,
+    "name": "Siân Berry",
+    "party": "Green Party",
+    "party_abbreviation": "Green",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 74786,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 14290,
+      "result": "Green Hold",
+      "turnout": 52363,
+      "winning_party": "Green Party",
+      "winning_party_id": 44
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3366,
+      "end_date": "2024-05-30",
+      "member_id": 3930,
+      "name": "Caroline Lucas",
+      "start_date": "2010-05-06"
+    }
+  ],
+  "id": 3945,
+  "is_current": true,
+  "name": "Brighton Pavilion",
+  "name_cy": null,
+  "ons_code": "E14001130",
+  "outcodes": [
+    "BN1",
+    "BN2",
+    "BN3",
+    "BN50",
+    "BN88"
+  ],
+  "schema_version": 1,
+  "slug": "brighton-pavilion",
+  "start_date": "2024-05-31"
+}

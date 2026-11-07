@@ -1,0 +1,490 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 82,
+        "debates_participated": 31,
+        "oral_questions": 8,
+        "written_questions": 57
+      },
+      "2021": {
+        "debate_contributions": 54,
+        "debates_participated": 36,
+        "oral_questions": 8,
+        "written_questions": 106
+      },
+      "2022": {
+        "debate_contributions": 88,
+        "debates_participated": 56,
+        "oral_questions": 5,
+        "written_questions": 45
+      },
+      "2023": {
+        "debate_contributions": 192,
+        "debates_participated": 46,
+        "oral_questions": 6,
+        "written_questions": 16
+      },
+      "2024": {
+        "debate_contributions": 21,
+        "debates_participated": 11,
+        "oral_questions": 2,
+        "written_questions": 14
+      },
+      "2025": {
+        "debate_contributions": 33,
+        "debates_participated": 7
+      },
+      "2026": {
+        "debate_contributions": 66,
+        "debates_participated": 18
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 537,
+    "debates_participated": 206,
+    "early_day_motions": 0,
+    "oral_questions": 29,
+    "petitions_presented": 0,
+    "written_questions": 238
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 537,
+    "voting_participation_pct": 72.63,
+    "written_questions": 238
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Business, Innovation, Science and Trade Committee",
+      "committee_id": 365,
+      "is_current": false,
+      "meetings_attended": 5,
+      "meetings_available": 5
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+      "committee_id": 630,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Employment Rights Bill",
+      "committee_id": 747,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Committee",
+      "committee_id": 62,
+      "is_current": false,
+      "meetings_attended": 75,
+      "meetings_available": 75
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Environmental Audit Sub-Committee on Polar Research",
+      "committee_id": 650,
+      "is_current": false,
+      "meetings_attended": 12,
+      "meetings_available": 12
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Product Regulation and Metrology Bill [HL]",
+      "committee_id": 791,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+      "committee_id": 705,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Victims and Prisoners Bill",
+      "committee_id": 674,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Welsh Grand Committee",
+      "committee_id": 575,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Business, Innovation, Science and Trade Committee",
+        "committee_id": 365,
+        "file": "committees/business-innovation-science-and-trade.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2020-05-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "business-innovation-science-and-trade"
+      },
+      {
+        "committee": "Co-operatives, Mutuals and Friendly Societies Bill",
+        "committee_id": 630,
+        "file": "committees/co-operatives-mutuals-and-friendly-societies-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-11-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-11-23"
+          }
+        ],
+        "slug": "co-operatives-mutuals-and-friendly-societies-bill"
+      },
+      {
+        "committee": "Employment Rights Bill",
+        "committee_id": 747,
+        "file": "committees/employment-rights-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-20"
+          }
+        ],
+        "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Environmental Audit Committee",
+        "committee_id": 62,
+        "file": "committees/environmental-audit.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-09-11"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-17"
+          }
+        ],
+        "slug": "environmental-audit"
+      },
+      {
+        "committee": "Environmental Audit Sub-Committee on Polar Research",
+        "committee_id": 650,
+        "file": "committees/environmental-audit-sub-committee-on-polar-research.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-01-18"
+          }
+        ],
+        "slug": "environmental-audit-sub-committee-on-polar-research"
+      },
+      {
+        "committee": "Product Regulation and Metrology Bill [HL]",
+        "committee_id": 791,
+        "file": "committees/product-regulation-and-metrology-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-05-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-05-13"
+          }
+        ],
+        "slug": "product-regulation-and-metrology-bill-hl"
+      },
+      {
+        "committee": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Bill [HL]",
+        "committee_id": 705,
+        "file": "committees/trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-02-20",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-02-07"
+          }
+        ],
+        "slug": "trade-comprehensive-and-progressive-agreement-for-trans-pacific-partnership-bill-hl"
+      },
+      {
+        "committee": "Victims and Prisoners Bill",
+        "committee_id": 674,
+        "file": "committees/victims-and-prisoners-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-07-11",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "victims-and-prisoners-bill"
+      },
+      {
+        "committee": "Welsh Grand Committee",
+        "committee_id": 575,
+        "file": "committees/welsh-grand.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-18"
+          }
+        ],
+        "slug": "welsh-grand"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/cardiff-north.json",
+    "id": 4505,
+    "name": "Cardiff North",
+    "ons_code": "W07000090",
+    "slug": "cardiff-north"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "anna.mcmorrin.mp@parliament.uk",
+      "phone": "0207 219 4307",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Office of Anna McMorrin MP, 2 Codas House, 52-60 Merthyr Rd, Whitchurch, Cardiff",
+      "phone": "02920 624 440",
+      "postcode": "CF14 1DJ",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.annamcmorrin.org/"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/annamcmorrin"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4632
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4632,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2017-06-08",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Anna McMorrin",
+    "display": "Anna McMorrin",
+    "full_title": "Anna McMorrin MP",
+    "list_as": "McMorrin, Anna"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Wales Office",
+        "department_url": "https://www.gov.uk/government/organisations/wales-office",
+        "end_date": null,
+        "is_current": true,
+        "name": "Parliamentary Under-Secretary (Wales Office)",
+        "start_date": "2025-09-07"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2025-09-07",
+        "is_current": false,
+        "name": "Assistant Whip",
+        "start_date": "2024-07-10"
+      }
+    ],
+    "ministerial_current": [
+      "Parliamentary Under-Secretary (Wales Office)"
+    ],
+    "opposition": [
+      {
+        "department": "Ministry of Justice",
+        "department_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+        "end_date": "2023-09-07",
+        "is_current": false,
+        "name": "Shadow Minister (Justice)",
+        "start_date": "2021-05-14"
+      },
+      {
+        "department": "Foreign, Commonwealth and Development Office",
+        "department_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+        "end_date": "2021-05-14",
+        "is_current": false,
+        "name": "Shadow Minister (International Development)",
+        "start_date": "2020-09-02"
+      },
+      {
+        "department": "Department for International Development",
+        "department_url": "http://www.dfid.gov.uk",
+        "end_date": "2020-09-02",
+        "is_current": false,
+        "name": "Shadow Minister (International Development)",
+        "start_date": "2020-04-10"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2017-06-08"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Cardiff North",
+        "constituency_id": 4505,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Cardiff North",
+        "constituency_id": 3390,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 2 times",
+        "start_date": "2017-06-08"
+      }
+    ]
+  },
+  "synopsis": "Anna McMorrin is the Labour MP for <a href='/constituency/4505/overview'>Cardiff North</a>, and has been an MP continually since 8 June 2017. \r\nShe currently holds the Government post of Parliamentary Under-Secretary (Wales Office).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4632/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 131,
+        "voting_participation_pct": 68.95
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 206,
+        "voting_participation_pct": 85.12
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 166,
+        "voting_participation_pct": 66.14
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 190,
+        "voting_participation_pct": 74.22
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 151,
+        "voting_participation_pct": 75.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 253,
+        "voting_participation_pct": 78.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 135,
+        "voting_participation_pct": 57.2
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 775,
+        "voting_participation_pct": 72.57
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 459,
+        "voting_participation_pct": 72.74
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1234,
+    "voting_participation_pct": 72.63
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

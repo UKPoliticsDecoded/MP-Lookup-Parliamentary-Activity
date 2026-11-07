@@ -1,0 +1,70 @@
+{
+  "boundary": {
+    "area_hectares": 43233.4,
+    "bng": {
+      "easting": 179474,
+      "northing": 45337
+    },
+    "centroid": {
+      "latitude": 50.26672,
+      "longitude": -5.09582
+    },
+    "geojson": "constituencies/boundaries/truro-and-falmouth.geojson",
+    "ons_code": "E14001554",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/5279.json",
+    "member_id": 5279,
+    "name": "Jayne Kirkham",
+    "party": "Labour (Co-op)",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 72982,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 8151,
+      "result": "Lab Gain",
+      "turnout": 50264,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3812,
+      "end_date": "2024-05-30",
+      "member_id": 4758,
+      "name": "Cherilyn Mackrory",
+      "start_date": "2019-12-12"
+    }
+  ],
+  "id": 4369,
+  "is_current": true,
+  "name": "Truro and Falmouth",
+  "name_cy": null,
+  "ons_code": "E14001554",
+  "outcodes": [
+    "PL26",
+    "TR1",
+    "TR10",
+    "TR11",
+    "TR16",
+    "TR2",
+    "TR3",
+    "TR4",
+    "TR6",
+    "TR8"
+  ],
+  "schema_version": 1,
+  "slug": "truro-and-falmouth",
+  "start_date": "2024-05-31"
+}

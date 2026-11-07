@@ -1,0 +1,312 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 2,
+        "debates_participated": 2
+      },
+      "2022": {
+        "debate_contributions": 835,
+        "debates_participated": 52
+      },
+      "2023": {
+        "debate_contributions": 313,
+        "debates_participated": 67
+      },
+      "2024": {
+        "debate_contributions": 140,
+        "debates_participated": 30
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 1290,
+    "debates_participated": 151,
+    "early_day_motions": 0,
+    "oral_questions": 0,
+    "petitions_presented": 0,
+    "written_questions": 0
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 1290,
+    "voting_participation_pct": 85.86,
+    "written_questions": 0
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Pet Abduction Bill",
+      "committee_id": 699,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+      "committee_id": 143,
+      "is_current": false,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Pet Abduction Bill",
+        "committee_id": 699,
+        "file": "committees/pet-abduction-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-01-31",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-01-24"
+          }
+        ],
+        "slug": "pet-abduction-bill"
+      },
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-08",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
+      {
+        "committee": "Speaker's Committee for the Independent Parliamentary Standards Authority",
+        "committee_id": 143,
+        "file": "committees/speaker-s-committee-for-the-independent-parliamentary-standards-authority.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-09-07",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-02-08"
+          }
+        ],
+        "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3727,
+    "name": "Sherwood"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4055
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4055,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2010-05-06",
+    "status": null
+  },
+  "name": {
+    "address_as": "Sir Mark Spencer",
+    "display": "Sir Mark Spencer",
+    "full_title": "Rt Hon Sir Mark Spencer",
+    "list_as": "Spencer, Sir Mark"
+  },
+  "party": {
+    "abbreviation": "Con",
+    "id": 4,
+    "name": "Conservative"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Environment, Food and Rural Affairs",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+        "end_date": "2024-07-05",
+        "is_current": false,
+        "name": "Minister of State (Department for Environment, Food and Rural Affairs)",
+        "start_date": "2022-09-07"
+      },
+      {
+        "department": "Office of the Leader of the House of Commons",
+        "department_url": "https://www.gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons",
+        "end_date": "2022-09-06",
+        "is_current": false,
+        "name": "Lord President of the Council and Leader of the House of Commons",
+        "start_date": "2022-02-08"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2022-02-08",
+        "is_current": false,
+        "name": "Parliamentary Secretary to the Treasury and Chief Whip",
+        "start_date": "2019-07-24"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2019-07-24",
+        "is_current": false,
+        "name": "Comptroller (HM Household) (Whip, House of Commons)",
+        "start_date": "2018-07-26"
+      },
+      {
+        "department": "HM Household",
+        "department_url": null,
+        "end_date": "2018-07-26",
+        "is_current": false,
+        "name": "Vice Chamberlain (HM Household) (Whip, House of Commons)",
+        "start_date": "2018-01-09"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2018-01-09",
+        "is_current": false,
+        "name": "Lord Commissioner (HM Treasury) (Whip)",
+        "start_date": "2017-06-15"
+      },
+      {
+        "department": "Whips Office (Commons)",
+        "department_url": null,
+        "end_date": "2017-06-15",
+        "is_current": false,
+        "name": "Assistant Whip (HM Treasury)",
+        "start_date": "2016-06-15"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 4286,
+        "name": "Sherwood Forest",
+        "startDate": "2024-07-04T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Conservative",
+        "start_date": "2010-05-06"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Sherwood",
+        "constituency_id": 3727,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      }
+    ]
+  },
+  "synopsis": "The Rt Hon Sir Mark Spencer is no longer a Member, but was most recently the Conservative MP for <a href='/constituency/3727/overview'>Sherwood</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4055/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 180,
+        "voting_participation_pct": 94.74
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 216,
+        "voting_participation_pct": 89.26
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 213,
+        "voting_participation_pct": 84.86
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 203,
+        "voting_participation_pct": 79.3
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 103,
+        "voting_participation_pct": 81.1
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 917,
+        "voting_participation_pct": 85.86
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 917,
+    "voting_participation_pct": 85.86
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

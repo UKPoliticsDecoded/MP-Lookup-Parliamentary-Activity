@@ -1,0 +1,74 @@
+{
+  "boundary": {
+    "area_hectares": 384093.8,
+    "bng": {
+      "easting": 356138,
+      "northing": 624491
+    },
+    "centroid": {
+      "latitude": 55.5122,
+      "longitude": -2.6961
+    },
+    "geojson": "constituencies/boundaries/berwickshire-roxburgh-and-selkirk.geojson",
+    "ons_code": "S14000108",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4608.json",
+    "member_id": 4608,
+    "name": "John Lamont",
+    "party": "Conservative",
+    "party_abbreviation": "Con",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76438,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 6599,
+      "result": "Con Hold",
+      "turnout": 46558,
+      "winning_party": "Conservative",
+      "winning_party_id": 4
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 216,
+      "end_date": "2024-05-30",
+      "member_id": 4608,
+      "name": "John Lamont",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4440,
+  "is_current": true,
+  "name": "Berwickshire, Roxburgh and Selkirk",
+  "name_cy": null,
+  "ons_code": "S14000108",
+  "outcodes": [
+    "DG14",
+    "EH37",
+    "EH38",
+    "EH43",
+    "TD1",
+    "TD13",
+    "TD2",
+    "TD3",
+    "TD4",
+    "TD5",
+    "TD6",
+    "TD7",
+    "TD8",
+    "TD9"
+  ],
+  "schema_version": 1,
+  "slug": "berwickshire-roxburgh-and-selkirk",
+  "start_date": "2024-05-31"
+}

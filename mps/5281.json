@@ -1,0 +1,236 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 65,
+        "debates_participated": 44,
+        "oral_questions": 9,
+        "written_questions": 61
+      },
+      "2025": {
+        "debate_contributions": 231,
+        "debates_participated": 112,
+        "oral_questions": 13,
+        "written_questions": 61
+      },
+      "2026": {
+        "debate_contributions": 172,
+        "debates_participated": 81,
+        "oral_questions": 15,
+        "petitions_presented": 2,
+        "written_questions": 32
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 468,
+    "debates_participated": 237,
+    "early_day_motions": 0,
+    "oral_questions": 37,
+    "petitions_presented": 2,
+    "written_questions": 154
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 2,
+    "debate_contributions": 468,
+    "voting_participation_pct": 83.84,
+    "written_questions": 154
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+      "committee_id": 853,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 74,
+      "meetings_available": 74
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Mental Health Bill [HL]",
+      "committee_id": 798,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Child-like Sexual Abuse Dolls (Offences) Bill",
+        "committee_id": 853,
+        "file": "committees/child-like-sexual-abuse-dolls-offences-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-10-14"
+          }
+        ],
+        "slug": "child-like-sexual-abuse-dolls-offences-bill"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "public-accounts"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Mental Health Bill [HL]",
+        "committee_id": 798,
+        "file": "committees/mental-health-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-06-24",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-06-09"
+          }
+        ],
+        "slug": "mental-health-bill-hl"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/shipley.json",
+    "id": 4287,
+    "name": "Shipley",
+    "ons_code": "E14001472",
+    "slug": "shipley"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "anna.dixon.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.annadixonmp.co.uk/"
+    },
+    {
+      "type": "Bluesky",
+      "url": "https://bsky.app/profile/annadixonmp.bsky.social"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/AnnaDixonMP"
+    },
+    {
+      "type": "Instagram",
+      "url": "https://www.instagram.com/_annadixonmp/"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5281
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5281,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Anna Dixon",
+    "full_title": "Anna Dixon MP",
+    "list_as": "Dixon, Anna"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Shipley",
+        "constituency_id": 4287,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Anna Dixon is the Labour MP for <a href='/constituency/4287/overview'>Shipley</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5281/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 286,
+        "voting_participation_pct": 88.82
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 172,
+        "voting_participation_pct": 72.88
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 529,
+        "voting_participation_pct": 83.84
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 529,
+    "voting_participation_pct": 83.84
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

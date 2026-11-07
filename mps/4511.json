@@ -1,0 +1,439 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 1,
+        "debates_participated": 1,
+        "written_questions": 1
+      },
+      "2020": {
+        "bills_sponsored": 1,
+        "debate_contributions": 127,
+        "debates_participated": 75,
+        "early_day_motions": 1,
+        "oral_questions": 20,
+        "written_questions": 122
+      },
+      "2021": {
+        "debate_contributions": 127,
+        "debates_participated": 64,
+        "early_day_motions": 1,
+        "oral_questions": 12,
+        "written_questions": 330
+      },
+      "2022": {
+        "debate_contributions": 124,
+        "debates_participated": 59,
+        "early_day_motions": 1,
+        "oral_questions": 18,
+        "written_questions": 353
+      },
+      "2023": {
+        "debate_contributions": 107,
+        "debates_participated": 53,
+        "oral_questions": 23,
+        "written_questions": 211
+      },
+      "2024": {
+        "bills_sponsored": 1,
+        "debate_contributions": 123,
+        "debates_participated": 59,
+        "oral_questions": 15,
+        "written_questions": 42
+      },
+      "2025": {
+        "debate_contributions": 105,
+        "debates_participated": 56,
+        "oral_questions": 9,
+        "written_questions": 78
+      },
+      "2026": {
+        "debate_contributions": 71,
+        "debates_participated": 37,
+        "oral_questions": 2,
+        "written_questions": 24
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 785,
+    "debates_participated": 404,
+    "early_day_motions": 3,
+    "oral_questions": 99,
+    "petitions_presented": 0,
+    "written_questions": 1161
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 3,
+    "debate_contributions": 785,
+    "voting_participation_pct": 71.45,
+    "written_questions": 1161
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 161,
+      "meetings_available": 161
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Speaker's Conference (2024)",
+      "committee_id": 741,
+      "is_current": true,
+      "meetings_attended": 11,
+      "meetings_available": 11
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Committee on the Future Relationship with the European Union",
+      "committee_id": 366,
+      "is_current": false,
+      "meetings_attended": 32,
+      "meetings_available": 32
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+      "committee_id": 438,
+      "is_current": false,
+      "meetings_attended": 8,
+      "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Data Protection and Digital Information (No. 2) Bill",
+      "committee_id": 665,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Public Order Bill",
+      "committee_id": 594,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-07"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2022-09-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-06-22"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-15"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-07-30"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Speaker's Conference (2024)",
+        "committee_id": 741,
+        "file": "committees/speaker-s-conference-2024.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-18"
+          }
+        ],
+        "slug": "speaker-s-conference-2024"
+      }
+    ],
+    "history": [
+      {
+        "committee": "Committee on the Future Relationship with the European Union",
+        "committee_id": 366,
+        "file": "committees/committee-on-the-future-relationship-with-the-european-union.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-01-16",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "committee-on-the-future-relationship-with-the-european-union"
+      },
+      {
+        "committee": "Culture, Media and Sport Sub-committee on Online Harms and Disinformation",
+        "committee_id": 438,
+        "file": "committees/culture-media-and-sport-sub-committee-on-online-harms-and-disinformation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-03-07"
+          }
+        ],
+        "slug": "culture-media-and-sport-sub-committee-on-online-harms-and-disinformation"
+      },
+      {
+        "committee": "Data Protection and Digital Information (No. 2) Bill",
+        "committee_id": 665,
+        "file": "committees/data-protection-and-digital-information-no-2-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-05-23",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-05-03"
+          }
+        ],
+        "slug": "data-protection-and-digital-information-no-2-bill"
+      },
+      {
+        "committee": "Public Order Bill",
+        "committee_id": 594,
+        "file": "committees/public-order-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-06-21",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-05-25"
+          }
+        ],
+        "slug": "public-order-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/ealing-central-and-acton.json",
+    "id": 4022,
+    "name": "Ealing Central and Acton",
+    "ons_code": "E14001207",
+    "slug": "ealing-central-and-acton"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "rupa.huq.mp@parliament.uk",
+      "phone": "020 7219 6865",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://twitter.com/rupahuq"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 4511
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 4511,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Dr Huq",
+    "display": "Dr Rupa Huq",
+    "full_title": "Dr Rupa Huq MP",
+    "list_as": "Huq, Dr Rupa"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Home Office",
+        "department_url": "https://www.gov.uk/government/organisations/home-office",
+        "end_date": "2017-05-03",
+        "is_current": false,
+        "name": "Shadow Minister (Home Office) (Crime and Prevention)",
+        "start_date": "2016-10-21"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 650,
+        "name": "Chesham and Amersham",
+        "startDate": "2005-05-05T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2023-03-02"
+      },
+      {
+        "end_date": "2023-03-02",
+        "party": "Independent",
+        "start_date": "2022-09-27"
+      },
+      {
+        "end_date": "2022-09-27",
+        "party": "Labour",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Ealing Central and Acton",
+        "constituency_id": 4022,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      },
+      {
+        "constituency": "Ealing Central and Acton",
+        "constituency_id": 3455,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Dr Rupa Huq is the Labour MP for <a href='/constituency/4022/overview'>Ealing Central and Acton</a>, and has been an MP continually since 7 May 2015.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4511/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 136,
+        "voting_participation_pct": 71.58
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 203,
+        "voting_participation_pct": 83.88
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 143,
+        "voting_participation_pct": 56.97
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 184,
+        "voting_participation_pct": 71.88
+      },
+      "2024": {
+        "divisions_eligible": 200,
+        "divisions_voted": 129,
+        "voting_participation_pct": 64.5
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 230,
+        "voting_participation_pct": 71.43
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 187,
+        "voting_participation_pct": 79.24
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 740,
+        "voting_participation_pct": 69.29
+      },
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 474,
+        "voting_participation_pct": 75.12
+      }
+    },
+    "divisions_eligible": 1699,
+    "divisions_voted": 1214,
+    "voting_participation_pct": 71.45
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

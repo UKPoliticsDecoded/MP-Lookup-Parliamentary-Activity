@@ -1,0 +1,775 @@
+{
+  "activity": {
+    "current_members": 11,
+    "formal_meetings_held": 200,
+    "mean_member_attendance_pct": 100.0,
+    "meetings_with_attendance_published": 184
+  },
+  "category": "Select",
+  "chairs": [
+    {
+      "member_id": 5190,
+      "name": "Patricia Ferguson"
+    }
+  ],
+  "contact": {
+    "address": "Scottish Affairs Committee, House of Commons, London, SW1A 0AA",
+    "email": "scotaffcom@parliament.uk"
+  },
+  "end_date": null,
+  "house": "Commons",
+  "id": 136,
+  "is_current": true,
+  "lead_house": null,
+  "members": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 40,
+        "meetings_available": 40
+      },
+      "file": "mps/4736.json",
+      "member_id": 4736,
+      "name": "Dave Doogan",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2025-06-16"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5043.json",
+      "member_id": 5043,
+      "name": "Lillian Jones",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5057.json",
+      "member_id": 5057,
+      "name": "Douglas McAllister",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5137.json",
+      "member_id": 5137,
+      "name": "Maureen Burke",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5157.json",
+      "member_id": 5157,
+      "name": "Susan Murray",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5179.json",
+      "member_id": 5179,
+      "name": "Kirsteen Sullivan",
+      "party": "Labour (Co-op)",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5190.json",
+      "member_id": 5190,
+      "name": "Patricia Ferguson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2024-09-12"
+        },
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 2,
+        "meetings_available": 2
+      },
+      "file": "mps/5200.json",
+      "member_id": 5200,
+      "name": "Kenneth Stevenson",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 3,
+        "meetings_available": 3
+      },
+      "file": "mps/5358.json",
+      "member_id": 5358,
+      "name": "John Cooper",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 61,
+        "meetings_available": 61
+      },
+      "file": "mps/5362.json",
+      "member_id": 5362,
+      "name": "Mr Angus MacDonald",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 8,
+        "meetings_available": 8
+      },
+      "file": "mps/5450.json",
+      "member_id": 5450,
+      "name": "Douglas Lumsden",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-07-06"
+        }
+      ]
+    }
+  ],
+  "membership_history": [
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 86,
+        "meetings_available": 86
+      },
+      "file": "mps/1406.json",
+      "member_id": 1406,
+      "name": "Jon Cruddas",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2023-02-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 123,
+        "meetings_available": 123
+      },
+      "file": "mps/1440.json",
+      "member_id": 1440,
+      "name": "Pete Wishart",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2010-05-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2008-11-24"
+        },
+        {
+          "end": "2017-05-03",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2015-06-18"
+        },
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2015-06-18"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2017-07-12"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-07-12"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": true,
+          "role": "Chair",
+          "start": "2020-01-27"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-01-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 32,
+        "meetings_available": 32
+      },
+      "file": "mps/3998.json",
+      "member_id": 3998,
+      "name": "Mark Menzies",
+      "party": "Independent",
+      "roles": [
+        {
+          "end": "2010-11-29",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2010-07-12"
+        },
+        {
+          "end": "2015-03-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2014-07-14"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-05-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 20,
+        "meetings_available": 20
+      },
+      "file": "mps/4385.json",
+      "member_id": 4385,
+      "name": "Dr Philippa Whitford",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2023-09-18",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-01-09"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 102,
+        "meetings_available": 102
+      },
+      "file": "mps/4417.json",
+      "member_id": 4417,
+      "name": "Deidre Brock",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2017-05-03",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2016-09-05"
+        },
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2023-09-18",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 83,
+        "meetings_available": 83
+      },
+      "file": "mps/4421.json",
+      "member_id": 4421,
+      "name": "Mhairi Black",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2023-01-09",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 123,
+        "meetings_available": 123
+      },
+      "file": "mps/4439.json",
+      "member_id": 4439,
+      "name": "Alberto Costa",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 21,
+        "meetings_available": 21
+      },
+      "file": "mps/4470.json",
+      "member_id": 4470,
+      "name": "Alan Brown",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-09-18"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 75,
+        "meetings_available": 75
+      },
+      "file": "mps/4601.json",
+      "member_id": 4601,
+      "name": "Andrew Bowie",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2022-11-08",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 52,
+        "meetings_available": 52
+      },
+      "file": "mps/4606.json",
+      "member_id": 4606,
+      "name": "David Duguid",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2020-06-15",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2022-11-08"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 92,
+        "meetings_available": 92
+      },
+      "file": "mps/4608.json",
+      "member_id": 4608,
+      "name": "John Lamont",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2019-11-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2023-05-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 86,
+        "meetings_available": 86
+      },
+      "file": "mps/4618.json",
+      "member_id": 4618,
+      "name": "Liz Twist",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2023-02-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 119,
+        "meetings_available": 119
+      },
+      "file": "mps/4627.json",
+      "member_id": 4627,
+      "name": "Douglas Ross",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-06-15"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 37,
+        "meetings_available": 37
+      },
+      "file": "mps/4634.json",
+      "member_id": 4634,
+      "name": "Christine Jardine",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": "2019-10-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2017-09-11"
+        },
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 20,
+        "meetings_available": 20
+      },
+      "file": "mps/4735.json",
+      "member_id": 4735,
+      "name": "Stephen Flynn",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2025-06-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 123,
+        "meetings_available": 123
+      },
+      "file": "mps/4765.json",
+      "member_id": 4765,
+      "name": "Wendy Chamberlain",
+      "party": "Liberal Democrat",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 123,
+        "meetings_available": 123
+      },
+      "file": "mps/4842.json",
+      "member_id": 4842,
+      "name": "Sally-Ann Hart",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2020-05-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 21,
+        "meetings_available": 21
+      },
+      "file": "mps/4917.json",
+      "member_id": 4917,
+      "name": "Ms Anum Qaisar",
+      "party": "Scottish National Party",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-09-18"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 25,
+        "meetings_available": 25
+      },
+      "file": "mps/4979.json",
+      "member_id": 4979,
+      "name": "Andrew Western",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-01-22",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2023-02-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 12,
+        "meetings_available": 12
+      },
+      "file": "mps/4998.json",
+      "member_id": 4998,
+      "name": "Michael Shanks",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2024-05-30",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-01-22"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 59,
+        "meetings_available": 59
+      },
+      "file": "mps/5206.json",
+      "member_id": 5206,
+      "name": "Elaine Stewart",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2026-10-26",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 59,
+        "meetings_available": 59
+      },
+      "file": "mps/5311.json",
+      "member_id": 5311,
+      "name": "Harriet Cross",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2026-10-21",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 53,
+        "meetings_available": 53
+      },
+      "file": "mps/5340.json",
+      "member_id": 5340,
+      "name": "Jack Rankin",
+      "party": "Conservative",
+      "roles": [
+        {
+          "end": "2026-07-06",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-21"
+        }
+      ]
+    }
+  ],
+  "name": "Scottish Affairs Committee",
+  "parent_committee_id": null,
+  "purpose": "<p>The Scottish Affairs Committee scrutinises the expenditure, administration and policies of the Scotland Office, and its associated bodies. The Committee also examines the wider UK Government, to assess policies and legislation that lead to direct impacts on Scotland.</p>\r\n<p>Follow us on social media:&nbsp;<a href=\"https://bsky.app/profile/hoccommittees.parliament.uk\">Bluesky</a> | <a href=\"https://www.facebook.com/profile.php?id=61579513151155\">Facebook</a>&nbsp;|&nbsp;<a href=\"https://www.instagram.com/ukcommonscommittees\">Instagram</a>&nbsp;|&nbsp;<a href=\"https://www.linkedin.com/showcase/house-of-commons-committees\">LinkedIn</a> | <a href=\"https://www.reddit.com/user/UKCommonsCommittees/\">Reddit</a> | <a href=\"https://x.com/HoCcommitteesUK\">X</a> |&nbsp;<a href=\"https://www.youtube.com/playlist?list=PLj3mInRJqIekxA--aDW780T_TUCwjea4M\">YouTube</a><u></u></p>\r\n<p>Sign up to the <a href=\"https://mailchi.mp/email/committeecorridor\">weekly cross-committee newsletter, ‘Committee Corridor’</a></p>\r\n<p><a href=\"mailto:scotaffcom@parliament.uk?subject=Subscribe&amp;body=Please%20subscribe%20me%20to%20the%20Scottish%20Affairs%20Committee%20newsletter\">Sign up to the Scottish Affairs Committee newsletter</a></p>\r\n<p>&nbsp;</p>",
+  "schema_version": 1,
+  "scrutinising_departments": [],
+  "slug": "scottish-affairs",
+  "start_date": "1979-05-03",
+  "sub_committee_ids": [],
+  "types": [
+    "(HC) Public Standing Orders - Departmental"
+  ]
+}

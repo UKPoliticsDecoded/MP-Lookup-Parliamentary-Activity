@@ -1,0 +1,338 @@
+{
+  "activity": {
+    "annual": {
+      "2019": {
+        "debate_contributions": 2,
+        "debates_participated": 1,
+        "early_day_motions": 1,
+        "written_questions": 3
+      },
+      "2020": {
+        "debate_contributions": 197,
+        "debates_participated": 125,
+        "early_day_motions": 25,
+        "oral_questions": 19,
+        "written_questions": 203
+      },
+      "2021": {
+        "debate_contributions": 209,
+        "debates_participated": 89,
+        "early_day_motions": 22,
+        "oral_questions": 12,
+        "written_questions": 169
+      },
+      "2022": {
+        "debate_contributions": 140,
+        "debates_participated": 98,
+        "early_day_motions": 7,
+        "oral_questions": 11,
+        "written_questions": 162
+      },
+      "2023": {
+        "debate_contributions": 254,
+        "debates_participated": 156,
+        "early_day_motions": 9,
+        "oral_questions": 29,
+        "written_questions": 107
+      },
+      "2024": {
+        "bills_sponsored": 2,
+        "debate_contributions": 99,
+        "debates_participated": 57,
+        "early_day_motions": 7,
+        "oral_questions": 12,
+        "written_questions": 31
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 901,
+    "debates_participated": 526,
+    "early_day_motions": 71,
+    "oral_questions": 83,
+    "petitions_presented": 0,
+    "written_questions": 675
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 901,
+    "voting_participation_pct": 61.33,
+    "written_questions": 675
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Elections Bill",
+      "committee_id": 541,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Electronic Trade Documents Bill [HL]",
+      "committee_id": 676,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Powers of Attorney Bill",
+      "committee_id": 655,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 46,
+      "meetings_available": 46
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Elections Bill",
+        "committee_id": 541,
+        "file": "committees/elections-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2021-10-26",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-09-15"
+          }
+        ],
+        "slug": "elections-bill"
+      },
+      {
+        "committee": "Electronic Trade Documents Bill [HL]",
+        "committee_id": 676,
+        "file": "committees/electronic-trade-documents-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-06-19",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-06-14"
+          }
+        ],
+        "slug": "electronic-trade-documents-bill-hl"
+      },
+      {
+        "committee": "Powers of Attorney Bill",
+        "committee_id": 655,
+        "file": "committees/powers-of-attorney-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-03-01",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-02-22"
+          }
+        ],
+        "slug": "powers-of-attorney-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-07-13"
+          },
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-01-05"
+          }
+        ],
+        "slug": "procedure"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-05-30",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2021-10-15"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 1205,
+    "name": "Glasgow North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 4432
+  },
+  "gender": "M",
+  "is_current": false,
+  "member_id": 4432,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "2015-05-07",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Patrick Grady",
+    "display": "Patrick Grady",
+    "full_title": "Patrick Grady",
+    "list_as": "Grady, Patrick"
+  },
+  "party": {
+    "abbreviation": "SNP",
+    "id": 29,
+    "name": "Scottish National Party"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2021-03-09",
+        "is_current": false,
+        "name": "SNP Chief Whip",
+        "start_date": "2017-06-20"
+      },
+      {
+        "department": "Opposition Department",
+        "department_url": null,
+        "end_date": "2017-06-20",
+        "is_current": false,
+        "name": "Shadow SNP Spokesperson (International Development)",
+        "start_date": "2015-05-20"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [
+      {
+        "additionalInfo": null,
+        "additionalInfoLink": null,
+        "endDate": null,
+        "house": 1,
+        "id": 1205,
+        "name": "Glasgow North",
+        "startDate": "2010-05-06T00:00:00"
+      }
+    ],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Scottish National Party",
+        "start_date": "2022-12-29"
+      },
+      {
+        "end_date": "2022-12-29",
+        "party": "Independent",
+        "start_date": "2022-06-26"
+      },
+      {
+        "end_date": "2022-06-26",
+        "party": "Scottish National Party",
+        "start_date": "2015-05-07"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Glasgow North",
+        "constituency_id": 1205,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "2015-05-07"
+      }
+    ]
+  },
+  "synopsis": "Patrick Grady is no longer a Member, but was most recently the Scottish National Party MP for <a href='/constituency/1205/overview'>Glasgow North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/4432/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 132,
+        "voting_participation_pct": 69.47
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 153,
+        "voting_participation_pct": 63.22
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 112,
+        "voting_participation_pct": 44.62
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 163,
+        "voting_participation_pct": 63.67
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 93,
+        "voting_participation_pct": 73.23
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 655,
+        "voting_participation_pct": 61.33
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 655,
+    "voting_participation_pct": 61.33
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

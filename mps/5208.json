@@ -1,0 +1,241 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 63,
+        "debates_participated": 36,
+        "oral_questions": 4,
+        "written_questions": 7
+      },
+      "2025": {
+        "debate_contributions": 194,
+        "debates_participated": 115,
+        "oral_questions": 18,
+        "written_questions": 187
+      },
+      "2026": {
+        "debate_contributions": 176,
+        "debates_participated": 130,
+        "oral_questions": 16,
+        "written_questions": 99
+      }
+    },
+    "bills_sponsored": 0,
+    "debate_contributions": 433,
+    "debates_participated": 281,
+    "early_day_motions": 0,
+    "oral_questions": 38,
+    "petitions_presented": 0,
+    "written_questions": 293
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 433,
+    "voting_participation_pct": 84.94,
+    "written_questions": 293
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Crown Estate Bill [HL]",
+      "committee_id": 767,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "English Devolution and Community Empowerment Bill",
+      "committee_id": 816,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Great British Energy Bill",
+      "committee_id": 737,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Crown Estate Bill [HL]",
+        "committee_id": 767,
+        "file": "committees/crown-estate-bill-hl.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-02-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-01-29"
+          }
+        ],
+        "slug": "crown-estate-bill-hl"
+      },
+      {
+        "committee": "English Devolution and Community Empowerment Bill",
+        "committee_id": 816,
+        "file": "committees/english-devolution-and-community-empowerment-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2025-10-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-09-15"
+          }
+        ],
+        "slug": "english-devolution-and-community-empowerment-bill"
+      },
+      {
+        "committee": "Great British Energy Bill",
+        "committee_id": 737,
+        "file": "committees/great-british-energy-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2024-10-15",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-09-11"
+          }
+        ],
+        "slug": "great-british-energy-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "file": "constituencies/camborne-and-redruth.json",
+    "id": 3963,
+    "name": "Camborne and Redruth",
+    "ons_code": "E14001148",
+    "slug": "camborne-and-redruth"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "perran.moon.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    },
+    {
+      "address": "Office 12, Chi Tevyans, Trevenson Park, Pool, Cornwall",
+      "phone": "01209 206046",
+      "postcode": "TR15 3FY",
+      "type": "Constituency office"
+    },
+    {
+      "type": "Website",
+      "url": "https://perranmoon.co.uk/"
+    },
+    {
+      "type": "Facebook",
+      "url": "https://www.facebook.com/Perran4CRH"
+    },
+    {
+      "type": "X (formerly Twitter)",
+      "url": "https://x.com/perran4crh"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5208
+  },
+  "gender": "M",
+  "is_current": true,
+  "member_id": 5208,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Perran Moon",
+    "full_title": "Perran Moon MP",
+    "list_as": "Moon, Perran"
+  },
+  "party": {
+    "abbreviation": "Ind",
+    "id": 8,
+    "name": "Independent"
+  },
+  "roles": {
+    "government": [],
+    "ministerial_current": [],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Independent",
+        "start_date": "2026-10-20"
+      },
+      {
+        "end_date": "2026-10-20",
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Camborne and Redruth",
+        "constituency_id": 3963,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Perran Moon is the Independent MP for <a href='/constituency/3963/overview'>Camborne and Redruth</a>, and has been an MP continually since 4 July 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5208/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 278,
+        "voting_participation_pct": 86.34
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 187,
+        "voting_participation_pct": 79.24
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 536,
+        "voting_participation_pct": 84.94
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 536,
+    "voting_participation_pct": 84.94
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

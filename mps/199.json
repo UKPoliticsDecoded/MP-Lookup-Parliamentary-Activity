@@ -1,0 +1,326 @@
+{
+  "activity": {
+    "annual": {
+      "2020": {
+        "debate_contributions": 58,
+        "debates_participated": 41,
+        "oral_questions": 8,
+        "written_questions": 45
+      },
+      "2021": {
+        "bills_sponsored": 1,
+        "debate_contributions": 41,
+        "debates_participated": 31,
+        "oral_questions": 9,
+        "written_questions": 66
+      },
+      "2022": {
+        "bills_sponsored": 1,
+        "debate_contributions": 60,
+        "debates_participated": 44,
+        "oral_questions": 3,
+        "written_questions": 98
+      },
+      "2023": {
+        "debate_contributions": 82,
+        "debates_participated": 43,
+        "oral_questions": 2,
+        "written_questions": 22
+      },
+      "2024": {
+        "debate_contributions": 5,
+        "debates_participated": 5,
+        "written_questions": 5
+      }
+    },
+    "bills_sponsored": 2,
+    "debate_contributions": 246,
+    "debates_participated": 164,
+    "early_day_motions": 0,
+    "oral_questions": 22,
+    "petitions_presented": 0,
+    "written_questions": 236
+  },
+  "activity_summary": {
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 0,
+    "debate_contributions": 246,
+    "voting_participation_pct": 67.88,
+    "written_questions": 236
+  },
+  "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Employment (Allocation of Tips) Bill",
+      "committee_id": 615,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Human Rights (Joint Committee)",
+      "committee_id": 93,
+      "is_current": false,
+      "meetings_attended": 42,
+      "meetings_available": 42
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Panel of Chairs",
+      "committee_id": 11,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Renters (Reform) Bill",
+      "committee_id": 684,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    }
+  ],
+  "committees": {
+    "current": [],
+    "history": [
+      {
+        "committee": "Employment (Allocation of Tips) Bill",
+        "committee_id": 615,
+        "file": "committees/employment-allocation-of-tips-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2022-10-12",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2022-09-07"
+          }
+        ],
+        "slug": "employment-allocation-of-tips-bill"
+      },
+      {
+        "committee": "Human Rights (Joint Committee)",
+        "committee_id": 93,
+        "file": "committees/human-rights-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-10-28"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-10-30"
+          },
+          {
+            "end": "2021-06-29",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-03-02"
+          }
+        ],
+        "slug": "human-rights-joint-committee"
+      },
+      {
+        "committee": "Panel of Chairs",
+        "committee_id": 11,
+        "file": "committees/panel-of-chairs.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2017-05-03",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2015-10-14"
+          },
+          {
+            "end": "2019-11-06",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2017-06-22"
+          },
+          {
+            "end": "2022-01-27",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2020-01-15"
+          }
+        ],
+        "slug": "panel-of-chairs"
+      },
+      {
+        "committee": "Renters (Reform) Bill",
+        "committee_id": 684,
+        "file": "committees/renters-reform-bill.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": "2023-11-28",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2023-11-08"
+          }
+        ],
+        "slug": "renters-reform-bill"
+      }
+    ]
+  },
+  "constituency": {
+    "id": 3849,
+    "name": "Westminster North"
+  },
+  "contact": [],
+  "external_ids": {
+    "parliament_members_api": 199
+  },
+  "gender": "F",
+  "is_current": false,
+  "member_id": 199,
+  "membership": {
+    "end_date": "2024-05-30",
+    "end_reason": "Dissolution",
+    "start_date": "1997-05-01",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": "Ms Buck",
+    "display": "Ms Karen Buck",
+    "full_title": "Ms Karen Buck",
+    "list_as": "Buck, Ms Karen"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Transport",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-transport",
+        "end_date": "2006-03-16",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary (Department for Transport)",
+        "start_date": "2005-05-10"
+      }
+    ],
+    "ministerial_current": [],
+    "opposition": [
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2023-09-05",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2021-05-14"
+      },
+      {
+        "department": "Department for Education",
+        "department_url": "http://www.education.gov.uk/",
+        "end_date": "2013-04-16",
+        "is_current": false,
+        "name": "Shadow Minister (Education)",
+        "start_date": "2011-10-07"
+      },
+      {
+        "department": "Department for Work and Pensions",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "end_date": "2011-10-07",
+        "is_current": false,
+        "name": "Shadow Minister (Work and Pensions)",
+        "start_date": "2010-10-08"
+      }
+    ],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": "2024-05-30",
+        "party": "Labour",
+        "start_date": "1997-05-01"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Westminster North",
+        "constituency_id": 3849,
+        "end_date": "2024-05-30",
+        "house": "Commons",
+        "note": "Elected 4 times",
+        "start_date": "2010-05-06"
+      },
+      {
+        "constituency": "Regent's Park and Kensington North",
+        "constituency_id": 2406,
+        "end_date": "2010-05-06",
+        "house": "Commons",
+        "note": "Elected 3 times",
+        "start_date": "1997-05-01"
+      }
+    ]
+  },
+  "synopsis": "Ms Karen Buck is no longer a Member, but was most recently the Labour MP for <a href='/constituency/3849/overview'>Westminster North</a>, and left the Commons on 30 May 2024.",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/199/Thumbnail",
+  "voting": {
+    "annual": {
+      "2019": {
+        "divisions_eligible": 2,
+        "divisions_voted": 2,
+        "voting_participation_pct": 100.0
+      },
+      "2020": {
+        "divisions_eligible": 190,
+        "divisions_voted": 141,
+        "voting_participation_pct": 74.21
+      },
+      "2021": {
+        "divisions_eligible": 242,
+        "divisions_voted": 197,
+        "voting_participation_pct": 81.4
+      },
+      "2022": {
+        "divisions_eligible": 251,
+        "divisions_voted": 140,
+        "voting_participation_pct": 55.78
+      },
+      "2023": {
+        "divisions_eligible": 256,
+        "divisions_voted": 193,
+        "voting_participation_pct": 75.39
+      },
+      "2024": {
+        "divisions_eligible": 127,
+        "divisions_voted": 52,
+        "voting_participation_pct": 40.94
+      }
+    },
+    "by_parliament": {
+      "58th": {
+        "divisions_eligible": 1068,
+        "divisions_voted": 725,
+        "voting_participation_pct": 67.88
+      }
+    },
+    "divisions_eligible": 1068,
+    "divisions_voted": 725,
+    "voting_participation_pct": 67.88
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}

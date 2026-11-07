@@ -1,0 +1,68 @@
+{
+  "boundary": {
+    "area_hectares": 30866.8,
+    "bng": {
+      "easting": 255131,
+      "northing": 191631
+    },
+    "centroid": {
+      "latitude": 51.60483,
+      "longitude": -4.09333
+    },
+    "geojson": "constituencies/boundaries/gower.geojson",
+    "ons_code": "W07000097",
+    "source": "ONS Open Geography Portal (July 2024 BSC)"
+  },
+  "current_mp": {
+    "file": "mps/4623.json",
+    "member_id": 4623,
+    "name": "Tonia Antoniazzi",
+    "party": "Labour",
+    "party_abbreviation": "Lab",
+    "representing_since": "2024-07-04"
+  },
+  "election_results": [
+    {
+      "candidates": [],
+      "date": "2024-07-04",
+      "election": "2024 General Election",
+      "election_id": 422,
+      "electorate": 76123,
+      "is_general_election": true,
+      "is_notional": false,
+      "majority": 11567,
+      "result": "Lab Hold",
+      "turnout": 47229,
+      "winning_party": "Labour",
+      "winning_party_id": 15
+    }
+  ],
+  "end_date": null,
+  "historic_mps": [
+    {
+      "constituency_version_id": 3499,
+      "end_date": "2024-05-30",
+      "member_id": 4623,
+      "name": "Tonia Antoniazzi",
+      "start_date": "2017-06-08"
+    }
+  ],
+  "id": 4512,
+  "is_current": true,
+  "name": "Gower",
+  "name_cy": "Gŵyr",
+  "ons_code": "W07000097",
+  "outcodes": [
+    "SA1",
+    "SA18",
+    "SA2",
+    "SA3",
+    "SA4",
+    "SA5",
+    "SA6",
+    "SA8"
+  ],
+  "schema_version": 1,
+  "slug": "gower",
+  "start_date": "2024-05-31"
+}

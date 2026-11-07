@@ -1,0 +1,161 @@
+{
+  "activity": {
+    "annual": {
+      "2024": {
+        "debate_contributions": 6,
+        "debates_participated": 6,
+        "written_questions": 4
+      },
+      "2025": {
+        "bills_sponsored": 1,
+        "debate_contributions": 39,
+        "debates_participated": 27,
+        "oral_questions": 6,
+        "written_questions": 51
+      },
+      "2026": {
+        "debate_contributions": 93,
+        "debates_participated": 22
+      }
+    },
+    "bills_sponsored": 1,
+    "debate_contributions": 138,
+    "debates_participated": 55,
+    "early_day_motions": 0,
+    "oral_questions": 6,
+    "petitions_presented": 0,
+    "written_questions": 55
+  },
+  "activity_summary": {
+    "committee_attendance_pct": null,
+    "committee_memberships": 0,
+    "debate_contributions": 138,
+    "voting_participation_pct": 75.75,
+    "written_questions": 55
+  },
+  "committee_attendance": [],
+  "committees": {
+    "current": [],
+    "history": []
+  },
+  "constituency": {
+    "file": "constituencies/leeds-north-west.json",
+    "id": 4137,
+    "name": "Leeds North West",
+    "ons_code": "E14001322",
+    "slug": "leeds-north-west"
+  },
+  "contact": [
+    {
+      "address": "House of Commons, London",
+      "email": "katie.white.mp@parliament.uk",
+      "postcode": "SW1A 0AA",
+      "type": "Parliamentary office"
+    }
+  ],
+  "external_ids": {
+    "parliament_members_api": 5260
+  },
+  "gender": "F",
+  "is_current": true,
+  "member_id": 5260,
+  "membership": {
+    "end_date": null,
+    "end_reason": null,
+    "start_date": "2024-07-04",
+    "status": "Current Member"
+  },
+  "name": {
+    "address_as": null,
+    "display": "Katie White",
+    "full_title": "Katie White MP",
+    "list_as": "White, Katie"
+  },
+  "party": {
+    "abbreviation": "Lab",
+    "id": 15,
+    "name": "Labour"
+  },
+  "roles": {
+    "government": [
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": null,
+        "is_current": true,
+        "name": "Minister of State (Department for Energy Security and Net Zero)",
+        "start_date": "2026-07-21"
+      },
+      {
+        "department": "Department for Energy Security and Net Zero",
+        "department_url": "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero",
+        "end_date": "2026-07-21",
+        "is_current": false,
+        "name": "Parliamentary Under-Secretary of State (Department for Energy Security and Net Zero)",
+        "start_date": "2025-09-07"
+      }
+    ],
+    "ministerial_current": [
+      "Minister of State (Department for Energy Security and Net Zero)"
+    ],
+    "opposition": [],
+    "other": []
+  },
+  "schema_version": 1,
+  "service_history": {
+    "elections_contested": [],
+    "party_affiliations": [
+      {
+        "end_date": null,
+        "party": "Labour",
+        "start_date": "2024-07-04"
+      }
+    ],
+    "representations": [
+      {
+        "constituency": "Leeds North West",
+        "constituency_id": 4137,
+        "end_date": null,
+        "house": "Commons",
+        "note": "Elected 1 time",
+        "start_date": "2024-07-04"
+      }
+    ]
+  },
+  "synopsis": "Katie White is the Labour MP for <a href='/constituency/4137/overview'>Leeds North West</a>, and has been an MP continually since 4 July 2024. \r\nShe currently holds the Government post of Minister of State (Department for Energy Security and Net Zero).",
+  "thumbnail_url": "https://members-api.parliament.uk/api/Members/5260/Thumbnail",
+  "voting": {
+    "annual": {
+      "2024": {
+        "divisions_eligible": 73,
+        "divisions_voted": 71,
+        "voting_participation_pct": 97.26
+      },
+      "2025": {
+        "divisions_eligible": 322,
+        "divisions_voted": 253,
+        "voting_participation_pct": 78.57
+      },
+      "2026": {
+        "divisions_eligible": 236,
+        "divisions_voted": 154,
+        "voting_participation_pct": 65.25
+      }
+    },
+    "by_parliament": {
+      "59th": {
+        "divisions_eligible": 631,
+        "divisions_voted": 478,
+        "voting_participation_pct": 75.75
+      }
+    },
+    "divisions_eligible": 631,
+    "divisions_voted": 478,
+    "voting_participation_pct": 75.75
+  },
+  "window": {
+    "history_years": 7,
+    "window_end": "2026-11-07",
+    "window_start": "2019-11-07"
+  }
+}
