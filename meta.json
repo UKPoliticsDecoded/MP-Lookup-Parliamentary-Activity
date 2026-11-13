@@ -5,7 +5,7 @@
     "mps": 1001,
     "outcodes": 2756
   },
-  "generated_at": "2026-11-12T22:04:30+00:00",
+  "generated_at": "2026-11-13T00:01:43+00:00",
   "last_job": "hourly",
   "limitations": [
     "Postcodes are published at outcode level; full-postcode resolution needs one Postcodes.io call for outcodes spanning several constituencies.",
@@ -26,8 +26,8 @@
     "Postcodes.io"
   ],
   "window": {
-    "end": "2026-11-12",
+    "end": "2026-11-13",
     "history_years": 7,
-    "start": "2019-11-12"
+    "start": "2019-11-13"
   }
 }
