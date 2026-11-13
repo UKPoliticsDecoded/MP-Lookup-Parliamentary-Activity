@@ -57,20 +57,12 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 0,
     "debate_contributions": 981,
     "voting_participation_pct": 67.51,
     "written_questions": 206
   },
   "committee_attendance": [
-    {
-      "attendance_pct": 100.0,
-      "committee": "Public Accounts Committee",
-      "committee_id": 127,
-      "is_current": true,
-      "meetings_attended": 61,
-      "meetings_available": 61
-    },
     {
       "attendance_pct": null,
       "committee": "Children’s Wellbeing and Schools Bill",
@@ -104,6 +96,14 @@
       "meetings_available": 19
     },
     {
+      "attendance_pct": 100.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": false,
+      "meetings_attended": 61,
+      "meetings_available": 61
+    },
+    {
       "attendance_pct": null,
       "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",
       "committee_id": 722,
@@ -113,24 +113,7 @@
     }
   ],
   "committees": {
-    "current": [
-      {
-        "committee": "Public Accounts Committee",
-        "committee_id": 127,
-        "file": "committees/public-accounts.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2025-10-27"
-          }
-        ],
-        "slug": "public-accounts"
-      }
-    ],
+    "current": [],
     "history": [
       {
         "committee": "Children’s Wellbeing and Schools Bill",
@@ -213,6 +196,22 @@
           }
         ],
         "slug": "petitions"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-27"
+          }
+        ],
+        "slug": "public-accounts"
       },
       {
         "committee": "School Attendance (Duties of Local Authorities and Proprietors of Schools) Bill",

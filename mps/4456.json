@@ -55,7 +55,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 2,
     "debate_contributions": 464,
     "voting_participation_pct": 78.5,
     "written_questions": 198
@@ -68,6 +68,14 @@
       "is_current": true,
       "meetings_attended": 38,
       "meetings_available": 38
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -167,6 +175,22 @@
           }
         ],
         "slug": "digital-culture-media-and-sport"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "procedure"
       }
     ],
     "history": [

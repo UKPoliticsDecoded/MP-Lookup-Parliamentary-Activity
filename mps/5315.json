@@ -31,7 +31,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 0,
     "debate_contributions": 67,
     "voting_participation_pct": 76.34,
     "written_questions": 27
@@ -41,19 +41,20 @@
       "attendance_pct": 100.0,
       "committee": "Work and Pensions Committee",
       "committee_id": 164,
-      "is_current": true,
+      "is_current": false,
       "meetings_attended": 30,
       "meetings_available": 30
     }
   ],
   "committees": {
-    "current": [
+    "current": [],
+    "history": [
       {
         "committee": "Work and Pensions Committee",
         "committee_id": 164,
         "file": "committees/work-and-pensions.json",
         "is_chair": false,
-        "is_current": true,
+        "is_current": false,
         "roles": [
           {
             "end": null,
@@ -64,8 +65,7 @@
         ],
         "slug": "work-and-pensions"
       }
-    ],
-    "history": []
+    ]
   },
   "constituency": {
     "file": "constituencies/corby-and-east-northamptonshire.json",

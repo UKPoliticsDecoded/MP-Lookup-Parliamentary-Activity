@@ -25,12 +25,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 2,
     "debate_contributions": 583,
     "voting_participation_pct": 52.37,
     "written_questions": 15
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": 100.0,
       "committee": "Select Committee on the Armed Forces Bill",
@@ -42,6 +50,22 @@
   ],
   "committees": {
     "current": [
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "public-accounts"
+      },
       {
         "committee": "Select Committee on the Armed Forces Bill",
         "committee_id": 826,

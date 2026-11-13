@@ -30,7 +30,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 3,
     "debate_contributions": 209,
     "voting_participation_pct": 93.53,
     "written_questions": 12
@@ -51,6 +51,14 @@
       "is_current": true,
       "meetings_attended": 21,
       "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Northern Ireland Affairs Committee",
+      "committee_id": 120,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -134,6 +142,22 @@
           }
         ],
         "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Northern Ireland Affairs Committee",
+        "committee_id": 120,
+        "file": "committees/northern-ireland-affairs.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "northern-ireland-affairs"
       }
     ],
     "history": [

@@ -87,25 +87,6 @@
     {
       "attendance": {
         "attendance_pct": 100.0,
-        "meetings_attended": 61,
-        "meetings_available": 61
-      },
-      "file": "mps/4125.json",
-      "member_id": 4125,
-      "name": "Catherine McKinnell",
-      "party": "Labour",
-      "roles": [
-        {
-          "end": null,
-          "is_chair": false,
-          "role": "Member",
-          "start": "2025-10-27"
-        }
-      ]
-    },
-    {
-      "attendance": {
-        "attendance_pct": 100.0,
         "meetings_attended": 339,
         "meetings_available": 339
       },
@@ -296,6 +277,25 @@
           "is_chair": false,
           "role": "Member",
           "start": "2025-10-27"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5235.json",
+      "member_id": 5235,
+      "name": "Al Carns",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-11-11"
         }
       ]
     },

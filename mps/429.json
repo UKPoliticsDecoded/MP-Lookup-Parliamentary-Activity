@@ -51,7 +51,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 4,
+    "committee_memberships": 3,
     "debate_contributions": 330,
     "voting_participation_pct": 60.63,
     "written_questions": 347
@@ -72,14 +72,6 @@
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
-    },
-    {
-      "attendance_pct": 100.0,
-      "committee": "National Security Strategy (Joint Committee)",
-      "committee_id": 111,
-      "is_current": true,
-      "meetings_attended": 38,
-      "meetings_available": 38
     },
     {
       "attendance_pct": null,
@@ -104,6 +96,14 @@
       "is_current": false,
       "meetings_attended": 21,
       "meetings_available": 21
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "National Security Strategy (Joint Committee)",
+      "committee_id": 111,
+      "is_current": false,
+      "meetings_attended": 38,
+      "meetings_available": 38
     }
   ],
   "committees": {
@@ -151,22 +151,6 @@
           }
         ],
         "slug": "intelligence-and-security-committee-of-parliament"
-      },
-      {
-        "committee": "National Security Strategy (Joint Committee)",
-        "committee_id": 111,
-        "file": "committees/national-security-strategy-joint-committee.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2024-12-02"
-          }
-        ],
-        "slug": "national-security-strategy-joint-committee"
       },
       {
         "committee": "Panel of Chairs",
@@ -223,6 +207,22 @@
           }
         ],
         "slug": "defence-sub-committee"
+      },
+      {
+        "committee": "National Security Strategy (Joint Committee)",
+        "committee_id": 111,
+        "file": "committees/national-security-strategy-joint-committee.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-12-02"
+          }
+        ],
+        "slug": "national-security-strategy-joint-committee"
       }
     ]
   },

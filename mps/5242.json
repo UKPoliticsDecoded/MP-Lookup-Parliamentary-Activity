@@ -28,7 +28,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 1,
     "debate_contributions": 115,
     "voting_participation_pct": 89.59,
     "written_questions": 145
@@ -41,14 +41,6 @@
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
-    },
-    {
-      "attendance_pct": 100.0,
-      "committee": "Procedure Committee",
-      "committee_id": 126,
-      "is_current": true,
-      "meetings_attended": 51,
-      "meetings_available": 51
     },
     {
       "attendance_pct": null,
@@ -81,6 +73,14 @@
       "is_current": false,
       "meetings_attended": 0,
       "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 51,
+      "meetings_available": 51
     },
     {
       "attendance_pct": null,
@@ -116,22 +116,6 @@
           }
         ],
         "slug": "highways-financing-bill"
-      },
-      {
-        "committee": "Procedure Committee",
-        "committee_id": 126,
-        "file": "committees/procedure.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2024-11-04"
-          }
-        ],
-        "slug": "procedure"
       }
     ],
     "history": [
@@ -198,6 +182,22 @@
           }
         ],
         "slug": "employment-rights-bill"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
       },
       {
         "committee": "Product Regulation and Metrology Bill [HL]",

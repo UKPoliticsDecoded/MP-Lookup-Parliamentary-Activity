@@ -2,7 +2,7 @@
   "activity": {
     "current_members": 11,
     "formal_meetings_held": 224,
-    "mean_member_attendance_pct": 100.0,
+    "mean_member_attendance_pct": 96.77,
     "meetings_with_attendance_published": 219
   },
   "category": "Select",
@@ -201,25 +201,6 @@
     {
       "attendance": {
         "attendance_pct": 100.0,
-        "meetings_attended": 30,
-        "meetings_available": 30
-      },
-      "file": "mps/5315.json",
-      "member_id": 5315,
-      "name": "Lee Barron",
-      "party": "Labour",
-      "roles": [
-        {
-          "end": null,
-          "is_chair": false,
-          "role": "Member",
-          "start": "2025-10-27"
-        }
-      ]
-    },
-    {
-      "attendance": {
-        "attendance_pct": 100.0,
         "meetings_attended": 60,
         "meetings_available": 60
       },
@@ -252,6 +233,25 @@
           "is_chair": false,
           "role": "Member",
           "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 0.0,
+        "meetings_attended": 0,
+        "meetings_available": 1
+      },
+      "file": "mps/5359.json",
+      "member_id": 5359,
+      "name": "Neil Duncan-Jordan",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-11-11"
         }
       ]
     }

@@ -184,25 +184,6 @@
         "meetings_attended": 1,
         "meetings_available": 1
       },
-      "file": "mps/5109.json",
-      "member_id": 5109,
-      "name": "Chris Bloore",
-      "party": "Labour",
-      "roles": [
-        {
-          "end": null,
-          "is_chair": false,
-          "role": "Member",
-          "start": "2024-10-28"
-        }
-      ]
-    },
-    {
-      "attendance": {
-        "attendance_pct": 100.0,
-        "meetings_attended": 1,
-        "meetings_available": 1
-      },
       "file": "mps/5125.json",
       "member_id": 5125,
       "name": "Sorcha Eastwood",
@@ -308,6 +289,25 @@
           "is_chair": false,
           "role": "Member",
           "start": "2025-11-13"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5328.json",
+      "member_id": 5328,
+      "name": "Sean Woodcock",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-11-11"
         }
       ]
     }

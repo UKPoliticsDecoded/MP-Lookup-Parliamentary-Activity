@@ -118,6 +118,25 @@
     },
     {
       "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/4456.json",
+      "member_id": 4456,
+      "name": "Jeff Smith",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "attendance": {
         "attendance_pct": 100.0,
         "meetings_attended": 51,
         "meetings_available": 51
@@ -308,25 +327,6 @@
       "file": "mps/5233.json",
       "member_id": 5233,
       "name": "Lee Pitcher",
-      "party": "Labour",
-      "roles": [
-        {
-          "end": null,
-          "is_chair": false,
-          "role": "Member",
-          "start": "2024-11-04"
-        }
-      ]
-    },
-    {
-      "attendance": {
-        "attendance_pct": 100.0,
-        "meetings_attended": 51,
-        "meetings_available": 51
-      },
-      "file": "mps/5242.json",
-      "member_id": 5242,
-      "name": "Michael Wheeler",
       "party": "Labour",
       "roles": [
         {

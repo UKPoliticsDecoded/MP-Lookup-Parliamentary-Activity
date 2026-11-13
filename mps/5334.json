@@ -32,7 +32,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 4,
+    "committee_memberships": 3,
     "debate_contributions": 229,
     "voting_participation_pct": 83.44,
     "written_questions": 137
@@ -63,20 +63,20 @@
       "meetings_available": 0
     },
     {
-      "attendance_pct": 100.0,
-      "committee": "Science and Technology Committee (Commons)",
-      "committee_id": 135,
-      "is_current": true,
-      "meetings_attended": 3,
-      "meetings_available": 3
-    },
-    {
       "attendance_pct": null,
       "committee": "Bus Services (No. 2) Bill [HL]",
       "committee_id": 804,
       "is_current": false,
       "meetings_attended": 0,
       "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
+      "is_current": false,
+      "meetings_attended": 3,
+      "meetings_available": 3
     }
   ],
   "committees": {
@@ -128,22 +128,6 @@
           }
         ],
         "slug": "infants-parents-and-carers-bill"
-      },
-      {
-        "committee": "Science and Technology Committee (Commons)",
-        "committee_id": 135,
-        "file": "committees/science-and-technology-committee-commons.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2024-10-21"
-          }
-        ],
-        "slug": "science-and-technology-committee-commons"
       }
     ],
     "history": [
@@ -162,6 +146,22 @@
           }
         ],
         "slug": "bus-services-no-2-bill-hl"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
       }
     ]
   },

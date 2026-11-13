@@ -32,8 +32,8 @@
     "written_questions": 1402
   },
   "activity_summary": {
-    "committee_attendance_pct": null,
-    "committee_memberships": 1,
+    "committee_attendance_pct": 0.0,
+    "committee_memberships": 2,
     "debate_contributions": 193,
     "voting_participation_pct": 84.86,
     "written_questions": 1402
@@ -46,6 +46,14 @@
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
+    },
+    {
+      "attendance_pct": 0.0,
+      "committee": "Work and Pensions Committee",
+      "committee_id": 164,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 1
     }
   ],
   "committees": {
@@ -65,6 +73,22 @@
           }
         ],
         "slug": "cheltenham-borough-council-markets-bill"
+      },
+      {
+        "committee": "Work and Pensions Committee",
+        "committee_id": 164,
+        "file": "committees/work-and-pensions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "work-and-pensions"
       }
     ],
     "history": []

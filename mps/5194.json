@@ -30,7 +30,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": null,
-    "committee_memberships": 2,
+    "committee_memberships": 3,
     "debate_contributions": 194,
     "voting_participation_pct": 91.96,
     "written_questions": 48
@@ -40,6 +40,14 @@
       "attendance_pct": null,
       "committee": "Infants, Parents and Carers Bill",
       "committee_id": 852,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Science and Technology Committee (Commons)",
+      "committee_id": 135,
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
@@ -78,6 +86,22 @@
           }
         ],
         "slug": "infants-parents-and-carers-bill"
+      },
+      {
+        "committee": "Science and Technology Committee (Commons)",
+        "committee_id": 135,
+        "file": "committees/science-and-technology-committee-commons.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "science-and-technology-committee-commons"
       },
       {
         "committee": "Social Housing Bill [Lords]",
