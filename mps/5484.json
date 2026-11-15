@@ -19,7 +19,7 @@
     "committee_attendance_pct": 100.0,
     "committee_memberships": 3,
     "debate_contributions": 4,
-    "voting_participation_pct": 81.82,
+    "voting_participation_pct": 82.61,
     "written_questions": 2
   },
   "committee_attendance": [
@@ -89,12 +89,6 @@
         "is_chair": false,
         "is_current": true,
         "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2026-10-22"
-          },
           {
             "end": null,
             "is_chair": false,
@@ -183,21 +177,21 @@
   "voting": {
     "annual": {
       "2026": {
-        "divisions_eligible": 44,
-        "divisions_voted": 36,
-        "voting_participation_pct": 81.82
+        "divisions_eligible": 46,
+        "divisions_voted": 38,
+        "voting_participation_pct": 82.61
       }
     },
     "by_parliament": {
       "59th": {
-        "divisions_eligible": 44,
-        "divisions_voted": 36,
-        "voting_participation_pct": 81.82
+        "divisions_eligible": 46,
+        "divisions_voted": 38,
+        "voting_participation_pct": 82.61
       }
     },
-    "divisions_eligible": 44,
-    "divisions_voted": 36,
-    "voting_participation_pct": 81.82
+    "divisions_eligible": 46,
+    "divisions_voted": 38,
+    "voting_participation_pct": 82.61
   },
   "window": {
     "history_years": 7,

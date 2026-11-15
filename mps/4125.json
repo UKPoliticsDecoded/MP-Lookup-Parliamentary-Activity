@@ -59,7 +59,7 @@
     "committee_attendance_pct": 100.0,
     "committee_memberships": 0,
     "debate_contributions": 981,
-    "voting_participation_pct": 67.51,
+    "voting_participation_pct": 67.55,
     "written_questions": 206
   },
   "committee_attendance": [
@@ -205,7 +205,7 @@
         "is_current": false,
         "roles": [
           {
-            "end": null,
+            "end": "2026-11-11",
             "is_chair": false,
             "role": "Member",
             "start": "2025-10-27"
@@ -418,9 +418,9 @@
         "voting_participation_pct": 68.32
       },
       "2026": {
-        "divisions_eligible": 239,
-        "divisions_voted": 145,
-        "voting_participation_pct": 60.67
+        "divisions_eligible": 241,
+        "divisions_voted": 147,
+        "voting_participation_pct": 61.0
       }
     },
     "by_parliament": {
@@ -430,14 +430,14 @@
         "voting_participation_pct": 67.51
       },
       "59th": {
-        "divisions_eligible": 634,
-        "divisions_voted": 428,
-        "voting_participation_pct": 67.51
+        "divisions_eligible": 636,
+        "divisions_voted": 430,
+        "voting_participation_pct": 67.61
       }
     },
-    "divisions_eligible": 1702,
-    "divisions_voted": 1149,
-    "voting_participation_pct": 67.51
+    "divisions_eligible": 1704,
+    "divisions_voted": 1151,
+    "voting_participation_pct": 67.55
   },
   "window": {
     "history_years": 7,

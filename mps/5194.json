@@ -32,7 +32,7 @@
     "committee_attendance_pct": null,
     "committee_memberships": 3,
     "debate_contributions": 198,
-    "voting_participation_pct": 91.96,
+    "voting_participation_pct": 91.67,
     "written_questions": 48
   },
   "committee_attendance": [
@@ -115,12 +115,6 @@
             "is_chair": false,
             "role": "Member",
             "start": "2026-10-22"
-          },
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2026-10-25"
           }
         ],
         "slug": "social-housing-bill-lords"
@@ -229,21 +223,21 @@
         "voting_participation_pct": 93.79
       },
       "2026": {
-        "divisions_eligible": 239,
+        "divisions_eligible": 241,
         "divisions_voted": 210,
-        "voting_participation_pct": 87.87
+        "voting_participation_pct": 87.14
       }
     },
     "by_parliament": {
       "59th": {
-        "divisions_eligible": 634,
+        "divisions_eligible": 636,
         "divisions_voted": 583,
-        "voting_participation_pct": 91.96
+        "voting_participation_pct": 91.67
       }
     },
-    "divisions_eligible": 634,
+    "divisions_eligible": 636,
     "divisions_voted": 583,
-    "voting_participation_pct": 91.96
+    "voting_participation_pct": 91.67
   },
   "window": {
     "history_years": 7,
