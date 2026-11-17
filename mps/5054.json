@@ -29,20 +29,12 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 0,
     "debate_contributions": 341,
     "voting_participation_pct": 63.74,
     "written_questions": 106
   },
   "committee_attendance": [
-    {
-      "attendance_pct": null,
-      "committee": "Speaker's Advisory Committee on Works of Art",
-      "committee_id": 301,
-      "is_current": true,
-      "meetings_attended": 0,
-      "meetings_available": 0
-    },
     {
       "attendance_pct": 100.0,
       "committee": "Defence Committee",
@@ -50,27 +42,18 @@
       "is_current": false,
       "meetings_attended": 50,
       "meetings_available": 50
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Speaker's Advisory Committee on Works of Art",
+      "committee_id": 301,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
     }
   ],
   "committees": {
-    "current": [
-      {
-        "committee": "Speaker's Advisory Committee on Works of Art",
-        "committee_id": 301,
-        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2025-02-06"
-          }
-        ],
-        "slug": "speaker-s-advisory-committee-on-works-of-art"
-      }
-    ],
+    "current": [],
     "history": [
       {
         "committee": "Defence Committee",
@@ -87,6 +70,22 @@
           }
         ],
         "slug": "defence"
+      },
+      {
+        "committee": "Speaker's Advisory Committee on Works of Art",
+        "committee_id": 301,
+        "file": "committees/speaker-s-advisory-committee-on-works-of-art.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-02-06"
+          }
+        ],
+        "slug": "speaker-s-advisory-committee-on-works-of-art"
       }
     ]
   },
