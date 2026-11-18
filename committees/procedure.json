@@ -1,7 +1,7 @@
 {
   "activity": {
     "current_members": 16,
-    "formal_meetings_held": 163,
+    "formal_meetings_held": 164,
     "mean_member_attendance_pct": 100.0,
     "meetings_with_attendance_published": 162
   },
@@ -210,25 +210,6 @@
         "meetings_attended": 51,
         "meetings_available": 51
       },
-      "file": "mps/4753.json",
-      "member_id": 4753,
-      "name": "Mary Kelly Foy",
-      "party": "Labour",
-      "roles": [
-        {
-          "end": null,
-          "is_chair": false,
-          "role": "Member",
-          "start": "2024-11-04"
-        }
-      ]
-    },
-    {
-      "attendance": {
-        "attendance_pct": 100.0,
-        "meetings_attended": 51,
-        "meetings_available": 51
-      },
       "file": "mps/5059.json",
       "member_id": 5059,
       "name": "Gurinder Singh Josan",
@@ -258,6 +239,25 @@
           "is_chair": false,
           "role": "Member",
           "start": "2026-09-07"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5137.json",
+      "member_id": 5137,
+      "name": "Maureen Burke",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-11-16"
         }
       ]
     },

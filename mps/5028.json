@@ -30,7 +30,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 4,
+    "committee_memberships": 3,
     "debate_contributions": 313,
     "voting_participation_pct": 89.1,
     "written_questions": 25
@@ -43,14 +43,6 @@
       "is_current": true,
       "meetings_attended": 2,
       "meetings_available": 2
-    },
-    {
-      "attendance_pct": null,
-      "committee": "Petitions Committee",
-      "committee_id": 326,
-      "is_current": true,
-      "meetings_attended": 0,
-      "meetings_available": 0
     },
     {
       "attendance_pct": 100.0,
@@ -67,6 +59,14 @@
       "is_current": true,
       "meetings_attended": 10,
       "meetings_available": 10
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -104,22 +104,6 @@
         "slug": "home-affairs"
       },
       {
-        "committee": "Petitions Committee",
-        "committee_id": 326,
-        "file": "committees/petitions.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2024-10-28"
-          }
-        ],
-        "slug": "petitions"
-      },
-      {
         "committee": "Statutory Instruments (Joint Committee)",
         "committee_id": 148,
         "file": "committees/statutory-instruments-joint-committee.json",
@@ -153,6 +137,22 @@
       }
     ],
     "history": [
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-28"
+          }
+        ],
+        "slug": "petitions"
+      },
       {
         "committee": "Sustainable Aviation Fuel Bill",
         "committee_id": 812,

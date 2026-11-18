@@ -62,20 +62,12 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 1,
     "debate_contributions": 466,
     "voting_participation_pct": 66.9,
     "written_questions": 661
   },
   "committee_attendance": [
-    {
-      "attendance_pct": 100.0,
-      "committee": "Procedure Committee",
-      "committee_id": 126,
-      "is_current": true,
-      "meetings_attended": 51,
-      "meetings_available": 51
-    },
     {
       "attendance_pct": null,
       "committee": "Social Housing Bill [Lords]",
@@ -117,6 +109,14 @@
       "meetings_available": 102
     },
     {
+      "attendance_pct": 100.0,
+      "committee": "Procedure Committee",
+      "committee_id": 126,
+      "is_current": false,
+      "meetings_attended": 51,
+      "meetings_available": 51
+    },
+    {
       "attendance_pct": null,
       "committee": "Tobacco and Vapes Bill",
       "committee_id": 720,
@@ -135,22 +135,6 @@
   ],
   "committees": {
     "current": [
-      {
-        "committee": "Procedure Committee",
-        "committee_id": 126,
-        "file": "committees/procedure.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2024-11-04"
-          }
-        ],
-        "slug": "procedure"
-      },
       {
         "committee": "Social Housing Bill [Lords]",
         "committee_id": 849,
@@ -232,6 +216,22 @@
           }
         ],
         "slug": "northern-ireland-affairs"
+      },
+      {
+        "committee": "Procedure Committee",
+        "committee_id": 126,
+        "file": "committees/procedure.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-11-04"
+          }
+        ],
+        "slug": "procedure"
       },
       {
         "committee": "Tobacco and Vapes Bill",

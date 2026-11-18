@@ -29,7 +29,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 1,
     "debate_contributions": 45,
     "voting_participation_pct": 75.7,
     "written_questions": 71
@@ -47,7 +47,7 @@
       "attendance_pct": 100.0,
       "committee": "Public Accounts Committee",
       "committee_id": 127,
-      "is_current": true,
+      "is_current": false,
       "meetings_attended": 75,
       "meetings_available": 75
     },
@@ -77,13 +77,15 @@
           }
         ],
         "slug": "child-like-sexual-abuse-dolls-offences-bill"
-      },
+      }
+    ],
+    "history": [
       {
         "committee": "Public Accounts Committee",
         "committee_id": 127,
         "file": "committees/public-accounts.json",
         "is_chair": false,
-        "is_current": true,
+        "is_current": false,
         "roles": [
           {
             "end": null,
@@ -93,9 +95,7 @@
           }
         ],
         "slug": "public-accounts"
-      }
-    ],
-    "history": [
+      },
       {
         "committee": "Public Authorities (Fraud, Error and Recovery) Bill",
         "committee_id": 776,

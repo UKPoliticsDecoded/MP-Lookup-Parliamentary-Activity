@@ -31,8 +31,8 @@
     "written_questions": 139
   },
   "activity_summary": {
-    "committee_attendance_pct": 100.0,
-    "committee_memberships": 5,
+    "committee_attendance_pct": 98.65,
+    "committee_memberships": 6,
     "debate_contributions": 258,
     "voting_participation_pct": 83.64,
     "written_questions": 139
@@ -61,6 +61,14 @@
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
+    },
+    {
+      "attendance_pct": 0.0,
+      "committee": "Public Accounts Committee",
+      "committee_id": 127,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 1
     },
     {
       "attendance_pct": 100.0,
@@ -182,6 +190,22 @@
           }
         ],
         "slug": "members-estimate"
+      },
+      {
+        "committee": "Public Accounts Committee",
+        "committee_id": 127,
+        "file": "committees/public-accounts.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-16"
+          }
+        ],
+        "slug": "public-accounts"
       },
       {
         "committee": "Restoration and Renewal Client Board",

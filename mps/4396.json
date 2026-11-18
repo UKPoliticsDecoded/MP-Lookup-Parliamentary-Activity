@@ -62,12 +62,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 0,
+    "committee_memberships": 1,
     "debate_contributions": 310,
     "voting_participation_pct": 77.49,
     "written_questions": 454
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Petitions Committee",
+      "committee_id": 326,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": null,
       "committee": "Data Protection and Digital Information (No. 2) Bill",
@@ -118,7 +126,24 @@
     }
   ],
   "committees": {
-    "current": [],
+    "current": [
+      {
+        "committee": "Petitions Committee",
+        "committee_id": 326,
+        "file": "committees/petitions.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-16"
+          }
+        ],
+        "slug": "petitions"
+      }
+    ],
     "history": [
       {
         "committee": "Data Protection and Digital Information (No. 2) Bill",

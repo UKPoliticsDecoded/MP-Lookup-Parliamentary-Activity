@@ -25,12 +25,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 3,
     "debate_contributions": 586,
     "voting_participation_pct": 52.96,
     "written_questions": 15
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Public Accounts Commission",
+      "committee_id": 207,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": 100.0,
       "committee": "Public Accounts Committee",
@@ -50,6 +58,22 @@
   ],
   "committees": {
     "current": [
+      {
+        "committee": "Public Accounts Commission",
+        "committee_id": 207,
+        "file": "committees/public-accounts-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-16"
+          }
+        ],
+        "slug": "public-accounts-commission"
+      },
       {
         "committee": "Public Accounts Committee",
         "committee_id": 127,
