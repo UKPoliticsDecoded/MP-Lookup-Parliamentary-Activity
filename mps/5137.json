@@ -37,20 +37,20 @@
   },
   "committee_attendance": [
     {
-      "attendance_pct": null,
+      "attendance_pct": 100.0,
       "committee": "Procedure Committee",
       "committee_id": 126,
       "is_current": true,
-      "meetings_attended": 0,
-      "meetings_available": 0
+      "meetings_attended": 1,
+      "meetings_available": 1
     },
     {
       "attendance_pct": 100.0,
       "committee": "Scottish Affairs Committee",
       "committee_id": 136,
       "is_current": true,
-      "meetings_attended": 63,
-      "meetings_available": 63
+      "meetings_attended": 64,
+      "meetings_available": 64
     }
   ],
   "committees": {
