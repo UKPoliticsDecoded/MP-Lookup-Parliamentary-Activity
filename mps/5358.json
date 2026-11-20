@@ -33,7 +33,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 4,
+    "committee_memberships": 5,
     "debate_contributions": 294,
     "voting_participation_pct": 73.53,
     "written_questions": 203
@@ -54,6 +54,14 @@
       "is_current": true,
       "meetings_attended": 9,
       "meetings_available": 9
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill [Lords]",
+      "committee_id": 858,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": 100.0,
@@ -119,6 +127,22 @@
           }
         ],
         "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "Financial Services and Markets Bill [Lords]",
+        "committee_id": 858,
+        "file": "committees/financial-services-and-markets-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-19"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill-lords"
       },
       {
         "committee": "Scottish Affairs Committee",

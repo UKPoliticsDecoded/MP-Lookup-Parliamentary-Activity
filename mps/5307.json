@@ -31,12 +31,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 0,
+    "committee_memberships": 1,
     "debate_contributions": 123,
     "voting_participation_pct": 76.01,
     "written_questions": 168
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Ecclesiastical Committee",
+      "committee_id": 174,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": 100.0,
       "committee": "Health and Social Care Committee",
@@ -55,7 +63,24 @@
     }
   ],
   "committees": {
-    "current": [],
+    "current": [
+      {
+        "committee": "Ecclesiastical Committee",
+        "committee_id": 174,
+        "file": "committees/ecclesiastical.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-18"
+          }
+        ],
+        "slug": "ecclesiastical"
+      }
+    ],
     "history": [
       {
         "committee": "Health and Social Care Committee",

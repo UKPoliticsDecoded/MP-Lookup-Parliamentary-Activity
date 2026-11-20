@@ -31,7 +31,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 3,
+    "committee_memberships": 4,
     "debate_contributions": 391,
     "voting_participation_pct": 72.14,
     "written_questions": 1783
@@ -44,6 +44,14 @@
       "is_current": true,
       "meetings_attended": 67,
       "meetings_available": 67
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill [Lords]",
+      "committee_id": 858,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -103,6 +111,22 @@
           }
         ],
         "slug": "environmental-audit"
+      },
+      {
+        "committee": "Financial Services and Markets Bill [Lords]",
+        "committee_id": 858,
+        "file": "committees/financial-services-and-markets-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-19"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill-lords"
       },
       {
         "committee": "Immigration and Asylum Bill",

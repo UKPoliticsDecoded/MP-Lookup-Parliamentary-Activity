@@ -1,6 +1,6 @@
 {
   "activity": {
-    "current_members": 13,
+    "current_members": 14,
     "formal_meetings_held": 14,
     "mean_member_attendance_pct": 100.0,
     "meetings_with_attendance_published": 14
@@ -559,6 +559,25 @@
           "is_chair": false,
           "role": "Member",
           "start": "2024-11-04"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": null,
+        "meetings_attended": 0,
+        "meetings_available": 0
+      },
+      "file": "mps/5307.json",
+      "member_id": 5307,
+      "name": "Dr Beccy Cooper",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": null,
+          "is_chair": false,
+          "role": "Member",
+          "start": "2026-11-18"
         }
       ]
     },

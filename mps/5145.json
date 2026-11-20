@@ -31,7 +31,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 3,
     "debate_contributions": 161,
     "voting_participation_pct": 76.16,
     "written_questions": 45
@@ -44,6 +44,14 @@
       "is_current": true,
       "meetings_attended": 21,
       "meetings_available": 21
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill [Lords]",
+      "committee_id": 858,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -87,6 +95,22 @@
           }
         ],
         "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Financial Services and Markets Bill [Lords]",
+        "committee_id": 858,
+        "file": "committees/financial-services-and-markets-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-19"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill-lords"
       },
       {
         "committee": "Petitions Committee",

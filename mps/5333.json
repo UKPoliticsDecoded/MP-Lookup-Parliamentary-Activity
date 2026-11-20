@@ -26,12 +26,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 0,
+    "committee_memberships": 1,
     "debate_contributions": 469,
     "voting_participation_pct": 56.97,
     "written_questions": 4
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill [Lords]",
+      "committee_id": 858,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": null,
       "committee": "Finance (No. 2) Bill",
@@ -50,7 +58,24 @@
     }
   ],
   "committees": {
-    "current": [],
+    "current": [
+      {
+        "committee": "Financial Services and Markets Bill [Lords]",
+        "committee_id": 858,
+        "file": "committees/financial-services-and-markets-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-19"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill-lords"
+      }
+    ],
     "history": [
       {
         "committee": "Finance (No. 2) Bill",

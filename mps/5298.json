@@ -31,12 +31,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 2,
     "debate_contributions": 114,
     "voting_participation_pct": 86.22,
     "written_questions": 50
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill [Lords]",
+      "committee_id": 858,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": 100.0,
       "committee": "Public Administration and Constitutional Affairs Committee",
@@ -56,6 +64,22 @@
   ],
   "committees": {
     "current": [
+      {
+        "committee": "Financial Services and Markets Bill [Lords]",
+        "committee_id": 858,
+        "file": "committees/financial-services-and-markets-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-19"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill-lords"
+      },
       {
         "committee": "Public Administration and Constitutional Affairs Committee",
         "committee_id": 327,

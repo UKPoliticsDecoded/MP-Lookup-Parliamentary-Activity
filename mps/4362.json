@@ -45,7 +45,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 4,
+    "committee_memberships": 5,
     "debate_contributions": 1893,
     "voting_participation_pct": 87.92,
     "written_questions": 107
@@ -71,6 +71,14 @@
       "attendance_pct": null,
       "committee": "Civil Aviation (Consumer Protection and Regulatory Reform) Bill",
       "committee_id": 847,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Financial Services and Markets Bill [Lords]",
+      "committee_id": 858,
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
@@ -197,6 +205,22 @@
           }
         ],
         "slug": "civil-aviation-consumer-protection-and-regulatory-reform-bill"
+      },
+      {
+        "committee": "Financial Services and Markets Bill [Lords]",
+        "committee_id": 858,
+        "file": "committees/financial-services-and-markets-bill-lords.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-19"
+          }
+        ],
+        "slug": "financial-services-and-markets-bill-lords"
       },
       {
         "committee": "Social Housing Bill [Lords]",
