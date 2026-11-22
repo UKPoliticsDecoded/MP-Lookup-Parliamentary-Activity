@@ -1288,6 +1288,25 @@
     {
       "attendance": {
         "attendance_pct": 100.0,
+        "meetings_attended": 75,
+        "meetings_available": 75
+      },
+      "file": "mps/5146.json",
+      "member_id": 5146,
+      "name": "Michael Payne",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2026-11-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-10-28"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
         "meetings_attended": 13,
         "meetings_available": 13
       },

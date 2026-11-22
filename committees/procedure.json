@@ -2,7 +2,7 @@
   "activity": {
     "current_members": 16,
     "formal_meetings_held": 164,
-    "mean_member_attendance_pct": 99.96,
+    "mean_member_attendance_pct": 100.0,
     "meetings_with_attendance_published": 163
   },
   "category": "Select",
@@ -740,6 +740,25 @@
           "is_chair": false,
           "role": "Member",
           "start": "2023-12-11"
+        }
+      ]
+    },
+    {
+      "attendance": {
+        "attendance_pct": 100.0,
+        "meetings_attended": 51,
+        "meetings_available": 51
+      },
+      "file": "mps/4753.json",
+      "member_id": 4753,
+      "name": "Mary Kelly Foy",
+      "party": "Labour",
+      "roles": [
+        {
+          "end": "2026-11-16",
+          "is_chair": false,
+          "role": "Member",
+          "start": "2024-11-04"
         }
       ]
     },
