@@ -47,6 +47,7 @@
         "debate_contributions": 10,
         "debates_participated": 7,
         "early_day_motions": 5,
+        "oral_questions": 1,
         "written_questions": 41
       }
     },
@@ -54,7 +55,7 @@
     "debate_contributions": 313,
     "debates_participated": 199,
     "early_day_motions": 39,
-    "oral_questions": 80,
+    "oral_questions": 81,
     "petitions_presented": 0,
     "written_questions": 292
   },
@@ -62,7 +63,7 @@
     "committee_attendance_pct": 96.58,
     "committee_memberships": 0,
     "debate_contributions": 313,
-    "voting_participation_pct": 64.41,
+    "voting_participation_pct": 64.45,
     "written_questions": 292
   },
   "committee_attendance": [
@@ -486,9 +487,9 @@
         "voting_participation_pct": 59.63
       },
       "2026": {
-        "divisions_eligible": 251,
-        "divisions_voted": 149,
-        "voting_participation_pct": 59.36
+        "divisions_eligible": 253,
+        "divisions_voted": 151,
+        "voting_participation_pct": 59.68
       }
     },
     "by_parliament": {
@@ -498,18 +499,18 @@
         "voting_participation_pct": 66.2
       },
       "59th": {
-        "divisions_eligible": 646,
-        "divisions_voted": 397,
-        "voting_participation_pct": 61.46
+        "divisions_eligible": 648,
+        "divisions_voted": 399,
+        "voting_participation_pct": 61.57
       }
     },
-    "divisions_eligible": 1714,
-    "divisions_voted": 1104,
-    "voting_participation_pct": 64.41
+    "divisions_eligible": 1716,
+    "divisions_voted": 1106,
+    "voting_participation_pct": 64.45
   },
   "window": {
     "history_years": 7,
-    "window_end": "2026-11-23",
-    "window_start": "2019-11-23"
+    "window_end": "2026-11-24",
+    "window_start": "2019-11-24"
   }
 }
