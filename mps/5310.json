@@ -34,7 +34,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 4,
+    "committee_memberships": 7,
     "debate_contributions": 200,
     "voting_participation_pct": 60.12,
     "written_questions": 862
@@ -49,12 +49,28 @@
       "meetings_available": 0
     },
     {
+      "attendance_pct": null,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
       "attendance_pct": 100.0,
       "committee": "Housing, Communities and Local Government Committee",
       "committee_id": 17,
       "is_current": true,
-      "meetings_attended": 54,
-      "meetings_available": 54
+      "meetings_attended": 55,
+      "meetings_available": 55
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Modernisation Committee",
+      "committee_id": 736,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": 100.0,
@@ -63,6 +79,14 @@
       "is_current": true,
       "meetings_attended": 52,
       "meetings_available": 52
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Restoration and Renewal Client Board",
+      "committee_id": 616,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -100,6 +124,22 @@
         "slug": "backbench-business"
       },
       {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-23"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
         "committee": "Housing, Communities and Local Government Committee",
         "committee_id": 17,
         "file": "committees/housing-communities-and-local-government.json",
@@ -116,6 +156,22 @@
         "slug": "housing-communities-and-local-government"
       },
       {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-23"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
         "committee": "Procedure Committee",
         "committee_id": 126,
         "file": "committees/procedure.json",
@@ -130,6 +186,22 @@
           }
         ],
         "slug": "procedure"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-23"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
       },
       {
         "committee": "Social Housing Bill [Lords]",

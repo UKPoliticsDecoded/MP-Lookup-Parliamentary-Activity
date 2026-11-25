@@ -32,7 +32,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 6,
+    "committee_memberships": 3,
     "debate_contributions": 233,
     "voting_participation_pct": 66.1,
     "written_questions": 150
@@ -48,14 +48,6 @@
     },
     {
       "attendance_pct": null,
-      "committee": "House of Commons Commission",
-      "committee_id": 348,
-      "is_current": true,
-      "meetings_attended": 0,
-      "meetings_available": 0
-    },
-    {
-      "attendance_pct": null,
       "committee": "Members Estimate Committee",
       "committee_id": 107,
       "is_current": true,
@@ -64,9 +56,25 @@
     },
     {
       "attendance_pct": 100.0,
+      "committee": "Treasury Committee",
+      "committee_id": 158,
+      "is_current": true,
+      "meetings_attended": 84,
+      "meetings_available": 84
+    },
+    {
+      "attendance_pct": null,
+      "committee": "House of Commons Commission",
+      "committee_id": 348,
+      "is_current": false,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": 100.0,
       "committee": "Modernisation Committee",
       "committee_id": 736,
-      "is_current": true,
+      "is_current": false,
       "meetings_attended": 17,
       "meetings_available": 17
     },
@@ -74,17 +82,9 @@
       "attendance_pct": 100.0,
       "committee": "Restoration and Renewal Client Board",
       "committee_id": 616,
-      "is_current": true,
+      "is_current": false,
       "meetings_attended": 2,
       "meetings_available": 2
-    },
-    {
-      "attendance_pct": 100.0,
-      "committee": "Treasury Committee",
-      "committee_id": 158,
-      "is_current": true,
-      "meetings_attended": 84,
-      "meetings_available": 84
     }
   ],
   "committees": {
@@ -106,22 +106,6 @@
         "slug": "financial-services-and-markets-bill-lords"
       },
       {
-        "committee": "House of Commons Commission",
-        "committee_id": 348,
-        "file": "committees/house-of-commons-commission.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2026-01-07"
-          }
-        ],
-        "slug": "house-of-commons-commission"
-      },
-      {
         "committee": "Members Estimate Committee",
         "committee_id": 107,
         "file": "committees/members-estimate.json",
@@ -136,38 +120,6 @@
           }
         ],
         "slug": "members-estimate"
-      },
-      {
-        "committee": "Modernisation Committee",
-        "committee_id": 736,
-        "file": "committees/modernisation.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2025-10-15"
-          }
-        ],
-        "slug": "modernisation"
-      },
-      {
-        "committee": "Restoration and Renewal Client Board",
-        "committee_id": 616,
-        "file": "committees/restoration-and-renewal-client-board.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2026-01-07"
-          }
-        ],
-        "slug": "restoration-and-renewal-client-board"
       },
       {
         "committee": "Treasury Committee",
@@ -186,7 +138,56 @@
         "slug": "treasury"
       }
     ],
-    "history": []
+    "history": [
+      {
+        "committee": "House of Commons Commission",
+        "committee_id": 348,
+        "file": "committees/house-of-commons-commission.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "house-of-commons-commission"
+      },
+      {
+        "committee": "Modernisation Committee",
+        "committee_id": 736,
+        "file": "committees/modernisation.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-10-15"
+          }
+        ],
+        "slug": "modernisation"
+      },
+      {
+        "committee": "Restoration and Renewal Client Board",
+        "committee_id": 616,
+        "file": "committees/restoration-and-renewal-client-board.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-01-07"
+          }
+        ],
+        "slug": "restoration-and-renewal-client-board"
+      }
+    ]
   },
   "constituency": {
     "file": "constituencies/carshalton-and-wallington.json",

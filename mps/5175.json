@@ -32,8 +32,8 @@
     "written_questions": 64
   },
   "activity_summary": {
-    "committee_attendance_pct": 96.43,
-    "committee_memberships": 4,
+    "committee_attendance_pct": 96.49,
+    "committee_memberships": 5,
     "debate_contributions": 170,
     "voting_participation_pct": 82.06,
     "written_questions": 64
@@ -65,6 +65,14 @@
     },
     {
       "attendance_pct": 100.0,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": true,
+      "meetings_attended": 2,
+      "meetings_available": 2
+    },
+    {
+      "attendance_pct": 100.0,
       "committee": "Modernisation Committee",
       "committee_id": 736,
       "is_current": true,
@@ -78,14 +86,6 @@
       "is_current": false,
       "meetings_attended": 0,
       "meetings_available": 0
-    },
-    {
-      "attendance_pct": 100.0,
-      "committee": "Justice Committee",
-      "committee_id": 102,
-      "is_current": false,
-      "meetings_attended": 1,
-      "meetings_available": 1
     },
     {
       "attendance_pct": null,
@@ -153,6 +153,28 @@
         "slug": "draft-conversion-practices-bill-joint-committee"
       },
       {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": "2025-03-17",
+            "is_chair": false,
+            "role": "Member",
+            "start": "2024-10-21"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-23"
+          }
+        ],
+        "slug": "justice"
+      },
+      {
         "committee": "Modernisation Committee",
         "committee_id": 736,
         "file": "committees/modernisation.json",
@@ -185,22 +207,6 @@
           }
         ],
         "slug": "crime-and-policing-bill"
-      },
-      {
-        "committee": "Justice Committee",
-        "committee_id": 102,
-        "file": "committees/justice.json",
-        "is_chair": false,
-        "is_current": false,
-        "roles": [
-          {
-            "end": "2025-03-17",
-            "is_chair": false,
-            "role": "Member",
-            "start": "2024-10-21"
-          }
-        ],
-        "slug": "justice"
       },
       {
         "committee": "Tobacco and Vapes Bill",

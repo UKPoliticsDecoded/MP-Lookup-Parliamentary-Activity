@@ -33,15 +33,41 @@
     "written_questions": 285
   },
   "activity_summary": {
-    "committee_attendance_pct": null,
-    "committee_memberships": 0,
+    "committee_attendance_pct": 100.0,
+    "committee_memberships": 1,
     "debate_contributions": 350,
     "voting_participation_pct": 70.09,
     "written_questions": 285
   },
-  "committee_attendance": [],
+  "committee_attendance": [
+    {
+      "attendance_pct": 100.0,
+      "committee": "Digital, Culture, Media and Sport Committee",
+      "committee_id": 378,
+      "is_current": true,
+      "meetings_attended": 1,
+      "meetings_available": 1
+    }
+  ],
   "committees": {
-    "current": [],
+    "current": [
+      {
+        "committee": "Digital, Culture, Media and Sport Committee",
+        "committee_id": 378,
+        "file": "committees/digital-culture-media-and-sport.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-23"
+          }
+        ],
+        "slug": "digital-culture-media-and-sport"
+      }
+    ],
     "history": []
   },
   "constituency": {

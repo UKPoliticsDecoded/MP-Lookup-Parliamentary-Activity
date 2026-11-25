@@ -28,8 +28,8 @@
     "written_questions": 112
   },
   "activity_summary": {
-    "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_attendance_pct": 90.91,
+    "committee_memberships": 1,
     "debate_contributions": 100,
     "voting_participation_pct": 54.14,
     "written_questions": 112
@@ -42,14 +42,6 @@
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
-    },
-    {
-      "attendance_pct": 100.0,
-      "committee": "Justice Committee",
-      "committee_id": 102,
-      "is_current": true,
-      "meetings_attended": 6,
-      "meetings_available": 6
     },
     {
       "attendance_pct": null,
@@ -82,6 +74,14 @@
       "is_current": false,
       "meetings_attended": 4,
       "meetings_available": 4
+    },
+    {
+      "attendance_pct": 85.71,
+      "committee": "Justice Committee",
+      "committee_id": 102,
+      "is_current": false,
+      "meetings_attended": 6,
+      "meetings_available": 7
     },
     {
       "attendance_pct": null,
@@ -117,22 +117,6 @@
           }
         ],
         "slug": "home-affairs"
-      },
-      {
-        "committee": "Justice Committee",
-        "committee_id": 102,
-        "file": "committees/justice.json",
-        "is_chair": false,
-        "is_current": true,
-        "roles": [
-          {
-            "end": null,
-            "is_chair": false,
-            "role": "Member",
-            "start": "2025-03-17"
-          }
-        ],
-        "slug": "justice"
       }
     ],
     "history": [
@@ -199,6 +183,22 @@
           }
         ],
         "slug": "finance-committee-commons"
+      },
+      {
+        "committee": "Justice Committee",
+        "committee_id": 102,
+        "file": "committees/justice.json",
+        "is_chair": false,
+        "is_current": false,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2025-03-17"
+          }
+        ],
+        "slug": "justice"
       },
       {
         "committee": "Terrorism (Protection of Premises) Bill",
