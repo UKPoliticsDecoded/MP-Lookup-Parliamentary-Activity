@@ -59,7 +59,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 3,
+    "committee_memberships": 4,
     "debate_contributions": 1473,
     "voting_participation_pct": 75.65,
     "written_questions": 3116
@@ -72,6 +72,14 @@
       "is_current": true,
       "meetings_attended": 2,
       "meetings_available": 2
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": 100.0,
@@ -131,6 +139,22 @@
           }
         ],
         "slug": "liaison-committee-commons"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       },
       {
         "committee": "National Security Strategy (Joint Committee)",

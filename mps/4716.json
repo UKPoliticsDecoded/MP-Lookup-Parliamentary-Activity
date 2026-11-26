@@ -65,7 +65,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 5,
+    "committee_memberships": 6,
     "debate_contributions": 732,
     "voting_participation_pct": 78.33,
     "written_questions": 2745
@@ -104,12 +104,20 @@
       "meetings_available": 0
     },
     {
+      "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
       "attendance_pct": 100.0,
       "committee": "Welsh Affairs Committee",
       "committee_id": 162,
       "is_current": true,
-      "meetings_attended": 154,
-      "meetings_available": 154
+      "meetings_attended": 155,
+      "meetings_available": 155
     },
     {
       "attendance_pct": null,
@@ -273,6 +281,22 @@
           }
         ],
         "slug": "liaison-sub-committee-on-national-policy-statements"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       },
       {
         "committee": "Welsh Affairs Committee",

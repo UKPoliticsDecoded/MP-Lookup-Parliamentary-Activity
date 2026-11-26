@@ -62,7 +62,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 99.77,
-    "committee_memberships": 4,
+    "committee_memberships": 5,
     "debate_contributions": 1023,
     "voting_participation_pct": 51.83,
     "written_questions": 961
@@ -86,6 +86,14 @@
     },
     {
       "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
       "committee": "Panel of Chairs",
       "committee_id": 11,
       "is_current": true,
@@ -97,8 +105,8 @@
       "committee": "Procedure Committee",
       "committee_id": 126,
       "is_current": true,
-      "meetings_attended": 163,
-      "meetings_available": 163
+      "meetings_attended": 164,
+      "meetings_available": 164
     },
     {
       "attendance_pct": 100.0,
@@ -150,6 +158,22 @@
           }
         ],
         "slug": "modernisation"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       },
       {
         "committee": "Panel of Chairs",

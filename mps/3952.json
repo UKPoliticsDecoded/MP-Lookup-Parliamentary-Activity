@@ -56,7 +56,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 3,
+    "committee_memberships": 4,
     "debate_contributions": 943,
     "voting_participation_pct": 73.27,
     "written_questions": 660
@@ -82,6 +82,14 @@
       "attendance_pct": null,
       "committee": "Liaison Sub-Committee on Core Tasks of Select Committees",
       "committee_id": 841,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
@@ -174,6 +182,28 @@
           }
         ],
         "slug": "liaison-sub-committee-on-core-tasks-of-select-committees"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": true,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": true,
+            "role": "Chair",
+            "start": "2026-11-11"
+          },
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       }
     ],
     "history": [

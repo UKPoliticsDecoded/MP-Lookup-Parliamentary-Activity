@@ -30,7 +30,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 2,
     "debate_contributions": 92,
     "voting_participation_pct": 77.95,
     "written_questions": 138
@@ -43,6 +43,14 @@
       "is_current": true,
       "meetings_attended": 67,
       "meetings_available": 67
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -70,6 +78,22 @@
           }
         ],
         "slug": "environmental-audit"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       }
     ],
     "history": [

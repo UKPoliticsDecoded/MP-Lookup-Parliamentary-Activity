@@ -30,7 +30,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 3,
     "debate_contributions": 102,
     "voting_participation_pct": 65.24,
     "written_questions": 92
@@ -51,6 +51,14 @@
       "is_current": true,
       "meetings_attended": 3,
       "meetings_available": 3
+    },
+    {
+      "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -102,6 +110,22 @@
           }
         ],
         "slug": "business-innovation-science-and-trade-sub-committee-on-economic-security-arms-and-export-controls"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       }
     ],
     "history": [

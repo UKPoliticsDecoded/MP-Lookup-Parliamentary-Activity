@@ -31,7 +31,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 3,
+    "committee_memberships": 4,
     "debate_contributions": 138,
     "voting_participation_pct": 78.25,
     "written_questions": 47
@@ -46,12 +46,20 @@
       "meetings_available": 33
     },
     {
+      "attendance_pct": null,
+      "committee": "National Policy Statement for Data Centres Committee",
+      "committee_id": 862,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
       "attendance_pct": 100.0,
       "committee": "Statutory Instruments (Joint Committee)",
       "committee_id": 148,
       "is_current": true,
-      "meetings_attended": 43,
-      "meetings_available": 43
+      "meetings_attended": 44,
+      "meetings_available": 44
     },
     {
       "attendance_pct": 100.0,
@@ -109,6 +117,22 @@
           }
         ],
         "slug": "environment-food-and-rural-affairs"
+      },
+      {
+        "committee": "National Policy Statement for Data Centres Committee",
+        "committee_id": 862,
+        "file": "committees/national-policy-statement-for-data-centres.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-11"
+          }
+        ],
+        "slug": "national-policy-statement-for-data-centres"
       },
       {
         "committee": "Statutory Instruments (Joint Committee)",
