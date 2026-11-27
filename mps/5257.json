@@ -32,7 +32,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 6,
+    "committee_memberships": 7,
     "debate_contributions": 276,
     "voting_participation_pct": 83.46,
     "written_questions": 140
@@ -67,8 +67,8 @@
       "committee": "Public Accounts Committee",
       "committee_id": 127,
       "is_current": true,
-      "meetings_attended": 2,
-      "meetings_available": 2
+      "meetings_attended": 3,
+      "meetings_available": 3
     },
     {
       "attendance_pct": 100.0,
@@ -82,6 +82,14 @@
       "attendance_pct": null,
       "committee": "Social Housing Bill [Lords]",
       "committee_id": 849,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
       "is_current": true,
       "meetings_attended": 0,
       "meetings_available": 0
@@ -244,6 +252,22 @@
           }
         ],
         "slug": "social-housing-bill-lords"
+      },
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
       }
     ],
     "history": [

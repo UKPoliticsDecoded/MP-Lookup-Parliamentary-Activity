@@ -34,7 +34,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 94.59,
-    "committee_memberships": 3,
+    "committee_memberships": 4,
     "debate_contributions": 213,
     "voting_participation_pct": 84.38,
     "written_questions": 440
@@ -63,6 +63,14 @@
       "is_current": true,
       "meetings_attended": 15,
       "meetings_available": 15
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -122,6 +130,22 @@
           }
         ],
         "slug": "select-committee-on-the-armed-forces-bill"
+      },
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
       }
     ],
     "history": [

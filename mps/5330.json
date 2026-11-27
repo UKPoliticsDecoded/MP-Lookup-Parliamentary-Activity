@@ -33,12 +33,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 2,
     "debate_contributions": 225,
     "voting_participation_pct": 72.89,
     "written_questions": 639
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": 100.0,
       "committee": "Work and Pensions Committee",
@@ -66,6 +74,22 @@
   ],
   "committees": {
     "current": [
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
+      },
       {
         "committee": "Work and Pensions Committee",
         "committee_id": 164,

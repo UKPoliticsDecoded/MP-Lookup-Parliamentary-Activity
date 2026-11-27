@@ -59,7 +59,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 1,
+    "committee_memberships": 2,
     "debate_contributions": 391,
     "voting_participation_pct": 77.05,
     "written_questions": 1633
@@ -72,6 +72,14 @@
       "is_current": true,
       "meetings_attended": 8,
       "meetings_available": 8
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -203,6 +211,22 @@
           }
         ],
         "slug": "speaker-s-committee-for-the-independent-parliamentary-standards-authority"
+      },
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
       }
     ],
     "history": [

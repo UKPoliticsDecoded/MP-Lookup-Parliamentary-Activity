@@ -33,7 +33,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 2,
+    "committee_memberships": 3,
     "debate_contributions": 432,
     "voting_participation_pct": 81.16,
     "written_questions": 346
@@ -54,6 +54,14 @@
       "is_current": true,
       "meetings_attended": 68,
       "meetings_available": 68
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -97,6 +105,22 @@
           }
         ],
         "slug": "energy-security-and-net-zero"
+      },
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
       }
     ],
     "history": [

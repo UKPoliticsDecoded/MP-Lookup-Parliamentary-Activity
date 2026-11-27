@@ -30,7 +30,7 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 3,
+    "committee_memberships": 4,
     "debate_contributions": 265,
     "voting_participation_pct": 75.96,
     "written_questions": 144
@@ -59,6 +59,14 @@
       "is_current": true,
       "meetings_attended": 50,
       "meetings_available": 50
+    },
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
     },
     {
       "attendance_pct": null,
@@ -118,6 +126,22 @@
           }
         ],
         "slug": "international-development"
+      },
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
       }
     ],
     "history": [

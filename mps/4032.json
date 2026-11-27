@@ -44,12 +44,20 @@
   },
   "activity_summary": {
     "committee_attendance_pct": 100.0,
-    "committee_memberships": 0,
+    "committee_memberships": 1,
     "debate_contributions": 850,
     "voting_participation_pct": 83.38,
     "written_questions": 380
   },
   "committee_attendance": [
+    {
+      "attendance_pct": null,
+      "committee": "Visitor Levy (England) Bill",
+      "committee_id": 860,
+      "is_current": true,
+      "meetings_attended": 0,
+      "meetings_available": 0
+    },
     {
       "attendance_pct": 100.0,
       "committee": "Committee of Selection",
@@ -76,7 +84,24 @@
     }
   ],
   "committees": {
-    "current": [],
+    "current": [
+      {
+        "committee": "Visitor Levy (England) Bill",
+        "committee_id": 860,
+        "file": "committees/visitor-levy-england-bill.json",
+        "is_chair": false,
+        "is_current": true,
+        "roles": [
+          {
+            "end": null,
+            "is_chair": false,
+            "role": "Member",
+            "start": "2026-11-26"
+          }
+        ],
+        "slug": "visitor-levy-england-bill"
+      }
+    ],
     "history": [
       {
         "committee": "Committee of Selection",
